@@ -50,7 +50,7 @@ jobs:
           zip -r -q dados-abertos.zip api llms.txt relatorios-odt -x '*.DS_Store' || true
           cd ..
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: "22"
           cache: npm
