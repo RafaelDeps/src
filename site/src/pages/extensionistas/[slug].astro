@@ -31,8 +31,11 @@ const eqImp = (acaoId: string) => impByAcao.get(acaoId) ?? 0;
 const yrs = [...new Set([...ext.coordenadas, ...ext.participacoes].map((r) => r.ano).filter(Boolean))].sort();
 const acoesY = yrs.map(() => 0), partsY = yrs.map(() => 0), impY = yrs.map(() => 0);
 const yi = (a: string) => yrs.indexOf(a);
-for (const r of ext.coordenadas) { const i = yi(r.ano); if (i < 0) continue; acoesY[i]++; partsY[i] += r.n ?? 0; impY[i] += r.pub ?? 0; }
-for (const r of ext.participacoes) { const i = yi(r.ano); if (i < 0) continue; acoesY[i]++; partsY[i] += r.n ?? 0; if (!coordIds.has(r.acao_id)) impY[i] += eqImp(r.acao_id); }
+// participações = 1 por ação (coordenada ou em equipe) — mesma conta do tile e das
+// tabelas. NÃO usar r.n aqui: r.n é o total de participantes da AÇÃO inteira
+// (público + equipe), não a participação da pessoa (senão 1 ação vira centenas).
+for (const r of ext.coordenadas) { const i = yi(r.ano); if (i < 0) continue; acoesY[i]++; partsY[i] += 1; impY[i] += r.pub ?? 0; }
+for (const r of ext.participacoes) { const i = yi(r.ano); if (i < 0) continue; acoesY[i]++; partsY[i] += 1; if (!coordIds.has(r.acao_id)) impY[i] += eqImp(r.acao_id); }
 const series = [
   { label: 'Ações', color: 'var(--c1)', values: acoesY },
   { label: 'Participações', color: 'var(--c2)', values: partsY },
