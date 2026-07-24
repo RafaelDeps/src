@@ -2,15 +2,16 @@
 // Layout único — substitui montar_shell + HORIZON_CSS do Python.
 // Fontes SELF-HOST (mata o Google Fonts CDN). Só subset LATIN (pt-br) —
 // evita empacotar cyrillic/greek/etc. no dist.
-import '@fontsource/fira-sans/latin-300.css';
-import '@fontsource/fira-sans/latin-400.css';
-import '@fontsource/fira-sans/latin-500.css';
-import '@fontsource/fira-sans/latin-600.css';
-import '@fontsource/fira-sans/latin-700.css';
-import '@fontsource/fira-code/latin-400.css';
-import '@fontsource/fira-code/latin-600.css';
+// Identidade ifesserra-lab: Ubuntu 400/500/700 (nunca 600) + Ubuntu Mono p/ números.
+import '@fontsource/ubuntu/latin-300.css';
+import '@fontsource/ubuntu/latin-400.css';
+import '@fontsource/ubuntu/latin-500.css';
+import '@fontsource/ubuntu/latin-700.css';
+import '@fontsource/ubuntu-mono/latin-400.css';
+import '@fontsource/ubuntu-mono/latin-700.css';
 import '../styles/global.css';
 import { ClientRouter } from 'astro:transitions';
+import BrandStripe from '../components/BrandStripe.astro';
 import { withBase } from '../lib/url';
 
 interface Props {
@@ -53,7 +54,9 @@ const icons: Record<string, string> = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title} — SRC/Ifes Campus Serra</title>
     <meta name="description" content={description} />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='4' fill='%233b82f6'/%3E%3C/svg%3E" />
+    <meta name="theme-color" content="#009640" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0e1512" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='4' fill='%23009640'/%3E%3C/svg%3E" />
     <script is:inline>
       // aplica tema salvo antes do paint (sem flash)
       try {
@@ -64,9 +67,10 @@ const icons: Record<string, string> = {
     <ClientRouter />
   </head>
   <body>
+    <BrandStripe />
     <header class="topbar">
       <div class="topbar-in">
-        <a class="brand" href={withBase('/')}><span class="dot"></span>SRC · Campus Serra <small>Extensão &amp; Ensino</small></a>
+        <a class="brand" href={withBase('/')}><span class="mark" aria-hidden="true">SRC</span><span class="bt"><span class="bn">Extensão &amp; Ensino</span><span class="bs">Ifes · Campus Serra</span></span></a>
         <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true" />
         <label for="nav-toggle" class="nav-burger" aria-label="Abrir menu">
           <svg class="ic-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
@@ -92,8 +96,12 @@ const icons: Record<string, string> = {
     </main>
 
     <footer class="foot">
-      <div>SRC/Ifes — Campus Serra · sem dados pessoais de alunos (público-alvo só contagens)</div>
-      <div><a href={withBase('/api/')}>API JSON</a> · <a href={withBase('/llms.txt')}>llms.txt</a> · <a href={withBase('/dados-abertos.html')}>Dados abertos</a> · <a href="https://github.com/ifesserra-lab/src">GitHub</a></div>
+      <div class="foot-id">
+        <div class="foot-t">SRC · Ifes Campus Serra</div>
+        <p class="foot-m">Registros públicos de extensão e ensino — crédito de execução de equipe.<br />Sem CPF, e-mail ou dados de alunos atendidos (público-alvo só em contagens).</p>
+        <p class="foot-m"><a href={withBase('/api/')}>API JSON</a> · <a href={withBase('/llms.txt')}>llms.txt</a> · <a href={withBase('/dados-abertos.html')}>Dados abertos</a> · <a href="https://github.com/ifesserra-lab/src">GitHub</a></p>
+      </div>
+      <div class="foot-m foot-meta">Fonte única, versionada e auditável no Git<br />Atualização automática via GitHub Actions<br />pt-BR · tema claro/escuro · WCAG AA</div>
     </footer>
 
     <script>

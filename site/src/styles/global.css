@@ -2,40 +2,49 @@
    Design system SRC/Ifes — arquivo ÚNICO (substitui os ~18MB
    de CSS inline duplicado). MOBILE-FIRST: base = viewport móvel,
    @media (min-width) escala pra cima.
-   Identidade preservada: Fira Sans/Code · #3B82F6 · slate · light+dark.
+   Identidade ifesserra-lab: Ubuntu/Ubuntu Mono · verde Ifes #009640
+   (texto #006B3F, AA) · Rede Federal (amarelo/vermelho/azul) · light+dark.
    ============================================================ */
 :root {
   color-scheme: light;
-  --plane:#f6f8fb; --surface:#fff; --sunk:#f1f5f9; --parchment:#eef2f7;
-  --text:#1e293b; --text-2:#475569; --muted:#64748b;
-  --grid:#e2e8f0; --border:#cbd5e1;
-  --c1:#3b82f6; --c2:#0d9488; --c3:#d97706; --c4:#7c3aed; --c5:#0891b2; --c6:#db2777;
-  --focus:#2563eb; --cta:#f97316; --row-hover:#eff6ff;
-  --good:#16a34a; --warn:#d97706; --crit:#dc2626;
-  --shadow:0 1px 2px rgba(15,23,42,.04),0 4px 12px rgba(15,23,42,.05);
+  /* marca institucional (fixa) — usada na faixa Rede Federal e no logo */
+  --brand-green:#009640; --brand-green-dark:#006b3f;
+  --brand-yellow:#fdb913; --brand-red:#e30613; --brand-blue:#0072bc;
+  --plane:#f5f7f5; --surface:#fff; --sunk:#eef2ef; --parchment:#e8efe9;
+  --text:#1a2b22; --text-2:#4a5a52; --muted:#6b7d72;
+  --grid:#e1e7e2; --border:#c8d1c9;
+  /* rampa categórica: verde-escuro → verde → gold → azul → verde-médio → tijolo */
+  --c1:#006b3f; --c2:#009640; --c3:#b8791f; --c4:#0072bc; --c5:#4ca36b; --c6:#b23a2e;
+  --focus:#006b3f; --cta:#b8791f; --row-hover:#eef5f0;
+  --good:#0e8a4f; --warn:#b8791f; --crit:#c0392b;
+  --shadow:0 1px 2px rgba(20,32,26,.04),0 4px 12px rgba(20,32,26,.05);
   --radius:12px; --radius-sm:8px;
-  --sans:"Fira Sans",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-  --mono:"Fira Code",ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
+  --sans:"Ubuntu","Segoe UI",system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+  --mono:"Ubuntu Mono",ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
   --wrap:1360px;
 }
 @media (prefers-color-scheme: dark) { :root:where(:not([data-theme=light])) {
   color-scheme: dark;
-  --plane:#0b1220; --surface:#141d2e; --sunk:#111a2b; --parchment:#1c2740;
-  --text:#f1f5f9; --text-2:#cbd5e1; --muted:#94a3b8;
-  --grid:#28344a; --border:#3a4a66;
-  --c1:#60a5fa; --c2:#2dd4bf; --c3:#fbbf24; --c4:#a78bfa; --c5:#22d3ee; --c6:#f472b6;
-  --focus:#93c5fd; --cta:#fb923c; --row-hover:#17233b;
-  --good:#4ade80; --warn:#fbbf24; --crit:#f87171;
+  --brand-green:#12b24a; --brand-green-dark:#0b8a3c;
+  --brand-yellow:#fdd155; --brand-red:#f0736b; --brand-blue:#4aa3e0;
+  --plane:#0e1512; --surface:#16201b; --sunk:#121a15; --parchment:#1b2620;
+  --text:#eaf1ec; --text-2:#c3d0c8; --muted:#8ea296;
+  --grid:#26332c; --border:#37463d;
+  --c1:#3ddc84; --c2:#12b24a; --c3:#e0a83c; --c4:#4aa3e0; --c5:#7fce9f; --c6:#e08a80;
+  --focus:#3ddc84; --cta:#e0a83c; --row-hover:#16241c;
+  --good:#4ade80; --warn:#e0a83c; --crit:#f0736b;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.35);
 } }
 :root[data-theme=dark] {
   color-scheme: dark;
-  --plane:#0b1220; --surface:#141d2e; --sunk:#111a2b; --parchment:#1c2740;
-  --text:#f1f5f9; --text-2:#cbd5e1; --muted:#94a3b8;
-  --grid:#28344a; --border:#3a4a66;
-  --c1:#60a5fa; --c2:#2dd4bf; --c3:#fbbf24; --c4:#a78bfa; --c5:#22d3ee; --c6:#f472b6;
-  --focus:#93c5fd; --cta:#fb923c; --row-hover:#17233b;
-  --good:#4ade80; --warn:#fbbf24; --crit:#f87171;
+  --brand-green:#12b24a; --brand-green-dark:#0b8a3c;
+  --brand-yellow:#fdd155; --brand-red:#f0736b; --brand-blue:#4aa3e0;
+  --plane:#0e1512; --surface:#16201b; --sunk:#121a15; --parchment:#1b2620;
+  --text:#eaf1ec; --text-2:#c3d0c8; --muted:#8ea296;
+  --grid:#26332c; --border:#37463d;
+  --c1:#3ddc84; --c2:#12b24a; --c3:#e0a83c; --c4:#4aa3e0; --c5:#7fce9f; --c6:#e08a80;
+  --focus:#3ddc84; --cta:#e0a83c; --row-hover:#16241c;
+  --good:#4ade80; --warn:#e0a83c; --crit:#f0736b;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.35);
 }
 
@@ -62,11 +71,15 @@ img, svg { max-width: 100%; }
   backdrop-filter: blur(10px); border-bottom: 1px solid var(--grid); }
 .topbar-in { max-width: var(--wrap); margin: 0 auto; padding: 0 16px;
   min-height: 56px; display: flex; align-items: center; gap: 12px; }
-.brand { font-weight: 700; font-size: 15px; text-decoration: none;
-  display: flex; align-items: center; gap: 9px; white-space: nowrap; margin-right: auto; }
-.brand .dot { width: 11px; height: 11px; border-radius: 4px; background: var(--c1);
-  box-shadow: 0 0 0 3px color-mix(in srgb, var(--c1) 22%, transparent); }
-.brand small { color: var(--muted); font-weight: 400; font-size: 12px; }
+.brand { text-decoration: none; display: flex; align-items: center; gap: 10px;
+  white-space: nowrap; margin-right: auto; }
+.brand .mark { flex: none; display: grid; place-items: center; width: 30px; height: 30px;
+  border-radius: 8px; background: var(--brand-green); color: #fff;
+  font-weight: 700; font-size: 11px; letter-spacing: .01em;
+  box-shadow: 0 1px 2px color-mix(in srgb, var(--brand-green-dark) 40%, transparent); }
+.brand .bt { display: flex; flex-direction: column; line-height: 1.1; }
+.brand .bn { font-weight: 700; font-size: 14.5px; color: var(--text); }
+.brand .bs { font-weight: 400; font-size: 11.5px; color: var(--muted); }
 
 .nav-toggle { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
 .nav-burger { flex: none; width: 44px; height: 44px; display: grid; place-items: center;
@@ -166,9 +179,15 @@ td a:hover { text-decoration: underline; }
 .pill.crit { background: color-mix(in srgb, var(--crit) 15%, transparent); color: var(--crit); }
 .pill.info { background: color-mix(in srgb, var(--c1) 14%, transparent); color: var(--c1); }
 
-.foot { max-width: var(--wrap); margin: 0 auto; padding: 22px 16px; color: var(--muted); font-size: 12.5px;
-  border-top: 1px solid var(--grid); display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; }
-.foot a { color: var(--c1); text-decoration: none; }
+.foot { max-width: var(--wrap); margin: 0 auto; padding: 28px 16px 40px; color: var(--muted); font-size: 12.5px;
+  border-top: 1px solid var(--grid); display: flex; flex-wrap: wrap; gap: 18px 32px; justify-content: space-between; align-items: flex-start; }
+@media (min-width: 640px) { .foot { padding: 32px 22px 48px; } }
+.foot-t { font-weight: 700; font-size: 13.5px; color: var(--text-2); }
+.foot-m { margin: 6px 0 0; line-height: 1.6; }
+.foot-meta { font-family: var(--mono); font-size: 11.5px; text-align: left; }
+@media (min-width: 640px) { .foot-meta { text-align: right; } }
+.foot a { color: var(--c1); text-decoration: none; font-weight: 500; }
+.foot a:hover { text-decoration: underline; }
 
 /* ============================================================
    Aliases + classes portadas do site atual (docs/) — para reusar
