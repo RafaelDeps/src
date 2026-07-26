@@ -196,7 +196,7 @@ Os links abaixo são relativos a esta pasta (onde está o llms.txt). Endpoints c
 
 ## Conjuntos de dados
 
-- [Inventário da API](api/index.json): índice de endpoints e totais.
+- [Inventário da API](api/index.json): índice de endpoints e totais — ações, atividades, extensionistas, alunos únicos e participações. Basta este arquivo para exibir os números gerais.
 - [Painel agregado](api/painel.json): visão geral, indicadores, rede de programas, formados e impacto (agregados).
 - [Investimento](api/investimento.json): iniciativas por nicho × impacto (público) × status (ativa/dormente), com onde investir, o que reativar e nota sobre impacto não-contável (ex.: ConectaFapes).
 - [Ações — lista](api/acoes/index.json): as {ac} ações resumidas (id, processo, título, tipo, natureza, coordenador, ano, total de participações).
@@ -388,7 +388,12 @@ def exportar_api(
                       "api/extensionistas/index.json", "api/extensionistas/todos.json",
                       "api/extensionistas/<slug>.json",
                       "api/sem-participacao.json", "api/pendencias-relatorio.json"],
-        **stats})
+        **stats,
+        # totais de alcance no próprio índice: quem só quer exibir os números
+        # gerais (a home da organização, por exemplo) não precisa baixar o
+        # painel.json inteiro (~49 KB) por causa de dois inteiros.
+        "alunos_unicos": a_ind.get("alunos_unicos"),
+        "total_publico": a_ind.get("total_publico")})
     return stats
 
 
