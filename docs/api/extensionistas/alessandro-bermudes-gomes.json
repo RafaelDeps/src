@@ -1,18 +1,16 @@
 {
   "slug": "alessandro-bermudes-gomes",
   "nome": "Alessandro Bermudes Gomes",
-  "resumo_ia": "Coordenou o curso 'PRÉ – IFES Campus Serra' em 2017 e o programa 'Ifes para todos' em 2018. Participou como coordenador adjunto em ações como 'O IFES é o meu lugar' (2018 e 2019) e 'Ifes Portas Abertas' (2018), além de colaborar no 'Curso de Pré-Incubação para Empreendedores' em 2017. Também organizou o 'SOF – Serviço de Orientação Financeira' em 2026.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2018",
-    "2019",
-    "2026"
+    "2019"
   ],
   "funcoes": [
     "COLABORADOR(A)",
     "COORDENADOR(A)",
-    "COORDENADOR(A) ADJUNTO(A)",
-    "ORGANIZADOR(A)"
+    "COORDENADOR(A) ADJUNTO(A)"
   ],
   "acoes_coordenadas": [
     {
@@ -98,17 +96,6 @@
       "funcoes": [
         "COORDENADOR(A) ADJUNTO(A)"
       ]
-    },
-    {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "tipo": "Projeto",
-      "ano": "2026",
-      "n": 316,
-      "pub": 227,
-      "funcoes": [
-        "ORGANIZADOR(A)"
-      ]
     }
   ],
   "atividades": [
@@ -149,6 +136,20 @@
     },
     {
       "ano": "2018",
+      "atividade_id": "14469",
+      "acao_id": "2107",
+      "atividade": "Visita CEEFMTI Joaquim Beato",
+      "pub": 36
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14467",
+      "acao_id": "2107",
+      "atividade": "Visita EMEF Jonas Farias 1",
+      "pub": 9
+    },
+    {
+      "ano": "2018",
       "atividade_id": "14468",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 2",
@@ -163,24 +164,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14469",
-      "acao_id": "2107",
-      "atividade": "Visita CEEFMTI Joaquim Beato",
-      "pub": 36
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14466",
       "acao_id": "2107",
       "atividade": "Visita EEEF Francisco Alves Mendes",
       "pub": 65
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "14467",
-      "acao_id": "2107",
-      "atividade": "Visita EMEF Jonas Farias 1",
-      "pub": 9
     },
     {
       "ano": "2019",
@@ -195,26 +182,19 @@
       "acao_id": "2591",
       "atividade": "O IFES é o meu lugar",
       "pub": 40
-    },
-    {
-      "ano": "2026",
-      "atividade_id": "22067",
-      "acao_id": "5852",
-      "atividade": "Palestra promovida pelo LIEFIS: \"Finanças Pessoais: Eu, Meu Dinheiro e Minhas Decisões.",
-      "pub": 79
     }
   ],
   "imp_coord": 50,
-  "imp_eq": 443,
-  "impacto": 493,
+  "imp_eq": 364,
+  "impacto": 414,
   "temas": [
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 3
-    },
     {
       "tema": "Captação e ingresso",
       "n": 3
+    },
+    {
+      "tema": "Mulheres e inclusão",
+      "n": 2
     },
     {
       "tema": "Cultura e arte",
@@ -250,26 +230,6 @@
       "nome": "Murilo Andrade Carvalho",
       "slug": "murilo-andrade-carvalho",
       "acoes_comuns": 3
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Jefferson Ribeiro de Lima",
-      "slug": "jefferson-ribeiro-de-lima",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 2
     },
     {
       "nome": "Paulo Cezar Camargo Guedes",
@@ -332,6 +292,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Marcos Simão Guimarães",
       "slug": "marcos-simao-guimaraes",
       "acoes_comuns": 1
@@ -367,6 +332,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Ronaldo Aparecida Marques",
+      "slug": "ronaldo-aparecida-marques",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Rodolpho da Cruz Rangel",
       "slug": "rodolpho-da-cruz-rangel",
       "acoes_comuns": 1
@@ -397,6 +367,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jefferson Ribeiro de Lima",
+      "slug": "jefferson-ribeiro-de-lima",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Leonardo Azevedo Scardua",
       "slug": "leonardo-azevedo-scardua",
       "acoes_comuns": 1
@@ -414,6 +389,11 @@
     {
       "nome": "Dirceu Soares Júnior",
       "slug": "dirceu-soares-junior",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Edilson Luiz do Nascimento",
+      "slug": "edilson-luiz-do-nascimento",
       "acoes_comuns": 1
     },
     {
@@ -514,106 +494,6 @@
     {
       "nome": "Nathielly Bertollo Marques",
       "slug": "nathielly-bertollo-marques",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eglalciane de Lyrio Tongo",
-      "slug": "eglalciane-de-lyrio-tongo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Juliano Antônio da Silveira",
-      "slug": "juliano-antonio-da-silveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irlane Schmidt da Silva Alves",
-      "slug": "irlane-schmidt-da-silva-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irene Schmidt da Silva Alves",
-      "slug": "irene-schmidt-da-silva-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mafe Mattos",
-      "slug": "mafe-mattos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luma Tavares Lopes de Souza",
-      "slug": "luma-tavares-lopes-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thalison Vinícius Euzebio Ribeiro",
-      "slug": "thalison-vinicius-euzebio-ribeiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alex Rossoni Junior",
-      "slug": "alex-rossoni-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Almeida Deps Caldeira",
-      "slug": "thiago-almeida-deps-caldeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Guilherme de Souza Zottich",
-      "slug": "luiz-guilherme-de-souza-zottich",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Pedro Pagotto da Costa",
-      "slug": "joao-pedro-pagotto-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Laube Schwartz",
-      "slug": "gustavo-laube-schwartz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nicole Ribeiro Schayder da Silva",
-      "slug": "nicole-ribeiro-schayder-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
-      "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renata Baptista",
-      "slug": "renata-baptista",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Patricia Maria Bortolon",
-      "slug": "patricia-maria-bortolon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Carvalho Goularte",
-      "slug": "pedro-carvalho-goularte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Felipe Becalli Trindade",
-      "slug": "felipe-becalli-trindade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maycon Pequeno Silva",
-      "slug": "maycon-pequeno-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Borges Cabral",
-      "slug": "guilherme-borges-cabral",
       "acoes_comuns": 1
     }
   ]

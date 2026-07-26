@@ -1,7 +1,7 @@
 {
   "slug": "leandro-melo-de-sa",
   "nome": "Leandro Melo de Sá",
-  "resumo_ia": "Coordenou e orientou o projeto 'Física ao Alcance de Todos' como coordenador adjunto nos anos de 2018, 2020 e 2022, atuando em ações de extensão voltadas à divulgação da física.",
+  "resumo_ia": null,
   "anos": [
     "2018",
     "2020",
@@ -51,13 +51,6 @@
   "atividades": [
     {
       "ano": "2018",
-      "atividade_id": "6522",
-      "acao_id": "2021",
-      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
-      "pub": 30
-    },
-    {
-      "ano": "2018",
       "atividade_id": "6232",
       "acao_id": "2021",
       "atividade": "Física ao Alcance de Todos",
@@ -65,9 +58,16 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "9601",
+      "atividade_id": "6522",
       "acao_id": "2021",
-      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
+      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
+      "pub": 30
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "7750",
+      "acao_id": "2021",
+      "atividade": "Trabalho de Iniciação Científica",
       "pub": 0
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "7750",
+      "atividade_id": "9601",
       "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
+      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
       "pub": 0
     },
     {

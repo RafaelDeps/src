@@ -1,7 +1,7 @@
 {
   "slug": "estacio-righette-pereira",
   "nome": "Estácio Righette Pereira",
-  "resumo_ia": "Participou como aluno voluntário no Curso de Pré-Incubação de Empreendimentos – modalidade Residência em 2017 e atuou como expositor no projeto Física ao Alcance de Todos em 2018.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2018"
@@ -45,13 +45,6 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "6520",
-      "acao_id": "2021",
-      "atividade": "Exposição de experimentos em física - Mostra científica",
-      "pub": 9
-    },
-    {
-      "ano": "2018",
       "atividade_id": "9601",
       "acao_id": "2021",
       "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
@@ -63,6 +56,13 @@
       "acao_id": "2021",
       "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
       "pub": 0
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6520",
+      "acao_id": "2021",
+      "atividade": "Exposição de experimentos em física - Mostra científica",
+      "pub": 9
     }
   ],
   "imp_coord": 0,

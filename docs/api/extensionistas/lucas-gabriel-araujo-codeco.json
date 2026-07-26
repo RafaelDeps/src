@@ -1,7 +1,7 @@
 {
   "slug": "lucas-gabriel-araujo-codeco",
   "nome": "Lucas Gabriel Araújo Codeco",
-  "resumo_ia": "Participou como aluno(a) voluntário em 2022 no projeto Pink Pepper Qualifier, atuando na determinação da qualidade produtiva de frutos da Aroeira com uso de Inteligência Computacional.",
+  "resumo_ia": null,
   "anos": [
     "2022"
   ],
@@ -25,16 +25,16 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "19173",
+      "atividade_id": "13927",
       "acao_id": "4033",
-      "atividade": "Participação em mentorias do Sebrae",
+      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "pub": 0
     },
     {
       "ano": "2022",
-      "atividade_id": "13927",
+      "atividade_id": "19173",
       "acao_id": "4033",
-      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "atividade": "Participação em mentorias do Sebrae",
       "pub": 0
     },
     {

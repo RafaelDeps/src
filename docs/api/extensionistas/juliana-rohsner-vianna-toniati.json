@@ -1,7 +1,7 @@
 {
   "slug": "juliana-rohsner-vianna-toniati",
   "nome": "Juliana Rohsner Vianna Toniati",
-  "resumo_ia": "Colaborou na equipe Incluir & Multiplicar em 2019 e coordenou o projeto Informática Básica Para Agentes Multiplicadores no mesmo ano.",
+  "resumo_ia": null,
   "anos": [
     "2019"
   ],
@@ -45,16 +45,16 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10922",
+      "atividade_id": "9577",
       "acao_id": "2783",
-      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
+      "atividade": "Informática Básica Para Agentes Multiplicadores.",
       "pub": 16
     },
     {
       "ano": "2019",
-      "atividade_id": "9577",
+      "atividade_id": "10922",
       "acao_id": "2783",
-      "atividade": "Informática Básica Para Agentes Multiplicadores.",
+      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
       "pub": 16
     }
   ],

@@ -1,0 +1,18 @@
+{
+  "atividade_id": "4380",
+  "numero": "016",
+  "atividade": "Palestra: Robótica com Arduíno",
+  "acao_id": "1426",
+  "acao_titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+  "processo": "23158.001525/2017-21",
+  "coordenador_acao": "Gilmar Luiz Vassoler",
+  "publico_alvo": {
+    "total": 40,
+    "aprovados": 40,
+    "certificados": 40,
+    "situacao": {
+      "APROVADO": 40
+    }
+  },
+  "equipe_execucao": []
+}

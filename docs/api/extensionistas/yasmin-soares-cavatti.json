@@ -1,7 +1,7 @@
 {
   "slug": "yasmin-soares-cavatti",
   "nome": "Yasmin Soares Cavatti",
-  "resumo_ia": "Desenvolveu atividades como aluna em atividade curricular em 2023 no projeto 'Atividades físicas adaptadas e inclusão (AFAI)' e, em 2025, atuou como aluna bolsista e ministrante no 'LabMaker 4.0: capacitando professores para a cultura maker e tecnologias da Indústria 4.0'.",
+  "resumo_ia": null,
   "anos": [
     "2023",
     "2025"
@@ -47,17 +47,17 @@
     },
     {
       "ano": "2025",
-      "atividade_id": "20613",
-      "acao_id": "5641",
-      "atividade": "LabMaker 4.0: capacitando professores para a cultura maker e tecnologias da Indústria 4.0",
-      "pub": 0
-    },
-    {
-      "ano": "2025",
       "atividade_id": "20614",
       "acao_id": "5641",
       "atividade": "Minicurso \"Cultura Maker, Indústria 4.0 e Modelagem 3D\"",
       "pub": 16
+    },
+    {
+      "ano": "2025",
+      "atividade_id": "20613",
+      "acao_id": "5641",
+      "atividade": "LabMaker 4.0: capacitando professores para a cultura maker e tecnologias da Indústria 4.0",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

@@ -14,8 +14,54 @@
   "Data de cadastro": "04/07/2016",
   "Resumo": "O projeto ACORDE MUSICAL tem como premissas básicas encontros semanais onde haverá a troca de saberes e  músicas escolhidas pelo grupo que serão tocadas visando o aprendizado conjunto.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 5,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "1577",
+      "numero": "001",
+      "atividade": "Acorde Musical",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 5
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "André Spadetto Leão",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Aurélia Hubner Peixouto",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Juciéli Alves da Costa",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

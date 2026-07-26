@@ -1,7 +1,7 @@
 {
   "slug": "marcos-paulo-kohler-caldas",
   "nome": "Marcos Paulo Kohler Caldas",
-  "resumo_ia": "Atuou como professor e orientador em cursos de eletricista instalador predial de baixa tensão, coordenou o projeto Conectando Talentos: Robótica e Programação no IFES-Serra em 2024 e integrou o comitê gestor do Asas para o Futuro em 2025.",
+  "resumo_ia": null,
   "anos": [
     "2022",
     "2023",
@@ -85,17 +85,17 @@
     },
     {
       "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
-    },
-    {
-      "ano": "2024",
       "atividade_id": "20161",
       "acao_id": "5086",
       "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 51
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     },
     {
       "ano": "2025",

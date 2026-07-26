@@ -1,12 +1,14 @@
 {
   "slug": "mirleni-de-jesus",
   "nome": "Mirleni de Jesus",
-  "resumo_ia": "Integrou a equipe do curso 'Programação Visual Criativa com Scratch' como instrutora em 2015, contribuindo para ações de extensão na área de programação criativa.",
+  "resumo_ia": null,
   "anos": [
-    "2015"
+    "2015",
+    "2016"
   ],
   "funcoes": [
-    "INSTRUTOR(A)"
+    "INSTRUTOR(A)",
+    "MINISTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -20,6 +22,17 @@
       "funcoes": [
         "INSTRUTOR(A)"
       ]
+    },
+    {
+      "acao_id": "719",
+      "titulo": "Programação Visual Criativa com Scratch + Arduino",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 21,
+      "pub": 12,
+      "funcoes": [
+        "MINISTRANTE"
+      ]
     }
   ],
   "atividades": [
@@ -29,22 +42,39 @@
       "acao_id": "542",
       "atividade": "Programação Visual Criativa com Scratch",
       "pub": 20
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1560",
+      "acao_id": "719",
+      "atividade": "Programação Criativa com Scratch + Arduino",
+      "pub": 12
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 20,
-  "impacto": 20,
+  "imp_eq": 32,
+  "impacto": 32,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 1
+      "n": 2
     }
   ],
   "colaboradores": [
     {
       "nome": "Moisés Savedra Omena",
       "slug": "moises-savedra-omena",
-      "acoes_comuns": 1
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 2
     },
     {
       "nome": "Renato Eugênio da Mota",
@@ -52,13 +82,28 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Ernani Leite Ribeiro Filho",
-      "slug": "ernani-leite-ribeiro-filho",
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
       "acoes_comuns": 1
     },
     {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
+      "nome": "Anne Caroline Silva",
+      "slug": "anne-caroline-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Cassiano Knsch das Neves",
+      "slug": "cassiano-knsch-das-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Irisson Junio Máximo Borges",
+      "slug": "irisson-junio-maximo-borges",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
       "acoes_comuns": 1
     }
   ]

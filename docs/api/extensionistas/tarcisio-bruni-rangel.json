@@ -1,18 +1,31 @@
 {
   "slug": "tarcisio-bruni-rangel",
   "nome": "Tarcisio Bruni Rangel",
-  "resumo_ia": "Atuou como aluno(a) bolsista no projeto ES Na Palma da Mão em 2019 e como colaborador(a) e expositor(a) no LEDS – Laboratório de Extensão em Desenvolvimento de Soluções em 2016, participando de iniciativas de extensão relacionadas a cidades inteligentes e desenvolvimento de soluções.",
+  "resumo_ia": null,
   "anos": [
     "2016",
+    "2017",
     "2019"
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA",
+    "ALUNO(A) VOLUNTARIO",
     "COLABORADOR(A)",
     "EXPOSITOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "1426",
+      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "tipo": "Evento",
+      "ano": "2017",
+      "n": 1062,
+      "pub": 366,
+      "funcoes": [
+        "COLABORADOR(A)"
+      ]
+    },
     {
       "acao_id": "2285",
       "titulo": "ES Na Palma da Mão: Uma Plataforma baseado em serviços para Cidades Humanas, Inteligentes e Sustentáveis",
@@ -22,6 +35,17 @@
       "pub": 0,
       "funcoes": [
         "ALUNO(A) BOLSISTA"
+      ]
+    },
+    {
+      "acao_id": "2786",
+      "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 12,
+      "pub": 1,
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
       ]
     },
     {
@@ -39,10 +63,31 @@
   ],
   "atividades": [
     {
+      "ano": "2017",
+      "atividade_id": "4211",
+      "acao_id": "1426",
+      "atividade": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "pub": 0
+    },
+    {
       "ano": "2019",
       "atividade_id": "7822",
       "acao_id": "2285",
       "atividade": "ES Na Palma da Mão: Uma Plataforma baseado em serviços para Cidades Humanas, Inteligentes e Sustentáveis",
+      "pub": 0
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "9580",
+      "acao_id": "2786",
+      "atividade": "My Pay: Um ERP em nuvem para foodtrucks",
+      "pub": 1
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "10343",
+      "acao_id": "901",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
       "pub": 0
     },
     {
@@ -51,32 +96,50 @@
       "acao_id": "901",
       "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "10343",
-      "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
-      "pub": 0
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 0,
-  "impacto": 0,
+  "imp_eq": 1,
+  "impacto": 1,
   "temas": [
     {
-      "tema": "Software, dados e sistemas",
-      "n": 1
+      "tema": "Empreendedorismo e incubação",
+      "n": 3
     },
     {
-      "tema": "Empreendedorismo e incubação",
+      "tema": "Software, dados e sistemas",
       "n": 1
     }
   ],
   "colaboradores": [
     {
+      "nome": "David Pantaleão Vilaça",
+      "slug": "david-pantaleao-vilaca",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Gary Moura da Silva",
+      "slug": "gary-moura-da-silva",
+      "acoes_comuns": 3
+    },
+    {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Marcos Antonio Carneiro de Paula",
+      "slug": "marcos-antonio-carneiro-de-paula",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Rafael Afonso dos Anjos",
+      "slug": "rafael-afonso-dos-anjos",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
       "acoes_comuns": 2
     },
     {
@@ -85,23 +148,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Gary Moura da Silva",
-      "slug": "gary-moura-da-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marcos Antonio Carneiro de Paula",
-      "slug": "marcos-antonio-carneiro-de-paula",
-      "acoes_comuns": 2
-    },
-    {
       "nome": "Lucas Gomes Flegler",
       "slug": "lucas-gomes-flegler",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "David Pantaleão Vilaça",
-      "slug": "david-pantaleao-vilaca",
       "acoes_comuns": 2
     },
     {
@@ -120,8 +168,133 @@
       "acoes_comuns": 2
     },
     {
+      "nome": "Eduardo Couto Rodrigues",
+      "slug": "eduardo-couto-rodrigues",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Icaro Gandine Fialho Weiler",
+      "slug": "icaro-gandine-fialho-weiler",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Gustavo Matozinho Lima",
+      "slug": "gustavo-matozinho-lima",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Gilmar Luiz Vassoler",
+      "slug": "gilmar-luiz-vassoler",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ketter Zuchi Caliari Miranda",
+      "slug": "ketter-zuchi-caliari-miranda",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Vieira Motta",
+      "slug": "rafael-vieira-motta",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Yasmim da Silva Nunes",
+      "slug": "yasmim-da-silva-nunes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago da Costa Freitas",
+      "slug": "thiago-da-costa-freitas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Pedro Mathias Nakibar",
+      "slug": "pedro-mathias-nakibar",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ramon Kazushi Cossual Sakurada",
+      "slug": "ramon-kazushi-cossual-sakurada",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "João Carlos Pandolfi Santana",
+      "slug": "joao-carlos-pandolfi-santana",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tiago Ribeiro Santos",
+      "slug": "tiago-ribeiro-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabrielle Azevedo Barros da Cunha Duda",
+      "slug": "gabrielle-azevedo-barros-da-cunha-duda",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Rampinelli Gloria",
+      "slug": "emanuel-rampinelli-gloria",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vitor Soares Salzman",
+      "slug": "vitor-soares-salzman",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "José Guilherme Silva de Lima",
+      "slug": "jose-guilherme-silva-de-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Higor Martins Rebello",
+      "slug": "higor-martins-rebello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduarda Rodrigues Simões",
+      "slug": "eduarda-rodrigues-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Caio Abelar Kinupp Monteiro",
+      "slug": "caio-abelar-kinupp-monteiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Brunna Dalzini de Oliveira",
+      "slug": "brunna-dalzini-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "David de Moura Marques",
       "slug": "david-de-moura-marques",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vinicius Freitas Rocha",
+      "slug": "vinicius-freitas-rocha",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jackson Willian Silva Agostinho",
+      "slug": "jackson-willian-silva-agostinho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luiz Antonio Roque Guzzo",
+      "slug": "luiz-antonio-roque-guzzo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Medeiros Claudino",
+      "slug": "emanuel-medeiros-claudino",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tadeu da Penha Moraes Junior",
+      "slug": "tadeu-da-penha-moraes-junior",
       "acoes_comuns": 1
     },
     {
@@ -145,11 +318,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Rafael Afonso dos Anjos",
-      "slug": "rafael-afonso-dos-anjos",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Ana Carolina Cebin Pereira",
       "slug": "ana-carolina-cebin-pereira",
       "acoes_comuns": 1
@@ -162,21 +330,6 @@
     {
       "nome": "Renato de Sant'anna Lopes",
       "slug": "renato-de-sant-anna-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Icaro Gandine Fialho Weiler",
-      "slug": "icaro-gandine-fialho-weiler",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eduardo Couto Rodrigues",
-      "slug": "eduardo-couto-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Matozinho Lima",
-      "slug": "gustavo-matozinho-lima",
       "acoes_comuns": 1
     },
     {
@@ -297,11 +450,6 @@
     {
       "nome": "Helen França Medeiros",
       "slug": "helen-franca-medeiros",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Magno Macedo de Oliveira",
-      "slug": "magno-macedo-de-oliveira",
       "acoes_comuns": 1
     },
     {

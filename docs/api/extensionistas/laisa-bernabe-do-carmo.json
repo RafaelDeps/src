@@ -1,7 +1,7 @@
 {
   "slug": "laisa-bernabe-do-carmo",
   "nome": "Laisa Bernabe do Carmo",
-  "resumo_ia": "Coordena e atua como mentora no Programa Local Núcleo Incubador Campus Serra – NIS desde 2021, além de palestrar no LabMaker Serra em 2023, apoiando iniciativas de extensão empreendedora e maker.",
+  "resumo_ia": null,
   "anos": [
     "2021",
     "2023"
@@ -42,10 +42,10 @@
   "atividades": [
     {
       "ano": "2021",
-      "atividade_id": "19381",
+      "atividade_id": "19841",
       "acao_id": "3423",
       "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 40
+      "pub": 101
     },
     {
       "ano": "2021",
@@ -56,17 +56,17 @@
     },
     {
       "ano": "2021",
-      "atividade_id": "19841",
-      "acao_id": "3423",
-      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 101
-    },
-    {
-      "ano": "2021",
       "atividade_id": "15044",
       "acao_id": "3423",
       "atividade": "Pré-incubação – Capacitação para empreendedores inovadores",
       "pub": 7
+    },
+    {
+      "ano": "2021",
+      "atividade_id": "19381",
+      "acao_id": "3423",
+      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
+      "pub": 40
     },
     {
       "ano": "2023",

@@ -85,6 +85,20 @@
       "eq": 15
     },
     {
+      "acao_id": "1426",
+      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "tipo": "Evento",
+      "coordenador": "Gilmar Luiz Vassoler",
+      "coordenador_slug": "gilmar-luiz-vassoler",
+      "ano": "2017",
+      "inicio": "23/10/2017",
+      "termino": "27/10/2017",
+      "ultimo": "nunca enviado",
+      "pendente": true,
+      "pub": 366,
+      "eq": 21
+    },
+    {
       "acao_id": "986",
       "titulo": "Energia Solar Fotovoltaica",
       "tipo": "Curso",
@@ -125,20 +139,6 @@
       "pendente": true,
       "pub": 34,
       "eq": 1
-    },
-    {
-      "acao_id": "6059",
-      "titulo": "Oficinas e Tutorias de Apoio às Disciplinas Curriculares na Perspectiva Inclusiva – NAPNE",
-      "tipo": "Projeto",
-      "coordenador": "Nauvia Maria Cancelieri",
-      "coordenador_slug": "nauvia-maria-cancelieri",
-      "ano": "2026",
-      "inicio": "09/06/2026",
-      "termino": "30/12/2027",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 7
     },
     {
       "acao_id": "3946",
@@ -241,20 +241,6 @@
   ],
   "zero": [
     {
-      "acao_id": "4867",
-      "titulo": "Empresa Morpheus Jr",
-      "tipo": "Programa",
-      "coordenador": "Adelson Pereira do Nascimento",
-      "coordenador_slug": "adelson-pereira-do-nascimento",
-      "ano": "2024",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "22/12/2025",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
       "acao_id": "5199",
       "titulo": "JOVEM APRENDIZ IFES CAMPUS SERRA",
       "tipo": "Programa",
@@ -275,34 +261,6 @@
       "coordenador": "Adrianna Machado Meneguelli",
       "coordenador_slug": null,
       "ano": "2025",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "5989",
-      "titulo": "I COLÓQUIO DE PRODUÇÃO E CRIATIVIDADE – CAMPUS SERRA",
-      "tipo": "Evento",
-      "coordenador": "Adrianna Machado Meneguelli",
-      "coordenador_slug": null,
-      "ano": "2026",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "6012",
-      "titulo": "Oficina de Crochê Tramando",
-      "tipo": "Projeto",
-      "coordenador": "Alessandra Aguiar Vilarinho",
-      "coordenador_slug": "alessandra-aguiar-vilarinho",
-      "ano": "2026",
       "inicio": "",
       "termino": "",
       "ultimo": "nunca enviado",
@@ -465,11 +423,11 @@
       "eq": 0
     },
     {
-      "acao_id": "6101",
-      "titulo": "Oficina de Formação Profissional em Realidade Virtual para Jovens e Realizadores de Audiovisual na Serra",
-      "tipo": "Projeto",
-      "coordenador": "Celio Proliciano Maioli",
-      "coordenador_slug": "celio-proliciano-maioli",
+      "acao_id": "6171",
+      "titulo": "Tutoria de Estudos Orientados",
+      "tipo": "Programa",
+      "coordenador": "Bruno Ramos Gonzaga",
+      "coordenador_slug": "bruno-ramos-gonzaga",
       "ano": "2026",
       "inicio": "",
       "termino": "",
@@ -549,6 +507,20 @@
       "eq": 0
     },
     {
+      "acao_id": "3140",
+      "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
+      "tipo": "Programa",
+      "coordenador": "Emmanuel Marques Silva",
+      "coordenador_slug": "emmanuel-marques-silva",
+      "ano": "2020",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "12/02/2026",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
       "acao_id": "1592",
       "titulo": "Tutoria em Estudos Avançados",
       "tipo": "Projeto",
@@ -558,20 +530,6 @@
       "inicio": "",
       "termino": "",
       "ultimo": "23/03/2018",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "2786",
-      "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
-      "tipo": "Projeto",
-      "coordenador": "Felipe Frechiani de Oliveira",
-      "coordenador_slug": "felipe-frechiani-de-oliveira",
-      "ano": "2019",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "01/03/2022",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -661,20 +619,6 @@
       "eq": 0
     },
     {
-      "acao_id": "1426",
-      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
-      "tipo": "Evento",
-      "coordenador": "Gilmar Luiz Vassoler",
-      "coordenador_slug": "gilmar-luiz-vassoler",
-      "ano": "2017",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
       "acao_id": "1604",
       "titulo": "Improving your English",
       "tipo": "Projeto",
@@ -695,20 +639,6 @@
       "coordenador": "Giordana dos Santos Sperandio",
       "coordenador_slug": "giordana-dos-santos-sperandio",
       "ano": "2019",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "5988",
-      "titulo": "English for Global Careers",
-      "tipo": "Curso",
-      "coordenador": "Giordana dos Santos Sperandio",
-      "coordenador_slug": "giordana-dos-santos-sperandio",
-      "ano": "2026",
       "inicio": "",
       "termino": "",
       "ultimo": "nunca enviado",
@@ -769,6 +699,20 @@
       "termino": "",
       "ultimo": "nunca enviado",
       "pendente": true,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "3526",
+      "titulo": "A mitologia grega vista a partir da arte e da literatura",
+      "tipo": "Curso",
+      "coordenador": "Maikon Chaider Silva Scaldaferro",
+      "coordenador_slug": null,
+      "ano": "2021",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "11/06/2022",
+      "pendente": false,
       "pub": 0,
       "eq": 0
     },
@@ -839,34 +783,6 @@
       "termino": "",
       "ultimo": "nunca enviado",
       "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "719",
-      "titulo": "Programação Visual Criativa com Scratch + Arduino",
-      "tipo": "Curso",
-      "coordenador": "Moisés Savedra Omena",
-      "coordenador_slug": "moises-savedra-omena",
-      "ano": "2016",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "18/12/2019",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "723",
-      "titulo": "Acorde Musical",
-      "tipo": "Projeto",
-      "coordenador": "Moisés Savedra Omena",
-      "coordenador_slug": "moises-savedra-omena",
-      "ano": "2016",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "30/12/2019",
-      "pendente": false,
       "pub": 0,
       "eq": 0
     },
@@ -969,44 +885,16 @@
       "eq": 0
     },
     {
-      "acao_id": "5907",
-      "titulo": "Mulheres Mil - Eletricista Instalador Predial em Baixa Tensão",
-      "tipo": "Curso",
-      "coordenador": "Tatiane Policário Chagas",
-      "coordenador_slug": "tatiane-policario-chagas",
-      "ano": "2026",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "5961",
-      "titulo": "ASAS - Operador de Computador",
-      "tipo": "Curso",
-      "coordenador": "Tatiane Policário Chagas",
-      "coordenador_slug": "tatiane-policario-chagas",
-      "ano": "2026",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "05/03/2026",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "5974",
-      "titulo": "Escrita de Material Instrucional",
+      "acao_id": "4589",
+      "titulo": "Materiais Rodantes Ferroviários",
       "tipo": "Curso",
       "coordenador": "Vinícius Secchin de Melo",
       "coordenador_slug": null,
-      "ano": "2026",
+      "ano": "2023",
       "inicio": "",
       "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
+      "ultimo": "26/02/2024",
+      "pendente": false,
       "pub": 0,
       "eq": 0
     },
@@ -1077,10 +965,6 @@
       3
     ],
     [
-      "Adrianna Machado Meneguelli",
-      2
-    ],
-    [
       "Ana Paula Klauck",
       2
     ],
@@ -1089,11 +973,11 @@
       2
     ],
     [
-      "Gilmar Luiz Vassoler",
+      "Bruno Ramos Gonzaga",
       2
     ],
     [
-      "Giordana dos Santos Sperandio",
+      "Gilmar Luiz Vassoler",
       2
     ],
     [
@@ -1101,19 +985,23 @@
       2
     ],
     [
-      "Nauvia Maria Cancelieri",
-      2
-    ],
-    [
       "Paulo Sérgio dos Santos Júnior",
       2
     ],
     [
-      "Alessandra Aguiar Vilarinho",
+      "Adrianna Machado Meneguelli",
       1
     ],
     [
       "Alessandro Bermudes Gomes",
+      1
+    ],
+    [
+      "Alexander Jeferson Nassau Borges",
+      1
+    ],
+    [
+      "Amarildo Mendes Lemos",
       1
     ]
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "joel-will-belmiro",
   "nome": "Joel Will Belmiro",
-  "resumo_ia": "Participou como bolsista no LEDS – Laboratório de Extensão e Desenvolvimento de Soluções entre 2016 e 2019, atuando em projetos de extensão e desenvolvimento tecnológico, além de expor e palestrar em eventos.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2018",
@@ -67,9 +67,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10019",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Palestra: Apresentação de Projetos LEDS",
       "pub": 0
     },
     {
@@ -81,9 +81,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10019",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Palestra: Apresentação de Projetos LEDS",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],

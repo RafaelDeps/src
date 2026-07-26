@@ -1,7 +1,7 @@
 {
   "slug": "rosilene-de-sa-ribeiro",
   "nome": "Rosilene de Sá Ribeiro",
-  "resumo_ia": "Coordenou o projeto 'Física ao Alcance de Todos' nos anos de 2018, 2020 e 2022, atuando também como palestrante e orientadora. Participou da equipe do Programa Local Núcleo Incubador Campus Serra – NIS como colaboradora em 2017.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2018",
@@ -99,17 +99,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "9600",
+      "atividade_id": "6232",
       "acao_id": "2021",
-      "atividade": "Palestra: Energia Fotovoltaica na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 47
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "6519",
-      "acao_id": "2021",
-      "atividade": "Palestra: Mulheres na Ciência - Palestrante: Rosilene de Sá Ribeiro",
-      "pub": 6
+      "atividade": "Física ao Alcance de Todos",
+      "pub": 0
     },
     {
       "ano": "2018",
@@ -127,30 +120,16 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "6232",
+      "atividade_id": "9600",
       "acao_id": "2021",
-      "atividade": "Física ao Alcance de Todos",
-      "pub": 0
+      "atividade": "Palestra: Energia Fotovoltaica na Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 47
     },
     {
       "ano": "2018",
-      "atividade_id": "9594",
+      "atividade_id": "7750",
       "acao_id": "2021",
-      "atividade": "Palestra: Mulheres na Ciência durante a Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 49
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "9601",
-      "acao_id": "2021",
-      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 0
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "9595",
-      "acao_id": "2021",
-      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
+      "atividade": "Trabalho de Iniciação Científica",
       "pub": 0
     },
     {
@@ -162,10 +141,31 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "7750",
+      "atividade_id": "6519",
       "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
+      "atividade": "Palestra: Mulheres na Ciência - Palestrante: Rosilene de Sá Ribeiro",
+      "pub": 6
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "9595",
+      "acao_id": "2021",
+      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
       "pub": 0
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "9601",
+      "acao_id": "2021",
+      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 0
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "9594",
+      "acao_id": "2021",
+      "atividade": "Palestra: Mulheres na Ciência durante a Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 49
     },
     {
       "ano": "2020",

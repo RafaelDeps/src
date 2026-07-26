@@ -1,7 +1,7 @@
 {
   "slug": "faye-manski-queiroz",
   "nome": "Faye Manski Queiroz",
-  "resumo_ia": "Atuou como expositora, monitora e pesquisadora na equipe do projeto Física ao Alcance de Todos em 2018 e como extensionista na mesma equipe em 2022.",
+  "resumo_ia": null,
   "anos": [
     "2018",
     "2022"
@@ -49,17 +49,17 @@
     },
     {
       "ano": "2018",
+      "atividade_id": "7750",
+      "acao_id": "2021",
+      "atividade": "Trabalho de Iniciação Científica",
+      "pub": 0
+    },
+    {
+      "ano": "2018",
       "atividade_id": "6521",
       "acao_id": "2021",
       "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
       "pub": 12
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "9601",
-      "acao_id": "2021",
-      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 0
     },
     {
       "ano": "2018",
@@ -70,9 +70,9 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "7750",
+      "atividade_id": "9601",
       "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
+      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
       "pub": 0
     },
     {

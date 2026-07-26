@@ -1,7 +1,7 @@
 {
   "slug": "edson-ferreira-da-silva-junior",
   "nome": "Edson Ferreira da Silva Júnior",
-  "resumo_ia": "Desempenhou os papéis de instrutor, pesquisador e tutor no Circuito Audiovisual em 2019.",
+  "resumo_ia": null,
   "anos": [
     "2019"
   ],
@@ -29,20 +29,6 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10569",
-      "acao_id": "2505",
-      "atividade": "Pesquisa em Audiovisual",
-      "pub": 0
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10563",
-      "acao_id": "2505",
-      "atividade": "Oficina Especializada de Direção",
-      "pub": 7
-    },
-    {
-      "ano": "2019",
       "atividade_id": "10567",
       "acao_id": "2505",
       "atividade": "Oficina Especializada de Direção de Arte",
@@ -61,6 +47,20 @@
       "acao_id": "2505",
       "atividade": "Oficina Especializada de Roteiro",
       "pub": 10
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10563",
+      "acao_id": "2505",
+      "atividade": "Oficina Especializada de Direção",
+      "pub": 7
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10569",
+      "acao_id": "2505",
+      "atividade": "Pesquisa em Audiovisual",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

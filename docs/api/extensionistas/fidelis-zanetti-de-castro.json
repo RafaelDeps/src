@@ -1,7 +1,7 @@
 {
   "slug": "fidelis-zanetti-de-castro",
   "nome": "Fidelis Zanetti de Castro",
-  "resumo_ia": "Coordenou projetos de extensão em 2022 e 2023, utilizando Inteligência Computacional para avaliação de frutos e identificação de pragas em culturas agrícolas. Participou como coordenador adjunto do Ifes Portas Abertas em 2018 e integrou equipes de eventos como Física ao Alcance de Todos e Mulheres na Ciência no mesmo ano.",
+  "resumo_ia": null,
   "anos": [
     "2018",
     "2022",
@@ -119,9 +119,9 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19177",
+      "atividade_id": "19151",
       "acao_id": "4033",
-      "atividade": "Apresentação no “Primeiro Seminário de Empreendedorismo na Rede Federal” (para uma banca de especialistas empresários e representantes de entidades governamentais) de um pitch sobre a solução Pink Pepper Qualifier.",
+      "atividade": "1ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
       "pub": 0
     },
     {
@@ -133,13 +133,6 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19184",
-      "acao_id": "4033",
-      "atividade": "Realização de palestra intitulada \"Qualidade produtiva da pimenta rosa usando Inteligência Computacional\" no TecnoAgro 2022",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "19152",
       "acao_id": "4033",
       "atividade": "2ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
@@ -147,9 +140,51 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19158",
+      "atividade_id": "19184",
       "acao_id": "4033",
-      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 1",
+      "atividade": "Realização de palestra intitulada \"Qualidade produtiva da pimenta rosa usando Inteligência Computacional\" no TecnoAgro 2022",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19157",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19155",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19173",
+      "acao_id": "4033",
+      "atividade": "Participação em mentorias do Sebrae",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19183",
+      "acao_id": "4033",
+      "atividade": "Realização da palestra intitulada \"Agricultura 4.0 e qualidade da pimenta rosa\" no 1° Festival Brasileiro de Pimenta Rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19177",
+      "acao_id": "4033",
+      "atividade": "Apresentação no “Primeiro Seminário de Empreendedorismo na Rede Federal” (para uma banca de especialistas empresários e representantes de entidades governamentais) de um pitch sobre a solução Pink Pepper Qualifier.",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19185",
+      "acao_id": "4033",
+      "atividade": "Realização da palestra intitulada “Aplicativo Pink: Uma solução para avaliar a qualidade produtiva da pimenta rosa”, proferida no 2° Festival Brasileiro de Pimenta Rosa.",
       "pub": 0
     },
     {
@@ -168,51 +203,9 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19165",
+      "atividade_id": "19160",
       "acao_id": "4033",
-      "atividade": "Montagem de uma primeira versão de uma base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19183",
-      "acao_id": "4033",
-      "atividade": "Realização da palestra intitulada \"Agricultura 4.0 e qualidade da pimenta rosa\" no 1° Festival Brasileiro de Pimenta Rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19153",
-      "acao_id": "4033",
-      "atividade": "3ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19181",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19185",
-      "acao_id": "4033",
-      "atividade": "Realização da palestra intitulada “Aplicativo Pink: Uma solução para avaliar a qualidade produtiva da pimenta rosa”, proferida no 2° Festival Brasileiro de Pimenta Rosa.",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19151",
-      "acao_id": "4033",
-      "atividade": "1ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19155",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 1",
+      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
       "pub": 0
     },
     {
@@ -224,9 +217,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19157",
+      "atividade_id": "19158",
       "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
+      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19153",
+      "acao_id": "4033",
+      "atividade": "3ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
       "pub": 0
     },
     {
@@ -238,16 +238,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19160",
+      "atividade_id": "19165",
       "acao_id": "4033",
-      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
+      "atividade": "Montagem de uma primeira versão de uma base de dados de fotos de pimenta rosa",
       "pub": 0
     },
     {
       "ano": "2022",
-      "atividade_id": "19173",
+      "atividade_id": "19181",
       "acao_id": "4033",
-      "atividade": "Participação em mentorias do Sebrae",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
       "pub": 0
     }
   ],

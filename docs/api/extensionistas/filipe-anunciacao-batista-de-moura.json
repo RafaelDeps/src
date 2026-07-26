@@ -1,7 +1,7 @@
 {
   "slug": "filipe-anunciacao-batista-de-moura",
   "nome": "Filipe Anunciação Batista de Moura",
-  "resumo_ia": "Atuou como aluno bolsista no projeto Pink Pepper Qualifier em 2022, voltado à determinação da qualidade produtiva de frutos da Aroeira com uso de Inteligência Computacional.",
+  "resumo_ia": null,
   "anos": [
     "2022"
   ],
@@ -25,20 +25,6 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "19168",
-      "acao_id": "4033",
-      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 3",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19181",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "19180",
       "acao_id": "4033",
       "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 3",
@@ -46,9 +32,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19171",
+      "atividade_id": "19168",
       "acao_id": "4033",
-      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 3",
+      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 3",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19188",
+      "acao_id": "4033",
+      "atividade": "Desenvolvimento de protótipos de tela do aplicativo Pink Pepper Qualifier - Etapa 2",
       "pub": 0
     },
     {
@@ -60,6 +53,13 @@
     },
     {
       "ano": "2022",
+      "atividade_id": "19171",
+      "acao_id": "4033",
+      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 3",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "13927",
       "acao_id": "4033",
       "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
@@ -67,9 +67,9 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19188",
+      "atividade_id": "19181",
       "acao_id": "4033",
-      "atividade": "Desenvolvimento de protótipos de tela do aplicativo Pink Pepper Qualifier - Etapa 2",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
       "pub": 0
     }
   ],

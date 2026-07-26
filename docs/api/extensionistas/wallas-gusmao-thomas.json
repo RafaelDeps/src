@@ -1,13 +1,11 @@
 {
   "slug": "wallas-gusmao-thomas",
   "nome": "Wallas Gusmão Thomas",
-  "resumo_ia": "Coordenou a Semana de Controle e Automação em 2016 e atuou como colaborador no projeto 'Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social' em 2025.",
+  "resumo_ia": null,
   "anos": [
-    "2016",
-    "2025"
+    "2016"
   ],
   "funcoes": [
-    "COLABORADOR(A)",
     "COORDENADOR(A)"
   ],
   "acoes_coordenadas": [
@@ -22,17 +20,6 @@
   ],
   "participacoes_equipe": [
     {
-      "acao_id": "5677",
-      "titulo": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "tipo": "Projeto",
-      "ano": "2025",
-      "n": 48,
-      "pub": 28,
-      "funcoes": [
-        "COLABORADOR(A)"
-      ]
-    },
-    {
       "acao_id": "899",
       "titulo": "SEMANA DE CONTROLE E AUTOMAÇÃO",
       "tipo": "Evento",
@@ -46,20 +33,6 @@
   ],
   "atividades": [
     {
-      "ano": "2025",
-      "atividade_id": "20756",
-      "acao_id": "5677",
-      "atividade": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "pub": 0
-    },
-    {
-      "ano": "2025",
-      "atividade_id": "21872",
-      "acao_id": "5677",
-      "atividade": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "pub": 28
-    },
-    {
       "ano": "2016",
       "atividade_id": "2732",
       "acao_id": "899",
@@ -68,74 +41,15 @@
     }
   ],
   "imp_coord": 124,
-  "imp_eq": 28,
-  "impacto": 152,
+  "imp_eq": 0,
+  "impacto": 124,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 2
-    },
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marco Aurélio Tiago Filho",
-      "slug": "marco-aurelio-tiago-filho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Enzo Mandelli Pinheiro Rodrigues",
-      "slug": "enzo-mandelli-pinheiro-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Enzo Medeiros Agnez",
-      "slug": "enzo-medeiros-agnez",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ícaro Lessa Secchin",
-      "slug": "icaro-lessa-secchin",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Julia Almeida Nascimento Lopes",
-      "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Flávio Garcia Pereira",
-      "slug": "flavio-garcia-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rosiane Ribeiro Rocha",
-      "slug": "rosiane-ribeiro-rocha",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Henrique Nascimento Vieira",
-      "slug": "pedro-henrique-nascimento-vieira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Leticia Comissario da Silva",
-      "slug": "leticia-comissario-da-silva",
-      "acoes_comuns": 1
-    },
     {
       "nome": "João Antonio Campos Panceri",
       "slug": "joao-antonio-campos-panceri",
@@ -189,6 +103,11 @@
     {
       "nome": "Diego de Deus Bazilio",
       "slug": "diego-de-deus-bazilio",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
     },
     {

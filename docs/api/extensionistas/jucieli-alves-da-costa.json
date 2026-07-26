@@ -1,8 +1,9 @@
 {
   "slug": "jucieli-alves-da-costa",
   "nome": "Juciéli Alves da Costa",
-  "resumo_ia": "Colaborou no Programa Local Núcleo Incubador Campus Serra – NIS em 2017.",
+  "resumo_ia": null,
   "anos": [
+    "2016",
     "2017"
   ],
   "funcoes": [
@@ -20,12 +21,23 @@
       "funcoes": [
         "COLABORADOR(A)"
       ]
+    },
+    {
+      "acao_id": "723",
+      "titulo": "Acorde Musical",
+      "tipo": "Projeto",
+      "ano": "2016",
+      "n": 5,
+      "pub": 0,
+      "funcoes": [
+        "COLABORADOR(A)"
+      ]
     }
   ],
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "3047",
+      "atividade_id": "3046",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
@@ -39,9 +51,16 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "3046",
+      "atividade_id": "3047",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1577",
+      "acao_id": "723",
+      "atividade": "Acorde Musical",
       "pub": 0
     }
   ],
@@ -51,6 +70,10 @@
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
+      "n": 1
+    },
+    {
+      "tema": "Cultura e arte",
       "n": 1
     }
   ],
@@ -223,6 +246,26 @@
     {
       "nome": "Daniel Arrais",
       "slug": "daniel-arrais",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "André Spadetto Leão",
+      "slug": "andre-spadetto-leao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Aurélia Hubner Peixouto",
+      "slug": "aurelia-hubner-peixouto",
       "acoes_comuns": 1
     }
   ]

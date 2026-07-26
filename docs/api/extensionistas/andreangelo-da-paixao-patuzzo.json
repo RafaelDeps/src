@@ -1,7 +1,7 @@
 {
   "slug": "andreangelo-da-paixao-patuzzo",
   "nome": "Andreângelo da Paixão Patuzzo",
-  "resumo_ia": "Desenvolveu atividades como aluno bolsista e voluntário em projetos de extensão voltados para saúde mental entre 2016 e 2019, além de atuar como expositor e palestrante no LEDS – Laboratório de Extensão em Desenvolvimento de Soluções.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2018",
@@ -86,9 +86,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10019",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Palestra: Apresentação de Projetos LEDS",
       "pub": 0
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10019",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Palestra: Apresentação de Projetos LEDS",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],

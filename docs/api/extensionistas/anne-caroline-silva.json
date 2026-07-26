@@ -1,14 +1,15 @@
 {
   "slug": "anne-caroline-silva",
   "nome": "Anne Caroline Silva",
-  "resumo_ia": "Participou como aluna voluntária em três projetos de extensão: 'Maratona de Programação' em 2018, 'LifeBox: transporte e monitoramento de córnea de forma inteligente' em 2019 e 'LEDS – Laboratório de Extensão em Desenvolvimento de Soluções' em 2016, contribuindo em ações de extensão e inovação.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2018",
     "2019"
   ],
   "funcoes": [
-    "ALUNO(A) VOLUNTARIO"
+    "ALUNO(A) VOLUNTARIO",
+    "MINISTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -32,6 +33,17 @@
       "pub": 0,
       "funcoes": [
         "ALUNO(A) VOLUNTARIO"
+      ]
+    },
+    {
+      "acao_id": "719",
+      "titulo": "Programação Visual Criativa com Scratch + Arduino",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 21,
+      "pub": 12,
+      "funcoes": [
+        "MINISTRANTE"
       ]
     },
     {
@@ -63,6 +75,13 @@
     },
     {
       "ano": "2016",
+      "atividade_id": "1560",
+      "acao_id": "719",
+      "atividade": "Programação Criativa com Scratch + Arduino",
+      "pub": 12
+    },
+    {
+      "ano": "2016",
       "atividade_id": "2297",
       "acao_id": "901",
       "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
@@ -70,12 +89,16 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 37,
-  "impacto": 37,
+  "imp_eq": 49,
+  "impacto": 49,
   "temas": [
     {
       "tema": "Cultura e arte",
       "n": 2
+    },
+    {
+      "tema": "Robótica e cultura maker",
+      "n": 1
     },
     {
       "tema": "Empreendedorismo e incubação",
@@ -84,6 +107,16 @@
   ],
   "colaboradores": [
     {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
+      "acoes_comuns": 3
+    },
+    {
       "nome": "Ana Rúbia Ramos Vicente",
       "slug": "ana-rubia-ramos-vicente",
       "acoes_comuns": 2
@@ -91,11 +124,6 @@
     {
       "nome": "Paulo Ricardo Viana Ferreira",
       "slug": "paulo-ricardo-viana-ferreira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
       "acoes_comuns": 2
     },
     {
@@ -109,8 +137,13 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
+      "nome": "Cassiano Knsch das Neves",
+      "slug": "cassiano-knsch-das-neves",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Irisson Junio Máximo Borges",
+      "slug": "irisson-junio-maximo-borges",
       "acoes_comuns": 2
     },
     {
@@ -164,13 +197,23 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
+      "nome": "Mirleni de Jesus",
+      "slug": "mirleni-de-jesus",
       "acoes_comuns": 1
     },
     {
-      "nome": "Irisson Junio Máximo Borges",
-      "slug": "irisson-junio-maximo-borges",
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 1
     },
     {

@@ -1,7 +1,7 @@
 {
   "slug": "lucas-gomes-flegler",
   "nome": "Lucas Gomes Flegler",
-  "resumo_ia": "Atuou como aluno(a) bolsista em 2018, 2019 e 2020 em projetos como ESPM-Empregos, ES Na Palma da Mão e Stone Connection. Em 2016, colaborou no LEDS – Laboratório de Extensão em Desenvolvimento de Soluções, exercendo funções como colaborador(a), expositor(a), organizador(a) e palestrante.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2018",
@@ -89,9 +89,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10019",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Palestra: Apresentação de Projetos LEDS",
       "pub": 0
     },
     {
@@ -110,9 +110,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10019",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Palestra: Apresentação de Projetos LEDS",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],

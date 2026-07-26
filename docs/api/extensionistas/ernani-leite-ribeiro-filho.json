@@ -1,7 +1,7 @@
 {
   "slug": "ernani-leite-ribeiro-filho",
   "nome": "Ernani Leite Ribeiro Filho",
-  "resumo_ia": "Atuou como professor no projeto Mulheres na Ciência em 2018, colaborou na Programação Visual Criativa com Scratch em 2015 e organizou o Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra em 2016. Também foi avaliador no Desafio Ifes de Negócios Socais em 2015.",
+  "resumo_ia": null,
   "anos": [
     "2015",
     "2016",
@@ -58,6 +58,17 @@
       "funcoes": [
         "ORGANIZADOR(A)"
       ]
+    },
+    {
+      "acao_id": "719",
+      "titulo": "Programação Visual Criativa com Scratch + Arduino",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 21,
+      "pub": 12,
+      "funcoes": [
+        "COLABORADOR(A)"
+      ]
     }
   ],
   "atividades": [
@@ -88,15 +99,22 @@
       "acao_id": "718",
       "atividade": "Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra",
       "pub": 1
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1560",
+      "acao_id": "719",
+      "atividade": "Programação Criativa com Scratch + Arduino",
+      "pub": 12
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 38,
-  "impacto": 38,
+  "imp_eq": 50,
+  "impacto": 50,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 2
+      "n": 3
     },
     {
       "tema": "Mulheres e inclusão",
@@ -111,7 +129,12 @@
     {
       "nome": "Alessandra Aguiar Vilarinho",
       "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 3
+      "acoes_comuns": 4
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 4
     },
     {
       "nome": "Ana Paula Klauck",
@@ -119,13 +142,13 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Mirleni de Jesus",
+      "slug": "mirleni-de-jesus",
       "acoes_comuns": 2
     },
     {
@@ -196,11 +219,6 @@
     {
       "nome": "Adriana Padua Lovatte",
       "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mirleni de Jesus",
-      "slug": "mirleni-de-jesus",
       "acoes_comuns": 1
     },
     {
@@ -456,6 +474,31 @@
     {
       "nome": "Carolinne Quintanilha Ornellas",
       "slug": "carolinne-quintanilha-ornellas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Anne Caroline Silva",
+      "slug": "anne-caroline-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Cassiano Knsch das Neves",
+      "slug": "cassiano-knsch-das-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Irisson Junio Máximo Borges",
+      "slug": "irisson-junio-maximo-borges",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
       "acoes_comuns": 1
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "raynan-araujo-da-silva",
   "nome": "Raynan Araujo da Silva",
-  "resumo_ia": "Participou como aluno bolsista no projeto 'Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira' em 2022, apoiando pesquisas aplicadas à extensão.",
+  "resumo_ia": null,
   "anos": [
     "2022"
   ],
@@ -25,37 +25,9 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "19182",
+      "atividade_id": "19179",
       "acao_id": "4033",
-      "atividade": "Produção de um documentário referente à inauguração da sede da NATIVA - Associação de Produtores de Aroeira do ES",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19181",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19186",
-      "acao_id": "4033",
-      "atividade": "Realização de sobrevoos de plantios utilizando drones durante o 2° Festival de Pimenta Rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19170",
-      "acao_id": "4033",
-      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19183",
-      "acao_id": "4033",
-      "atividade": "Realização da palestra intitulada \"Agricultura 4.0 e qualidade da pimenta rosa\" no 1° Festival Brasileiro de Pimenta Rosa",
+      "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 2",
       "pub": 0
     },
     {
@@ -67,6 +39,27 @@
     },
     {
       "ano": "2022",
+      "atividade_id": "19183",
+      "acao_id": "4033",
+      "atividade": "Realização da palestra intitulada \"Agricultura 4.0 e qualidade da pimenta rosa\" no 1° Festival Brasileiro de Pimenta Rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19186",
+      "acao_id": "4033",
+      "atividade": "Realização de sobrevoos de plantios utilizando drones durante o 2° Festival de Pimenta Rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19182",
+      "acao_id": "4033",
+      "atividade": "Produção de um documentário referente à inauguração da sede da NATIVA - Associação de Produtores de Aroeira do ES",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "13927",
       "acao_id": "4033",
       "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
@@ -74,9 +67,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19179",
+      "atividade_id": "19181",
       "acao_id": "4033",
-      "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 2",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19170",
+      "acao_id": "4033",
+      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 2",
       "pub": 0
     }
   ],

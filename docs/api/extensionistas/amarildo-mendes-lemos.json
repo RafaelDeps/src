@@ -1,7 +1,7 @@
 {
   "slug": "amarildo-mendes-lemos",
   "nome": "Amarildo Mendes Lemos",
-  "resumo_ia": "Coordenou o 'Circuito Audiovisual' em 2019 e participou como professor no 'PRÉ – IFES Campus Serra' em 2017, além de coordenar o mesmo projeto em 2019, atuando em ações de extensão audiovisual e educacional.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2019"
@@ -54,13 +54,6 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10574",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"Mestre Pastinha, Rei da Capoeira\"",
-      "pub": 36
-    },
-    {
-      "ano": "2019",
       "atividade_id": "10573",
       "acao_id": "2505",
       "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
@@ -68,10 +61,17 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10575",
+      "atividade_id": "8630",
       "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
+      "atividade": "Circuito Audiovisual",
+      "pub": 0
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10574",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"Mestre Pastinha, Rei da Capoeira\"",
+      "pub": 36
     },
     {
       "ano": "2019",
@@ -82,10 +82,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "8630",
+      "atividade_id": "10575",
       "acao_id": "2505",
-      "atividade": "Circuito Audiovisual",
-      "pub": 0
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     }
   ],
   "imp_coord": 86,

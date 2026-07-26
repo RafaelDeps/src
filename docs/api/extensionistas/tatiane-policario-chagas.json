@@ -1,14 +1,13 @@
 {
   "slug": "tatiane-policario-chagas",
   "nome": "Tatiane Policário Chagas",
-  "resumo_ia": "Coordenou cursos do programa Mulheres Mil e do projeto Asas para o Futuro entre 2023 e 2026, como Eletricista Instalador Predial em Baixa Tensão, Artesão em Bordado a Mão e Operador de Computador. Também atuou como professora em projetos de extensão como Mulheres na Ciência (2018) e Tutoria de Estudos Orientados (2019), além de coordenar ações no curso de Eletricista Instalador Predial de Baixa Tensão em 2022 e 2023.",
+  "resumo_ia": null,
   "anos": [
     "2018",
     "2019",
     "2022",
     "2023",
-    "2025",
-    "2026"
+    "2025"
   ],
   "funcoes": [
     "COORDENADOR(A)",
@@ -39,22 +38,6 @@
       "ano": "2025",
       "n": 36,
       "pub": 29
-    },
-    {
-      "acao_id": "5907",
-      "titulo": "Mulheres Mil - Eletricista Instalador Predial em Baixa Tensão",
-      "tipo": "Curso",
-      "ano": "2026",
-      "n": 0,
-      "pub": 0
-    },
-    {
-      "acao_id": "5961",
-      "titulo": "ASAS - Operador de Computador",
-      "tipo": "Curso",
-      "ano": "2026",
-      "n": 0,
-      "pub": 0
     }
   ],
   "participacoes_equipe": [

@@ -5,29 +5,50 @@
     "crumb_all": "Todos os temas",
     "colors": {
       "Programa": "var(--c2)",
-      "Curso": "var(--c1)",
       "Evento": "var(--c3)",
+      "Curso": "var(--c1)",
       "Projeto": "var(--c4)",
       "Programa em Rede": "var(--c2)"
     },
     "labels": {
       "Programa": "Programa",
-      "Curso": "Curso",
       "Evento": "Evento",
+      "Curso": "Curso",
       "Projeto": "Projeto",
       "Programa em Rede": "Programa em Rede"
     },
     "groups": [
       {
-        "nome": "Robótica e cultura maker",
+        "nome": "Empreendedorismo e incubação",
         "parts": [
           [
+            "Evento",
+            1054
+          ],
+          [
             "Programa",
-            1793
+            303
+          ],
+          [
+            "Curso",
+            111
           ],
           [
             "Projeto",
+            45
+          ]
+        ]
+      },
+      {
+        "nome": "Robótica e cultura maker",
+        "parts": [
+          [
+            "Projeto",
             587
+          ],
+          [
+            "Programa",
+            503
           ],
           [
             "Evento",
@@ -35,7 +56,7 @@
           ],
           [
             "Curso",
-            20
+            32
           ]
         ]
       },
@@ -61,32 +82,11 @@
         "parts": [
           [
             "Projeto",
-            641
+            355
           ],
           [
             "Curso",
             246
-          ]
-        ]
-      },
-      {
-        "nome": "Empreendedorismo e incubação",
-        "parts": [
-          [
-            "Programa",
-            303
-          ],
-          [
-            "Curso",
-            111
-          ],
-          [
-            "Projeto",
-            44
-          ],
-          [
-            "Evento",
-            17
           ]
         ]
       },
@@ -215,6 +215,11 @@
       ],
       "Empreendedorismo e incubação": [
         {
+          "t": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+          "c": "Evento",
+          "v": 1037
+        },
+        {
           "t": "Programa Local Núcleo Incubador Campus Serra – NIS",
           "c": "Programa",
           "v": 152
@@ -268,14 +273,14 @@
           "t": "Curso de Pré-Incubação de Empreendimentos – modalidade Resid",
           "c": "Curso",
           "v": 3
+        },
+        {
+          "t": "My Pay: Um ERP em nuvem para foodtrucks",
+          "c": "Projeto",
+          "v": 1
         }
       ],
       "Mulheres e inclusão": [
-        {
-          "t": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-          "c": "Projeto",
-          "v": 258
-        },
         {
           "t": "Atividades físicas adaptadas e inclusão (AFAI)",
           "c": "Projeto",
@@ -314,11 +319,6 @@
         {
           "t": "Mulheres na Ciência",
           "c": "Curso",
-          "v": 28
-        },
-        {
-          "t": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvi",
-          "c": "Projeto",
           "v": 28
         },
         {
@@ -413,11 +413,6 @@
       ],
       "Robótica e cultura maker": [
         {
-          "t": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
-          "c": "Programa",
-          "v": 1290
-        },
-        {
           "t": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino",
           "c": "Programa",
           "v": 490
@@ -451,6 +446,11 @@
           "t": "SprintLab - Laboratório de Prototipação Acelerada",
           "c": "Programa",
           "v": 13
+        },
+        {
+          "t": "Programação Visual Criativa com Scratch + Arduino",
+          "c": "Curso",
+          "v": 12
         },
         {
           "t": "SmartIdea - Validação de Problemas e Ideias",
@@ -497,8 +497,8 @@
       "Software, dados e sistemas": 5,
       "Ciência e divulgação": 1,
       "Saúde e bem-estar": 5,
-      "Empreendedorismo e incubação": 3,
-      "Cultura e arte": 4,
+      "Empreendedorismo e incubação": 4,
+      "Cultura e arte": 5,
       "Mulheres e inclusão": 1,
       "Captação e ingresso": 1,
       "Robótica e cultura maker": 3
@@ -506,10 +506,67 @@
   },
   "temas": [
     {
+      "tema": "Empreendedorismo e incubação",
+      "acoes": 17,
+      "publico": 1513,
+      "pessoas": 777,
+      "coordenadores": [
+        {
+          "nome": "Emmanuel Marques Silva",
+          "slug": "emmanuel-marques-silva",
+          "n": 5
+        },
+        {
+          "nome": "Francisco José Casarim Rapchan",
+          "slug": "francisco-jose-casarim-rapchan",
+          "n": 3
+        },
+        {
+          "nome": "Felipe Frechiani de Oliveira",
+          "slug": "felipe-frechiani-de-oliveira",
+          "n": 3
+        },
+        {
+          "nome": "Gilmar Luiz Vassoler",
+          "slug": "gilmar-luiz-vassoler",
+          "n": 1
+        },
+        {
+          "nome": "Gilberto Neves Sudre Filho",
+          "slug": "gilberto-neves-sudre-filho",
+          "n": 1
+        },
+        {
+          "nome": "Victorio Albani de Carvalho",
+          "slug": "victorio-albani-de-carvalho",
+          "n": 1
+        }
+      ],
+      "exemplos": [
+        {
+          "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
+          "acao_id": "1116"
+        },
+        {
+          "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Comp",
+          "acao_id": "1261"
+        },
+        {
+          "titulo": "Curso de Pré-Incubação de Empreendimentos – modalidade Resid",
+          "acao_id": "1406"
+        },
+        {
+          "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+          "acao_id": "1426"
+        }
+      ],
+      "resumo": null
+    },
+    {
       "tema": "Robótica e cultura maker",
       "acoes": 14,
-      "publico": 2547,
-      "pessoas": 1526,
+      "publico": 1269,
+      "pessoas": 814,
       "coordenadores": [
         {
           "nome": "Richard Junior Manuel Godinez Tello",
@@ -519,16 +576,11 @@
         {
           "nome": "Moisés Savedra Omena",
           "slug": "moises-savedra-omena",
-          "n": 2
+          "n": 3
         },
         {
           "nome": "Rosilene de Sá Ribeiro",
           "slug": "rosilene-de-sa-ribeiro",
-          "n": 1
-        },
-        {
-          "nome": "Emmanuel Marques Silva",
-          "slug": "emmanuel-marques-silva",
           "n": 1
         },
         {
@@ -539,6 +591,11 @@
         {
           "nome": "Fidelis Zanetti de Castro",
           "slug": "fidelis-zanetti-de-castro",
+          "n": 1
+        },
+        {
+          "nome": "Felipe Frechiani de Oliveira",
+          "slug": "felipe-frechiani-de-oliveira",
           "n": 1
         }
       ],
@@ -552,15 +609,15 @@
           "acao_id": "2021"
         },
         {
-          "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
-          "acao_id": "3140"
-        },
-        {
           "titulo": "Lampex + empreendedor",
           "acao_id": "3431"
+        },
+        {
+          "titulo": "Laboratório IFMaker Serra: um ambiente colaborativo de apren",
+          "acao_id": "3567"
         }
       ],
-      "resumo": "Inclui iniciativas que integram robótica, automação e cultura maker, oferecendo espaços de prototipação, capacitação e desenvolvimento de soluções tecnológicas inovadoras."
+      "resumo": null
     },
     {
       "tema": "Captação e ingresso",
@@ -607,13 +664,13 @@
           "acao_id": "2591"
         }
       ],
-      "resumo": "Agrupa ações de divulgação institucional e preparação de estudantes para ingresso no ensino técnico e superior, por meio de visitas guiadas, palestras e atividades preparatórias."
+      "resumo": null
     },
     {
       "tema": "Mulheres e inclusão",
-      "acoes": 14,
-      "publico": 887,
-      "pessoas": 797,
+      "acoes": 12,
+      "publico": 601,
+      "pessoas": 561,
       "coordenadores": [
         {
           "nome": "Tatiane Policário Chagas",
@@ -664,68 +721,11 @@
           "acao_id": "2595"
         }
       ],
-      "resumo": "Reúne projetos que visam promover a equidade de gênero, inclusão social e acessibilidade, por meio de cursos, oficinas e programas voltados a mulheres, pessoas com deficiência e grupos vulneráveis."
-    },
-    {
-      "tema": "Empreendedorismo e incubação",
-      "acoes": 14,
-      "publico": 475,
-      "pessoas": 436,
-      "coordenadores": [
-        {
-          "nome": "Emmanuel Marques Silva",
-          "slug": "emmanuel-marques-silva",
-          "n": 5
-        },
-        {
-          "nome": "Francisco José Casarim Rapchan",
-          "slug": "francisco-jose-casarim-rapchan",
-          "n": 3
-        },
-        {
-          "nome": "Felipe Frechiani de Oliveira",
-          "slug": "felipe-frechiani-de-oliveira",
-          "n": 2
-        },
-        {
-          "nome": "Gilberto Neves Sudre Filho",
-          "slug": "gilberto-neves-sudre-filho",
-          "n": 1
-        },
-        {
-          "nome": "Victorio Albani de Carvalho",
-          "slug": "victorio-albani-de-carvalho",
-          "n": 1
-        },
-        {
-          "nome": "Wagner Teixeira da Costa",
-          "slug": "wagner-teixeira-da-costa",
-          "n": 1
-        }
-      ],
-      "exemplos": [
-        {
-          "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
-          "acao_id": "1116"
-        },
-        {
-          "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Comp",
-          "acao_id": "1261"
-        },
-        {
-          "titulo": "Curso de Pré-Incubação de Empreendimentos – modalidade Resid",
-          "acao_id": "1406"
-        },
-        {
-          "titulo": "Academia Cisco nas Escolas Municipais da Serra - ES",
-          "acao_id": "1818"
-        }
-      ],
-      "resumo": "Compreende ações que fomentam a cultura empreendedora, oferecendo capacitação, assessoria e infraestrutura para o desenvolvimento de novos negócios, além de incubação de empreendimentos inovadores."
+      "resumo": null
     },
     {
       "tema": "Cultura e arte",
-      "acoes": 11,
+      "acoes": 12,
       "publico": 318,
       "pessoas": 195,
       "coordenadores": [
@@ -737,6 +737,11 @@
         {
           "nome": "Ana Paula Klauck",
           "slug": "ana-paula-klauck",
+          "n": 2
+        },
+        {
+          "nome": "Moisés Savedra Omena",
+          "slug": "moises-savedra-omena",
           "n": 2
         },
         {
@@ -752,11 +757,6 @@
         {
           "nome": "Carlos Lins Borges Azevedo",
           "slug": "carlos-lins-borges-azevedo",
-          "n": 1
-        },
-        {
-          "nome": "Amarildo Mendes Lemos",
-          "slug": "amarildo-mendes-lemos",
           "n": 1
         }
       ],
@@ -778,7 +778,7 @@
           "acao_id": "2505"
         }
       ],
-      "resumo": "Inclui iniciativas que incentivam a produção cultural, artística e tecnológica, como maratonas de programação, eventos audiovisuais e projetos que integram arte, ciência e inovação."
+      "resumo": null
     },
     {
       "tema": "Saúde e bem-estar",
@@ -830,7 +830,7 @@
           "acao_id": "1847"
         }
       ],
-      "resumo": "Abrange projetos que promovem saúde mental, capacitação em tecnologias digitais e iniciativas de suporte à saúde pública, com foco em prevenção, monitoramento e desenvolvimento de soluções tecnológicas para atenção primária."
+      "resumo": null
     },
     {
       "tema": "Outros / formação",
@@ -859,7 +859,7 @@
           "acao_id": "1838"
         }
       ],
-      "resumo": "Inclui iniciativas voltadas ao desenvolvimento de competências técnicas e administrativas, como cursos profissionalizantes e ambientes de simulação empresarial, visando preparar estudantes e comunidade para o mercado de trabalho e empreendedorismo."
+      "resumo": null
     },
     {
       "tema": "Software, dados e sistemas",
@@ -916,7 +916,7 @@
           "acao_id": "2823"
         }
       ],
-      "resumo": "Foca no desenvolvimento de soluções tecnológicas, como aplicativos, plataformas digitais e sistemas de informação, com ênfase em inovação e aplicações práticas para a sociedade."
+      "resumo": null
     },
     {
       "tema": "Escola e formação de professores",
@@ -936,7 +936,7 @@
           "acao_id": "2773"
         }
       ],
-      "resumo": "Compreende projetos voltados à formação docente e à melhoria das práticas pedagógicas, com foco em didática, técnicas de ensino e ambientação pedagógica."
+      "resumo": null
     },
     {
       "tema": "Ciência e divulgação",
@@ -956,7 +956,7 @@
           "acao_id": "1795"
         }
       ],
-      "resumo": "Dedica-se à popularização da ciência e à promoção de projetos que disseminam conhecimento científico e tecnológico para a comunidade em geral."
+      "resumo": null
     }
   ]
 }

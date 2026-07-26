@@ -1,0 +1,95 @@
+{
+  "slug": "emanuel-medeiros-claudino",
+  "nome": "Emanuel Medeiros Claudino",
+  "resumo_ia": null,
+  "anos": [
+    "2019"
+  ],
+  "funcoes": [
+    "ALUNO(A) VOLUNTARIO"
+  ],
+  "acoes_coordenadas": [],
+  "participacoes_equipe": [
+    {
+      "acao_id": "2786",
+      "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 12,
+      "pub": 1,
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ]
+    }
+  ],
+  "atividades": [
+    {
+      "ano": "2019",
+      "atividade_id": "9580",
+      "acao_id": "2786",
+      "atividade": "My Pay: Um ERP em nuvem para foodtrucks",
+      "pub": 1
+    }
+  ],
+  "imp_coord": 0,
+  "imp_eq": 1,
+  "impacto": 1,
+  "temas": [
+    {
+      "tema": "Empreendedorismo e incubação",
+      "n": 1
+    }
+  ],
+  "colaboradores": [
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vinicius Freitas Rocha",
+      "slug": "vinicius-freitas-rocha",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jackson Willian Silva Agostinho",
+      "slug": "jackson-willian-silva-agostinho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luiz Antonio Roque Guzzo",
+      "slug": "luiz-antonio-roque-guzzo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marcos Antonio Carneiro de Paula",
+      "slug": "marcos-antonio-carneiro-de-paula",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Couto Rodrigues",
+      "slug": "eduardo-couto-rodrigues",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Icaro Gandine Fialho Weiler",
+      "slug": "icaro-gandine-fialho-weiler",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gustavo Matozinho Lima",
+      "slug": "gustavo-matozinho-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tarcisio Bruni Rangel",
+      "slug": "tarcisio-bruni-rangel",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tadeu da Penha Moraes Junior",
+      "slug": "tadeu-da-penha-moraes-junior",
+      "acoes_comuns": 1
+    }
+  ]
+}

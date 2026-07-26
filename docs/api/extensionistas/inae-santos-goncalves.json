@@ -1,7 +1,7 @@
 {
   "slug": "inae-santos-goncalves",
   "nome": "Inaê Santos Gonçalves",
-  "resumo_ia": "Atuou como aluna bolsista no projeto Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional em 2022.",
+  "resumo_ia": null,
   "anos": [
     "2022"
   ],
@@ -25,13 +25,6 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "19157",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "19160",
       "acao_id": "4033",
       "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
@@ -46,16 +39,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "13927",
+      "atividade_id": "19176",
       "acao_id": "4033",
-      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "atividade": "Realização de análises cromatográficas de frutos",
       "pub": 0
     },
     {
       "ano": "2022",
-      "atividade_id": "19176",
+      "atividade_id": "19172",
       "acao_id": "4033",
-      "atividade": "Realização de análises cromatográficas de frutos",
+      "atividade": "Gravação de uma reportagem para o Jornal do Campo da TV Gazeta",
       "pub": 0
     },
     {
@@ -67,9 +60,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19172",
+      "atividade_id": "13927",
       "acao_id": "4033",
-      "atividade": "Gravação de uma reportagem para o Jornal do Campo da TV Gazeta",
+      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19157",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
       "pub": 0
     }
   ],

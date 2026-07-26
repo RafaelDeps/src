@@ -1,15 +1,28 @@
 {
   "slug": "caio-abelar-kinupp-monteiro",
   "nome": "Caio Abelar Kinupp Monteiro",
-  "resumo_ia": "Atuou como aluno(a) voluntário(a) na equipe do Desafio Ifes de Negócios Socais em 2015, participando de atividades extensionistas voltadas ao empreendedorismo social.",
+  "resumo_ia": null,
   "anos": [
-    "2015"
+    "2015",
+    "2017"
   ],
   "funcoes": [
-    "ALUNO(A) VOLUNTARIO"
+    "ALUNO(A) VOLUNTARIO",
+    "COLABORADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "1426",
+      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "tipo": "Evento",
+      "ano": "2017",
+      "n": 1062,
+      "pub": 366,
+      "funcoes": [
+        "COLABORADOR(A)"
+      ]
+    },
     {
       "acao_id": "569",
       "titulo": "Desafio Ifes de Negócios Socais",
@@ -24,6 +37,13 @@
   ],
   "atividades": [
     {
+      "ano": "2017",
+      "atividade_id": "4211",
+      "acao_id": "1426",
+      "atividade": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "pub": 0
+    },
+    {
       "ano": "2015",
       "atividade_id": "1271",
       "acao_id": "569",
@@ -36,11 +56,120 @@
   "impacto": 0,
   "temas": [
     {
+      "tema": "Empreendedorismo e incubação",
+      "n": 1
+    },
+    {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
+    {
+      "nome": "Gilmar Luiz Vassoler",
+      "slug": "gilmar-luiz-vassoler",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ketter Zuchi Caliari Miranda",
+      "slug": "ketter-zuchi-caliari-miranda",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Vieira Motta",
+      "slug": "rafael-vieira-motta",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Yasmim da Silva Nunes",
+      "slug": "yasmim-da-silva-nunes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago da Costa Freitas",
+      "slug": "thiago-da-costa-freitas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Pedro Mathias Nakibar",
+      "slug": "pedro-mathias-nakibar",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tarcisio Bruni Rangel",
+      "slug": "tarcisio-bruni-rangel",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "David Pantaleão Vilaça",
+      "slug": "david-pantaleao-vilaca",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ramon Kazushi Cossual Sakurada",
+      "slug": "ramon-kazushi-cossual-sakurada",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Afonso dos Anjos",
+      "slug": "rafael-afonso-dos-anjos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "João Carlos Pandolfi Santana",
+      "slug": "joao-carlos-pandolfi-santana",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tiago Ribeiro Santos",
+      "slug": "tiago-ribeiro-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gary Moura da Silva",
+      "slug": "gary-moura-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabrielle Azevedo Barros da Cunha Duda",
+      "slug": "gabrielle-azevedo-barros-da-cunha-duda",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Rampinelli Gloria",
+      "slug": "emanuel-rampinelli-gloria",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vitor Soares Salzman",
+      "slug": "vitor-soares-salzman",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "José Guilherme Silva de Lima",
+      "slug": "jose-guilherme-silva-de-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Higor Martins Rebello",
+      "slug": "higor-martins-rebello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduarda Rodrigues Simões",
+      "slug": "eduarda-rodrigues-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Brunna Dalzini de Oliveira",
+      "slug": "brunna-dalzini-de-oliveira",
+      "acoes_comuns": 1
+    },
     {
       "nome": "Rodrigo Fernandes Calhau",
       "slug": "rodrigo-fernandes-calhau",

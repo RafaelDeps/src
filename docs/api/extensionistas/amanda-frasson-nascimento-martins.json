@@ -1,7 +1,7 @@
 {
   "slug": "amanda-frasson-nascimento-martins",
   "nome": "Amanda Frasson Nascimento Martins",
-  "resumo_ia": "Colaborou como apoio técnico na equipe 'Conectando Talentos: Robótica e Programação no IFES-Serra' em 2024, atuando em ações de extensão na área de robótica e programação.",
+  "resumo_ia": null,
   "anos": [
     "2024"
   ],
@@ -27,17 +27,17 @@
   "atividades": [
     {
       "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
-    },
-    {
-      "ano": "2024",
       "atividade_id": "20161",
       "acao_id": "5086",
       "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 51
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     }
   ],
   "imp_coord": 0,

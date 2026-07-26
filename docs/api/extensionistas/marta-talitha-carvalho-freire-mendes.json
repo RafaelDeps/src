@@ -1,7 +1,7 @@
 {
   "slug": "marta-talitha-carvalho-freire-mendes",
   "nome": "Marta Talitha Carvalho Freire Mendes",
-  "resumo_ia": "Coordenou os projetos 'Letramento Tecnológico para Idosos' em 2023 e 'Portal de Comunicação para Denunciar Casos de Violência Contra a Pessoas Idosas' em 2024, além de integrar o comitê gestor do projeto 'Conectando Talentos: Robótica e Programação no IFES-Serra' em 2024.",
+  "resumo_ia": null,
   "anos": [
     "2023",
     "2024"
@@ -43,17 +43,17 @@
   "atividades": [
     {
       "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
-    },
-    {
-      "ano": "2024",
       "atividade_id": "20161",
       "acao_id": "5086",
       "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 51
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     }
   ],
   "imp_coord": 0,

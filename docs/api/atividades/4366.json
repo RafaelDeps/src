@@ -1,0 +1,18 @@
+{
+  "atividade_id": "4366",
+  "numero": "002",
+  "atividade": "Mesa Redonda com os alunos egressos",
+  "acao_id": "1426",
+  "acao_titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+  "processo": "23158.001525/2017-21",
+  "coordenador_acao": "Gilmar Luiz Vassoler",
+  "publico_alvo": {
+    "total": 9,
+    "aprovados": 9,
+    "certificados": 9,
+    "situacao": {
+      "APROVADO": 9
+    }
+  },
+  "equipe_execucao": []
+}

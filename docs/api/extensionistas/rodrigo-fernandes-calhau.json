@@ -1,7 +1,7 @@
 {
   "slug": "rodrigo-fernandes-calhau",
   "nome": "Rodrigo Fernandes Calhau",
-  "resumo_ia": "Coordenou o Desafio Ifes de Negócios Sociais em 2015 e o projeto Sistema de Informação para Notificação, Captação, Distribuição de Órgãos em 2016. Também atuou como instrutor e coordenador em cursos de pré-incubação, além de participar como colaborador em projetos como Mutual Life, Stone Connection e SmartIdea entre 2016 e 2022.",
+  "resumo_ia": null,
   "anos": [
     "2015",
     "2016",
@@ -190,13 +190,6 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
-      "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "10343",
       "acao_id": "901",
       "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
@@ -208,6 +201,13 @@
       "acao_id": "901",
       "atividade": "Minicurso: Introdução a metodologia LEDS",
       "pub": 10
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "2297",
+      "acao_id": "901",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "pub": 0
     },
     {
       "ano": "2016",

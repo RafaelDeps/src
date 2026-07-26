@@ -1,7 +1,7 @@
 {
   "slug": "leticia-comissario-da-silva",
   "nome": "Leticia Comissario da Silva",
-  "resumo_ia": "Participou como aluna bolsista no projeto LabMaker Serra em 2023 e como bolsista e ministrante nos projetos LabMaker 4.0 em 2025 e Jovens Inventores em 2025.",
+  "resumo_ia": null,
   "anos": [
     "2023",
     "2025"
@@ -34,17 +34,6 @@
         "ALUNO(A) BOLSISTA",
         "MINISTRANTE"
       ]
-    },
-    {
-      "acao_id": "5677",
-      "titulo": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "tipo": "Projeto",
-      "ano": "2025",
-      "n": 48,
-      "pub": 28,
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ]
     }
   ],
   "atividades": [
@@ -68,77 +57,51 @@
       "acao_id": "5641",
       "atividade": "Minicurso \"Manufatura Aditiva\"",
       "pub": 17
-    },
-    {
-      "ano": "2025",
-      "atividade_id": "21872",
-      "acao_id": "5677",
-      "atividade": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "pub": 28
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 45,
-  "impacto": 45,
+  "imp_eq": 17,
+  "impacto": 17,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 2
-    },
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Rosiane Ribeiro Rocha",
-      "slug": "rosiane-ribeiro-rocha",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Ícaro Lessa Secchin",
-      "slug": "icaro-lessa-secchin",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Flávio Garcia Pereira",
-      "slug": "flavio-garcia-pereira",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Julia Almeida Nascimento Lopes",
-      "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 3
-    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",
       "acoes_comuns": 2
     },
     {
-      "nome": "Marco Aurélio Tiago Filho",
-      "slug": "marco-aurelio-tiago-filho",
+      "nome": "Rosiane Ribeiro Rocha",
+      "slug": "rosiane-ribeiro-rocha",
       "acoes_comuns": 2
     },
     {
-      "nome": "Enzo Mandelli Pinheiro Rodrigues",
-      "slug": "enzo-mandelli-pinheiro-rodrigues",
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 2
     },
     {
-      "nome": "Enzo Medeiros Agnez",
-      "slug": "enzo-medeiros-agnez",
+      "nome": "Ícaro Lessa Secchin",
+      "slug": "icaro-lessa-secchin",
       "acoes_comuns": 2
     },
     {
       "nome": "Marcos Simão Guimarães",
       "slug": "marcos-simao-guimaraes",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Flávio Garcia Pereira",
+      "slug": "flavio-garcia-pereira",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Julia Almeida Nascimento Lopes",
+      "slug": "julia-almeida-nascimento-lopes",
       "acoes_comuns": 2
     },
     {
@@ -232,6 +195,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Marco Aurélio Tiago Filho",
+      "slug": "marco-aurelio-tiago-filho",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Nicolas Nasário Ferreira",
       "slug": "nicolas-nasario-ferreira",
       "acoes_comuns": 1
@@ -244,6 +212,16 @@
     {
       "nome": "Christofer de Oliveira Viana",
       "slug": "christofer-de-oliveira-viana",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Enzo Mandelli Pinheiro Rodrigues",
+      "slug": "enzo-mandelli-pinheiro-rodrigues",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Enzo Medeiros Agnez",
+      "slug": "enzo-medeiros-agnez",
       "acoes_comuns": 1
     },
     {
@@ -269,21 +247,6 @@
     {
       "nome": "João Vitor Oliveira Scheidegger",
       "slug": "joao-vitor-oliveira-scheidegger",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wallas Gusmão Thomas",
-      "slug": "wallas-gusmao-thomas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Henrique Nascimento Vieira",
-      "slug": "pedro-henrique-nascimento-vieira",
       "acoes_comuns": 1
     }
   ]

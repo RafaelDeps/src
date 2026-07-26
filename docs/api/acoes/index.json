@@ -139,7 +139,7 @@
     "natureza": "Extensão",
     "coordenador": "Gilmar Luiz Vassoler",
     "ano": "2017",
-    "total_participacoes": 0,
+    "total_participacoes": 1062,
     "url": "api/acoes/1426.json"
   },
   {
@@ -711,7 +711,7 @@
     "natureza": "Extensão",
     "coordenador": "Felipe Frechiani de Oliveira",
     "ano": "2019",
-    "total_participacoes": 0,
+    "total_participacoes": 12,
     "url": "api/acoes/2786.json"
   },
   {
@@ -832,7 +832,7 @@
     "natureza": "Extensão",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2020",
-    "total_participacoes": 1611,
+    "total_participacoes": 0,
     "url": "api/acoes/3140.json"
   },
   {
@@ -975,7 +975,7 @@
     "natureza": "Ensino",
     "coordenador": "Maikon Chaider Silva Scaldaferro",
     "ano": "2021",
-    "total_participacoes": 9,
+    "total_participacoes": 0,
     "url": "api/acoes/3526.json"
   },
   {
@@ -1382,7 +1382,7 @@
     "natureza": "Ensino",
     "coordenador": "Vinícius Secchin de Melo",
     "ano": "2023",
-    "total_participacoes": 17,
+    "total_participacoes": 0,
     "url": "api/acoes/4589.json"
   },
   {
@@ -1547,7 +1547,7 @@
     "natureza": "Extensão",
     "coordenador": "Adelson Pereira do Nascimento",
     "ano": "2024",
-    "total_participacoes": 0,
+    "total_participacoes": 14,
     "url": "api/acoes/4867.json"
   },
   {
@@ -1782,28 +1782,6 @@
     "url": "api/acoes/5646.json"
   },
   {
-    "acao_id": "5667",
-    "processo": "23158.001492/2025-29",
-    "titulo": "Semana destinada à Educação Especial Inclusiva no Campus Serra",
-    "tipo": "Evento",
-    "natureza": "Ensino",
-    "coordenador": "Emilene Coco dos Santos",
-    "ano": "2025",
-    "total_participacoes": 265,
-    "url": "api/acoes/5667.json"
-  },
-  {
-    "acao_id": "5677",
-    "processo": "23158.001703/2025-23",
-    "titulo": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-    "tipo": "Projeto",
-    "natureza": "Extensão",
-    "coordenador": "Richard Junior Manuel Godinez Tello",
-    "ano": "2025",
-    "total_participacoes": 48,
-    "url": "api/acoes/5677.json"
-  },
-  {
     "acao_id": "569",
     "processo": "23158.000717/2015-58",
     "titulo": "Desafio Ifes de Negócios Socais",
@@ -1813,105 +1791,6 @@
     "ano": "2015",
     "total_participacoes": 40,
     "url": "api/acoes/569.json"
-  },
-  {
-    "acao_id": "5852",
-    "processo": "23158.002622/2025-41",
-    "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-    "tipo": "Projeto",
-    "natureza": "Extensão",
-    "coordenador": "Emmanuel Marques Silva",
-    "ano": "2026",
-    "total_participacoes": 316,
-    "url": "api/acoes/5852.json"
-  },
-  {
-    "acao_id": "5907",
-    "processo": "23158.000346/2026-67",
-    "titulo": "Mulheres Mil - Eletricista Instalador Predial em Baixa Tensão",
-    "tipo": "Curso",
-    "natureza": "Extensão",
-    "coordenador": "Tatiane Policário Chagas",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/5907.json"
-  },
-  {
-    "acao_id": "5961",
-    "processo": "23158.000507/2026-12",
-    "titulo": "ASAS - Operador de Computador",
-    "tipo": "Curso",
-    "natureza": "Extensão",
-    "coordenador": "Tatiane Policário Chagas",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/5961.json"
-  },
-  {
-    "acao_id": "5974",
-    "processo": "23158.003135/2025-03",
-    "titulo": "Escrita de Material Instrucional",
-    "tipo": "Curso",
-    "natureza": "Ensino",
-    "coordenador": "Vinícius Secchin de Melo",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/5974.json"
-  },
-  {
-    "acao_id": "5988",
-    "processo": "23158.000367/2026-82",
-    "titulo": "English for Global Careers",
-    "tipo": "Curso",
-    "natureza": "Ensino",
-    "coordenador": "Giordana dos Santos Sperandio",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/5988.json"
-  },
-  {
-    "acao_id": "5989",
-    "processo": "23158.002189/2025-43",
-    "titulo": "I COLÓQUIO DE PRODUÇÃO E CRIATIVIDADE – CAMPUS SERRA",
-    "tipo": "Evento",
-    "natureza": "Ensino",
-    "coordenador": "Adrianna Machado Meneguelli",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/5989.json"
-  },
-  {
-    "acao_id": "6012",
-    "processo": "23158.002839/2025-51",
-    "titulo": "Oficina de Crochê Tramando",
-    "tipo": "Projeto",
-    "natureza": "Ensino",
-    "coordenador": "Alessandra Aguiar Vilarinho",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/6012.json"
-  },
-  {
-    "acao_id": "6059",
-    "processo": "23158.000710/2026-99",
-    "titulo": "Oficinas e Tutorias de Apoio às Disciplinas Curriculares na Perspectiva Inclusiva – NAPNE",
-    "tipo": "Projeto",
-    "natureza": "Ensino",
-    "coordenador": "Nauvia Maria Cancelieri",
-    "ano": "2026",
-    "total_participacoes": 9,
-    "url": "api/acoes/6059.json"
-  },
-  {
-    "acao_id": "6101",
-    "processo": "23158.000967/2026-41",
-    "titulo": "Oficina de Formação Profissional em Realidade Virtual para Jovens e Realizadores de Audiovisual na Serra",
-    "tipo": "Projeto",
-    "natureza": "Ensino",
-    "coordenador": "Celio Proliciano Maioli",
-    "ano": "2026",
-    "total_participacoes": 0,
-    "url": "api/acoes/6101.json"
   },
   {
     "acao_id": "6104",
@@ -1945,6 +1824,17 @@
     "ano": "2016",
     "total_participacoes": 0,
     "url": "api/acoes/617.json"
+  },
+  {
+    "acao_id": "6171",
+    "processo": "23158.001457/2026-91",
+    "titulo": "Tutoria de Estudos Orientados",
+    "tipo": "Programa",
+    "natureza": "Ensino",
+    "coordenador": "Bruno Ramos Gonzaga",
+    "ano": "2026",
+    "total_participacoes": 0,
+    "url": "api/acoes/6171.json"
   },
   {
     "acao_id": "628",
@@ -2042,7 +1932,7 @@
     "natureza": "Extensão",
     "coordenador": "Moisés Savedra Omena",
     "ano": "2016",
-    "total_participacoes": 0,
+    "total_participacoes": 21,
     "url": "api/acoes/719.json"
   },
   {
@@ -2053,7 +1943,7 @@
     "natureza": "Extensão",
     "coordenador": "Moisés Savedra Omena",
     "ano": "2016",
-    "total_participacoes": 0,
+    "total_participacoes": 5,
     "url": "api/acoes/723.json"
   },
   {

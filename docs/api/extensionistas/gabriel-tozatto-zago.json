@@ -1,7 +1,7 @@
 {
   "slug": "gabriel-tozatto-zago",
   "nome": "Gabriel Tozatto Zago",
-  "resumo_ia": "Coordenou o LabMaker Serra em 2023 e o projeto Cultura Impressa em 2025. Participou como colaborador no LabMaker Serra em 2023, membro do comitê gestor do Conectando Talentos em 2024 e instrutor na Semana de Controle e Automação em 2016.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2023",
@@ -80,13 +80,6 @@
   "atividades": [
     {
       "ano": "2023",
-      "atividade_id": "19698",
-      "acao_id": "4655",
-      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
       "atividade_id": "19697",
       "acao_id": "4655",
       "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
@@ -100,11 +93,11 @@
       "pub": 0
     },
     {
-      "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
+      "ano": "2023",
+      "atividade_id": "19698",
+      "acao_id": "4655",
+      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
+      "pub": 0
     },
     {
       "ano": "2024",
@@ -112,6 +105,13 @@
       "acao_id": "5086",
       "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 51
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     },
     {
       "ano": "2025",

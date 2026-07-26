@@ -1,15 +1,13 @@
 {
   "slug": "luma-tavares-lopes-de-souza",
   "nome": "Luma Tavares Lopes de Souza",
-  "resumo_ia": "Atuou como apoio técnico e colaboradora no projeto 'Conectando Talentos: Robótica e Programação no IFES-Serra' em 2024 e como extensionista no Serviço de Orientação Financeira (SOF) em 2026, participando de iniciativas de robótica, programação e orientação financeira.",
+  "resumo_ia": null,
   "anos": [
-    "2024",
-    "2026"
+    "2024"
   ],
   "funcoes": [
     "APOIO TÉCNICO",
-    "COLABORADOR(A)",
-    "EXTENSIONISTA"
+    "COLABORADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -24,27 +22,9 @@
         "APOIO TÉCNICO",
         "COLABORADOR(A)"
       ]
-    },
-    {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "tipo": "Projeto",
-      "ano": "2026",
-      "n": 316,
-      "pub": 227,
-      "funcoes": [
-        "EXTENSIONISTA"
-      ]
     }
   ],
   "atividades": [
-    {
-      "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
-    },
     {
       "ano": "2024",
       "atividade_id": "20161",
@@ -53,39 +33,23 @@
       "pub": 51
     },
     {
-      "ano": "2026",
-      "atividade_id": "22070",
-      "acao_id": "5852",
-      "atividade": "SOF - Serviço de Orientação Financeira",
-      "pub": 13
-    },
-    {
-      "ano": "2026",
-      "atividade_id": "22071",
-      "acao_id": "5852",
-      "atividade": "SOF - Serviço de Orientação Financeira",
-      "pub": 12
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 188,
-  "impacto": 188,
+  "imp_eq": 163,
+  "impacto": 163,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 1
-    },
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Thiago Almeida Deps Caldeira",
-      "slug": "thiago-almeida-deps-caldeira",
-      "acoes_comuns": 2
-    },
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
@@ -164,6 +128,11 @@
     {
       "nome": "Thiago Henrique Ezequiel dos Santos",
       "slug": "thiago-henrique-ezequiel-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Almeida Deps Caldeira",
+      "slug": "thiago-almeida-deps-caldeira",
       "acoes_comuns": 1
     },
     {
@@ -259,121 +228,6 @@
     {
       "nome": "Anyssa Satimi Komati Andrade",
       "slug": "anyssa-satimi-komati-andrade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jefferson Ribeiro de Lima",
-      "slug": "jefferson-ribeiro-de-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eglalciane de Lyrio Tongo",
-      "slug": "eglalciane-de-lyrio-tongo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandro Bermudes Gomes",
-      "slug": "alessandro-bermudes-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Juliano Antônio da Silveira",
-      "slug": "juliano-antonio-da-silveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irlane Schmidt da Silva Alves",
-      "slug": "irlane-schmidt-da-silva-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irene Schmidt da Silva Alves",
-      "slug": "irene-schmidt-da-silva-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mafe Mattos",
-      "slug": "mafe-mattos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thalison Vinícius Euzebio Ribeiro",
-      "slug": "thalison-vinicius-euzebio-ribeiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alex Rossoni Junior",
-      "slug": "alex-rossoni-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Guilherme de Souza Zottich",
-      "slug": "luiz-guilherme-de-souza-zottich",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Pedro Pagotto da Costa",
-      "slug": "joao-pedro-pagotto-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Laube Schwartz",
-      "slug": "gustavo-laube-schwartz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nicole Ribeiro Schayder da Silva",
-      "slug": "nicole-ribeiro-schayder-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
-      "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renata Baptista",
-      "slug": "renata-baptista",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Patricia Maria Bortolon",
-      "slug": "patricia-maria-bortolon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Carvalho Goularte",
-      "slug": "pedro-carvalho-goularte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Felipe Becalli Trindade",
-      "slug": "felipe-becalli-trindade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maycon Pequeno Silva",
-      "slug": "maycon-pequeno-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Borges Cabral",
-      "slug": "guilherme-borges-cabral",
       "acoes_comuns": 1
     }
   ]

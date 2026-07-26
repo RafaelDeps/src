@@ -1,7 +1,7 @@
 {
   "slug": "francisco-jose-casarim-rapchan",
   "nome": "Francisco José Casarim Rapchan",
-  "resumo_ia": "Coordenou programas de extensão como o Núcleo Incubador Campus Serra (NIS) em 2017, 2021 e 2025, além de atuar como mentor, professor e instrutor em iniciativas como Inova Serra, PCTec InovaSerra e IFMaker Serra entre 2017 e 2023.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2018",
@@ -152,10 +152,10 @@
     },
     {
       "ano": "2021",
-      "atividade_id": "19381",
+      "atividade_id": "19841",
       "acao_id": "3423",
       "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 40
+      "pub": 101
     },
     {
       "ano": "2021",
@@ -166,10 +166,10 @@
     },
     {
       "ano": "2021",
-      "atividade_id": "19841",
+      "atividade_id": "19381",
       "acao_id": "3423",
       "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 101
+      "pub": 40
     },
     {
       "ano": "2021",

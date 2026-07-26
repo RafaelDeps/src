@@ -1,7 +1,7 @@
 {
   "slug": "giovani-de-oliveira-silva-jr",
   "nome": "Giovani de Oliveira Silva Jr",
-  "resumo_ia": "Participou como expositor e palestrante no Programa Local Núcleo Incubador Campus Serra – NIS em 2017 e como palestrante no LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão em 2023.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2023"
@@ -39,20 +39,6 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "2877",
-      "acao_id": "1116",
-      "atividade": "Apresentação do projeto \"Motor a Combustão Interna Transparente - Translucidus\" no evento MEC SHOW 2016 - 9ª FEIRA DA METALMECÂNICA, ENERGIA E AUTOMAÇÃO.",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
-      "atividade_id": "3038",
-      "acao_id": "1116",
-      "atividade": "Congresso Internacional WFCP 2016 e 40ª Reditec realizado na Praça do Papa, em Vitória/ES",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
       "atividade_id": "3043",
       "acao_id": "1116",
       "atividade": "Palestra \"O Emprego do Motor Transparente no Aprimoramento Didático\" no evento Youth Camp 2016 realizado no Instituto Federal do Espírito Santo - Campus Serra",
@@ -63,6 +49,20 @@
       "atividade_id": "3042",
       "acao_id": "1116",
       "atividade": "Apresentação do projeto \"Motor a Combustão Interna Transparente - Translucidus\" no evento MEC SHOW 2015 - 8ª FEIRA DA METALMECÂNICA, ENERGIA E AUTOMAÇÃO.",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "2877",
+      "acao_id": "1116",
+      "atividade": "Apresentação do projeto \"Motor a Combustão Interna Transparente - Translucidus\" no evento MEC SHOW 2016 - 9ª FEIRA DA METALMECÂNICA, ENERGIA E AUTOMAÇÃO.",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "3038",
+      "acao_id": "1116",
+      "atividade": "Congresso Internacional WFCP 2016 e 40ª Reditec realizado na Praça do Papa, em Vitória/ES",
       "pub": 0
     },
     {

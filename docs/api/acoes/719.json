@@ -14,8 +14,82 @@
   "Data de cadastro": "29/06/2016",
   "Resumo": "O curso intitulado por Programação Visual Criativa com Scratch tem como base a ferramenta de programação visual Scratch. Sua concepção parte do pressuposto de que o aluno é o protagonista das ações e que elas proporcionam a construção do conhecimento. Assim o curso “Programando com Scratch”, busca viabilizar a troca de experiências e socialização de conhecimento.\n\nA presente proposta de curso surgiu como iniciativa da aluna do curso técnico de informática do IFES campus Serra, Mirleni de Jesus, que também atua como professora da disciplina de matemática da escola CEC - Centro Educacional Castelo. A motivação principal para a elaboração deste projeto deu-se durante suas aulas na referida escola, nas quais pôde observar que os alunos da instituição estudada costumam apresentar enorme dificuldade nos conceitos matemáticos relacionados à frações, equações do 1º grau, entre outros. Neste contexto, na tentativa de minimizar estas dificuldades apresentadas, a aluna do Ifes buscou, como ponto de partida, estudar alternativas que visem a melhorar o desempenho acadêmico na disciplina em questão por meio da utilização dos conceitos estudados em seu curso técnico.\n\nAssim, sob a orientação do Prof. Moisés Savedra Omena, professor do Ifes campus Serra, foi elaborada a matriz curricular do curso Programação Visual Criativa com Scratch, cuja proposta de extensão tem por objetivo estimular os alunos da escola CEC com desafios lógicos, com vistas a impactar de forma positiva o processo de reflexão, criatividade e busca de novas formas de aprendizagem/conhecimento. No desenvolver do projeto, pretende-se que os alunos compreendam tais conceitos de forma lúdica e prazerosa, alcançando êxito na absorção dos conteúdos e atividades propostas.\n\nO projeto Programação Visual Criativa com Scratch será realizado em 30 horas, distribuídas da seguinte forma:\n\na) em um primeiro momento, as aulas serão expositivas e interativas na medida em que os alunos participarem da solução e de desafios a respeito do conteúdo apresentado respectivamente;\n\nb) em um segundo momento as aulas serão interativas sob o auxilio do professor; Assim, o somatório de horas tanto do 1º quanto do 2º momento será de 15 horas cada, totalizando por fim às 30h do curso quando conclusos estes dois períodos.\n\nO projeto ocorrerá uma vez por semana com tempo de duração de 3 horas cada encontro. Inicialmente, será realizada uma reunião com os pais e/ou responsáveis dos 20 alunos pré-selecionados para uma explanação do projeto que será desenvolvido. O critério de avaliação (certificação) dos alunos será realizado através da assiduidade no projeto (mínimo de 23 horas), bem como por meio da conclusão da atividade proposta: “Labirinto com problemas matemáticos envolvendo os conteúdos de frações e equação do 1º grau”.\n\nO projeto também contará com a colaboração da Professora Alessandra Aguiar Vilarinho (IFES), do professor Ernani Leite Ribeiro Filho (IFES) e do professor Renato Eugenio da Mota (CEC). A discente supra",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 21,
+  "publico_alvo_total": 12,
+  "atividades": [
+    {
+      "atividade_id": "1560",
+      "numero": "001",
+      "atividade": "Programação Criativa com Scratch + Arduino",
+      "publico": 12,
+      "aprovados": 12,
+      "certificados": 12,
+      "equipe": 9
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Anne Caroline Silva",
+      "funcoes": [
+        "MINISTRANTE"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Cassiano Knsch das Neves",
+      "funcoes": [
+        "MINISTRANTE"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Irisson Junio Máximo Borges",
+      "funcoes": [
+        "MINISTRANTE"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marlon Woelffel Candoti",
+      "funcoes": [
+        "MINISTRANTE"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Mirleni de Jesus",
+      "funcoes": [
+        "MINISTRANTE"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

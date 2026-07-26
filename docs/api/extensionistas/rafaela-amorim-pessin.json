@@ -1,7 +1,7 @@
 {
   "slug": "rafaela-amorim-pessin",
   "nome": "Rafaela Amorim Pessin",
-  "resumo_ia": "Participou como aluna voluntária no projeto de predição de transtornos mentais em 2018 e como bolsista, expositora e palestrante no LEDS entre 2016.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2018"
@@ -49,9 +49,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10019",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Palestra: Apresentação de Projetos LEDS",
       "pub": 0
     },
     {
@@ -63,9 +63,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10019",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Palestra: Apresentação de Projetos LEDS",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],

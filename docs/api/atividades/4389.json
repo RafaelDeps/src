@@ -1,0 +1,18 @@
+{
+  "atividade_id": "4389",
+  "numero": "024",
+  "atividade": "Palestra: PicPay",
+  "acao_id": "1426",
+  "acao_titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+  "processo": "23158.001525/2017-21",
+  "coordenador_acao": "Gilmar Luiz Vassoler",
+  "publico_alvo": {
+    "total": 30,
+    "aprovados": 30,
+    "certificados": 30,
+    "situacao": {
+      "APROVADO": 30
+    }
+  },
+  "equipe_execucao": []
+}

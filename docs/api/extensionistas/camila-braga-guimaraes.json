@@ -1,7 +1,7 @@
 {
   "slug": "camila-braga-guimaraes",
   "nome": "Camila Braga Guimarães",
-  "resumo_ia": "Coordenou, instruiu e organizou o Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras em 2017, atuando em ações extensionistas de formação empreendedora.",
+  "resumo_ia": null,
   "anos": [
     "2017"
   ],
@@ -36,17 +36,17 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "3353",
-      "acao_id": "1261",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
-      "pub": 15
-    },
-    {
-      "ano": "2017",
       "atividade_id": "4819",
       "acao_id": "1261",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
       "pub": 9
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "3353",
+      "acao_id": "1261",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
+      "pub": 15
     }
   ],
   "imp_coord": 0,

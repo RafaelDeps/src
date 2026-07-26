@@ -1,7 +1,7 @@
 {
   "slug": "arthur-delpupo-coelho",
   "nome": "Arthur Delpupo Coelho",
-  "resumo_ia": "Participou como aluno(a) em atividade curricular no Programa Local Núcleo Incubador Campus Serra – NIS em 2021, como bolsista no projeto Pink Pepper Qualifier em 2022 e como aluno(a) em atividade curricular no projeto SmartIdea em 2022, atuando em ações de extensão.",
+  "resumo_ia": null,
   "anos": [
     "2021",
     "2022"
@@ -56,30 +56,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19181",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19167",
-      "acao_id": "4033",
-      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19170",
-      "acao_id": "4033",
-      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "19174",
       "acao_id": "4033",
       "atividade": "Implementação de algoritmos de redes neurais profundas voltadas para segmentação de imagens de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19179",
+      "acao_id": "4033",
+      "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 2",
       "pub": 0
     },
     {
@@ -91,6 +77,13 @@
     },
     {
       "ano": "2022",
+      "atividade_id": "19167",
+      "acao_id": "4033",
+      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 2",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "13927",
       "acao_id": "4033",
       "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
@@ -98,9 +91,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19179",
+      "atividade_id": "19181",
       "acao_id": "4033",
-      "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 2",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19170",
+      "acao_id": "4033",
+      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 2",
       "pub": 0
     },
     {

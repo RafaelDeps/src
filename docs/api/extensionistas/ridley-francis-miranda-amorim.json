@@ -1,7 +1,7 @@
 {
   "slug": "ridley-francis-miranda-amorim",
   "nome": "Ridley Francis Miranda Amorim",
-  "resumo_ia": "Participou como colaborador e coordenador adjunto do projeto 'Informática Básica Para Agentes Multiplicadores' em 2019, contribuindo com ações extensionistas voltadas à formação de agentes multiplicadores.",
+  "resumo_ia": null,
   "anos": [
     "2019"
   ],
@@ -27,16 +27,16 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10922",
+      "atividade_id": "9577",
       "acao_id": "2783",
-      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
+      "atividade": "Informática Básica Para Agentes Multiplicadores.",
       "pub": 16
     },
     {
       "ano": "2019",
-      "atividade_id": "9577",
+      "atividade_id": "10922",
       "acao_id": "2783",
-      "atividade": "Informática Básica Para Agentes Multiplicadores.",
+      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
       "pub": 16
     }
   ],

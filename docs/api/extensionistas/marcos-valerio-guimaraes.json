@@ -1,7 +1,7 @@
 {
   "slug": "marcos-valerio-guimaraes",
   "nome": "Marcos Valério Guimarães",
-  "resumo_ia": "Coordenou a área de audiovisual e atuou como instrutor no Circuito Audiovisual em 2019.",
+  "resumo_ia": null,
   "anos": [
     "2019"
   ],
@@ -34,10 +34,17 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10575",
+      "atividade_id": "10571",
       "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
+      "atividade": "Master Class de Optimização de Redes",
+      "pub": 7
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "8630",
+      "acao_id": "2505",
+      "atividade": "Circuito Audiovisual",
+      "pub": 0
     },
     {
       "ano": "2019",
@@ -48,10 +55,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10571",
+      "atividade_id": "10577",
       "acao_id": "2505",
-      "atividade": "Master Class de Optimização de Redes",
-      "pub": 7
+      "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
+      "pub": 16
     },
     {
       "ano": "2019",
@@ -69,17 +76,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "8630",
+      "atividade_id": "10575",
       "acao_id": "2505",
-      "atividade": "Circuito Audiovisual",
-      "pub": 0
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10577",
-      "acao_id": "2505",
-      "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
-      "pub": 16
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     }
   ],
   "imp_coord": 0,

@@ -1,7 +1,7 @@
 {
   "slug": "mateus-lannes-cunha",
   "nome": "Mateus Lannes Cunha",
-  "resumo_ia": "Atuou como aluno em atividade curricular e voluntário no SmartIdea - Validação de Problemas e Ideias em 2022, além de ser voluntário no SprintLab - Laboratório de Prototipação Acelerada no mesmo ano.",
+  "resumo_ia": null,
   "anos": [
     "2022"
   ],
@@ -38,17 +38,17 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "13928",
-      "acao_id": "4034",
-      "atividade": "SmartIdea - Validação de Problemas e Ideias",
-      "pub": 1
-    },
-    {
-      "ano": "2022",
       "atividade_id": "17192",
       "acao_id": "4034",
       "atividade": "Oficina de Low-Code",
       "pub": 2
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "13928",
+      "acao_id": "4034",
+      "atividade": "SmartIdea - Validação de Problemas e Ideias",
+      "pub": 1
     },
     {
       "ano": "2022",

@@ -1,7 +1,7 @@
 {
   "slug": "andre-spadetto-leao",
   "nome": "André Spadetto Leão",
-  "resumo_ia": "Engajou-se como aluno voluntário em dois projetos extensionistas em 2016: um sistema de monitoramento de temperatura para transporte de órgãos e no LEDS – Laboratório de Extensão em Desenvolvimento de Soluções.",
+  "resumo_ia": null,
   "anos": [
     "2016"
   ],
@@ -10,6 +10,17 @@
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "723",
+      "titulo": "Acorde Musical",
+      "tipo": "Projeto",
+      "ano": "2016",
+      "n": 5,
+      "pub": 0,
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ]
+    },
     {
       "acao_id": "848",
       "titulo": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
@@ -36,6 +47,13 @@
   "atividades": [
     {
       "ano": "2016",
+      "atividade_id": "1577",
+      "acao_id": "723",
+      "atividade": "Acorde Musical",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
       "atividade_id": "1939",
       "acao_id": "848",
       "atividade": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
@@ -54,6 +72,10 @@
   "impacto": 0,
   "temas": [
     {
+      "tema": "Cultura e arte",
+      "n": 1
+    },
+    {
       "tema": "Saúde e bem-estar",
       "n": 1
     },
@@ -63,6 +85,16 @@
     }
   ],
   "colaboradores": [
+    {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
+      "acoes_comuns": 2
+    },
     {
       "nome": "Carlos Lins Borges Azevedo",
       "slug": "carlos-lins-borges-azevedo",
@@ -77,6 +109,16 @@
       "nome": "Paulo Sérgio dos Santos Júnior",
       "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 2
+    },
+    {
+      "nome": "Juciéli Alves da Costa",
+      "slug": "jucieli-alves-da-costa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Aurélia Hubner Peixouto",
+      "slug": "aurelia-hubner-peixouto",
+      "acoes_comuns": 1
     },
     {
       "nome": "Antonione da Silva Mascarenhas Pinho",
@@ -269,11 +311,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Sergio Nery Simões",
       "slug": "sergio-nery-simoes",
       "acoes_comuns": 1
@@ -286,11 +323,6 @@
     {
       "nome": "Helen França Medeiros",
       "slug": "helen-franca-medeiros",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Magno Macedo de Oliveira",
-      "slug": "magno-macedo-de-oliveira",
       "acoes_comuns": 1
     },
     {

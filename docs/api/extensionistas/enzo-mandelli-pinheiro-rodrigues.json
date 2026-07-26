@@ -1,10 +1,9 @@
 {
   "slug": "enzo-mandelli-pinheiro-rodrigues",
   "nome": "Enzo Mandelli Pinheiro Rodrigues",
-  "resumo_ia": "Participou como aluno bolsista, voluntário e ministrante no LabMaker Serra em 2023, além de atuar como aluno voluntário no projeto Jovens Inventores em 2025.",
+  "resumo_ia": null,
   "anos": [
-    "2023",
-    "2025"
+    "2023"
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA",
@@ -25,17 +24,6 @@
         "ALUNO(A) VOLUNTARIO",
         "MINISTRANTE"
       ]
-    },
-    {
-      "acao_id": "5677",
-      "titulo": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "tipo": "Projeto",
-      "ano": "2025",
-      "n": 48,
-      "pub": 28,
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ]
     }
   ],
   "atividades": [
@@ -48,90 +36,42 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17046",
-      "acao_id": "4655",
-      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
       "atividade_id": "19700",
       "acao_id": "4655",
       "atividade": "Minicurso \"Manufatura Aditiva\" do Projeto SerraMaker: fomentando a cultura Maker no município da Serra",
       "pub": 16
     },
     {
-      "ano": "2025",
-      "atividade_id": "20756",
-      "acao_id": "5677",
-      "atividade": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
+      "ano": "2023",
+      "atividade_id": "17046",
+      "acao_id": "4655",
+      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
       "pub": 0
-    },
-    {
-      "ano": "2025",
-      "atividade_id": "21872",
-      "acao_id": "5677",
-      "atividade": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "pub": 28
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 44,
-  "impacto": 44,
+  "imp_eq": 16,
+  "impacto": 16,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 1
-    },
-    {
-      "tema": "Mulheres e inclusão",
       "n": 1
     }
   ],
   "colaboradores": [
     {
+      "nome": "Gabriel Tozatto Zago",
+      "slug": "gabriel-tozatto-zago",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Rosiane Ribeiro Rocha",
       "slug": "rosiane-ribeiro-rocha",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marco Aurélio Tiago Filho",
-      "slug": "marco-aurelio-tiago-filho",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Ícaro Lessa Secchin",
-      "slug": "icaro-lessa-secchin",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Enzo Medeiros Agnez",
-      "slug": "enzo-medeiros-agnez",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Flávio Garcia Pereira",
-      "slug": "flavio-garcia-pereira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Leticia Comissario da Silva",
-      "slug": "leticia-comissario-da-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Julia Almeida Nascimento Lopes",
-      "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Gabriel Tozatto Zago",
-      "slug": "gabriel-tozatto-zago",
       "acoes_comuns": 1
     },
     {
@@ -225,6 +165,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Marco Aurélio Tiago Filho",
+      "slug": "marco-aurelio-tiago-filho",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Nicolas Nasário Ferreira",
       "slug": "nicolas-nasario-ferreira",
       "acoes_comuns": 1
@@ -235,8 +180,18 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Ícaro Lessa Secchin",
+      "slug": "icaro-lessa-secchin",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Christofer de Oliveira Viana",
       "slug": "christofer-de-oliveira-viana",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Enzo Medeiros Agnez",
+      "slug": "enzo-medeiros-agnez",
       "acoes_comuns": 1
     },
     {
@@ -245,8 +200,18 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Flávio Garcia Pereira",
+      "slug": "flavio-garcia-pereira",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karin Satie Komati",
       "slug": "karin-satie-komati",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Leticia Comissario da Silva",
+      "slug": "leticia-comissario-da-silva",
       "acoes_comuns": 1
     },
     {
@@ -255,18 +220,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Wallas Gusmão Thomas",
-      "slug": "wallas-gusmao-thomas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Henrique Nascimento Vieira",
-      "slug": "pedro-henrique-nascimento-vieira",
+      "nome": "Julia Almeida Nascimento Lopes",
+      "slug": "julia-almeida-nascimento-lopes",
       "acoes_comuns": 1
     }
   ]

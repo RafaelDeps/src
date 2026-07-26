@@ -7,13 +7,6 @@
     "ano": "2017"
   },
   {
-    "acao_id": "1426",
-    "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
-    "tipo": "Evento",
-    "coordenador": "Gilmar Luiz Vassoler",
-    "ano": "2017"
-  },
-  {
     "acao_id": "1591",
     "titulo": "OFICINA  DE FÍSICA",
     "tipo": "Projeto",
@@ -91,13 +84,6 @@
     "ano": "2019"
   },
   {
-    "acao_id": "2786",
-    "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
-    "tipo": "Projeto",
-    "coordenador": "Felipe Frechiani de Oliveira",
-    "ano": "2019"
-  },
-  {
     "acao_id": "2799",
     "titulo": "I Encontro Cultural do Núcleo de Estudos Afro-Brasileiros e Indígenas : Debates e reflexões no Dia da Consciência Negra",
     "tipo": "Evento",
@@ -131,6 +117,20 @@
     "tipo": "Projeto",
     "coordenador": "Bruno Ramos Gonzaga",
     "ano": "2020"
+  },
+  {
+    "acao_id": "3140",
+    "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
+    "tipo": "Programa",
+    "coordenador": "Emmanuel Marques Silva",
+    "ano": "2020"
+  },
+  {
+    "acao_id": "3526",
+    "titulo": "A mitologia grega vista a partir da arte e da literatura",
+    "tipo": "Curso",
+    "coordenador": "Maikon Chaider Silva Scaldaferro",
+    "ano": "2021"
   },
   {
     "acao_id": "3553",
@@ -203,6 +203,13 @@
     "ano": "2023"
   },
   {
+    "acao_id": "4589",
+    "titulo": "Materiais Rodantes Ferroviários",
+    "tipo": "Curso",
+    "coordenador": "Vinícius Secchin de Melo",
+    "ano": "2023"
+  },
+  {
     "acao_id": "465",
     "titulo": "Workshop sobre as Ações de Internacionalização do Ifes",
     "tipo": "Evento",
@@ -229,13 +236,6 @@
     "tipo": "Evento",
     "coordenador": "Paulo Cezar Camargo Guedes",
     "ano": "2023"
-  },
-  {
-    "acao_id": "4867",
-    "titulo": "Empresa Morpheus Jr",
-    "tipo": "Programa",
-    "coordenador": "Adelson Pereira do Nascimento",
-    "ano": "2024"
   },
   {
     "acao_id": "4962",
@@ -315,55 +315,6 @@
     "ano": "2025"
   },
   {
-    "acao_id": "5907",
-    "titulo": "Mulheres Mil - Eletricista Instalador Predial em Baixa Tensão",
-    "tipo": "Curso",
-    "coordenador": "Tatiane Policário Chagas",
-    "ano": "2026"
-  },
-  {
-    "acao_id": "5961",
-    "titulo": "ASAS - Operador de Computador",
-    "tipo": "Curso",
-    "coordenador": "Tatiane Policário Chagas",
-    "ano": "2026"
-  },
-  {
-    "acao_id": "5974",
-    "titulo": "Escrita de Material Instrucional",
-    "tipo": "Curso",
-    "coordenador": "Vinícius Secchin de Melo",
-    "ano": "2026"
-  },
-  {
-    "acao_id": "5988",
-    "titulo": "English for Global Careers",
-    "tipo": "Curso",
-    "coordenador": "Giordana dos Santos Sperandio",
-    "ano": "2026"
-  },
-  {
-    "acao_id": "5989",
-    "titulo": "I COLÓQUIO DE PRODUÇÃO E CRIATIVIDADE – CAMPUS SERRA",
-    "tipo": "Evento",
-    "coordenador": "Adrianna Machado Meneguelli",
-    "ano": "2026"
-  },
-  {
-    "acao_id": "6012",
-    "titulo": "Oficina de Crochê Tramando",
-    "tipo": "Projeto",
-    "coordenador": "Alessandra Aguiar Vilarinho",
-    "ano": "2026"
-  },
-  {
-    "acao_id": "6101",
-    "titulo": "Oficina de Formação Profissional em Realidade Virtual para Jovens e Realizadores de Audiovisual na Serra",
-    "tipo": "Projeto",
-    "coordenador": "Celio Proliciano Maioli",
-    "ano": "2026"
-  },
-  {
     "acao_id": "6104",
     "titulo": "APEXT 2026 – Atendimentos Personalizados e Monitorias de Extensão Tecnológica",
     "tipo": "Projeto",
@@ -385,24 +336,17 @@
     "ano": "2016"
   },
   {
+    "acao_id": "6171",
+    "titulo": "Tutoria de Estudos Orientados",
+    "tipo": "Programa",
+    "coordenador": "Bruno Ramos Gonzaga",
+    "ano": "2026"
+  },
+  {
     "acao_id": "709",
     "titulo": "Let's Talk: Conversação em língua inglesa",
     "tipo": "Projeto",
     "coordenador": "Ana Paula Klauck",
-    "ano": "2016"
-  },
-  {
-    "acao_id": "719",
-    "titulo": "Programação Visual Criativa com Scratch + Arduino",
-    "tipo": "Curso",
-    "coordenador": "Moisés Savedra Omena",
-    "ano": "2016"
-  },
-  {
-    "acao_id": "723",
-    "titulo": "Acorde Musical",
-    "tipo": "Projeto",
-    "coordenador": "Moisés Savedra Omena",
     "ano": "2016"
   },
   {

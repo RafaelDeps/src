@@ -1,7 +1,7 @@
 {
   "slug": "marcos-simao-guimaraes",
   "nome": "Marcos Simão Guimarães",
-  "resumo_ia": "Colaborou no Programa Local Núcleo Incubador Campus Serra – NIS em 2017, coordenou o Curso de Pré-Incubação para Empreendedores em 2017 e integrou comitês gestores de projetos como o IFMaker Serra e LabMaker Serra entre 2021 e 2023.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2017",
@@ -137,13 +137,6 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "19698",
-      "acao_id": "4655",
-      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
       "atividade_id": "19697",
       "acao_id": "4655",
       "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
@@ -154,6 +147,13 @@
       "atividade_id": "17046",
       "acao_id": "4655",
       "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
+      "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19698",
+      "acao_id": "4655",
+      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
       "pub": 0
     },
     {

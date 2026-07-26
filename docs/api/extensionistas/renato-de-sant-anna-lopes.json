@@ -1,7 +1,7 @@
 {
   "slug": "renato-de-sant-anna-lopes",
   "nome": "Renato de Sant'anna Lopes",
-  "resumo_ia": "Renato de Sant'anna Lopes atuou como colaborador e expositor no LEDS – Laboratório de Extensão em Desenvolvimento de Soluções em 2016, além de participar como colaborador no projeto I Am Here: Registro de Frequência por Reconhecimento Facial em 2019.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2019"
@@ -46,16 +46,16 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10343",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
       "pub": 0
     },
     {
       "ano": "2016",
-      "atividade_id": "10343",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],

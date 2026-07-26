@@ -1,15 +1,28 @@
 {
   "slug": "gustavo-matozinho-lima",
   "nome": "Gustavo Matozinho Lima",
-  "resumo_ia": "Colaborador do LEDS – Laboratório de Extensão em Desenvolvimento de Soluções em 2016, participando de projetos extensionistas.",
+  "resumo_ia": null,
   "anos": [
-    "2016"
+    "2016",
+    "2019"
   ],
   "funcoes": [
+    "ALUNO(A) VOLUNTARIO",
     "COLABORADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "2786",
+      "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 12,
+      "pub": 1,
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ]
+    },
     {
       "acao_id": "901",
       "titulo": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
@@ -24,6 +37,13 @@
   ],
   "atividades": [
     {
+      "ano": "2019",
+      "atividade_id": "9580",
+      "acao_id": "2786",
+      "atividade": "My Pay: Um ERP em nuvem para foodtrucks",
+      "pub": 1
+    },
+    {
       "ano": "2016",
       "atividade_id": "2297",
       "acao_id": "901",
@@ -32,18 +52,63 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 0,
-  "impacto": 0,
+  "imp_eq": 1,
+  "impacto": 1,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 1
+      "n": 2
     }
   ],
   "colaboradores": [
     {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Marcos Antonio Carneiro de Paula",
+      "slug": "marcos-antonio-carneiro-de-paula",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Eduardo Couto Rodrigues",
+      "slug": "eduardo-couto-rodrigues",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Icaro Gandine Fialho Weiler",
+      "slug": "icaro-gandine-fialho-weiler",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Tarcisio Bruni Rangel",
+      "slug": "tarcisio-bruni-rangel",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Vinicius Freitas Rocha",
+      "slug": "vinicius-freitas-rocha",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jackson Willian Silva Agostinho",
+      "slug": "jackson-willian-silva-agostinho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luiz Antonio Roque Guzzo",
+      "slug": "luiz-antonio-roque-guzzo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Medeiros Claudino",
+      "slug": "emanuel-medeiros-claudino",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tadeu da Penha Moraes Junior",
+      "slug": "tadeu-da-penha-moraes-junior",
       "acoes_comuns": 1
     },
     {
@@ -97,16 +162,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Icaro Gandine Fialho Weiler",
-      "slug": "icaro-gandine-fialho-weiler",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eduardo Couto Rodrigues",
-      "slug": "eduardo-couto-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Matheus Kleber Rodrigues Barbosa",
       "slug": "matheus-kleber-rodrigues-barbosa",
       "acoes_comuns": 1
@@ -114,11 +169,6 @@
     {
       "nome": "Lucas Gomes Flegler",
       "slug": "lucas-gomes-flegler",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tarcisio Bruni Rangel",
-      "slug": "tarcisio-bruni-rangel",
       "acoes_comuns": 1
     },
     {
@@ -254,11 +304,6 @@
     {
       "nome": "Magno Macedo de Oliveira",
       "slug": "magno-macedo-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Antonio Carneiro de Paula",
-      "slug": "marcos-antonio-carneiro-de-paula",
       "acoes_comuns": 1
     },
     {

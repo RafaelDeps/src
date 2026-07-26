@@ -1,0 +1,18 @@
+{
+  "atividade_id": "4374",
+  "numero": "010",
+  "atividade": "Palestra: Teamwork com Git",
+  "acao_id": "1426",
+  "acao_titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+  "processo": "23158.001525/2017-21",
+  "coordenador_acao": "Gilmar Luiz Vassoler",
+  "publico_alvo": {
+    "total": 34,
+    "aprovados": 34,
+    "certificados": 34,
+    "situacao": {
+      "APROVADO": 34
+    }
+  },
+  "equipe_execucao": []
+}

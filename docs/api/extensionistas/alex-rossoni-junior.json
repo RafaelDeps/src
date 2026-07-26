@@ -1,171 +1,114 @@
 {
   "slug": "alex-rossoni-junior",
   "nome": "Alex Rossoni Junior",
-  "resumo_ia": "Atua como extensionista no Serviço de Orientação Financeira (SOF) da unidade Ifes Serra, com previsão de participação em 2026.",
+  "resumo_ia": null,
   "anos": [
-    "2026"
+    "2024"
   ],
   "funcoes": [
-    "EXTENSIONISTA"
+    "ALUNO(A) VOLUNTARIO"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
     {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "tipo": "Projeto",
-      "ano": "2026",
-      "n": 316,
-      "pub": 227,
+      "acao_id": "4867",
+      "titulo": "Empresa Morpheus Jr",
+      "tipo": "Programa",
+      "ano": "2024",
+      "n": 14,
+      "pub": 0,
       "funcoes": [
-        "EXTENSIONISTA"
+        "ALUNO(A) VOLUNTARIO"
       ]
     }
   ],
   "atividades": [
     {
-      "ano": "2026",
-      "atividade_id": "22251",
-      "acao_id": "5852",
-      "atividade": "Palestra promovida pelo LIEFIS: \"Compreendendo a Lei do Superendividamento\".",
-      "pub": 29
-    },
-    {
-      "ano": "2026",
-      "atividade_id": "22250",
-      "acao_id": "5852",
-      "atividade": "Palestra promovida pelo LIEFIS: \"Demandas emocionais e comportamentais no processo de endividamento\".",
-      "pub": 18
+      "ano": "2024",
+      "atividade_id": "17650",
+      "acao_id": "4867",
+      "atividade": "Empresa Morpheus Jr",
+      "pub": 0
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 47,
-  "impacto": 47,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
     {
-      "tema": "Mulheres e inclusão",
+      "tema": "Empreendedorismo e incubação",
       "n": 1
     }
   ],
   "colaboradores": [
     {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
+      "nome": "Adelson Pereira do Nascimento",
+      "slug": "adelson-pereira-do-nascimento",
       "acoes_comuns": 1
     },
     {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
+      "nome": "Larissa Batista Rangel",
+      "slug": "larissa-batista-rangel",
       "acoes_comuns": 1
     },
     {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
+      "nome": "Maressa Karen Henrique da Silva",
+      "slug": "maressa-karen-henrique-da-silva",
       "acoes_comuns": 1
     },
     {
-      "nome": "Jefferson Ribeiro de Lima",
-      "slug": "jefferson-ribeiro-de-lima",
+      "nome": "Thiago Augusto de Carvalho",
+      "slug": "thiago-augusto-de-carvalho",
       "acoes_comuns": 1
     },
     {
-      "nome": "Eglalciane de Lyrio Tongo",
-      "slug": "eglalciane-de-lyrio-tongo",
+      "nome": "Richard Lucas Pereira Nunes",
+      "slug": "richard-lucas-pereira-nunes",
       "acoes_comuns": 1
     },
     {
-      "nome": "Alessandro Bermudes Gomes",
-      "slug": "alessandro-bermudes-gomes",
+      "nome": "Paulo Vitor Callegari Dalvi",
+      "slug": "paulo-vitor-callegari-dalvi",
       "acoes_comuns": 1
     },
     {
-      "nome": "Juliano Antônio da Silveira",
-      "slug": "juliano-antonio-da-silveira",
+      "nome": "Samuel Ferreira Alves",
+      "slug": "samuel-ferreira-alves",
       "acoes_comuns": 1
     },
     {
-      "nome": "Irlane Schmidt da Silva Alves",
-      "slug": "irlane-schmidt-da-silva-alves",
+      "nome": "Ryan Lima Peçanha",
+      "slug": "ryan-lima-pecanha",
       "acoes_comuns": 1
     },
     {
-      "nome": "Irene Schmidt da Silva Alves",
-      "slug": "irene-schmidt-da-silva-alves",
+      "nome": "Lara Aguilar de Amorim",
+      "slug": "lara-aguilar-de-amorim",
       "acoes_comuns": 1
     },
     {
-      "nome": "Mafe Mattos",
-      "slug": "mafe-mattos",
+      "nome": "Amanda Ferreira Falcão",
+      "slug": "amanda-ferreira-falcao",
       "acoes_comuns": 1
     },
     {
-      "nome": "Luma Tavares Lopes de Souza",
-      "slug": "luma-tavares-lopes-de-souza",
+      "nome": "João Pedro Ribeiro Silva",
+      "slug": "joao-pedro-ribeiro-silva",
       "acoes_comuns": 1
     },
     {
-      "nome": "Thalison Vinícius Euzebio Ribeiro",
-      "slug": "thalison-vinicius-euzebio-ribeiro",
+      "nome": "Davi da Silva Alvarenga",
+      "slug": "davi-da-silva-alvarenga",
       "acoes_comuns": 1
     },
     {
-      "nome": "Thiago Almeida Deps Caldeira",
-      "slug": "thiago-almeida-deps-caldeira",
+      "nome": "Thiago Henrique Ezequiel dos Santos",
+      "slug": "thiago-henrique-ezequiel-dos-santos",
       "acoes_comuns": 1
     },
     {
-      "nome": "Luiz Guilherme de Souza Zottich",
-      "slug": "luiz-guilherme-de-souza-zottich",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Pedro Pagotto da Costa",
-      "slug": "joao-pedro-pagotto-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Laube Schwartz",
-      "slug": "gustavo-laube-schwartz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nicole Ribeiro Schayder da Silva",
-      "slug": "nicole-ribeiro-schayder-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
-      "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renata Baptista",
-      "slug": "renata-baptista",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Patricia Maria Bortolon",
-      "slug": "patricia-maria-bortolon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Carvalho Goularte",
-      "slug": "pedro-carvalho-goularte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Felipe Becalli Trindade",
-      "slug": "felipe-becalli-trindade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maycon Pequeno Silva",
-      "slug": "maycon-pequeno-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Borges Cabral",
-      "slug": "guilherme-borges-cabral",
+      "nome": "Vinicius da Hora Corte",
+      "slug": "vinicius-da-hora-corte",
       "acoes_comuns": 1
     }
   ]

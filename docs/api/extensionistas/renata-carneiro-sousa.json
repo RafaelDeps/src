@@ -1,7 +1,7 @@
 {
   "slug": "renata-carneiro-sousa",
   "nome": "Renata Carneiro Sousa",
-  "resumo_ia": "Participou como membro do comitê gestor em 2017 no 'Programa Local Núcleo Incubador Campus Serra – NIS' e atuou como instrutora em 2023 no 'LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão', ambos projetos de extensão do Ifes Campus Serra.",
+  "resumo_ia": null,
   "anos": [
     "2017",
     "2023"
@@ -38,14 +38,14 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "11585",
+      "atividade_id": "11586",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
       "ano": "2017",
-      "atividade_id": "11586",
+      "atividade_id": "11585",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0

@@ -1,7 +1,7 @@
 {
   "slug": "felipe-frechiani-de-oliveira",
   "nome": "Felipe Frechiani de Oliveira",
-  "resumo_ia": "Coordenou diversos programas e projetos de extensão entre 2016 e 2022, como LEDS, ES Na Palma da Mão e SprintLab, além de participar como membro de comitê gestor e colaborador em iniciativas como o Núcleo Incubador Campus Serra e o Sistema de apoio para rastreio de transtornos mentais.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2017",
@@ -51,8 +51,8 @@
       "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
       "tipo": "Projeto",
       "ano": "2019",
-      "n": 0,
-      "pub": 0
+      "n": 12,
+      "pub": 1
     },
     {
       "acao_id": "4215",
@@ -151,6 +151,17 @@
       ]
     },
     {
+      "acao_id": "2786",
+      "titulo": "My Pay: Um ERP em nuvem para foodtrucks",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 12,
+      "pub": 1,
+      "funcoes": [
+        "COORDENADOR(A)"
+      ]
+    },
+    {
       "acao_id": "3021",
       "titulo": "Stone Connection",
       "tipo": "Projeto",
@@ -246,14 +257,14 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "11585",
+      "atividade_id": "11586",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
       "ano": "2017",
-      "atividade_id": "11586",
+      "atividade_id": "11585",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
@@ -301,6 +312,13 @@
       "pub": 0
     },
     {
+      "ano": "2019",
+      "atividade_id": "9580",
+      "acao_id": "2786",
+      "atividade": "My Pay: Um ERP em nuvem para foodtrucks",
+      "pub": 1
+    },
+    {
       "ano": "2020",
       "atividade_id": "10681",
       "acao_id": "3021",
@@ -316,13 +334,6 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "13928",
-      "acao_id": "4034",
-      "atividade": "SmartIdea - Validação de Problemas e Ideias",
-      "pub": 1
-    },
-    {
-      "ano": "2022",
       "atividade_id": "17192",
       "acao_id": "4034",
       "atividade": "Oficina de Low-Code",
@@ -334,6 +345,13 @@
       "acao_id": "4034",
       "atividade": "Oficina de Design Sprint",
       "pub": 2
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "13928",
+      "acao_id": "4034",
+      "atividade": "SmartIdea - Validação de Problemas e Ideias",
+      "pub": 1
     },
     {
       "ano": "2022",
@@ -365,13 +383,6 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
-      "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "10343",
       "acao_id": "901",
       "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
@@ -386,17 +397,10 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "3212",
-      "acao_id": "912",
-      "atividade": "Banca de Apresentação do Trabalho Final de Curso do aluno Carlos de Melo Batista",
+      "atividade_id": "2297",
+      "acao_id": "901",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "2127",
-      "acao_id": "912",
-      "atividade": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
-      "pub": 3
     },
     {
       "ano": "2016",
@@ -411,15 +415,29 @@
       "acao_id": "912",
       "atividade": "Banca de Apresentação do Trabalho Final de Curso do aluno Renahn Pazini Marim",
       "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "3212",
+      "acao_id": "912",
+      "atividade": "Banca de Apresentação do Trabalho Final de Curso do aluno Carlos de Melo Batista",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "2127",
+      "acao_id": "912",
+      "atividade": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
+      "pub": 3
     }
   ],
-  "imp_coord": 44,
+  "imp_coord": 45,
   "imp_eq": 38,
-  "impacto": 82,
+  "impacto": 83,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 10
+      "n": 12
     },
     {
       "tema": "Software, dados e sistemas",
@@ -534,6 +552,16 @@
       "acoes_comuns": 3
     },
     {
+      "nome": "Tarcisio Bruni Rangel",
+      "slug": "tarcisio-bruni-rangel",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Marcos Antonio Carneiro de Paula",
+      "slug": "marcos-antonio-carneiro-de-paula",
+      "acoes_comuns": 3
+    },
+    {
       "nome": "Lucas Gomes Flegler",
       "slug": "lucas-gomes-flegler",
       "acoes_comuns": 3
@@ -614,16 +642,6 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Tarcisio Bruni Rangel",
-      "slug": "tarcisio-bruni-rangel",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marcos Antonio Carneiro de Paula",
-      "slug": "marcos-antonio-carneiro-de-paula",
-      "acoes_comuns": 2
-    },
-    {
       "nome": "David Pantaleão Vilaça",
       "slug": "david-pantaleao-vilaca",
       "acoes_comuns": 2
@@ -636,6 +654,21 @@
     {
       "nome": "Matheus Kleber Rodrigues Barbosa",
       "slug": "matheus-kleber-rodrigues-barbosa",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Eduardo Couto Rodrigues",
+      "slug": "eduardo-couto-rodrigues",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Icaro Gandine Fialho Weiler",
+      "slug": "icaro-gandine-fialho-weiler",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Gustavo Matozinho Lima",
+      "slug": "gustavo-matozinho-lima",
       "acoes_comuns": 2
     },
     {
@@ -856,6 +889,31 @@
     {
       "nome": "David de Moura Marques",
       "slug": "david-de-moura-marques",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vinicius Freitas Rocha",
+      "slug": "vinicius-freitas-rocha",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jackson Willian Silva Agostinho",
+      "slug": "jackson-willian-silva-agostinho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luiz Antonio Roque Guzzo",
+      "slug": "luiz-antonio-roque-guzzo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Medeiros Claudino",
+      "slug": "emanuel-medeiros-claudino",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tadeu da Penha Moraes Junior",
+      "slug": "tadeu-da-penha-moraes-junior",
       "acoes_comuns": 1
     },
     {
@@ -1171,21 +1229,6 @@
     {
       "nome": "Renato de Sant'anna Lopes",
       "slug": "renato-de-sant-anna-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Icaro Gandine Fialho Weiler",
-      "slug": "icaro-gandine-fialho-weiler",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eduardo Couto Rodrigues",
-      "slug": "eduardo-couto-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Matozinho Lima",
-      "slug": "gustavo-matozinho-lima",
       "acoes_comuns": 1
     },
     {

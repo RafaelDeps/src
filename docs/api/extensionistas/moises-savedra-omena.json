@@ -1,7 +1,7 @@
 {
   "slug": "moises-savedra-omena",
   "nome": "Moisés Savedra Omena",
-  "resumo_ia": "Coordenou e participou de múltiplos projetos e cursos entre 2015 e 2022, como 'Programação Visual Criativa com Scratch', 'Sistema para predição de transtornos mentais' e 'SmartIdea', além de atuar como organizador e colaborador em ações de extensão, com foco em empreendedorismo, tecnologia e saúde.",
+  "resumo_ia": null,
   "anos": [
     "2015",
     "2016",
@@ -80,15 +80,15 @@
       "titulo": "Programação Visual Criativa com Scratch + Arduino",
       "tipo": "Curso",
       "ano": "2016",
-      "n": 0,
-      "pub": 0
+      "n": 21,
+      "pub": 12
     },
     {
       "acao_id": "723",
       "titulo": "Acorde Musical",
       "tipo": "Projeto",
       "ano": "2016",
-      "n": 0,
+      "n": 5,
       "pub": 0
     },
     {
@@ -245,6 +245,28 @@
       ]
     },
     {
+      "acao_id": "719",
+      "titulo": "Programação Visual Criativa com Scratch + Arduino",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 21,
+      "pub": 12,
+      "funcoes": [
+        "COORDENADOR(A)"
+      ]
+    },
+    {
+      "acao_id": "723",
+      "titulo": "Acorde Musical",
+      "tipo": "Projeto",
+      "ano": "2016",
+      "n": 5,
+      "pub": 0,
+      "funcoes": [
+        "COORDENADOR(A)"
+      ]
+    },
+    {
       "acao_id": "849",
       "titulo": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
       "tipo": "Projeto",
@@ -319,13 +341,6 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "13928",
-      "acao_id": "4034",
-      "atividade": "SmartIdea - Validação de Problemas e Ideias",
-      "pub": 1
-    },
-    {
-      "ano": "2022",
       "atividade_id": "17192",
       "acao_id": "4034",
       "atividade": "Oficina de Low-Code",
@@ -337,6 +352,13 @@
       "acao_id": "4034",
       "atividade": "Oficina de Design Sprint",
       "pub": 2
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "13928",
+      "acao_id": "4034",
+      "atividade": "SmartIdea - Validação de Problemas e Ideias",
+      "pub": 1
     },
     {
       "ano": "2022",
@@ -375,6 +397,20 @@
     },
     {
       "ano": "2016",
+      "atividade_id": "1560",
+      "acao_id": "719",
+      "atividade": "Programação Criativa com Scratch + Arduino",
+      "pub": 12
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1577",
+      "acao_id": "723",
+      "atividade": "Acorde Musical",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
       "atividade_id": "1940",
       "acao_id": "849",
       "atividade": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
@@ -388,9 +424,9 @@
       "pub": 0
     }
   ],
-  "imp_coord": 30,
+  "imp_coord": 42,
   "imp_eq": 40,
-  "impacto": 70,
+  "impacto": 82,
   "temas": [
     {
       "tema": "Saúde e bem-estar",
@@ -398,11 +434,11 @@
     },
     {
       "tema": "Robótica e cultura maker",
-      "n": 5
+      "n": 7
     },
     {
       "tema": "Cultura e arte",
-      "n": 5
+      "n": 7
     },
     {
       "tema": "Ciência e divulgação",
@@ -444,8 +480,18 @@
       "acoes_comuns": 4
     },
     {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 4
+    },
+    {
       "nome": "Helen França Medeiros",
       "slug": "helen-franca-medeiros",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
       "acoes_comuns": 3
     },
     {
@@ -459,13 +505,18 @@
       "acoes_comuns": 3
     },
     {
+      "nome": "Anne Caroline Silva",
+      "slug": "anne-caroline-silva",
+      "acoes_comuns": 3
+    },
+    {
       "nome": "Carlos Lins Borges Azevedo",
       "slug": "carlos-lins-borges-azevedo",
       "acoes_comuns": 3
     },
     {
-      "nome": "Ernani Leite Ribeiro Filho",
-      "slug": "ernani-leite-ribeiro-filho",
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 3
     },
     {
@@ -486,16 +537,6 @@
     {
       "nome": "Sandro de Freitas Nascimento",
       "slug": "sandro-de-freitas-nascimento",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Magno Macedo de Oliveira",
-      "slug": "magno-macedo-de-oliveira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
       "acoes_comuns": 2
     },
     {
@@ -529,8 +570,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
+      "nome": "Mirleni de Jesus",
+      "slug": "mirleni-de-jesus",
       "acoes_comuns": 2
     },
     {
@@ -549,8 +590,23 @@
       "acoes_comuns": 2
     },
     {
+      "nome": "Aurélia Hubner Peixouto",
+      "slug": "aurelia-hubner-peixouto",
+      "acoes_comuns": 2
+    },
+    {
       "nome": "Marcos Vinícius Forecchi Accioly",
       "slug": "marcos-vinicius-forecchi-accioly",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "André Spadetto Leão",
+      "slug": "andre-spadetto-leao",
       "acoes_comuns": 2
     },
     {
@@ -799,11 +855,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Mirleni de Jesus",
-      "slug": "mirleni-de-jesus",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Renato Eugênio da Mota",
       "slug": "renato-eugenio-da-mota",
       "acoes_comuns": 1
@@ -939,11 +990,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Aurélia Hubner Peixouto",
-      "slug": "aurelia-hubner-peixouto",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Leticia Schulthais Senna",
       "slug": "leticia-schulthais-senna",
       "acoes_comuns": 1
@@ -1029,6 +1075,26 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Cassiano Knsch das Neves",
+      "slug": "cassiano-knsch-das-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Irisson Junio Máximo Borges",
+      "slug": "irisson-junio-maximo-borges",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Juciéli Alves da Costa",
+      "slug": "jucieli-alves-da-costa",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Sarah Silva Ferreira",
       "slug": "sarah-silva-ferreira",
       "acoes_comuns": 1
@@ -1084,11 +1150,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Diego Pasti",
       "slug": "diego-pasti",
       "acoes_comuns": 1
@@ -1126,11 +1187,6 @@
     {
       "nome": "Brendon Mauro",
       "slug": "brendon-mauro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "André Spadetto Leão",
-      "slug": "andre-spadetto-leao",
       "acoes_comuns": 1
     },
     {

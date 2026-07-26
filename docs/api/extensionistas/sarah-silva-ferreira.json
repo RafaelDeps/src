@@ -1,7 +1,7 @@
 {
   "slug": "sarah-silva-ferreira",
   "nome": "Sarah Silva Ferreira",
-  "resumo_ia": "Atuou como aluno(a) voluntário nas equipes Mulheres na Ciência (2018) e I Am Here: Registro de Frequência por Reconhecimento Facial (2019), além de auxiliar técnico e expositor(a) no LEDS – Laboratório de Extensão em Desenvolvimento de Soluções em 2016.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2018",
@@ -66,16 +66,16 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10343",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
       "pub": 0
     },
     {
       "ano": "2016",
-      "atividade_id": "10343",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],

@@ -1,7 +1,7 @@
 {
   "slug": "herlane-de-souza-dos-santos",
   "nome": "Herlane de Souza dos Santos",
-  "resumo_ia": "Atuou como aluno(a) voluntário no Ifes Portas Abertas em 2018 e como palestrante no LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão em 2023.",
+  "resumo_ia": null,
   "anos": [
     "2018",
     "2023"
@@ -38,6 +38,20 @@
   "atividades": [
     {
       "ano": "2018",
+      "atividade_id": "14469",
+      "acao_id": "2107",
+      "atividade": "Visita CEEFMTI Joaquim Beato",
+      "pub": 36
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14467",
+      "acao_id": "2107",
+      "atividade": "Visita EMEF Jonas Farias 1",
+      "pub": 9
+    },
+    {
+      "ano": "2018",
       "atividade_id": "14468",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 2",
@@ -52,24 +66,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14469",
-      "acao_id": "2107",
-      "atividade": "Visita CEEFMTI Joaquim Beato",
-      "pub": 36
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14466",
       "acao_id": "2107",
       "atividade": "Visita EEEF Francisco Alves Mendes",
       "pub": 65
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "14467",
-      "acao_id": "2107",
-      "atividade": "Visita EMEF Jonas Farias 1",
-      "pub": 9
     },
     {
       "ano": "2023",

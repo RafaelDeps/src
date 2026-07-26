@@ -1,7 +1,7 @@
 {
   "slug": "dirceu-soares-junior",
   "nome": "Dirceu Soares Júnior",
-  "resumo_ia": "Colaborou como membro do comitê gestor do Núcleo Incubador Campus Serra (NIS) em 2017, assessorou a Câmara de Assessoramento em Gestão e Tecnologia do NIS em 2016 e integrou a equipe do Curso de Pré-Incubação para Empreendedores em 2017.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2017"
@@ -51,13 +51,6 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "3048",
-      "acao_id": "1116",
-      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
       "atividade_id": "3049",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
@@ -68,6 +61,13 @@
       "atividade_id": "11584",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "3048",
+      "acao_id": "1116",
+      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {

@@ -8,10 +8,10 @@
   "nicho_definicao": "cluster temático derivado do título+resumo (temas.tema_de)",
   "impacto_definicao": "registros de público-alvo (atendimentos)",
   "totais": {
-    "iniciativas": 201,
-    "publico": 7938,
-    "participacoes": 10245,
-    "ativas": 50,
+    "iniciativas": 191,
+    "publico": 7139,
+    "participacoes": 9084,
+    "ativas": 40,
     "dormentes": 115,
     "intermediarias": 36
   },
@@ -19,19 +19,29 @@
     {
       "nicho": "Robótica e cultura maker",
       "iniciativas": 26,
-      "publico": 2823,
+      "publico": 1545,
       "ativas": 7,
-      "publico_ativo": 2028,
+      "publico_ativo": 738,
       "dormentes": 17,
-      "publico_dormente": 671,
+      "publico_dormente": 683,
       "intermediarias": 2
     },
     {
+      "nicho": "Empreendedorismo e incubação",
+      "iniciativas": 21,
+      "publico": 1532,
+      "ativas": 3,
+      "publico_ativo": 152,
+      "dormentes": 14,
+      "publico_dormente": 1356,
+      "intermediarias": 4
+    },
+    {
       "nicho": "Mulheres e inclusão",
-      "iniciativas": 36,
-      "publico": 1775,
-      "ativas": 17,
-      "publico_ativo": 1207,
+      "iniciativas": 30,
+      "publico": 1238,
+      "ativas": 11,
+      "publico_ativo": 670,
       "dormentes": 14,
       "publico_dormente": 361,
       "intermediarias": 5
@@ -48,9 +58,9 @@
     },
     {
       "nicho": "Cultura e arte",
-      "iniciativas": 38,
-      "publico": 512,
-      "ativas": 10,
+      "iniciativas": 36,
+      "publico": 504,
+      "ativas": 8,
       "publico_ativo": 97,
       "dormentes": 21,
       "publico_dormente": 346,
@@ -67,16 +77,6 @@
       "intermediarias": 0
     },
     {
-      "nicho": "Empreendedorismo e incubação",
-      "iniciativas": 21,
-      "publico": 494,
-      "ativas": 3,
-      "publico_ativo": 152,
-      "dormentes": 14,
-      "publico_dormente": 319,
-      "intermediarias": 4
-    },
-    {
       "nicho": "Saúde e bem-estar",
       "iniciativas": 20,
       "publico": 259,
@@ -89,9 +89,9 @@
     {
       "nicho": "Software, dados e sistemas",
       "iniciativas": 16,
-      "publico": 189,
+      "publico": 175,
       "ativas": 2,
-      "publico_ativo": 25,
+      "publico_ativo": 11,
       "dormentes": 10,
       "publico_dormente": 77,
       "intermediarias": 4
@@ -118,9 +118,9 @@
     },
     {
       "nicho": "Idiomas",
-      "iniciativas": 4,
+      "iniciativas": 2,
       "publico": 0,
-      "ativas": 2,
+      "ativas": 0,
       "publico_ativo": 0,
       "dormentes": 1,
       "publico_dormente": 0,
@@ -128,17 +128,6 @@
     }
   ],
   "top_ativas": [
-    {
-      "acao_id": "3140",
-      "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
-      "nicho": "Robótica e cultura maker",
-      "tipo": "Programa",
-      "natureza": "Extensão",
-      "fomento": "PAEX-IFES",
-      "publico": 1290,
-      "ano_ultima": 2026,
-      "url": "acoes/3140.html"
-    },
     {
       "acao_id": "4655",
       "titulo": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
@@ -149,28 +138,6 @@
       "publico": 490,
       "ano_ultima": 2024,
       "url": "acoes/4655.html"
-    },
-    {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Projeto",
-      "natureza": "Extensão",
-      "fomento": "SEM VÍNCULO",
-      "publico": 258,
-      "ano_ultima": 2026,
-      "url": "acoes/5852.html"
-    },
-    {
-      "acao_id": "5667",
-      "titulo": "Semana destinada à Educação Especial Inclusiva no Campus Serra",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Evento",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "publico": 251,
-      "ano_ultima": 2025,
-      "url": "acoes/5667.html"
     },
     {
       "acao_id": "5138",
@@ -259,9 +226,53 @@
       "publico": 58,
       "ano_ultima": 2025,
       "url": "acoes/5641.html"
+    },
+    {
+      "acao_id": "4894",
+      "titulo": "Jogos Internos do Campus Serra",
+      "nicho": "Cultura e arte",
+      "tipo": "Evento",
+      "natureza": "Ensino",
+      "fomento": "SEM VÍNCULO",
+      "publico": 49,
+      "ano_ultima": 2024,
+      "url": "acoes/4894.html"
+    },
+    {
+      "acao_id": "4096",
+      "titulo": "PEAM – Programa de Estudos Avançados em Matemática",
+      "nicho": "Ciência e divulgação",
+      "tipo": "Programa",
+      "natureza": "Ensino",
+      "fomento": "SEM VÍNCULO",
+      "publico": 48,
+      "ano_ultima": 2024,
+      "url": "acoes/4096.html"
+    },
+    {
+      "acao_id": "5406",
+      "titulo": "Jogos Estaduais do IFES 2025",
+      "nicho": "Cultura e arte",
+      "tipo": "Projeto",
+      "natureza": "Ensino",
+      "fomento": "SEM VÍNCULO",
+      "publico": 48,
+      "ano_ultima": 2025,
+      "url": "acoes/5406.html"
     }
   ],
   "top_dormentes": [
+    {
+      "acao_id": "1426",
+      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "nicho": "Empreendedorismo e incubação",
+      "tipo": "Evento",
+      "natureza": "Extensão",
+      "fomento": "SEM VÍNCULO",
+      "publico": 1037,
+      "ano_ultima": 2017,
+      "url": "acoes/1426.html"
+    },
     {
       "acao_id": "1702",
       "titulo": "Ifes Portas Abertas",
@@ -382,17 +393,6 @@
       "publico": 74,
       "ano_ultima": 2014,
       "url": "acoes/108.html"
-    },
-    {
-      "acao_id": "2081",
-      "titulo": "O IFES é o meu lugar",
-      "nicho": "Captação e ingresso",
-      "tipo": "Curso",
-      "natureza": "Extensão",
-      "fomento": "SEM VÍNCULO",
-      "publico": 74,
-      "ano_ultima": 2018,
-      "url": "acoes/2081.html"
     }
   ],
   "recomendacoes": [
@@ -644,8 +644,8 @@
       "natureza": "Extensão",
       "fomento": "SEM VÍNCULO",
       "coordenador": "Gilmar Luiz Vassoler",
-      "publico": 0,
-      "participacoes": 0,
+      "publico": 1037,
+      "participacoes": 1062,
       "ano_ultima": 2017,
       "status": "dormente",
       "url": "acoes/1426.html"
@@ -1372,8 +1372,8 @@
       "natureza": "Extensão",
       "fomento": "SEM VÍNCULO",
       "coordenador": "Felipe Frechiani de Oliveira",
-      "publico": 0,
-      "participacoes": 0,
+      "publico": 1,
+      "participacoes": 12,
       "ano_ultima": 2022,
       "status": "intermediaria",
       "url": "acoes/2786.html"
@@ -1526,8 +1526,8 @@
       "natureza": "Extensão",
       "fomento": "PAEX-IFES",
       "coordenador": "Emmanuel Marques Silva",
-      "publico": 1290,
-      "participacoes": 1611,
+      "publico": 0,
+      "participacoes": 0,
       "ano_ultima": 2026,
       "status": "ativa",
       "url": "acoes/3140.html"
@@ -1708,8 +1708,8 @@
       "natureza": "Ensino",
       "fomento": "SEM VÍNCULO",
       "coordenador": "Maikon Chaider Silva Scaldaferro",
-      "publico": 8,
-      "participacoes": 9,
+      "publico": 0,
+      "participacoes": 0,
       "ano_ultima": 2022,
       "status": "intermediaria",
       "url": "acoes/3526.html"
@@ -2226,8 +2226,8 @@
       "natureza": "Ensino",
       "fomento": "SEM VÍNCULO",
       "coordenador": "Vinícius Secchin de Melo",
-      "publico": 14,
-      "participacoes": 17,
+      "publico": 0,
+      "participacoes": 0,
       "ano_ultima": 2024,
       "status": "ativa",
       "url": "acoes/4589.html"
@@ -2437,7 +2437,7 @@
       "fomento": "SEM VÍNCULO",
       "coordenador": "Adelson Pereira do Nascimento",
       "publico": 0,
-      "participacoes": 0,
+      "participacoes": 14,
       "ano_ultima": 2025,
       "status": "ativa",
       "url": "acoes/4867.html"
@@ -2737,34 +2737,6 @@
       "url": "acoes/5646.html"
     },
     {
-      "acao_id": "5667",
-      "titulo": "Semana destinada à Educação Especial Inclusiva no Campus Serra",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Evento",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Emilene Coco dos Santos",
-      "publico": 251,
-      "participacoes": 265,
-      "ano_ultima": 2025,
-      "status": "ativa",
-      "url": "acoes/5667.html"
-    },
-    {
-      "acao_id": "5677",
-      "titulo": "Jovens Inventores: O poder da Tecnologia Maker no Desenvolvimento Social",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Projeto",
-      "natureza": "Extensão",
-      "fomento": "FAPES",
-      "coordenador": "Richard Junior Manuel Godinez Tello",
-      "publico": 28,
-      "participacoes": 48,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5677.html"
-    },
-    {
       "acao_id": "569",
       "titulo": "Desafio Ifes de Negócios Socais",
       "nicho": "Robótica e cultura maker",
@@ -2777,132 +2749,6 @@
       "ano_ultima": 2019,
       "status": "dormente",
       "url": "acoes/569.html"
-    },
-    {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Projeto",
-      "natureza": "Extensão",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Emmanuel Marques Silva",
-      "publico": 258,
-      "participacoes": 316,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5852.html"
-    },
-    {
-      "acao_id": "5907",
-      "titulo": "Mulheres Mil - Eletricista Instalador Predial em Baixa Tensão",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Curso",
-      "natureza": "Extensão",
-      "fomento": "SETEC",
-      "coordenador": "Tatiane Policário Chagas",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5907.html"
-    },
-    {
-      "acao_id": "5961",
-      "titulo": "ASAS - Operador de Computador",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Curso",
-      "natureza": "Extensão",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Tatiane Policário Chagas",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5961.html"
-    },
-    {
-      "acao_id": "5974",
-      "titulo": "Escrita de Material Instrucional",
-      "nicho": "Idiomas",
-      "tipo": "Curso",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Vinícius Secchin de Melo",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5974.html"
-    },
-    {
-      "acao_id": "5988",
-      "titulo": "English for Global Careers",
-      "nicho": "Idiomas",
-      "tipo": "Curso",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Giordana dos Santos Sperandio",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5988.html"
-    },
-    {
-      "acao_id": "5989",
-      "titulo": "I COLÓQUIO DE PRODUÇÃO E CRIATIVIDADE – CAMPUS SERRA",
-      "nicho": "Cultura e arte",
-      "tipo": "Evento",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Adrianna Machado Meneguelli",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/5989.html"
-    },
-    {
-      "acao_id": "6012",
-      "titulo": "Oficina de Crochê Tramando",
-      "nicho": "Cultura e arte",
-      "tipo": "Projeto",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Alessandra Aguiar Vilarinho",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/6012.html"
-    },
-    {
-      "acao_id": "6059",
-      "titulo": "Oficinas e Tutorias de Apoio às Disciplinas Curriculares na Perspectiva Inclusiva – NAPNE",
-      "nicho": "Mulheres e inclusão",
-      "tipo": "Projeto",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Nauvia Maria Cancelieri",
-      "publico": 0,
-      "participacoes": 9,
-      "ano_ultima": 2027,
-      "status": "ativa",
-      "url": "acoes/6059.html"
-    },
-    {
-      "acao_id": "6101",
-      "titulo": "Oficina de Formação Profissional em Realidade Virtual para Jovens e Realizadores de Audiovisual na Serra",
-      "nicho": "Cultura e arte",
-      "tipo": "Projeto",
-      "natureza": "Ensino",
-      "fomento": "SEM VÍNCULO",
-      "coordenador": "Celio Proliciano Maioli",
-      "publico": 0,
-      "participacoes": 0,
-      "ano_ultima": 2026,
-      "status": "ativa",
-      "url": "acoes/6101.html"
     },
     {
       "acao_id": "6104",
@@ -2945,6 +2791,20 @@
       "ano_ultima": 2019,
       "status": "dormente",
       "url": "acoes/617.html"
+    },
+    {
+      "acao_id": "6171",
+      "titulo": "Tutoria de Estudos Orientados",
+      "nicho": "Cultura e arte",
+      "tipo": "Programa",
+      "natureza": "Ensino",
+      "fomento": "SEM VÍNCULO",
+      "coordenador": "Bruno Ramos Gonzaga",
+      "publico": 0,
+      "participacoes": 0,
+      "ano_ultima": 2026,
+      "status": "ativa",
+      "url": "acoes/6171.html"
     },
     {
       "acao_id": "628",
@@ -3066,8 +2926,8 @@
       "natureza": "Extensão",
       "fomento": "PAEX-IFES",
       "coordenador": "Moisés Savedra Omena",
-      "publico": 0,
-      "participacoes": 0,
+      "publico": 12,
+      "participacoes": 21,
       "ano_ultima": 2019,
       "status": "dormente",
       "url": "acoes/719.html"
@@ -3081,7 +2941,7 @@
       "fomento": "PAEX-IFES",
       "coordenador": "Moisés Savedra Omena",
       "publico": 0,
-      "participacoes": 0,
+      "participacoes": 5,
       "ano_ultima": 2019,
       "status": "dormente",
       "url": "acoes/723.html"

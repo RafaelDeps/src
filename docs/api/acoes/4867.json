@@ -15,8 +15,117 @@
   "Data de cadastro": "29/01/2024",
   "Resumo": "A Empresa Júnior tem o papel de, conforme a Lei 13.267/2016, proporcionar a seus membros as\ncondições necessárias para a aplicação prática dos conhecimentos teóricos referentes à respectiva\nárea de formação profissional, aperfeiçoar o processo de formação dos profissionais em nível superior;\nestimular o espírito empreendedor e promover o desenvolvimento técnico, acadêmico, pessoal e\nprofissional de seus membros associados por meio de contato direto com a realidade do mercado de\ntrabalho, melhorar as condições de aprendizado em nível superior, mediante a aplicação da teoria dada\nem sala de aula na prática do mercado de trabalho no âmbito dessa atividade de extensão, intensificar\no relacionamento entre as instituições de ensino superior e o meio empresarial e também promover o\ndesenvolvimento econômico e social da comunidade ao mesmo tempo em que fomenta o\nempreendedorismo de seus associados.\nJUSTIFICATIVAS No atual mercado de trabalho, encontramos um cenário de alta competitividade\nentre profissionais, em todas as áreas de atuação, exigindo, dessa forma, uma maior capacitação, e em\nmuitos dos casos, experiência prática. Esta última em muitos dos casos é fator limitante, o que faz com\nque profissionais recém formados tenham um campo de atuação restrito e uma difícil inserção no\nmercado de trabalho. Dessa forma a Empresa Júnior surge como alternativa viável de proporcionar ao\nestudante experiência profissional prática mesmo antes de concluir sua formação. Além da experiência,\na EJ contribui na formação pessoal e profissional do aluno por meio de: valorização do curso;\ntreinamento em ambiente empresarial, simulando situações inerentes a uma empresa qualquer;\ntrabalho em grupo, práticas oratórias; gerar reconhecimento no mercado de trabalho, dentre outras\nvantagens.. A Empresa Junior poderá ser um atrativo a mais para o aluno do IFES Campus Serra ,\noferecendo alternativas de aplicação prática dos conhecimentos adquiridos em sala de aula e de\ndesenvolvimento de habilidades não desenvolvidas ao decorrer do curso.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 14,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "17650",
+      "numero": "001",
+      "atividade": "Empresa Morpheus Jr",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 14
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Alex Rossoni Junior",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Amanda Ferreira Falcão",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Davi da Silva Alvarenga",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "João Pedro Ribeiro Silva",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Lara Aguilar de Amorim",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Larissa Batista Rangel",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Maressa Karen Henrique da Silva",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Paulo Vitor Callegari Dalvi",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Richard Lucas Pereira Nunes",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Ryan Lima Peçanha",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Samuel Ferreira Alves",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Thiago Augusto de Carvalho",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Thiago Henrique Ezequiel dos Santos",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Vinicius da Hora Corte",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

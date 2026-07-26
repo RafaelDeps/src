@@ -1,14 +1,15 @@
 {
   "slug": "irisson-junio-maximo-borges",
   "nome": "Irisson Junio Máximo Borges",
-  "resumo_ia": "Participou como aluno voluntário em 2019 no projeto LifeBox, atuando no transporte e monitoramento inteligente de córneas. Também foi bolsista em 2016 no desenvolvimento de um sistema de apoio para monitorar a temperatura em caixas de transporte de órgãos.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2019"
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA",
-    "ALUNO(A) VOLUNTARIO"
+    "ALUNO(A) VOLUNTARIO",
+    "MINISTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -21,6 +22,17 @@
       "pub": 0,
       "funcoes": [
         "ALUNO(A) VOLUNTARIO"
+      ]
+    },
+    {
+      "acao_id": "719",
+      "titulo": "Programação Visual Criativa com Scratch + Arduino",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 21,
+      "pub": 12,
+      "funcoes": [
+        "MINISTRANTE"
       ]
     },
     {
@@ -45,6 +57,13 @@
     },
     {
       "ano": "2016",
+      "atividade_id": "1560",
+      "acao_id": "719",
+      "atividade": "Programação Criativa com Scratch + Arduino",
+      "pub": 12
+    },
+    {
+      "ano": "2016",
       "atividade_id": "1939",
       "acao_id": "848",
       "atividade": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
@@ -52,11 +71,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 0,
-  "impacto": 0,
+  "imp_eq": 12,
+  "impacto": 12,
   "temas": [
     {
       "tema": "Cultura e arte",
+      "n": 1
+    },
+    {
+      "tema": "Robótica e cultura maker",
       "n": 1
     },
     {
@@ -68,6 +91,21 @@
     {
       "nome": "Carlos Lins Borges Azevedo",
       "slug": "carlos-lins-borges-azevedo",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Anne Caroline Silva",
+      "slug": "anne-caroline-silva",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Cassiano Knsch das Neves",
+      "slug": "cassiano-knsch-das-neves",
       "acoes_comuns": 2
     },
     {
@@ -86,18 +124,28 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
       "acoes_comuns": 1
     },
     {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
+      "nome": "Mirleni de Jesus",
+      "slug": "mirleni-de-jesus",
       "acoes_comuns": 1
     },
     {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 1
     },
     {

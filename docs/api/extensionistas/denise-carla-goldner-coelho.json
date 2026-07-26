@@ -1,7 +1,7 @@
 {
   "slug": "denise-carla-goldner-coelho",
   "nome": "Denise Carla Goldner Coelho",
-  "resumo_ia": "Participou como assessor(a) na equipe do Circuito Audiovisual em 2019, contribuindo para a organização e desenvolvimento de ações extensionistas na área.",
+  "resumo_ia": null,
   "anos": [
     "2019"
   ],
@@ -25,31 +25,10 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10574",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"Mestre Pastinha, Rei da Capoeira\"",
-      "pub": 36
-    },
-    {
-      "ano": "2019",
       "atividade_id": "10573",
       "acao_id": "2505",
       "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
       "pub": 11
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10575",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10576",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"produção Polo 3\"",
-      "pub": 13
     },
     {
       "ano": "2019",
@@ -60,10 +39,31 @@
     },
     {
       "ano": "2019",
+      "atividade_id": "10574",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"Mestre Pastinha, Rei da Capoeira\"",
+      "pub": 36
+    },
+    {
+      "ano": "2019",
       "atividade_id": "10577",
       "acao_id": "2505",
       "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
       "pub": 16
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10576",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"produção Polo 3\"",
+      "pub": 13
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10575",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     }
   ],
   "imp_coord": 0,

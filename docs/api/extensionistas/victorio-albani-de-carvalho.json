@@ -1,7 +1,7 @@
 {
   "slug": "victorio-albani-de-carvalho",
   "nome": "Victorio Albani de Carvalho",
-  "resumo_ia": "Coordenou o programa LEDS – Laboratório de Extensão em Desenvolvimento de Soluções em 2021 e a Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS em 2016. Também atuou como Coordenador(a) e Professor(a) no curso Operador de Computador em 2022.",
+  "resumo_ia": null,
   "anos": [
     "2016",
     "2021",
@@ -65,17 +65,17 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "14476",
-      "acao_id": "4210",
-      "atividade": "Operador de Computador",
-      "pub": 17
-    },
-    {
-      "ano": "2022",
       "atividade_id": "14475",
       "acao_id": "4210",
       "atividade": "Operador de Computador",
       "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "14476",
+      "acao_id": "4210",
+      "atividade": "Operador de Computador",
+      "pub": 17
     },
     {
       "ano": "2016",

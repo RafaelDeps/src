@@ -1,7 +1,7 @@
 {
   "slug": "claudemir-jose-malacarne",
   "nome": "Claudemir Jose Malacarne",
-  "resumo_ia": "Participou como expositor(a) no Programa Local Núcleo Incubador Campus Serra – NIS em 2017.",
+  "resumo_ia": null,
   "anos": [
     "2017"
   ],
@@ -25,6 +25,13 @@
   "atividades": [
     {
       "ano": "2017",
+      "atividade_id": "3042",
+      "acao_id": "1116",
+      "atividade": "Apresentação do projeto \"Motor a Combustão Interna Transparente - Translucidus\" no evento MEC SHOW 2015 - 8ª FEIRA DA METALMECÂNICA, ENERGIA E AUTOMAÇÃO.",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
       "atividade_id": "2877",
       "acao_id": "1116",
       "atividade": "Apresentação do projeto \"Motor a Combustão Interna Transparente - Translucidus\" no evento MEC SHOW 2016 - 9ª FEIRA DA METALMECÂNICA, ENERGIA E AUTOMAÇÃO.",
@@ -35,13 +42,6 @@
       "atividade_id": "3038",
       "acao_id": "1116",
       "atividade": "Congresso Internacional WFCP 2016 e 40ª Reditec realizado na Praça do Papa, em Vitória/ES",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
-      "atividade_id": "3042",
-      "acao_id": "1116",
-      "atividade": "Apresentação do projeto \"Motor a Combustão Interna Transparente - Translucidus\" no evento MEC SHOW 2015 - 8ª FEIRA DA METALMECÂNICA, ENERGIA E AUTOMAÇÃO.",
       "pub": 0
     }
   ],

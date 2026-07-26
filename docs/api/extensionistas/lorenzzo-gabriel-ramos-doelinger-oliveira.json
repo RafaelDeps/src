@@ -1,15 +1,13 @@
 {
   "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
   "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
-  "resumo_ia": "Participou como aluno em atividade curricular no SmartIdea - Validação de Problemas e Ideias e como voluntário no SprintLab - Laboratório de Prototipação Acelerada, ambos em 2022. Em 2026, atuou como extensionista no Serviço de Orientação Financeira (SOF) da unidade Ifes Serra.",
+  "resumo_ia": null,
   "anos": [
-    "2022",
-    "2026"
+    "2022"
   ],
   "funcoes": [
     "ALUNO(A) EM ATIVIDADE CURRICULAR",
-    "ALUNO(A) VOLUNTARIO",
-    "EXTENSIONISTA"
+    "ALUNO(A) VOLUNTARIO"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -34,17 +32,6 @@
       "funcoes": [
         "ALUNO(A) VOLUNTARIO"
       ]
-    },
-    {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "tipo": "Projeto",
-      "ano": "2026",
-      "n": 316,
-      "pub": 227,
-      "funcoes": [
-        "EXTENSIONISTA"
-      ]
     }
   ],
   "atividades": [
@@ -61,26 +48,15 @@
       "acao_id": "4215",
       "atividade": "SprintLab - Laboratório de Prototipação Acelerada",
       "pub": 2
-    },
-    {
-      "ano": "2026",
-      "atividade_id": "22250",
-      "acao_id": "5852",
-      "atividade": "Palestra promovida pelo LIEFIS: \"Demandas emocionais e comportamentais no processo de endividamento\".",
-      "pub": 18
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 22,
-  "impacto": 22,
+  "imp_eq": 4,
+  "impacto": 4,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 2
-    },
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
     }
   ],
   "colaboradores": [
@@ -407,126 +383,6 @@
     {
       "nome": "Adile Lima da Silva",
       "slug": "adile-lima-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jefferson Ribeiro de Lima",
-      "slug": "jefferson-ribeiro-de-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eglalciane de Lyrio Tongo",
-      "slug": "eglalciane-de-lyrio-tongo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandro Bermudes Gomes",
-      "slug": "alessandro-bermudes-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Juliano Antônio da Silveira",
-      "slug": "juliano-antonio-da-silveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irlane Schmidt da Silva Alves",
-      "slug": "irlane-schmidt-da-silva-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irene Schmidt da Silva Alves",
-      "slug": "irene-schmidt-da-silva-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mafe Mattos",
-      "slug": "mafe-mattos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luma Tavares Lopes de Souza",
-      "slug": "luma-tavares-lopes-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thalison Vinícius Euzebio Ribeiro",
-      "slug": "thalison-vinicius-euzebio-ribeiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alex Rossoni Junior",
-      "slug": "alex-rossoni-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Almeida Deps Caldeira",
-      "slug": "thiago-almeida-deps-caldeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Guilherme de Souza Zottich",
-      "slug": "luiz-guilherme-de-souza-zottich",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Pedro Pagotto da Costa",
-      "slug": "joao-pedro-pagotto-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Laube Schwartz",
-      "slug": "gustavo-laube-schwartz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nicole Ribeiro Schayder da Silva",
-      "slug": "nicole-ribeiro-schayder-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renata Baptista",
-      "slug": "renata-baptista",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Patricia Maria Bortolon",
-      "slug": "patricia-maria-bortolon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Carvalho Goularte",
-      "slug": "pedro-carvalho-goularte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Felipe Becalli Trindade",
-      "slug": "felipe-becalli-trindade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maycon Pequeno Silva",
-      "slug": "maycon-pequeno-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Borges Cabral",
-      "slug": "guilherme-borges-cabral",
       "acoes_comuns": 1
     }
   ]
