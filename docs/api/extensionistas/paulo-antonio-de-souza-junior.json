@@ -25,16 +25,16 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "10285",
+      "atividade_id": "11167",
       "acao_id": "2932",
-      "atividade": "Física ao Alcance de Todos",
+      "atividade": "Palestra: Ética na Inteligência Artificial na Semana Nacional de Ciência e Tecnologia (SNCT 2020) do Campus Serra",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "11167",
+      "atividade_id": "10285",
       "acao_id": "2932",
-      "atividade": "Palestra: Ética na Inteligência Artificial na Semana Nacional de Ciência e Tecnologia (SNCT 2020) do Campus Serra",
+      "atividade": "Física ao Alcance de Todos",
       "pub": 0
     }
   ],

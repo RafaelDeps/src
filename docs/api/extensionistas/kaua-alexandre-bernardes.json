@@ -41,24 +41,17 @@
   "atividades": [
     {
       "ano": "2023",
-      "atividade_id": "19329",
-      "acao_id": "4754",
-      "atividade": "1 Oficina de sabão com visão sustentável.",
-      "pub": 34
-    },
-    {
-      "ano": "2023",
       "atividade_id": "20747",
       "acao_id": "4754",
       "atividade": "Do Sensorial ao Tecnológico — Extração de Óleos Essenciais por Arraste a Vapor",
       "pub": 24
     },
     {
-      "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
+      "ano": "2023",
+      "atividade_id": "19329",
+      "acao_id": "4754",
+      "atividade": "1 Oficina de sabão com visão sustentável.",
+      "pub": 34
     },
     {
       "ano": "2024",
@@ -66,6 +59,13 @@
       "acao_id": "5086",
       "atividade": "Minicurso: Treinamento em Robótica",
       "pub": 9
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     }
   ],
   "imp_coord": 0,

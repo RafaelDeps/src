@@ -29,7 +29,7 @@
       "titulo": "Gametalk: vamos falar sobre games?",
       "tipo": "Curso",
       "ano": "2016",
-      "n": 3,
+      "n": 0,
       "pub": 0
     },
     {
@@ -76,17 +76,6 @@
       ]
     },
     {
-      "acao_id": "628",
-      "titulo": "Gametalk: vamos falar sobre games?",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 3,
-      "pub": 0,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    },
-    {
       "acao_id": "718",
       "titulo": "Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra",
       "tipo": "Programa",
@@ -123,13 +112,6 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "1349",
-      "acao_id": "628",
-      "atividade": "Gametalk: vamos falar sobre games?",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "1545",
       "acao_id": "718",
       "atividade": "Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra",
@@ -149,7 +131,7 @@
   "temas": [
     {
       "tema": "Cultura e arte",
-      "n": 4
+      "n": 2
     },
     {
       "tema": "Mulheres e inclusão",
@@ -179,16 +161,6 @@
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Beatriz Ramos Souza",
-      "slug": "beatriz-ramos-souza",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Juliana Duarte Acerbi",
-      "slug": "juliana-duarte-acerbi",
       "acoes_comuns": 2
     },
     {
@@ -389,6 +361,16 @@
     {
       "nome": "Fellipe Pesente",
       "slug": "fellipe-pesente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Beatriz Ramos Souza",
+      "slug": "beatriz-ramos-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Juliana Duarte Acerbi",
+      "slug": "juliana-duarte-acerbi",
       "acoes_comuns": 1
     },
     {

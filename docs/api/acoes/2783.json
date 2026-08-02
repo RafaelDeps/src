@@ -8,74 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23158.001148/2019-91 - Incluir & Multiplicar",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências Sociais Aplicadas",
   "Área temática principal": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "06/12/2019",
   "Data de cadastro": "05/11/2019",
   "Resumo": "Tendo em vista a grande diversidade de conhecimentos tecnológicos, de natureza dinâmica e evolutiva ,juntamente\ncom a necessidade de incluir todos neste mundo digital e visando o compartilhamento igualitário de oportunidades\nno mercado de trabalho, torna-se cada vez mais necessária a realização de ações de inclusão digital, social e\nimplementação de tecnologias sociais em comunidades vulneráveis. Neste contexto, o projeto “Incluir & Multiplicar”\ntem como finalidade promover melhorias na formação intelectual, profissional e social de crianças, adolescentes e\njovens do bairro de Central Carapina, localizado na periferia do município de Serra-ES, via a inserção de\nmultiplicadores de conhecimentos de informática na comunidade, com a intermediação da Associação de Vivência\nShalon, que realiza vários projetos sociais no bairro desde 1997. A formação destes multiplicadores, ou\nfacilitadores, se dará através da oferta de curso de formação básica em informática no Instituto Federal do Espírito\nSanto, campus Serra. Inserido nas ementas deste curso, teremos o componentes curricular “Prática da Docência”,\nquando os alunos em formação no curso do Ifes poderão dedicar algumas horas na semana para transmitir parte\nde seus conhecimentos adquiridos às crianças menores, que fazem os cursos de informática na Associação\nShalon. A formação no curso de inclusão digital do Ifes terá metodologia específica e adaptada à realidade dos\nmoradores daquela comunidade. As disciplinas serão ministradas por aluno bolsista do curso superior em Sistemas\nda Informação do Ifes, sob orientação do professor coordenador desta ação. A partir da inserção dos\nmultiplicadores na comunidade, turmas de formação básica em computação poderão ser criadas na Associação\nShalon, permitindo uma propagação do conhecimento, já que seus alunos (crianças e adolescentes atendidos pela\nAssociação) terão a possibilidade de se tornarem futuros multiplicadores em sua comunidade. Espera-se com esta\nmetodologia cíclica (multiplicadores formando futuros multiplicadores) aplicada, contribuir com a geração de renda\ne superação da desigualdade social, por meio da inclusão no mundo do trabalho e autonomia econômica das\nfamílias inscritas no Cadastro Único para Programas Sociais do Governo Federal.",
   "Campus": "Serra",
-  "total_participacoes": 42,
-  "publico_alvo_total": 32,
-  "atividades": [
-    {
-      "atividade_id": "9577",
-      "numero": "001",
-      "atividade": "Informática Básica Para Agentes Multiplicadores.",
-      "publico": 16,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 5
-    },
-    {
-      "atividade_id": "10922",
-      "numero": "002",
-      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
-      "publico": 16,
-      "aprovados": 16,
-      "certificados": 16,
-      "equipe": 5
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Bruno Cardoso Coutinho",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Gabriel Victor Ferreira de Araújo",
-      "funcoes": [
-        "INSTRUTOR(A)",
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Juliana Rohsner Vianna Toniati",
-      "funcoes": [
-        "COLABORADOR(A)",
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Renata Imaculada de Oliveira Teixeira",
-      "funcoes": [
-        "COLABORADOR(A)",
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Ridley Francis Miranda Amorim",
-      "funcoes": [
-        "COLABORADOR(A)",
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Convidado"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

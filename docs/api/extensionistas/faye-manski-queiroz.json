@@ -3,12 +3,10 @@
   "nome": "Faye Manski Queiroz",
   "resumo_ia": null,
   "anos": [
-    "2018",
-    "2022"
+    "2018"
   ],
   "funcoes": [
     "EXPOSITOR(A)",
-    "EXTENSIONISTA",
     "MONITOR(A)",
     "PESQUISADOR(A)"
   ],
@@ -26,34 +24,9 @@
         "MONITOR(A)",
         "PESQUISADOR(A)"
       ]
-    },
-    {
-      "acao_id": "3768",
-      "titulo": "Física ao Alcance de Todos",
-      "tipo": "Projeto",
-      "ano": "2022",
-      "n": 11,
-      "pub": 3,
-      "funcoes": [
-        "EXTENSIONISTA"
-      ]
     }
   ],
   "atividades": [
-    {
-      "ano": "2018",
-      "atividade_id": "6522",
-      "acao_id": "2021",
-      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
-      "pub": 30
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "7750",
-      "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
-      "pub": 0
-    },
     {
       "ano": "2018",
       "atividade_id": "6521",
@@ -76,10 +49,17 @@
       "pub": 0
     },
     {
-      "ano": "2022",
-      "atividade_id": "17383",
-      "acao_id": "3768",
-      "atividade": "Inciciação Científica",
+      "ano": "2018",
+      "atividade_id": "6522",
+      "acao_id": "2021",
+      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
+      "pub": 30
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "7750",
+      "acao_id": "2021",
+      "atividade": "Trabalho de Iniciação Científica",
       "pub": 0
     }
   ],
@@ -90,22 +70,18 @@
     {
       "tema": "Robótica e cultura maker",
       "n": 1
-    },
-    {
-      "tema": "Captação e ingresso",
-      "n": 1
     }
   ],
   "colaboradores": [
     {
       "nome": "Rosilene de Sá Ribeiro",
       "slug": "rosilene-de-sa-ribeiro",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Leandro Melo de Sá",
       "slug": "leandro-melo-de-sa",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Estácio Righette Pereira",
@@ -350,21 +326,6 @@
     {
       "nome": "Brenno Pelegrino Costa Guimarães",
       "slug": "brenno-pelegrino-costa-guimaraes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jonas Emanuel dos Santos Egert",
-      "slug": "jonas-emanuel-dos-santos-egert",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Felipe Loureiro Mascarenhas",
-      "slug": "luiz-felipe-loureiro-mascarenhas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Eduardo da Silva Pacheco",
-      "slug": "lucas-eduardo-da-silva-pacheco",
       "acoes_comuns": 1
     }
   ]

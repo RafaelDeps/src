@@ -9,39 +9,13 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Linguística, Letras e Artes",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "04/04/2018",
   "Data de cadastro": "04/04/2018",
   "Resumo": "O treinamento introdutório ao Roteador Mikrotik, da empresa de mesmo nome, visa proporcionar aos alunos a imersão em um produto em uso no mercado com importantes características técnicas, e utilização, profissional tanto nacional quanto internacionalmente.\nEmbora os cursos técnicos e superiores do Campus invistam na formação sólida de seus estudantes através da integração de conceitos com ferramentas de mercado, o custo financeiro, a carga horária das disciplinas e a velocidade com que as inovações da indústria chegam aos mercados dificulta a constante atualização dos ementários. \nPara aproximar dos alunos ferramentas atuais de gerenciamento de redes, incrementando seus currículos e aumentando sua empregabilidade, proponho a oferta do treinamento de Mikrotik, que complementa os conteúdos que os alunos já estudam em sala, com o uso de uma ferramenta de produção, efetivamente usada.\nA iniciativa do treinamento é do aluno do curso técnico em Informática Daniel G. P. Pereira, instrutor Mikrotik, que possui certificações MTCNA, MTCRE, MTCWE MTCTCE, MTCUME e ACADEMY TRAYNER. Todas feitas entre 2010 a 2013 pela MikroTikls SIA, em São Paulo. Ele atua no mercado há 10 anos, de forma profissional, com os produtos e os softwares da marca.\nNo segundo semestre de 2017 foi feito um levantamento em que 64 alunos se apresentaram interessados no treinamento.",
   "Campus": "Serra",
-  "total_participacoes": 24,
-  "publico_alvo_total": 22,
-  "atividades": [
-    {
-      "atividade_id": "5133",
-      "numero": "001",
-      "atividade": "Treinamento em Mikrotik 2018-1",
-      "publico": 22,
-      "aprovados": 18,
-      "certificados": 18,
-      "equipe": 2
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Celio Proliciano Maioli",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Daniel Gomes dos Passos Pereira",
-      "funcoes": [
-        "MINISTRANTE"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

@@ -41,17 +41,17 @@
   "atividades": [
     {
       "ano": "2023",
-      "atividade_id": "19697",
-      "acao_id": "4655",
-      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
       "atividade_id": "19701",
       "acao_id": "4655",
       "atividade": "Minicurso \"Manufatura Subtrativa\" do Projeto SerraMaker: fomentando a cultura Maker no município da Serra",
       "pub": 18
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19697",
+      "acao_id": "4655",
+      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "pub": 0
     },
     {
       "ano": "2023",

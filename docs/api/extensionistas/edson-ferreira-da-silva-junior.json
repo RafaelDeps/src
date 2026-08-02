@@ -36,10 +36,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10568",
+      "atividade_id": "10563",
       "acao_id": "2505",
-      "atividade": "Ateliê de Produção Audiovisual",
-      "pub": 12
+      "atividade": "Oficina Especializada de Direção",
+      "pub": 7
     },
     {
       "ano": "2019",
@@ -50,17 +50,17 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10563",
-      "acao_id": "2505",
-      "atividade": "Oficina Especializada de Direção",
-      "pub": 7
-    },
-    {
-      "ano": "2019",
       "atividade_id": "10569",
       "acao_id": "2505",
       "atividade": "Pesquisa em Audiovisual",
       "pub": 0
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10568",
+      "acao_id": "2505",
+      "atividade": "Ateliê de Produção Audiovisual",
+      "pub": 12
     }
   ],
   "imp_coord": 0,

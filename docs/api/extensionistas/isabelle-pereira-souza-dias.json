@@ -27,10 +27,10 @@
   "atividades": [
     {
       "ano": "2018",
-      "atividade_id": "7750",
+      "atividade_id": "6522",
       "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
-      "pub": 0
+      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
+      "pub": 30
     },
     {
       "ano": "2018",
@@ -41,10 +41,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "6522",
+      "atividade_id": "7750",
       "acao_id": "2021",
-      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
-      "pub": 30
+      "atividade": "Trabalho de Iniciação Científica",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

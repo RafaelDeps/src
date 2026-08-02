@@ -17,6 +17,8 @@
     "api/pendencias-relatorio.json"
   ],
   "acoes": 191,
-  "atividades": 455,
-  "extensionistas": 653
+  "atividades": 391,
+  "extensionistas": 610,
+  "alunos_unicos": 3982,
+  "total_publico": 6299
 }

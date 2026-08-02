@@ -27,13 +27,6 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10573",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
-      "pub": 11
-    },
-    {
-      "ano": "2019",
       "atividade_id": "10571",
       "acao_id": "2505",
       "atividade": "Master Class de Optimização de Redes",
@@ -48,24 +41,17 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10559",
+      "atividade_id": "10573",
       "acao_id": "2505",
-      "atividade": "Oficina de Sensibilização",
-      "pub": 19
+      "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
+      "pub": 11
     },
     {
       "ano": "2019",
-      "atividade_id": "10577",
+      "atividade_id": "10575",
       "acao_id": "2505",
-      "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
-      "pub": 16
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10572",
-      "acao_id": "2505",
-      "atividade": "Master Class de Distribuição de Circulação",
-      "pub": 6
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     },
     {
       "ano": "2019",
@@ -76,10 +62,24 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10575",
+      "atividade_id": "10577",
       "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
+      "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
+      "pub": 16
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10559",
+      "acao_id": "2505",
+      "atividade": "Oficina de Sensibilização",
+      "pub": 19
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10572",
+      "acao_id": "2505",
+      "atividade": "Master Class de Distribuição de Circulação",
+      "pub": 6
     }
   ],
   "imp_coord": 0,

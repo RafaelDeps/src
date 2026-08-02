@@ -96,14 +96,14 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "3046",
+      "atividade_id": "3045",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
       "ano": "2017",
-      "atividade_id": "3045",
+      "atividade_id": "3044",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
@@ -117,13 +117,6 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "3047",
-      "acao_id": "1116",
-      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
       "atividade_id": "11587",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
@@ -131,7 +124,14 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "3044",
+      "atividade_id": "3046",
+      "acao_id": "1116",
+      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "3047",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
@@ -159,16 +159,16 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17046",
+      "atividade_id": "19698",
       "acao_id": "4655",
-      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
+      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
       "pub": 0
     },
     {
       "ano": "2023",
-      "atividade_id": "19698",
+      "atividade_id": "17046",
       "acao_id": "4655",
-      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
+      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
       "pub": 0
     },
     {
@@ -180,17 +180,17 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "1524",
-      "acao_id": "708",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "pub": 15
-    },
-    {
-      "ano": "2016",
       "atividade_id": "1523",
       "acao_id": "708",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
       "pub": 14
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1524",
+      "acao_id": "708",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
+      "pub": 15
     },
     {
       "ano": "2016",

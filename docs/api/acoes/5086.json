@@ -8,10 +8,9 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "Educação",
-  "Relatório aprovado": "Não",
-  "Data último relatório": "",
+  "Relatório aprovado": "Sim",
+  "Data último relatório": "11/02/2026",
   "Data de cadastro": "23/07/2024",
   "Resumo": "O projeto é uma ação com o intuito de democratizar o conhecimento em programação e Robótica em\nalunos dos últimos anos do ensino fundamental e alunos do Ensino Médio de escolas do município da\nSerra-ES. O projeto visa capacitar alunos para o uso de tecnologias e projetar soluções que possam\nmudar seu entorno e estimular a visão criativa. O projeto considera que através da publicidade e os canais\nde comunicação é possível chamar a atenção de gestores, professores e alunos das escolas e executar\num projeto em formato hibrido. Podem existir momentos presenciais, como também momentos remotos,\nestimulando a cooperação e estreitando os laços entre o ensino da rede federal com o ensino da rede\nmunicipal. Pretende-se utilizar plataformas físicas e também plataformas abertas para\nsimulação/programação, como Tinkercad Circuits e Open Roberta Lab. Este chamado será semestral\ncom o intuito de aderir novas escolas ao projeto e cada final do ano será realizado uma competição ou\nfeira robótica para apresentação de seus projetos ou protótipos. Uma das principais justificativas para\nexecução deste projeto está relacionada com o impacto social regional do município atendido. O\nmunicípio da Serra é atualmente a mais populosa cidade do Estado do Espírito Santo, região que conta\ncom um polo industrial de grandes proporções e que alberga uma grande quantidade de empresas. Pese\na estas indicadores, existe uma grande problemática com a qualidade de ensino fundamental dos últimos\nanos, consequentemente os outros níveis e o fator alarmante da violência registrada nos últimos anos.\nSegundo o Índice de Desenvolvimento da Educação Básica (Ideb) de 2019 (Saeb/Ideb, INEP – 2019), as\nescolas públicas do município apresentaram os seguintes resultados de 4,5 e 4,1 (bandeira vermelha).\nIsto é, os alunos estão muito abaixo da média de aprendizado esperada. O projeto apresentado pretende\ncontribuir com a geração de oportunidades, formação de pessoas com conhecimentos em\ntecnologia/programação, brindando novos caminhos para potencializar habilidades e a possibilidade de\ninserção de cidadãos ao mundo laboral trazendo um retorno positivo para a sociedade.",
   "Campus": "Serra",
@@ -42,7 +41,7 @@
       "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "publico": 112,
       "aprovados": 112,
-      "certificados": 105,
+      "certificados": 112,
       "equipe": 35
     }
   ],

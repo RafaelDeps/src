@@ -29,6 +29,13 @@
   "atividades": [
     {
       "ano": "2019",
+      "atividade_id": "10569",
+      "acao_id": "2505",
+      "atividade": "Pesquisa em Audiovisual",
+      "pub": 0
+    },
+    {
+      "ano": "2019",
       "atividade_id": "10566",
       "acao_id": "2505",
       "atividade": "Oficina Especializada de Produção",
@@ -40,13 +47,6 @@
       "acao_id": "2505",
       "atividade": "Ateliê de Produção Audiovisual",
       "pub": 8
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10569",
-      "acao_id": "2505",
-      "atividade": "Pesquisa em Audiovisual",
-      "pub": 0
     }
   ],
   "imp_coord": 0,

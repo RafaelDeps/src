@@ -66,17 +66,6 @@
       ]
     },
     {
-      "acao_id": "2193",
-      "titulo": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "tipo": "Projeto",
-      "ano": "2019",
-      "n": 8,
-      "pub": 0,
-      "funcoes": [
-        "COLABORADOR(A)"
-      ]
-    },
-    {
       "acao_id": "2285",
       "titulo": "ES Na Palma da Mão: Uma Plataforma baseado em serviços para Cidades Humanas, Inteligentes e Sustentáveis",
       "tipo": "Projeto",
@@ -193,13 +182,6 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "7600",
-      "acao_id": "2193",
-      "atividade": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "pub": 0
-    },
-    {
-      "ano": "2019",
       "atividade_id": "7822",
       "acao_id": "2285",
       "atividade": "ES Na Palma da Mão: Uma Plataforma baseado em serviços para Cidades Humanas, Inteligentes e Sustentáveis",
@@ -268,7 +250,7 @@
   "temas": [
     {
       "tema": "Cultura e arte",
-      "n": 6
+      "n": 5
     },
     {
       "tema": "Software, dados e sistemas",
@@ -308,23 +290,13 @@
       "acoes_comuns": 4
     },
     {
-      "nome": "Carlos Lins Borges Azevedo",
-      "slug": "carlos-lins-borges-azevedo",
-      "acoes_comuns": 4
+      "nome": "Lucas Gomes Flegler",
+      "slug": "lucas-gomes-flegler",
+      "acoes_comuns": 3
     },
     {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 4
-    },
-    {
-      "nome": "Flávio Lopes da Silva",
-      "slug": "flavio-lopes-da-silva",
-      "acoes_comuns": 4
-    },
-    {
-      "nome": "Lucas Gomes Flegler",
-      "slug": "lucas-gomes-flegler",
       "acoes_comuns": 3
     },
     {
@@ -335,6 +307,16 @@
     {
       "nome": "Danilo de Oliveira",
       "slug": "danilo-de-oliveira",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Carlos Lins Borges Azevedo",
+      "slug": "carlos-lins-borges-azevedo",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Flávio Lopes da Silva",
+      "slug": "flavio-lopes-da-silva",
       "acoes_comuns": 3
     },
     {
@@ -350,21 +332,6 @@
     {
       "nome": "Magno Macedo de Oliveira",
       "slug": "magno-macedo-de-oliveira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "slug": "irisson-junio-maximo-borges",
       "acoes_comuns": 2
     },
     {
@@ -445,11 +412,6 @@
     {
       "nome": "Adriana Padua Lovatte",
       "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
       "acoes_comuns": 1
     },
     {
@@ -743,6 +705,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Irisson Junio Máximo Borges",
+      "slug": "irisson-junio-maximo-borges",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Sarah Silva Ferreira",
       "slug": "sarah-silva-ferreira",
       "acoes_comuns": 1
@@ -795,6 +762,16 @@
     {
       "nome": "Gustavo Matozinho Lima",
       "slug": "gustavo-matozinho-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Anne Caroline Silva",
+      "slug": "anne-caroline-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
       "acoes_comuns": 1
     },
     {

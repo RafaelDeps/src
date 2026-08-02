@@ -2,7 +2,7 @@
 
 > Acervo público das ações de extensão e ensino do IFES Campus Serra, extraído do
 > SRC (Sistema de Registro e Emissão de Certificados, src.ifes.edu.br).
-> 191 ações, 455 atividades, 653 extensionistas. SEM dados pessoais de alunos:
+> 191 ações, 391 atividades, 610 extensionistas. SEM dados pessoais de alunos:
 > público-alvo aparece só como contagens; equipe como crédito público
 > (nome/função/vínculo). Nunca CPF, e-mail ou data de nascimento. JSON UTF-8.
 
@@ -16,11 +16,11 @@ Os links abaixo são relativos a esta pasta (onde está o llms.txt). Endpoints c
 
 ## Conjuntos de dados
 
-- [Inventário da API](api/index.json): índice de endpoints e totais.
+- [Inventário da API](api/index.json): índice de endpoints e totais — ações, atividades, extensionistas, alunos únicos e participações. Basta este arquivo para exibir os números gerais.
 - [Painel agregado](api/painel.json): visão geral, indicadores, rede de programas, formados e impacto (agregados).
 - [Investimento](api/investimento.json): iniciativas por nicho × impacto (público) × status (ativa/dormente), com onde investir, o que reativar e nota sobre impacto não-contável (ex.: ConectaFapes).
 - [Ações — lista](api/acoes/index.json): as 191 ações resumidas (id, processo, título, tipo, natureza, coordenador, ano, total de participações).
-- [Extensionistas — completo](api/extensionistas/todos.json): as 653 pessoas com trajetória (ações coordenadas e em equipe), colaboradores e resumo gerado por IA.
+- [Extensionistas — completo](api/extensionistas/todos.json): as 610 pessoas com trajetória (ações coordenadas e em equipe), colaboradores e resumo gerado por IA.
 - [Extensionistas — lista](api/extensionistas/index.json): índice de extensionistas.
 - [Busca — índice](api/busca.json): blob de palavras-chave por ação (título, coordenador, área, fomento, resumo).
 - [Ações sem participações](api/sem-participacao.json): ações com público-alvo e equipe zerados.
@@ -29,8 +29,8 @@ Os links abaixo são relativos a esta pasta (onde está o llms.txt). Endpoints c
 ## Por item (um arquivo cada)
 
 - `api/acoes/<acao_id>.json` — uma ação: metadados + lista de atividades (público em contagens) + equipe de execução (191 arquivos).
-- `api/atividades/<atividade_id>.json` — uma atividade: público-alvo (total/aprovados/certificados/situação) + equipe (455 arquivos).
-- `api/extensionistas/<slug>.json` — uma pessoa: anos, funções, ações coordenadas, participações em equipe, colaboradores, resumo IA (653 arquivos).
+- `api/atividades/<atividade_id>.json` — uma atividade: público-alvo (total/aprovados/certificados/situação) + equipe (391 arquivos).
+- `api/extensionistas/<slug>.json` — uma pessoa: anos, funções, ações coordenadas, participações em equipe, colaboradores, resumo IA (610 arquivos).
 
 ## Campos principais
 

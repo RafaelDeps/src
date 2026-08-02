@@ -9,50 +9,13 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências Humanas",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Direitos Humanos e Justiça",
   "Relatório aprovado": "Não",
   "Data último relatório": "",
   "Data de cadastro": "12/07/2022",
   "Resumo": "O projeto consiste em simular um ambiente de diplomacia internacional nos moldes das Instituições Internacionais, cujo principal objetivo é levar aos participantes do evento – que se dirige aos alunos do\nTécnico Integrado ao Ensino Médio (matutino) – o conhecimento sobre temas e problemáticas procedentes da conjuntura geopolítica nacional e internacional, de modo a incentivá-los a desenvolver\npedagogicamente o processo de discussão e resolução dessas problemáticas. Formam-se comitês (ambiente de simulação de organismos internacionais ou instituições nacionais com agenda internacional) que serão palco de discussões de temas relevantes da agenda internacional. Cada comitê procura reproduzir o que acontece na realidade. Os alunos do ensino médio transformam-se em delegados que defendem interesses do país a ele atribuído. Para tanto, esses alunos passam por um período de preparação, sob supervisão da professora que consiste em 04 encontros para estudo e aprofundamento do tema. A professora ensina, entre outras coisas, questões culturais, direitos fundamentais, origem da ONU (Organização das Nações Unidas), surgimento direitos humanos, contexto mundial, ideologias políticas, etc. Após o período de estudo, será organizado uma data para a simulação oficial que consiste em uma mesa composta por delegados e diretores que irão conduzir a discussão visando como objetivo, escrever uma proposta de ação para resolução do problema ou conflito debatido. Com isso, visa-se o protagonismo e autonomia dos alunos, além da cooperação e empatia com os demais colegas. Um dos aspectos mais relevantes é a possibilidade de contato com realidades sociais distintas, bem como o estímulo ao trabalho em equipe e ao empreendedorismo.",
   "Campus": "Serra",
-  "total_participacoes": 3,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "13744",
-      "numero": "001",
-      "atividade": "Estudos e Práticas para Simulação de Organizações Internacionais e Direitos Humanos",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 1
-    },
-    {
-      "atividade_id": "13745",
-      "numero": "002",
-      "atividade": "Estudos e Práticas para Simulação de Organizações Internacionais e Direitos Humanos - Atividade 01",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 1
-    },
-    {
-      "atividade_id": "13747",
-      "numero": "003",
-      "atividade": "Estudos e Práticas para Simulação de Organizações Internacionais e Direitos Humanos - Atividade 02",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 1
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Nicole Silva Loss",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

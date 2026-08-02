@@ -26,8 +26,8 @@
       "titulo": "Ifes para todos",
       "tipo": "Programa",
       "ano": "2018",
-      "n": 18,
-      "pub": 17
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
@@ -51,17 +51,6 @@
       "pub": 36,
       "funcoes": [
         "COLABORADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "1546",
-      "titulo": "Ifes para todos",
-      "tipo": "Programa",
-      "ano": "2018",
-      "n": 18,
-      "pub": 17,
-      "funcoes": [
-        "COORDENADOR(A)"
       ]
     },
     {
@@ -115,13 +104,6 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "4854",
-      "acao_id": "1546",
-      "atividade": "Ifes para todos",
-      "pub": 17
-    },
-    {
-      "ano": "2018",
       "atividade_id": "6836",
       "acao_id": "2081",
       "atividade": "O IFES é o meu lugar",
@@ -143,13 +125,6 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14467",
-      "acao_id": "2107",
-      "atividade": "Visita EMEF Jonas Farias 1",
-      "pub": 9
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14468",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 2",
@@ -164,6 +139,13 @@
     },
     {
       "ano": "2018",
+      "atividade_id": "14467",
+      "acao_id": "2107",
+      "atividade": "Visita EMEF Jonas Farias 1",
+      "pub": 9
+    },
+    {
+      "ano": "2018",
       "atividade_id": "14466",
       "acao_id": "2107",
       "atividade": "Visita EEEF Francisco Alves Mendes",
@@ -171,22 +153,22 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "8972",
+      "atividade_id": "8973",
       "acao_id": "2591",
       "atividade": "O IFES é o meu lugar",
       "pub": 40
     },
     {
       "ano": "2019",
-      "atividade_id": "8973",
+      "atividade_id": "8972",
       "acao_id": "2591",
       "atividade": "O IFES é o meu lugar",
       "pub": 40
     }
   ],
-  "imp_coord": 50,
+  "imp_coord": 33,
   "imp_eq": 364,
-  "impacto": 414,
+  "impacto": 397,
   "temas": [
     {
       "tema": "Captação e ingresso",
@@ -194,10 +176,6 @@
     },
     {
       "tema": "Mulheres e inclusão",
-      "n": 2
-    },
-    {
-      "tema": "Cultura e arte",
       "n": 2
     },
     {

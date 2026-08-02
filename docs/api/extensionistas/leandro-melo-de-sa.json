@@ -4,8 +4,7 @@
   "resumo_ia": null,
   "anos": [
     "2018",
-    "2020",
-    "2022"
+    "2020"
   ],
   "funcoes": [
     "COORDENADOR(A) ADJUNTO(A)",
@@ -35,17 +34,6 @@
       "funcoes": [
         "COORDENADOR(A) ADJUNTO(A)"
       ]
-    },
-    {
-      "acao_id": "3768",
-      "titulo": "Física ao Alcance de Todos",
-      "tipo": "Projeto",
-      "ano": "2022",
-      "n": 11,
-      "pub": 3,
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ]
     }
   ],
   "atividades": [
@@ -54,20 +42,6 @@
       "atividade_id": "6232",
       "acao_id": "2021",
       "atividade": "Física ao Alcance de Todos",
-      "pub": 0
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "6522",
-      "acao_id": "2021",
-      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
-      "pub": 30
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "7750",
-      "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
       "pub": 0
     },
     {
@@ -85,6 +59,20 @@
       "pub": 0
     },
     {
+      "ano": "2018",
+      "atividade_id": "6522",
+      "acao_id": "2021",
+      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
+      "pub": 30
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "7750",
+      "acao_id": "2021",
+      "atividade": "Trabalho de Iniciação Científica",
+      "pub": 0
+    },
+    {
       "ano": "2020",
       "atividade_id": "10285",
       "acao_id": "2932",
@@ -97,25 +85,18 @@
       "acao_id": "2932",
       "atividade": "Coordenação da Semana Nacional de Ciência e Tecnologia (SNCT 2020) do Campus Serra",
       "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "13271",
-      "acao_id": "3768",
-      "atividade": "Física ao Alcance de Todos",
-      "pub": 3
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 33,
-  "impacto": 33,
+  "imp_eq": 30,
+  "impacto": 30,
   "temas": [
     {
-      "tema": "Captação e ingresso",
-      "n": 2
+      "tema": "Robótica e cultura maker",
+      "n": 1
     },
     {
-      "tema": "Robótica e cultura maker",
+      "tema": "Captação e ingresso",
       "n": 1
     }
   ],
@@ -123,11 +104,6 @@
     {
       "nome": "Rosilene de Sá Ribeiro",
       "slug": "rosilene-de-sa-ribeiro",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Faye Manski Queiroz",
-      "slug": "faye-manski-queiroz",
       "acoes_comuns": 2
     },
     {
@@ -138,6 +114,11 @@
     {
       "nome": "Estácio Righette Pereira",
       "slug": "estacio-righette-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Faye Manski Queiroz",
+      "slug": "faye-manski-queiroz",
       "acoes_comuns": 1
     },
     {
@@ -383,21 +364,6 @@
     {
       "nome": "Jefferson Oliveira Andrade",
       "slug": "jefferson-oliveira-andrade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jonas Emanuel dos Santos Egert",
-      "slug": "jonas-emanuel-dos-santos-egert",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Felipe Loureiro Mascarenhas",
-      "slug": "luiz-felipe-loureiro-mascarenhas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Eduardo da Silva Pacheco",
-      "slug": "lucas-eduardo-da-silva-pacheco",
       "acoes_comuns": 1
     }
   ]

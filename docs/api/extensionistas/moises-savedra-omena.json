@@ -64,8 +64,8 @@
       "titulo": "SISTEMA PARA PREDIÇÃO DE TRANSTORNOS MENTAIS COMUNS NA ATENÇÃO PRIMÁRIA À SAÚDE III",
       "tipo": "Projeto",
       "ano": "2022",
-      "n": 9,
-      "pub": 7
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "542",
@@ -185,17 +185,6 @@
       "ano": "2022",
       "n": 31,
       "pub": 3,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "4051",
-      "titulo": "SISTEMA PARA PREDIÇÃO DE TRANSTORNOS MENTAIS COMUNS NA ATENÇÃO PRIMÁRIA À SAÚDE III",
-      "tipo": "Projeto",
-      "ano": "2022",
-      "n": 9,
-      "pub": 7,
       "funcoes": [
         "COORDENADOR(A)"
       ]
@@ -341,6 +330,13 @@
     },
     {
       "ano": "2022",
+      "atividade_id": "13928",
+      "acao_id": "4034",
+      "atividade": "SmartIdea - Validação de Problemas e Ideias",
+      "pub": 1
+    },
+    {
+      "ano": "2022",
       "atividade_id": "17192",
       "acao_id": "4034",
       "atividade": "Oficina de Low-Code",
@@ -352,20 +348,6 @@
       "acao_id": "4034",
       "atividade": "Oficina de Design Sprint",
       "pub": 2
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "13928",
-      "acao_id": "4034",
-      "atividade": "SmartIdea - Validação de Problemas e Ideias",
-      "pub": 1
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "13982",
-      "acao_id": "4051",
-      "atividade": "SISTEMA PARA PREDIÇÃO DE TRANSTORNOS MENTAIS COMUNS NA ATENÇÃO PRIMÁRIA À SAÚDE III",
-      "pub": 7
     },
     {
       "ano": "2015",
@@ -424,14 +406,10 @@
       "pub": 0
     }
   ],
-  "imp_coord": 42,
+  "imp_coord": 35,
   "imp_eq": 40,
-  "impacto": 82,
+  "impacto": 75,
   "temas": [
-    {
-      "tema": "Saúde e bem-estar",
-      "n": 7
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 7
@@ -439,6 +417,10 @@
     {
       "tema": "Cultura e arte",
       "n": 7
+    },
+    {
+      "tema": "Saúde e bem-estar",
+      "n": 5
     },
     {
       "tema": "Ciência e divulgação",
@@ -552,11 +534,6 @@
     {
       "nome": "Rafael Afonso dos Anjos",
       "slug": "rafael-afonso-dos-anjos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Matheus de Souza Pereira de Oliveira",
-      "slug": "matheus-de-souza-pereira-de-oliveira",
       "acoes_comuns": 2
     },
     {
@@ -767,6 +744,11 @@
     {
       "nome": "Kleber André Lirio Picoli",
       "slug": "kleber-andre-lirio-picoli",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Matheus de Souza Pereira de Oliveira",
+      "slug": "matheus-de-souza-pereira-de-oliveira",
       "acoes_comuns": 1
     },
     {

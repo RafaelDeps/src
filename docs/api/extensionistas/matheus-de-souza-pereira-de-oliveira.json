@@ -3,8 +3,7 @@
   "nome": "Matheus de Souza Pereira de Oliveira",
   "resumo_ia": null,
   "anos": [
-    "2019",
-    "2022"
+    "2019"
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA"
@@ -21,17 +20,6 @@
       "funcoes": [
         "ALUNO(A) BOLSISTA"
       ]
-    },
-    {
-      "acao_id": "4051",
-      "titulo": "SISTEMA PARA PREDIÇÃO DE TRANSTORNOS MENTAIS COMUNS NA ATENÇÃO PRIMÁRIA À SAÚDE III",
-      "tipo": "Projeto",
-      "ano": "2022",
-      "n": 9,
-      "pub": 7,
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ]
     }
   ],
   "atividades": [
@@ -41,29 +29,22 @@
       "acao_id": "2600",
       "atividade": "Sistema para predição de transtornos mentais comuns na atenção primária a saúde",
       "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "13982",
-      "acao_id": "4051",
-      "atividade": "SISTEMA PARA PREDIÇÃO DE TRANSTORNOS MENTAIS COMUNS NA ATENÇÃO PRIMÁRIA À SAÚDE III",
-      "pub": 7
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 7,
-  "impacto": 7,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
     {
       "tema": "Saúde e bem-estar",
-      "n": 2
+      "n": 1
     }
   ],
   "colaboradores": [
     {
       "nome": "Moisés Savedra Omena",
       "slug": "moises-savedra-omena",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Serenna Ferrari Lima",

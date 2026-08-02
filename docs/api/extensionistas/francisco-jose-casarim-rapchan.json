@@ -124,17 +124,17 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "3053",
-      "acao_id": "1116",
-      "atividade": "Programa Local Núcleo Incubador Campus Serra – NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
       "atividade_id": "10997",
       "acao_id": "1116",
       "atividade": "Capacitação em \"Modelagem de Novos Negócios\"",
       "pub": 24
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "3053",
+      "acao_id": "1116",
+      "atividade": "Programa Local Núcleo Incubador Campus Serra – NIS",
+      "pub": 0
     },
     {
       "ano": "2017",
@@ -152,6 +152,13 @@
     },
     {
       "ano": "2021",
+      "atividade_id": "19381",
+      "acao_id": "3423",
+      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
+      "pub": 40
+    },
+    {
+      "ano": "2021",
       "atividade_id": "19841",
       "acao_id": "3423",
       "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
@@ -163,13 +170,6 @@
       "acao_id": "3423",
       "atividade": "Pré-incubação – Capacitação para empreendedores inovadores – Turma 2023/2024",
       "pub": 4
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "19381",
-      "acao_id": "3423",
-      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 40
     },
     {
       "ano": "2021",

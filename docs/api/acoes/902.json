@@ -8,44 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "21/10/2016",
   "Resumo": "O projeto “Arduino” iniciou-se, na Itália em 2005, com o intuito de desenvolver projetos tecnológicos com um orçamento menor que outros sistemas de prototipagem disponíveis naquela época. Assim, foi desenvolvido um trabalho colaborativo para a criação de uma plataforma de hardware e software abertos que possam simplificar a criação e prototipagem de projetos de eletrônica. Com ele é possível controlar uma grande variedade de sistemas e componentes eletrônicos tais como, LEDs, teclados, displays, motores, eletrodomésticos bem como comunicar-se com computadores, smartphones, carros, dentre muitas outras possibilidades. Com o passo dos anos, a plataforma de desenvolvimento microcontrolada “Arduino” tem chamado a atenção de profissionais, educadores e hobbistas do mundo inteiro, recebendo constantes melhoras e novas versões, sendo hoje uma ferramenta muito utilizada para ensino, desenvolvimento e pesquisa.   \nO curso visa proporcionar uma abordagem inicial à programação da plataforma de desenvolvimento Arduino, bem como o entendimento dos comandos básicos e a elaboração de projetos eletrônicos.",
   "Campus": "Serra",
-  "total_participacoes": 43,
-  "publico_alvo_total": 39,
-  "atividades": [
-    {
-      "atividade_id": "2047",
-      "numero": "001",
-      "atividade": "Introdução ao Arduino e Microcontroladores",
-      "publico": 20,
-      "aprovados": 11,
-      "certificados": 11,
-      "equipe": 2
-    },
-    {
-      "atividade_id": "2048",
-      "numero": "002",
-      "atividade": "Introdução ao Arduino e Microcontroladores",
-      "publico": 19,
-      "aprovados": 14,
-      "certificados": 14,
-      "equipe": 2
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "funcoes": [
-        "COORDENADOR(A)",
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

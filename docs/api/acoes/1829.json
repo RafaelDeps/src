@@ -8,34 +8,14 @@
   "Fomento": "PAEX-IFES",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "05/10/2019",
   "Data de cadastro": "27/07/2018",
   "Resumo": "Este projeto visa o desenvolvimento de uma plataforma robótica que possa auxiliar na manutenção de campos esportivos de futebol. Assim, este robô poderá realizar tarefas, como por exemplo, corte do gramado e pintado das linhas regulamentares. O sistema utilizará programação de microcontroladores e estratégias de navegação. O sistema pretende ser bastante intuitivo para um usuário e flexível para as modificações ou adaptações que o robô faria numa situação não prevista. Espera-se que este projeto realize a automação de um processo de forma rápida e eficiente comparado ao mesmo trabalho realizado por um humano. Da mesma forma, é valido frisar que o pesquisador proponente é especialista nas áreas de Robótica e Automação, com formação de\nMestrado e Doutorado na área.",
   "Campus": "Serra",
-  "total_participacoes": 3,
-  "publico_alvo_total": 1,
-  "atividades": [
-    {
-      "atividade_id": "5747",
-      "numero": "001",
-      "atividade": "Desenvolvimento de um sistema multiplataforma para robôs de assistência e manutenção de quadras esportivas",
-      "publico": 1,
-      "aprovados": 1,
-      "certificados": 1,
-      "equipe": 2
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "funcoes": [
-        "COORDENADOR(A)",
-        "ORIENTADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

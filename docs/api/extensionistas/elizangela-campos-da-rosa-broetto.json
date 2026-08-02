@@ -37,8 +37,8 @@
       "titulo": "Curso de Eletricista Instalador Predial de Baixa Tensão",
       "tipo": "Curso",
       "ano": "2013",
-      "n": 39,
-      "pub": 39
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
@@ -111,33 +111,33 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "1524",
-      "acao_id": "708",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "pub": 15
-    },
-    {
-      "ano": "2016",
       "atividade_id": "1523",
       "acao_id": "708",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
       "pub": 14
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1524",
+      "acao_id": "708",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
+      "pub": 15
     }
   ],
-  "imp_coord": 157,
+  "imp_coord": 118,
   "imp_eq": 59,
-  "impacto": 216,
+  "impacto": 177,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
       "n": 3
     },
     {
-      "tema": "Saúde e bem-estar",
-      "n": 2
+      "tema": "Outros / formação",
+      "n": 1
     },
     {
-      "tema": "Outros / formação",
+      "tema": "Saúde e bem-estar",
       "n": 1
     }
   ],

@@ -4,7 +4,6 @@
   "resumo_ia": null,
   "anos": [
     "2016",
-    "2018",
     "2019"
   ],
   "funcoes": [
@@ -14,17 +13,6 @@
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "1838",
-      "titulo": "LEDS – Laboratório de Extensão e Desenvolvimento de Soluções",
-      "tipo": "Programa",
-      "ano": "2018",
-      "n": 4,
-      "pub": 1,
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ]
-    },
     {
       "acao_id": "2823",
       "titulo": "I Am Here: Registro de Frequência por Reconhecimento Facial",
@@ -52,13 +40,6 @@
   ],
   "atividades": [
     {
-      "ano": "2018",
-      "atividade_id": "5767",
-      "acao_id": "1838",
-      "atividade": "LEDS – Laboratório de Extensão e Desenvolvimento de Soluções",
-      "pub": 1
-    },
-    {
       "ano": "2019",
       "atividade_id": "9895",
       "acao_id": "2823",
@@ -74,27 +55,23 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10343",
-      "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "2297",
       "acao_id": "901",
       "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "10343",
+      "acao_id": "901",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
+      "pub": 0
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 1,
-  "impacto": 1,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
-    {
-      "tema": "Outros / formação",
-      "n": 1
-    },
     {
       "tema": "Software, dados e sistemas",
       "n": 1
@@ -105,11 +82,6 @@
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 2
-    },
     {
       "nome": "Fabiano Borges Ruy",
       "slug": "fabiano-borges-ruy",
@@ -131,8 +103,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Gabriel Gonçalves da Costa",
-      "slug": "gabriel-goncalves-da-costa",
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 1
     },
     {

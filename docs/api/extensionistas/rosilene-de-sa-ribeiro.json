@@ -36,8 +36,8 @@
       "titulo": "Física ao Alcance de Todos",
       "tipo": "Projeto",
       "ano": "2022",
-      "n": 11,
-      "pub": 3
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
@@ -75,18 +75,6 @@
       "funcoes": [
         "COORDENADOR(A)"
       ]
-    },
-    {
-      "acao_id": "3768",
-      "titulo": "Física ao Alcance de Todos",
-      "tipo": "Projeto",
-      "ano": "2022",
-      "n": 11,
-      "pub": 3,
-      "funcoes": [
-        "COORDENADOR(A)",
-        "ORIENTADOR(A)"
-      ]
     }
   ],
   "atividades": [
@@ -106,17 +94,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "9599",
+      "atividade_id": "9596",
       "acao_id": "2021",
-      "atividade": "Palestra: Biocombustíveis na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 57
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "6522",
-      "acao_id": "2021",
-      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
-      "pub": 30
+      "atividade": "Minicurso: Ideias para brincar: Programando com Arduino e Raspberry Pi na Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 29
     },
     {
       "ano": "2018",
@@ -127,24 +108,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "7750",
+      "atividade_id": "9594",
       "acao_id": "2021",
-      "atividade": "Trabalho de Iniciação Científica",
-      "pub": 0
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "9596",
-      "acao_id": "2021",
-      "atividade": "Minicurso: Ideias para brincar: Programando com Arduino e Raspberry Pi na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 29
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "6519",
-      "acao_id": "2021",
-      "atividade": "Palestra: Mulheres na Ciência - Palestrante: Rosilene de Sá Ribeiro",
-      "pub": 6
+      "atividade": "Palestra: Mulheres na Ciência durante a Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 49
     },
     {
       "ano": "2018",
@@ -162,10 +129,31 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "9594",
+      "atividade_id": "9599",
       "acao_id": "2021",
-      "atividade": "Palestra: Mulheres na Ciência durante a Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 49
+      "atividade": "Palestra: Biocombustíveis na Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 57
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6519",
+      "acao_id": "2021",
+      "atividade": "Palestra: Mulheres na Ciência - Palestrante: Rosilene de Sá Ribeiro",
+      "pub": 6
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6522",
+      "acao_id": "2021",
+      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
+      "pub": 30
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "7750",
+      "acao_id": "2021",
+      "atividade": "Trabalho de Iniciação Científica",
+      "pub": 0
     },
     {
       "ano": "2020",
@@ -180,32 +168,18 @@
       "acao_id": "2932",
       "atividade": "Coordenação da Semana Nacional de Ciência e Tecnologia (SNCT 2020) do Campus Serra",
       "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "17383",
-      "acao_id": "3768",
-      "atividade": "Inciciação Científica",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "13271",
-      "acao_id": "3768",
-      "atividade": "Física ao Alcance de Todos",
-      "pub": 3
     }
   ],
-  "imp_coord": 238,
+  "imp_coord": 235,
   "imp_eq": 0,
-  "impacto": 238,
+  "impacto": 235,
   "temas": [
     {
-      "tema": "Captação e ingresso",
-      "n": 4
+      "tema": "Robótica e cultura maker",
+      "n": 2
     },
     {
-      "tema": "Robótica e cultura maker",
+      "tema": "Captação e ingresso",
       "n": 2
     },
     {
@@ -215,18 +189,13 @@
   ],
   "colaboradores": [
     {
-      "nome": "Leandro Melo de Sá",
-      "slug": "leandro-melo-de-sa",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Flávio Barcelos Braz da Silva",
       "slug": "flavio-barcelos-braz-da-silva",
       "acoes_comuns": 2
     },
     {
-      "nome": "Faye Manski Queiroz",
-      "slug": "faye-manski-queiroz",
+      "nome": "Leandro Melo de Sá",
+      "slug": "leandro-melo-de-sa",
       "acoes_comuns": 2
     },
     {
@@ -402,6 +371,11 @@
     {
       "nome": "Estácio Righette Pereira",
       "slug": "estacio-righette-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Faye Manski Queiroz",
+      "slug": "faye-manski-queiroz",
       "acoes_comuns": 1
     },
     {
@@ -642,21 +616,6 @@
     {
       "nome": "Jefferson Oliveira Andrade",
       "slug": "jefferson-oliveira-andrade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jonas Emanuel dos Santos Egert",
-      "slug": "jonas-emanuel-dos-santos-egert",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Felipe Loureiro Mascarenhas",
-      "slug": "luiz-felipe-loureiro-mascarenhas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Eduardo da Silva Pacheco",
-      "slug": "lucas-eduardo-da-silva-pacheco",
       "acoes_comuns": 1
     }
   ]

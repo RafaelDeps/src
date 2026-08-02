@@ -108,10 +108,10 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "19697",
+      "atividade_id": "17045",
       "acao_id": "4655",
-      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
-      "pub": 0
+      "atividade": "Palestra \"Mulher de energia solar: MEGA SOLUÇÕES ENERGÉTICAS\"",
+      "pub": 46
     },
     {
       "ano": "2023",
@@ -122,38 +122,10 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17039",
+      "atividade_id": "17038",
       "acao_id": "4655",
-      "atividade": "Palestra \"Incubadora de Empreendimentos: Instrumento para Empreendedorismo e Inovação\"",
-      "pub": 45
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17043",
-      "acao_id": "4655",
-      "atividade": "Minicurso \"Habitats de Inovação\"",
-      "pub": 16
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17044",
-      "acao_id": "4655",
-      "atividade": "Palestra \" Crimes Cibernéticos e Cyberbullying no Brasil\"",
-      "pub": 34
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17046",
-      "acao_id": "4655",
-      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "19698",
-      "acao_id": "4655",
-      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
-      "pub": 0
+      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
+      "pub": 5
     },
     {
       "ano": "2023",
@@ -171,6 +143,13 @@
     },
     {
       "ano": "2023",
+      "atividade_id": "17043",
+      "acao_id": "4655",
+      "atividade": "Minicurso \"Habitats de Inovação\"",
+      "pub": 16
+    },
+    {
+      "ano": "2023",
       "atividade_id": "17042",
       "acao_id": "4655",
       "atividade": "Palestra \"A experiência de inclusão de biografias de pesquisadoras na Wikipédia\"",
@@ -178,17 +157,10 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17045",
+      "atividade_id": "17044",
       "acao_id": "4655",
-      "atividade": "Palestra \"Mulher de energia solar: MEGA SOLUÇÕES ENERGÉTICAS\"",
-      "pub": 46
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17038",
-      "acao_id": "4655",
-      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
-      "pub": 5
+      "atividade": "Palestra \" Crimes Cibernéticos e Cyberbullying no Brasil\"",
+      "pub": 34
     },
     {
       "ano": "2023",
@@ -199,10 +171,38 @@
     },
     {
       "ano": "2023",
+      "atividade_id": "17046",
+      "acao_id": "4655",
+      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
+      "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19698",
+      "acao_id": "4655",
+      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
+      "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17039",
+      "acao_id": "4655",
+      "atividade": "Palestra \"Incubadora de Empreendimentos: Instrumento para Empreendedorismo e Inovação\"",
+      "pub": 45
+    },
+    {
+      "ano": "2023",
       "atividade_id": "17035",
       "acao_id": "4655",
       "atividade": "Palestra \"Robótica, Programação e Simulações: desenvolvendo o pensamento computacional nas aulas\"",
       "pub": 80
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19697",
+      "acao_id": "4655",
+      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "pub": 0
     },
     {
       "ano": "2024",

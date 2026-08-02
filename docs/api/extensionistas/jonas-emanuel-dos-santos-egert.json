@@ -3,26 +3,13 @@
   "nome": "Jonas Emanuel dos Santos Egert",
   "resumo_ia": null,
   "anos": [
-    "2022",
     "2023"
   ],
   "funcoes": [
-    "ALUNO(A) VOLUNTARIO",
-    "EXTENSIONISTA"
+    "ALUNO(A) VOLUNTARIO"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "3768",
-      "titulo": "Física ao Alcance de Todos",
-      "tipo": "Projeto",
-      "ano": "2022",
-      "n": 11,
-      "pub": 3,
-      "funcoes": [
-        "EXTENSIONISTA"
-      ]
-    },
     {
       "acao_id": "4655",
       "titulo": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
@@ -37,13 +24,6 @@
   ],
   "atividades": [
     {
-      "ano": "2022",
-      "atividade_id": "17382",
-      "acao_id": "3768",
-      "atividade": "Inciciação Científica",
-      "pub": 0
-    },
-    {
       "ano": "2023",
       "atividade_id": "17046",
       "acao_id": "4655",
@@ -56,40 +36,11 @@
   "impacto": 0,
   "temas": [
     {
-      "tema": "Captação e ingresso",
-      "n": 1
-    },
-    {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Rosilene de Sá Ribeiro",
-      "slug": "rosilene-de-sa-ribeiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Leandro Melo de Sá",
-      "slug": "leandro-melo-de-sa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Felipe Loureiro Mascarenhas",
-      "slug": "luiz-felipe-loureiro-mascarenhas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Eduardo da Silva Pacheco",
-      "slug": "lucas-eduardo-da-silva-pacheco",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Faye Manski Queiroz",
-      "slug": "faye-manski-queiroz",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",

@@ -8,26 +8,14 @@
   "Fomento": "PAEX-IFES",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "01/10/2014",
   "Resumo": "Capacitar empreendedores para o desenvolvimento de propostas de empreendimentos que possuam aderência a uma ou mais áreas de atuação do Ifes campus Serra que atualmente são: a) Tecnologia da Informação e Comunicação (TIC); b) Informática; c) Automação; d) Tecnologia Assistiva; e) Tecnologias Educacionais; f) Gestão da Inovação; g) Eletroeletrônica; h) Metalmecânica; i) Energia; j) Tecnologia para sustentabilidade e preservação do meio ambiente, aptas a atrair investimentos ou participar de processos seletivos de incubação.",
   "Campus": "Serra",
-  "total_participacoes": 11,
-  "publico_alvo_total": 11,
-  "atividades": [
-    {
-      "atividade_id": "459",
-      "numero": "001",
-      "atividade": "Pré-Incubação para Empreendedores",
-      "publico": 11,
-      "aprovados": 6,
-      "certificados": 6,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

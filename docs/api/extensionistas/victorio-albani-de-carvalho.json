@@ -65,17 +65,17 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "14475",
-      "acao_id": "4210",
-      "atividade": "Operador de Computador",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "14476",
       "acao_id": "4210",
       "atividade": "Operador de Computador",
       "pub": 17
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "14475",
+      "acao_id": "4210",
+      "atividade": "Operador de Computador",
+      "pub": 0
     },
     {
       "ano": "2016",

@@ -27,8 +27,8 @@
       "titulo": "Desenvolvimento de um sistema multiplataforma para robôs de assistência e manutenção de quadras esportivas",
       "tipo": "Projeto",
       "ano": "2018",
-      "n": 3,
-      "pub": 1
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "3567",
@@ -57,18 +57,6 @@
       "pub": 36,
       "funcoes": [
         "COLABORADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "1829",
-      "titulo": "Desenvolvimento de um sistema multiplataforma para robôs de assistência e manutenção de quadras esportivas",
-      "tipo": "Projeto",
-      "ano": "2018",
-      "n": 3,
-      "pub": 1,
-      "funcoes": [
-        "COORDENADOR(A)",
-        "ORIENTADOR(A)"
       ]
     },
     {
@@ -207,17 +195,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "5747",
-      "acao_id": "1829",
-      "atividade": "Desenvolvimento de um sistema multiplataforma para robôs de assistência e manutenção de quadras esportivas",
-      "pub": 1
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "9596",
+      "atividade_id": "6522",
       "acao_id": "2021",
-      "atividade": "Minicurso: Ideias para brincar: Programando com Arduino e Raspberry Pi na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 29
+      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
+      "pub": 30
     },
     {
       "ano": "2018",
@@ -228,17 +209,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "6522",
+      "atividade_id": "9596",
       "acao_id": "2021",
-      "atividade": "Minicurso: Introdução ao Arduino e Microcontroladores",
-      "pub": 30
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "10619",
-      "acao_id": "2082",
-      "atividade": "Palestra \"Uma introdução à Robótica de Reabilitação e Robótica Vestível (Wearables Robotics)",
-      "pub": 0
+      "atividade": "Minicurso: Ideias para brincar: Programando com Arduino e Raspberry Pi na Semana Nacional de Ciência e Tecnologia 2019",
+      "pub": 29
     },
     {
       "ano": "2018",
@@ -246,6 +220,13 @@
       "acao_id": "2082",
       "atividade": "Mulheres na Ciência",
       "pub": 17
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "10619",
+      "acao_id": "2082",
+      "atividade": "Palestra \"Uma introdução à Robótica de Reabilitação e Robótica Vestível (Wearables Robotics)",
+      "pub": 0
     },
     {
       "ano": "2019",
@@ -284,9 +265,16 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "19697",
+      "atividade_id": "17038",
       "acao_id": "4655",
-      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
+      "pub": 5
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19698",
+      "acao_id": "4655",
+      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
       "pub": 0
     },
     {
@@ -298,24 +286,24 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "19698",
-      "acao_id": "4655",
-      "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17038",
-      "acao_id": "4655",
-      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
-      "pub": 5
-    },
-    {
-      "ano": "2023",
       "atividade_id": "17035",
       "acao_id": "4655",
       "atividade": "Palestra \"Robótica, Programação e Simulações: desenvolvendo o pensamento computacional nas aulas\"",
       "pub": 80
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19697",
+      "acao_id": "4655",
+      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "pub": 0
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "21813",
+      "acao_id": "5086",
+      "atividade": "Minicurso: Treinamento em Robótica",
+      "pub": 9
     },
     {
       "ano": "2024",
@@ -330,13 +318,6 @@
       "acao_id": "5086",
       "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 112
-    },
-    {
-      "ano": "2024",
-      "atividade_id": "21813",
-      "acao_id": "5086",
-      "atividade": "Minicurso: Treinamento em Robótica",
-      "pub": 9
     },
     {
       "ano": "2025",
@@ -360,13 +341,13 @@
       "pub": 69
     }
   ],
-  "imp_coord": 169,
+  "imp_coord": 168,
   "imp_eq": 266,
-  "impacto": 435,
+  "impacto": 434,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 11
+      "n": 9
     },
     {
       "tema": "Empreendedorismo e incubação",

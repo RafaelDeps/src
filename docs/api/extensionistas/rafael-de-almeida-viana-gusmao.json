@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "9118",
-      "acao_id": "2650",
-      "atividade": "Matemática na Rede",
-      "pub": 0
-    },
-    {
-      "ano": "2019",
       "atividade_id": "9117",
       "acao_id": "2650",
       "atividade": "Matemática na Rede",
       "pub": 34
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "9118",
+      "acao_id": "2650",
+      "atividade": "Matemática na Rede",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

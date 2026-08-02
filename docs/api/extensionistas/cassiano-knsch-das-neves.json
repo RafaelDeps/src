@@ -3,26 +3,13 @@
   "nome": "Cassiano Knsch das Neves",
   "resumo_ia": null,
   "anos": [
-    "2016",
-    "2019"
+    "2016"
   ],
   "funcoes": [
-    "ALUNO(A) VOLUNTARIO",
     "MINISTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "2193",
-      "titulo": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "tipo": "Projeto",
-      "ano": "2019",
-      "n": 8,
-      "pub": 0,
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ]
-    },
     {
       "acao_id": "719",
       "titulo": "Programação Visual Criativa com Scratch + Arduino",
@@ -37,13 +24,6 @@
   ],
   "atividades": [
     {
-      "ano": "2019",
-      "atividade_id": "7600",
-      "acao_id": "2193",
-      "atividade": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "pub": 0
-    },
-    {
       "ano": "2016",
       "atividade_id": "1560",
       "acao_id": "719",
@@ -56,53 +36,29 @@
   "impacto": 12,
   "temas": [
     {
-      "tema": "Cultura e arte",
-      "n": 1
-    },
-    {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
     {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Marlon Woelffel Candoti",
       "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Anne Caroline Silva",
       "slug": "anne-caroline-silva",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Irisson Junio Máximo Borges",
       "slug": "irisson-junio-maximo-borges",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Carlos Lins Borges Azevedo",
-      "slug": "carlos-lins-borges-azevedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Flávio Lopes da Silva",
-      "slug": "flavio-lopes-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
       "acoes_comuns": 1
     },
     {

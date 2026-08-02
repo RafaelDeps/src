@@ -45,6 +45,13 @@
     },
     {
       "ano": "2019",
+      "atividade_id": "10560",
+      "acao_id": "2505",
+      "atividade": "Oficina de Sensibilização",
+      "pub": 13
+    },
+    {
+      "ano": "2019",
       "atividade_id": "8630",
       "acao_id": "2505",
       "atividade": "Circuito Audiovisual",
@@ -52,17 +59,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10568",
+      "atividade_id": "10575",
       "acao_id": "2505",
-      "atividade": "Ateliê de Produção Audiovisual",
-      "pub": 12
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10560",
-      "acao_id": "2505",
-      "atividade": "Oficina de Sensibilização",
-      "pub": 13
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     },
     {
       "ano": "2019",
@@ -73,10 +73,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10575",
+      "atividade_id": "10568",
       "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
+      "atividade": "Ateliê de Produção Audiovisual",
+      "pub": 12
     }
   ],
   "imp_coord": 0,

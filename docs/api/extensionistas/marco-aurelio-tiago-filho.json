@@ -25,16 +25,16 @@
   "atividades": [
     {
       "ano": "2023",
-      "atividade_id": "19697",
+      "atividade_id": "17046",
       "acao_id": "4655",
-      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
       "pub": 0
     },
     {
       "ano": "2023",
-      "atividade_id": "17046",
+      "atividade_id": "19697",
       "acao_id": "4655",
-      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
+      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
       "pub": 0
     }
   ],

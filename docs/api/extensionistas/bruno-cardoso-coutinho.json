@@ -23,8 +23,8 @@
       "titulo": "Informática Básica Para Agentes Multiplicadores.",
       "tipo": "Curso",
       "ano": "2019",
-      "n": 42,
-      "pub": 16
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "3431",
@@ -43,17 +43,6 @@
       "ano": "2019",
       "n": 5,
       "pub": 0,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "2783",
-      "titulo": "Informática Básica Para Agentes Multiplicadores.",
-      "tipo": "Curso",
-      "ano": "2019",
-      "n": 42,
-      "pub": 16,
       "funcoes": [
         "COORDENADOR(A)"
       ]
@@ -79,20 +68,6 @@
       "pub": 0
     },
     {
-      "ano": "2019",
-      "atividade_id": "9577",
-      "acao_id": "2783",
-      "atividade": "Informática Básica Para Agentes Multiplicadores.",
-      "pub": 16
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10922",
-      "acao_id": "2783",
-      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
-      "pub": 16
-    },
-    {
       "ano": "2021",
       "atividade_id": "11978",
       "acao_id": "3431",
@@ -100,13 +75,13 @@
       "pub": 2
     }
   ],
-  "imp_coord": 18,
+  "imp_coord": 2,
   "imp_eq": 0,
-  "impacto": 18,
+  "impacto": 2,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 4
+      "n": 2
     },
     {
       "tema": "Robótica e cultura maker",
@@ -117,17 +92,7 @@
     {
       "nome": "Juliana Rohsner Vianna Toniati",
       "slug": "juliana-rohsner-vianna-toniati",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Gabriel Victor Ferreira de Araújo",
-      "slug": "gabriel-victor-ferreira-de-araujo",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Renata Imaculada de Oliveira Teixeira",
-      "slug": "renata-imaculada-de-oliveira-teixeira",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Glaucelena Dias Lopes da Vitória",
@@ -135,8 +100,13 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Ridley Francis Miranda Amorim",
-      "slug": "ridley-francis-miranda-amorim",
+      "nome": "Gabriel Victor Ferreira de Araújo",
+      "slug": "gabriel-victor-ferreira-de-araujo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Renata Imaculada de Oliveira Teixeira",
+      "slug": "renata-imaculada-de-oliveira-teixeira",
       "acoes_comuns": 1
     },
     {

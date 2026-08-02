@@ -8,26 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "09/01/2015",
   "Resumo": "O Arduino é uma plataforma de prototipagem eletrônica de hardware livre, projetada com um microcontrolador Armel AVR de placa única, com suporte de entrada/saída embutido, uma linguagem de programação padrão. Este curso visa demonstrar os conceitos de Microcontroladores e suas aplicações. Capacitando, dessa forma, os alunos para desenvolvimento de novas soluções/projetos utilizando a plataforma Arduino em várias situações, seja acadêmicas ou até mesmo sociais.",
   "Campus": "Serra",
-  "total_participacoes": 23,
-  "publico_alvo_total": 23,
-  "atividades": [
-    {
-      "atividade_id": "573",
-      "numero": "001",
-      "atividade": "Introdução ao Arduino - Módulo Básico",
-      "publico": 23,
-      "aprovados": 21,
-      "certificados": 21,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

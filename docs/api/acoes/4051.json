@@ -8,40 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23158.001821/2021-50 - LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências da Saúde",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "15/12/2023",
   "Data de cadastro": "16/09/2022",
   "Resumo": "O presente projeto partiu de necessidades verificadas com os profissionais das áreas de saúde\nde Vitória verificadas em projetos anteriores realizados pelos professores parceiros da UFES.\nEstudos epidemiológicos tem mostrado à alta prevalência e o impacto importante dos\ntranstornos mentais na saúde pública (Demyttenaere et al., 2004; Report, 1993). Os transtornos\nmentais foram responsáveis por quase um terço de anos vividos com incapacidade no mundo\nem 2005 (Lopez, Mathers, Ezzati, Jamison, & Murray, 2006). Além disso, os transtornos mentais\nampliam a morbidade e incapacidade associada a outros problemas de saúde (Moussavi et al.,\n2007).\nHá ainda um número pequeno de acesso ao tratamento em grande parte da população geral ,\nquando levado em conta a alta prevalência de transtornos mentais na população (Prince et al.,\n2007). Segundo o estudo de Gonçalves et al. (2014), há alta prevalência de transtornos mentais\nem 27 Unidades de Saúde da Família de quatro capitais. Foram verificadas taxas elevadas em\ntodos os municípios pesquisados: 51,9% (Rio de Janeiro), 53,3% (São Paulo), 64,3% (Fortaleza) e\n57,7% (Porto Alegre). De acordo com os dados acima, sabe-se que a maior parte dos indivíduos\ncom transtornos mentais não recebe tratamento.\nA necessidade de superação da deficiência de cobertura à saúde mental tem sido intensamente\ndebatida no Brasil e no mundo.\nUma possível resposta a esse desafio é representada pela implementação de soluções\ncomputacionais baseadas em ciência de dados e aprendizado de máquina. Essas soluções são\ncapazes de, a partir de dados já existentes, prever a prevalência dos transtornos mentais em\nindivíduos, assim como a sua gravidade clínica e necessidade de intervenção.\nA introdução de aprendizado de máquina, com modelos de interações causais e predição de\nrisco, pode previamente indicar a probabilidade individual de início ou piora de episódios de\ntranstornos mentais, permitindo a instituição de assistência precoce, abreviação do quadro\nclínico e redução da comorbidade e da incapacitação. Esses procedimentos também podem ser\nsuportados por algoritmos que indicam a necessidade de tratamento e fazem o seguimento da\nresposta do paciente às terapêuticas instituídas.\nO projeto atual pretende utilizar uma base de dados já coletada e anonimizada por projetos\nanteriores da instituição parceira, a UFES. A intenção é fazer uma prova de conceito, para\nposteriormente auxiliar a tomada de decisões pelos profissionais da saúde. A base de dados já\nestá disponível, coletada e anonimizada. Os pesquisadores nesse projeto não terão acesso a\ndados não anonimizados dos pacientes.",
   "Campus": "Serra",
-  "total_participacoes": 9,
-  "publico_alvo_total": 7,
-  "atividades": [
-    {
-      "atividade_id": "13982",
-      "numero": "001",
-      "atividade": "SISTEMA PARA PREDIÇÃO DE TRANSTORNOS MENTAIS COMUNS NA ATENÇÃO PRIMÁRIA À SAÚDE III",
-      "publico": 7,
-      "aprovados": 7,
-      "certificados": 7,
-      "equipe": 2
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Matheus de Souza Pereira de Oliveira",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

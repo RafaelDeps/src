@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2016",
-      "atividade_id": "1524",
-      "acao_id": "708",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "pub": 15
-    },
-    {
-      "ano": "2016",
       "atividade_id": "1523",
       "acao_id": "708",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
       "pub": 14
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1524",
+      "acao_id": "708",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
+      "pub": 15
     }
   ],
   "imp_coord": 0,

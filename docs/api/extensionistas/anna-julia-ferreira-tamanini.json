@@ -45,13 +45,6 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14467",
-      "acao_id": "2107",
-      "atividade": "Visita EMEF Jonas Farias 1",
-      "pub": 9
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14468",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 2",
@@ -63,6 +56,13 @@
       "acao_id": "2107",
       "atividade": "Visita EEEFM Nova Carapina",
       "pub": 91
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14467",
+      "acao_id": "2107",
+      "atividade": "Visita EMEF Jonas Farias 1",
+      "pub": 9
     },
     {
       "ano": "2018",

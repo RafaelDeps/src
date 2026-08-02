@@ -82,13 +82,6 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "8972",
-      "acao_id": "2591",
-      "atividade": "O IFES é o meu lugar",
-      "pub": 40
-    },
-    {
-      "ano": "2019",
       "atividade_id": "8973",
       "acao_id": "2591",
       "atividade": "O IFES é o meu lugar",
@@ -96,10 +89,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "9118",
-      "acao_id": "2650",
-      "atividade": "Matemática na Rede",
-      "pub": 0
+      "atividade_id": "8972",
+      "acao_id": "2591",
+      "atividade": "O IFES é o meu lugar",
+      "pub": 40
     },
     {
       "ano": "2019",
@@ -107,6 +100,13 @@
       "acao_id": "2650",
       "atividade": "Matemática na Rede",
       "pub": 34
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "9118",
+      "acao_id": "2650",
+      "atividade": "Matemática na Rede",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

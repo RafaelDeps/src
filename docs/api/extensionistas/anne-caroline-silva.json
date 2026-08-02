@@ -4,8 +4,7 @@
   "resumo_ia": null,
   "anos": [
     "2016",
-    "2018",
-    "2019"
+    "2018"
   ],
   "funcoes": [
     "ALUNO(A) VOLUNTARIO",
@@ -20,17 +19,6 @@
       "ano": "2018",
       "n": 49,
       "pub": 37,
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ]
-    },
-    {
-      "acao_id": "2193",
-      "titulo": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "tipo": "Projeto",
-      "ano": "2019",
-      "n": 8,
-      "pub": 0,
       "funcoes": [
         "ALUNO(A) VOLUNTARIO"
       ]
@@ -67,13 +55,6 @@
       "pub": 37
     },
     {
-      "ano": "2019",
-      "atividade_id": "7600",
-      "acao_id": "2193",
-      "atividade": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "pub": 0
-    },
-    {
       "ano": "2016",
       "atividade_id": "1560",
       "acao_id": "719",
@@ -94,7 +75,7 @@
   "temas": [
     {
       "tema": "Cultura e arte",
-      "n": 2
+      "n": 1
     },
     {
       "tema": "Robótica e cultura maker",
@@ -112,11 +93,6 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Ana Rúbia Ramos Vicente",
       "slug": "ana-rubia-ramos-vicente",
       "acoes_comuns": 2
@@ -127,33 +103,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Carlos Lins Borges Azevedo",
-      "slug": "carlos-lins-borges-azevedo",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "slug": "irisson-junio-maximo-borges",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Flávio Lopes da Silva",
-      "slug": "flavio-lopes-da-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
+      "nome": "Marlon Woelffel Candoti",
+      "slug": "marlon-woelffel-candoti",
       "acoes_comuns": 2
     },
     {
@@ -197,6 +148,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Cassiano Knsch das Neves",
+      "slug": "cassiano-knsch-das-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Irisson Junio Máximo Borges",
+      "slug": "irisson-junio-maximo-borges",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Mirleni de Jesus",
       "slug": "mirleni-de-jesus",
       "acoes_comuns": 1
@@ -214,6 +175,11 @@
     {
       "nome": "Alessandra Aguiar Vilarinho",
       "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 1
     },
     {
@@ -372,8 +338,23 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Flávio Lopes da Silva",
+      "slug": "flavio-lopes-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Carlos Lins Borges Azevedo",
+      "slug": "carlos-lins-borges-azevedo",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Sergio Nery Simões",
       "slug": "sergio-nery-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 1
     },
     {

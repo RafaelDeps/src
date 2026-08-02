@@ -8,69 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências Humanas",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Cultura",
   "Relatório aprovado": "Sim",
   "Data último relatório": "06/10/2023",
   "Data de cadastro": "04/08/2023",
   "Resumo": "- visita guiada pela trilha do ouro, observando os aspectos da mata nativa. Abordando, também, a\nforma como a estrada foi construída, a partir de uma aula sobre as questões históricas da travessia do\nouro, desde as cidades de extração até o porto de Paraty, e suas implicações, com explicação de\ntermos oriundos da época, como “santo do pau oco, etc.\n- passeio de escuna com visitação às ilhas históricas e aulas sobre o processo de envio do ouro para\nPortugal, a partir do porto de Paraty.\n- visita guiada a vila caiçara de Trindade, trilha pela mata atlântica, com chegada até a Piscina Natural\ndo Cachadaço, durante o trajeto os alunos são convidados a observar as questões do bioma da mata\natlântica, ao mesmo tempo em que são ensinados sobre a história do povo caiçara da região.\n- City tour pelas ruas da cidade aprendendo sobre os aspectos sócios históricos da construção da\ncidade e seus moradores da época do ciclo do ouro.",
   "Campus": "Serra",
-  "total_participacoes": 87,
-  "publico_alvo_total": 81,
-  "atividades": [
-    {
-      "atividade_id": "15976",
-      "numero": "001",
-      "atividade": "Projeto Expedição IFES",
-      "publico": 81,
-      "aprovados": 81,
-      "certificados": 81,
-      "equipe": 6
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Alessandro Bermudes Gomes",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Aline Pimentel Benedicto",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Emilene Coco dos Santos",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Paulo Cezar Camargo Guedes",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Wagner Kirmse Caldas",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

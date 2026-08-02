@@ -25,23 +25,16 @@
   "atividades": [
     {
       "ano": "2022",
+      "atividade_id": "13927",
+      "acao_id": "4033",
+      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "19160",
       "acao_id": "4033",
       "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19173",
-      "acao_id": "4033",
-      "atividade": "Participação em mentorias do Sebrae",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19176",
-      "acao_id": "4033",
-      "atividade": "Realização de análises cromatográficas de frutos",
       "pub": 0
     },
     {
@@ -53,6 +46,13 @@
     },
     {
       "ano": "2022",
+      "atividade_id": "19173",
+      "acao_id": "4033",
+      "atividade": "Participação em mentorias do Sebrae",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "19153",
       "acao_id": "4033",
       "atividade": "3ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
@@ -60,16 +60,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "13927",
+      "atividade_id": "19157",
       "acao_id": "4033",
-      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
       "pub": 0
     },
     {
       "ano": "2022",
-      "atividade_id": "19157",
+      "atividade_id": "19176",
       "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
+      "atividade": "Realização de análises cromatográficas de frutos",
       "pub": 0
     }
   ],

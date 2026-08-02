@@ -14,75 +14,8 @@
   "Data de cadastro": "07/01/2019",
   "Resumo": "Melhorar o processo de notificação, capacitação e distribuição de córneas do estado do Espírito Santo, diminuindo a fila de espera e aumentando a eficiência do sistema por meio do desenvolvimento de um sistema de informação integrado capaz de facilitar a realização dos processos de distribuição dos órgãos do CNCDO e a geração de relatórios (visando atender o “Regulamento Técnico do Sistema Nacional de Transplantes que Regula as Atividades Técnicas e Operacionais de Captação, Distribuição e Transplantes de Órgãos, Partes e Tecidos). o sistema proposto, denominado “Lifebox”, será um solução composta por três partes: (i) Um sistema Web, (ii) um sistema mobile e (iii) um hardware de monitoramento. Por fim, espera-se aumentar a eficiência do processo, diminuindo as filas de espera, melhorando a qualidade de vida da população por ele atendida (transplante de córnea).",
   "Campus": "Serra",
-  "total_participacoes": 8,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "7600",
-      "numero": "001",
-      "atividade": "LifeBox: transporte e monitoramento de córnea de forma inteligente",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 8
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Anne Caroline Silva",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Carlos Lins Borges Azevedo",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Flávio Lopes da Silva",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Marlon Woelffel Candoti",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }
