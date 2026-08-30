@@ -3,26 +3,13 @@
   "nome": "Alan Afif Helal",
   "resumo_ia": null,
   "anos": [
-    "2016",
-    "2021"
+    "2016"
   ],
   "funcoes": [
-    "COLABORADOR(A)",
-    "ORIENTADOR(A)"
+    "COLABORADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "3431",
-      "titulo": "Lampex + empreendedor",
-      "tipo": "Projeto",
-      "ano": "2021",
-      "n": 14,
-      "pub": 2,
-      "funcoes": [
-        "ORIENTADOR(A)"
-      ]
-    },
     {
       "acao_id": "899",
       "titulo": "SEMANA DE CONTROLE E AUTOMAÇÃO",
@@ -37,13 +24,6 @@
   ],
   "atividades": [
     {
-      "ano": "2021",
-      "atividade_id": "11978",
-      "acao_id": "3431",
-      "atividade": "Lampex + empreendedor",
-      "pub": 2
-    },
-    {
       "ano": "2016",
       "atividade_id": "2732",
       "acao_id": "899",
@@ -52,70 +32,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 71,
-  "impacto": 71,
+  "imp_eq": 69,
+  "impacto": 69,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 2
+      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Bruno Cardoso Coutinho",
-      "slug": "bruno-cardoso-coutinho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Teixeira de Aguiar",
-      "slug": "matheus-teixeira-de-aguiar",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Firme Fiorot",
-      "slug": "guilherme-firme-fiorot",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Juliana Ricato Musso Silva",
-      "slug": "juliana-ricato-musso-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Breno Ricardo Ferreira Antunes",
-      "slug": "breno-ricardo-ferreira-antunes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Aguiar Alves",
-      "slug": "pedro-aguiar-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Elen Lara",
-      "slug": "elen-lara",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Flavio Severiano Lamas de Souza",
-      "slug": "flavio-severiano-lamas-de-souza",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Wallas Gusmão Thomas",
       "slug": "wallas-gusmao-thomas",
@@ -152,6 +77,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Sérgio Estevam da Costa Junior",
       "slug": "sergio-estevam-da-costa-junior",
       "acoes_comuns": 1
@@ -164,6 +94,11 @@
     {
       "nome": "Diego de Deus Bazilio",
       "slug": "diego-de-deus-bazilio",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
     },
     {

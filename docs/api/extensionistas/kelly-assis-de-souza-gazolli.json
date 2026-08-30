@@ -1,7 +1,7 @@
 {
   "slug": "kelly-assis-de-souza-gazolli",
   "nome": "Kelly Assis de Souza Gazolli",
-  "resumo_ia": "Coordena e orienta ações no LAMPEX – Laboratório Modelo de Práticas de Extensão desde 2020, atuando na organização e condução de atividades extensionistas.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -34,16 +34,16 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "22297",
+      "atividade_id": "22295",
       "acao_id": "3140",
-      "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Lógica e Raciocínio Computacional",
+      "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Programação e Desenvolvimento",
       "pub": 17
     },
     {
       "ano": "2020",
-      "atividade_id": "22295",
+      "atividade_id": "22297",
       "acao_id": "3140",
-      "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Programação e Desenvolvimento",
+      "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Lógica e Raciocínio Computacional",
       "pub": 17
     }
   ],

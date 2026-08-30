@@ -24,17 +24,6 @@
       ]
     },
     {
-      "acao_id": "708",
-      "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 77,
-      "pub": 29,
-      "funcoes": [
-        "INSTRUTOR(A)"
-      ]
-    },
-    {
       "acao_id": "899",
       "titulo": "SEMANA DE CONTROLE E AUTOMAÇÃO",
       "tipo": "Evento",
@@ -49,24 +38,17 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "4818",
-      "acao_id": "1261",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
-      "pub": 12
-    },
-    {
-      "ano": "2017",
       "atividade_id": "3353",
       "acao_id": "1261",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
       "pub": 15
     },
     {
-      "ano": "2016",
-      "atividade_id": "1523",
-      "acao_id": "708",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "pub": 14
+      "ano": "2017",
+      "atividade_id": "4818",
+      "acao_id": "1261",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
+      "pub": 12
     },
     {
       "ano": "2016",
@@ -77,12 +59,12 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 110,
-  "impacto": 110,
+  "imp_eq": 96,
+  "impacto": 96,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 2
+      "n": 1
     },
     {
       "tema": "Robótica e cultura maker",
@@ -93,66 +75,11 @@
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 3
+      "acoes_comuns": 2
     },
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Luis Henrique Rosado Torres",
-      "slug": "luis-henrique-rosado-torres",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Flávio Barcelos Braz da Silva",
-      "slug": "flavio-barcelos-braz-da-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Karin Satie Komati",
-      "slug": "karin-satie-komati",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Humberto Henrique Ramos Brotto",
-      "slug": "humberto-henrique-ramos-brotto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Rodrigo Fernandes Calhau",
-      "slug": "rodrigo-fernandes-calhau",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Elizangela Campos da Rosa Broetto",
-      "slug": "elizangela-campos-da-rosa-broetto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Leonardo Azevedo Scardua",
-      "slug": "leonardo-azevedo-scardua",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Giovani Zanetti Neto",
-      "slug": "giovani-zanetti-neto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 2
     },
     {
@@ -171,8 +98,28 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Luis Henrique Rosado Torres",
+      "slug": "luis-henrique-rosado-torres",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Emerson Atílio Birchler",
       "slug": "emerson-atilio-birchler",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Flávio Barcelos Braz da Silva",
+      "slug": "flavio-barcelos-braz-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Karin Satie Komati",
+      "slug": "karin-satie-komati",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ronaldo Aparecida Marques",
+      "slug": "ronaldo-aparecida-marques",
       "acoes_comuns": 1
     },
     {
@@ -186,8 +133,33 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Humberto Henrique Ramos Brotto",
+      "slug": "humberto-henrique-ramos-brotto",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rodrigo Fernandes Calhau",
+      "slug": "rodrigo-fernandes-calhau",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Elizangela Campos da Rosa Broetto",
+      "slug": "elizangela-campos-da-rosa-broetto",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Jefferson Ribeiro de Lima",
       "slug": "jefferson-ribeiro-de-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Leonardo Azevedo Scardua",
+      "slug": "leonardo-azevedo-scardua",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Giovani Zanetti Neto",
+      "slug": "giovani-zanetti-neto",
       "acoes_comuns": 1
     },
     {
@@ -206,6 +178,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Edilson Luiz do Nascimento",
+      "slug": "edilson-luiz-do-nascimento",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Erley Crevelin Valentim",
       "slug": "erley-crevelin-valentim",
       "acoes_comuns": 1
@@ -218,36 +200,6 @@
     {
       "nome": "Francisco José Casarim Rapchan",
       "slug": "francisco-jose-casarim-rapchan",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Carlos Lins Borges Azevedo",
-      "slug": "carlos-lins-borges-azevedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Aguinaldo Barata",
-      "slug": "aguinaldo-barata",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Daniel Cruz Cavalieri",
-      "slug": "daniel-cruz-cavalieri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassius Zanetti Resende",
-      "slug": "cassius-zanetti-resende",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Teixeira da Costa",
-      "slug": "wagner-teixeira-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 1
     },
     {

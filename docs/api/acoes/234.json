@@ -8,24 +8,16 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
+  "Grande área conhecimento (inferida)": "Ciências da Saúde",
   "Área temática principal": "",
+  "Área temática principal (inferida)": "Saúde",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "05/08/2014",
   "Resumo": "O projeto SINCAP consiste em um sistema de Notificação, Captação e Doação de òrgãos e partiu de necessidades da Central de Notificação,Captação e Distribuição de Órgãos (CNCDO-ES) , no controle e avaliação de notificações de Òbitos feita pelos hospitais notificantes do estado para a realização de doações de órgãos e tecidos.\n\nO objetivo do sistema é facilitar a interação entre profissionais da saúde de instituições hospitalares públicas federais, estaduais , municipais, filantrópicas e privadas assim como profissionais das Centrais de Notificação, Captação e Distribuição de Órgãos – CNCDOS e bancos de tecido ocular humano. \n\nO sistema SINCAP terá uma versão web, podendo ser acessado pela internet e outra para dispositivos móveis , que dinamizará o processo de notificação e também ajudará na realização de procedimentos internos como a geração de relatórios.",
   "Campus": "Serra",
-  "total_participacoes": 16,
-  "publico_alvo_total": 16,
-  "atividades": [
-    {
-      "atividade_id": "335",
-      "numero": "001",
-      "atividade": "Exposição do Trabalho: \"Sistema de Notificação, Captação e Doação de Órgãos - SINCAP\"",
-      "publico": 16,
-      "aprovados": 16,
-      "certificados": 16,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

@@ -3,10 +3,12 @@
   "nome": "Juliana Duarte Acerbi",
   "resumo_ia": null,
   "anos": [
-    "2015"
+    "2015",
+    "2016"
   ],
   "funcoes": [
-    "INTÉRPRETE"
+    "INTÉRPRETE",
+    "ORGANIZADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -20,6 +22,17 @@
       "funcoes": [
         "INTÉRPRETE"
       ]
+    },
+    {
+      "acao_id": "628",
+      "titulo": "Gametalk: vamos falar sobre games?",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 3,
+      "pub": 0,
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ]
     }
   ],
   "atividades": [
@@ -28,6 +41,13 @@
       "atividade_id": "1271",
       "acao_id": "569",
       "atividade": "Desafio Ifes de Negócios Socais",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "1349",
+      "acao_id": "628",
+      "atividade": "Gametalk: vamos falar sobre games?",
       "pub": 0
     }
   ],
@@ -38,9 +58,23 @@
     {
       "tema": "Robótica e cultura maker",
       "n": 1
+    },
+    {
+      "tema": "Cultura e arte",
+      "n": 1
     }
   ],
   "colaboradores": [
+    {
+      "nome": "Beatriz Ramos Souza",
+      "slug": "beatriz-ramos-souza",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 2
+    },
     {
       "nome": "Rodrigo Fernandes Calhau",
       "slug": "rodrigo-fernandes-calhau",
@@ -112,11 +146,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Beatriz Ramos Souza",
-      "slug": "beatriz-ramos-souza",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Rodrigo Lampier dos Santos",
       "slug": "rodrigo-lampier-dos-santos",
       "acoes_comuns": 1
@@ -179,11 +208,6 @@
     {
       "nome": "Sandro de Freitas Nascimento",
       "slug": "sandro-de-freitas-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
       "acoes_comuns": 1
     },
     {

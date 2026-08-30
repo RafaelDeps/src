@@ -3,11 +3,13 @@
   "nome": "Lucas Eduardo da Silva Pacheco",
   "resumo_ia": null,
   "anos": [
-    "2020"
+    "2020",
+    "2022"
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA",
-    "ALUNO(A) VOLUNTARIO"
+    "ALUNO(A) VOLUNTARIO",
+    "EXTENSIONISTA"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -22,6 +24,17 @@
         "ALUNO(A) BOLSISTA",
         "ALUNO(A) VOLUNTARIO"
       ]
+    },
+    {
+      "acao_id": "3768",
+      "titulo": "Física ao Alcance de Todos",
+      "tipo": "Projeto",
+      "ano": "2022",
+      "n": 11,
+      "pub": 3,
+      "funcoes": [
+        "EXTENSIONISTA"
+      ]
     }
   ],
   "atividades": [
@@ -31,6 +44,13 @@
       "acao_id": "3139",
       "atividade": "IFES Contra a Covid-19",
       "pub": 1
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "17383",
+      "acao_id": "3768",
+      "atividade": "Inciciação Científica",
+      "pub": 0
     }
   ],
   "imp_coord": 0,
@@ -39,6 +59,10 @@
   "temas": [
     {
       "tema": "Saúde e bem-estar",
+      "n": 1
+    },
+    {
+      "tema": "Captação e ingresso",
       "n": 1
     }
   ],
@@ -66,6 +90,31 @@
     {
       "nome": "Gabriel Ravani do Rosario",
       "slug": "gabriel-ravani-do-rosario",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rosilene de Sá Ribeiro",
+      "slug": "rosilene-de-sa-ribeiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Leandro Melo de Sá",
+      "slug": "leandro-melo-de-sa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jonas Emanuel dos Santos Egert",
+      "slug": "jonas-emanuel-dos-santos-egert",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luiz Felipe Loureiro Mascarenhas",
+      "slug": "luiz-felipe-loureiro-mascarenhas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Faye Manski Queiroz",
+      "slug": "faye-manski-queiroz",
       "acoes_comuns": 1
     }
   ]

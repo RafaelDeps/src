@@ -8,89 +8,15 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23158.001812/2017-31 - Ifes para todos",
   "Grande área conhecimento": "",
+  "Grande área conhecimento (inferida)": "Ciências Exatas e da Terra",
   "Área temática principal": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "11/09/2018",
   "Data de cadastro": "13/04/2018",
   "Resumo": "O projeto “Mulheres na Ciência” motivou-se da percepção dos baixos índices percentuais de mulheres nos cursos de Ciências Exatas, em especial no Campus Serra, onde apenas 57 alunas - de um total de 298 - estão matriculadas no curso de Bacharelado em Sistemas de Informação. Ou seja, apenas 19,2% são mulheres (Dados de 2017). E, de acordo com a Unesco, esse índice representa uma problemática mundial. A proposta deste projeto é promover, à jovens mulheres, uma visão do mundo tecnológico e científico, possibilitando a participação plena das mulheres, rompendo com barreiras e injustiças históricas no mundo científico bem como fomentar o empoderamento feminino. Intencionando ampliar suas condições e perspectivas de vida, este projeto contará com a participação de 18 alunas de 2 escolas públicas estaduais parceiras, localizadas no município de Serra, para oportunizar  estudos de programação na linguagem Python, preparação para olimpíadas de matemática e física e  aprendizado da língua inglesa por meio do software Wolfram Mathematica. Espera-se com este projeto possa desenvolver competências que motivem as alunas a serem multiplicadoras do conhecimento adquirido em suas comunidades de origem. Além disso, com esta iniciativa o Ifes estará colaborando com um dos Objetivos do Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU) na sua agenda 2015-2030.",
   "Campus": "Serra",
-  "total_participacoes": 21,
-  "publico_alvo_total": 11,
-  "atividades": [
-    {
-      "atividade_id": "5158",
-      "numero": "001",
-      "atividade": "Mulheres na Ciência",
-      "publico": 11,
-      "aprovados": 11,
-      "certificados": 11,
-      "equipe": 10
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Adriana Padua Lovatte",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Bianca Rodrigues Tinoco",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Bruno Ramos Gonzaga",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Fabio de Oliveira Lima",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Geovane de Araujo Ceolin",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "funcoes": [
-        "COORDENADOR(A)",
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Ingrid de Lima Pella",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Sophia Holzmeister Simon",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

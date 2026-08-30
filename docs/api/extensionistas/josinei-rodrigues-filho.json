@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2018",
-      "atividade_id": "6836",
-      "acao_id": "2081",
-      "atividade": "O IFES é o meu lugar",
-      "pub": 40
-    },
-    {
-      "ano": "2018",
       "atividade_id": "6835",
       "acao_id": "2081",
       "atividade": "O IFES é o meu lugar",
       "pub": 34
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6836",
+      "acao_id": "2081",
+      "atividade": "O IFES é o meu lugar",
+      "pub": 40
     }
   ],
   "imp_coord": 0,

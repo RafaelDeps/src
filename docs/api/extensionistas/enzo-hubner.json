@@ -1,7 +1,7 @@
 {
   "slug": "enzo-hubner",
   "nome": "Enzo Hubner",
-  "resumo_ia": "Atuou como aluno voluntário e colaborador no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -27,16 +27,16 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "21062",
+      "atividade_id": "20335",
       "acao_id": "3140",
-      "atividade": "Equipe de organização do SCAI 2025",
+      "atividade": "Manutenção do Site Institucional da Associação Shalom",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "20335",
+      "atividade_id": "21062",
       "acao_id": "3140",
-      "atividade": "Manutenção do Site Institucional da Associação Shalom",
+      "atividade": "Equipe de organização do SCAI 2025",
       "pub": 0
     }
   ],

@@ -1,13 +1,11 @@
 {
   "slug": "mafe-mattos",
   "nome": "Mafe Mattos",
-  "resumo_ia": "Atuou como instrutora no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020 e como extensionista no Serviço de Orientação Financeira (SOF) da unidade Ifes Serra em 2026, envolvendo-se em práticas extensionistas de formação e orientação.",
+  "resumo_ia": null,
   "anos": [
-    "2020",
-    "2026"
+    "2020"
   ],
   "funcoes": [
-    "EXTENSIONISTA",
     "INSTRUTOR(A)"
   ],
   "acoes_coordenadas": [],
@@ -22,17 +20,6 @@
       "funcoes": [
         "INSTRUTOR(A)"
       ]
-    },
-    {
-      "acao_id": "5852",
-      "titulo": "SOF – Serviço de Orientação Financeira (unidade Ifes Serra)",
-      "tipo": "Projeto",
-      "ano": "2026",
-      "n": 316,
-      "pub": 227,
-      "funcoes": [
-        "EXTENSIONISTA"
-      ]
     }
   ],
   "atividades": [
@@ -42,32 +29,14 @@
       "acao_id": "3140",
       "atividade": "Minicurso de Git/Github para a Jornada de Integração do IFES",
       "pub": 0
-    },
-    {
-      "ano": "2026",
-      "atividade_id": "22070",
-      "acao_id": "5852",
-      "atividade": "SOF - Serviço de Orientação Financeira",
-      "pub": 13
-    },
-    {
-      "ano": "2026",
-      "atividade_id": "22069",
-      "acao_id": "5852",
-      "atividade": "SOF - Serviço de Orientação Financeira",
-      "pub": 9
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 22,
-  "impacto": 22,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 1
-    },
-    {
-      "tema": "Mulheres e inclusão",
       "n": 1
     }
   ],
@@ -75,37 +44,7 @@
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Irlane Schmidt da Silva Alves",
-      "slug": "irlane-schmidt-da-silva-alves",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Irene Schmidt da Silva Alves",
-      "slug": "irene-schmidt-da-silva-alves",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Eglalciane de Lyrio Tongo",
-      "slug": "eglalciane-de-lyrio-tongo",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Maycon Pequeno Silva",
-      "slug": "maycon-pequeno-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Jefferson Ribeiro de Lima",
-      "slug": "jefferson-ribeiro-de-lima",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Anna Clara dos Santos Vieira",
@@ -208,6 +147,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Irlane Schmidt da Silva Alves",
+      "slug": "irlane-schmidt-da-silva-alves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Irene Schmidt da Silva Alves",
+      "slug": "irene-schmidt-da-silva-alves",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Matheus Butter Dias",
       "slug": "matheus-butter-dias",
       "acoes_comuns": 1
@@ -298,6 +247,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Eglalciane de Lyrio Tongo",
+      "slug": "eglalciane-de-lyrio-tongo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ronaldo Aparecida Marques",
+      "slug": "ronaldo-aparecida-marques",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "André Sarmento Spalenza",
       "slug": "andre-sarmento-spalenza",
       "acoes_comuns": 1
@@ -310,6 +269,11 @@
     {
       "nome": "Matheus Costa Evangelista",
       "slug": "matheus-costa-evangelista",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maycon Pequeno Silva",
+      "slug": "maycon-pequeno-silva",
       "acoes_comuns": 1
     },
     {
@@ -873,6 +837,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jefferson Ribeiro de Lima",
+      "slug": "jefferson-ribeiro-de-lima",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Yan Dheimi Gomes Weise",
       "slug": "yan-dheimi-gomes-weise",
       "acoes_comuns": 1
@@ -880,91 +849,6 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandro Bermudes Gomes",
-      "slug": "alessandro-bermudes-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Juliano Antônio da Silveira",
-      "slug": "juliano-antonio-da-silveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luma Tavares Lopes de Souza",
-      "slug": "luma-tavares-lopes-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thalison Vinícius Euzebio Ribeiro",
-      "slug": "thalison-vinicius-euzebio-ribeiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alex Rossoni Junior",
-      "slug": "alex-rossoni-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Almeida Deps Caldeira",
-      "slug": "thiago-almeida-deps-caldeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Guilherme de Souza Zottich",
-      "slug": "luiz-guilherme-de-souza-zottich",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Pedro Pagotto da Costa",
-      "slug": "joao-pedro-pagotto-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Laube Schwartz",
-      "slug": "gustavo-laube-schwartz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nicole Ribeiro Schayder da Silva",
-      "slug": "nicole-ribeiro-schayder-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
-      "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renata Baptista",
-      "slug": "renata-baptista",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Patricia Maria Bortolon",
-      "slug": "patricia-maria-bortolon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Carvalho Goularte",
-      "slug": "pedro-carvalho-goularte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Felipe Becalli Trindade",
-      "slug": "felipe-becalli-trindade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Borges Cabral",
-      "slug": "guilherme-borges-cabral",
       "acoes_comuns": 1
     }
   ]

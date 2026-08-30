@@ -8,14 +8,33 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
+  "Grande área conhecimento (inferida)": "Ciências Humanas",
   "Área temática principal": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "15/12/2023",
   "Data de cadastro": "20/02/2018",
   "Resumo": "A preocupação com o acesso e a permanência nas instituições federais de ensino profissional e tecnológico vem historicamente de uma condição assistencialista aos meninos sem família ou com família em condições financeiras e sociais precárias. Basta, para isso, voltar os olhos à história em andamento do próprio Instituto Federal no Espírito Santo.\nA preocupação com que as ações realizadas não sejam meramente assistencialistas fundamenta-se na noção de que a própria exclusão educacional é gerada amplamente por descasos de políticas públicas consistentes que enfrentem a desigualdade social historicamente constituída. A sistemática de uma política de acesso que abarque a entrada dos grupos desfavorecidos economicamente e dos alunos que estudam na escola pública é uma definição do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. Essa definição pela questão econômica não é a única a ser levada em consideração, mas, dado que vivemos numa sociedade capitalista, esse viés incorpora grande parte das demais questões. Não podemos nos esquecer de que vivemos em uma sociedade capitalista, que deve ser nomeada e compreendida pelo que é. Não há elegância teórica que justifique nosso distanciamento dessa realidade, Moreira, 2001. Assim, acreditamos que ao implantar o programa IFES PARA TODOS, em parceria, inicialmente, com a Rede Estadual de Ensino do Estado e dos Municípios do ES, daremos um passo importante  no intento de possibilitar a grupos socialmente excluídos e aos alunos de escolas públicas, oportunidades  de entrar e permanecer em uma escola pública de  notável excelência educacional,  tanto na formação cidadã, quanto profissionalizante.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 18,
+  "publico_alvo_total": 17,
+  "atividades": [
+    {
+      "atividade_id": "4854",
+      "numero": "001",
+      "atividade": "Ifes para todos",
+      "publico": 17,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Alessandro Bermudes Gomes",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

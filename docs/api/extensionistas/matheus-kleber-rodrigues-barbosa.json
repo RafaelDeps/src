@@ -49,17 +49,17 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
-      "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "10020",
       "acao_id": "901",
       "atividade": "Minicurso: Hacktoberfest LEDS",
       "pub": 15
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "2297",
+      "acao_id": "901",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

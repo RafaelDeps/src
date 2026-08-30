@@ -3,12 +3,10 @@
   "nome": "Flavio Severiano Lamas de Souza",
   "resumo_ia": null,
   "anos": [
-    "2018",
-    "2021"
+    "2018"
   ],
   "funcoes": [
-    "COORDENADOR(A)",
-    "ORIENTADOR(A)"
+    "COORDENADOR(A)"
   ],
   "acoes_coordenadas": [
     {
@@ -31,17 +29,6 @@
       "funcoes": [
         "COORDENADOR(A)"
       ]
-    },
-    {
-      "acao_id": "3431",
-      "titulo": "Lampex + empreendedor",
-      "tipo": "Projeto",
-      "ano": "2021",
-      "n": 14,
-      "pub": 2,
-      "funcoes": [
-        "ORIENTADOR(A)"
-      ]
     }
   ],
   "atividades": [
@@ -51,26 +38,15 @@
       "acao_id": "1816",
       "atividade": "Maratona de Programação",
       "pub": 37
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "11978",
-      "acao_id": "3431",
-      "atividade": "Lampex + empreendedor",
-      "pub": 2
     }
   ],
   "imp_coord": 37,
-  "imp_eq": 2,
-  "impacto": 39,
+  "imp_eq": 0,
+  "impacto": 37,
   "temas": [
     {
       "tema": "Cultura e arte",
       "n": 2
-    },
-    {
-      "tema": "Robótica e cultura maker",
-      "n": 1
     }
   ],
   "colaboradores": [
@@ -127,61 +103,6 @@
     {
       "nome": "Jefferson Oliveira Andrade",
       "slug": "jefferson-oliveira-andrade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Cardoso Coutinho",
-      "slug": "bruno-cardoso-coutinho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Teixeira de Aguiar",
-      "slug": "matheus-teixeira-de-aguiar",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Firme Fiorot",
-      "slug": "guilherme-firme-fiorot",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Juliana Ricato Musso Silva",
-      "slug": "juliana-ricato-musso-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Breno Ricardo Ferreira Antunes",
-      "slug": "breno-ricardo-ferreira-antunes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Aguiar Alves",
-      "slug": "pedro-aguiar-alves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Elen Lara",
-      "slug": "elen-lara",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alan Afif Helal",
-      "slug": "alan-afif-helal",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
     }
   ]

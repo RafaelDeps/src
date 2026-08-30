@@ -89,16 +89,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10019",
+      "atividade_id": "10343",
       "acao_id": "901",
-      "atividade": "Palestra: Apresentação de Projetos LEDS",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "2297",
-      "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
       "pub": 0
     },
     {
@@ -110,9 +103,16 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10343",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "10019",
+      "acao_id": "901",
+      "atividade": "Palestra: Apresentação de Projetos LEDS",
       "pub": 0
     }
   ],

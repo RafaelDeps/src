@@ -14,8 +14,40 @@
   "Data de cadastro": "24/02/2016",
   "Resumo": "\"Gametalk vamos falar sobre games?\" integra tecnologia e cultura, tratando de uma expressão cultural muito popular na atualidade: os jogos digitais, aos quais a maioria dos jovens dedica seu tempo e interesse, segundo seus próprios relatos. Ao reconhecer e estimular o interesse na área, o evento pretende mostrar que o campus está engajado às tendências de tecnologia do mercado do entretenimento e da cultura, responsável por movimentar bilhões por ano em todo o mundo. O Brasil é um dos maiores consumidores mundiais de jogos digitais em diferentes plataformas, e, aos poucos, começa também a produzir e desenvolver jogos de qualidade. Mostrar ao público da Grande Vitória alinhamento com essa realidade é uma forma de estimular estudos, pesquisas e interesses na área. Dessa forma, o evento propõe que os games possam ser uma alternativa profissional para quem está se formando em áreas de estudos relacionadas à tecnologia, perfil dos cursos do Campus Serra.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 3,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "1349",
+      "numero": "001",
+      "atividade": "Gametalk: vamos falar sobre games?",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Ana Paula Klauck",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Beatriz Ramos Souza",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Juliana Duarte Acerbi",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

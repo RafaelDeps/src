@@ -54,17 +54,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10574",
+      "atividade_id": "10576",
       "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"Mestre Pastinha, Rei da Capoeira\"",
-      "pub": 36
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "8630",
-      "acao_id": "2505",
-      "atividade": "Circuito Audiovisual",
-      "pub": 0
+      "atividade": "Ação Cineclubista \"produção Polo 3\"",
+      "pub": 13
     },
     {
       "ano": "2019",
@@ -82,10 +75,17 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10576",
+      "atividade_id": "10574",
       "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"produção Polo 3\"",
-      "pub": 13
+      "atividade": "Ação Cineclubista \"Mestre Pastinha, Rei da Capoeira\"",
+      "pub": 36
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "8630",
+      "acao_id": "2505",
+      "atividade": "Circuito Audiovisual",
+      "pub": 0
     }
   ],
   "imp_coord": 86,

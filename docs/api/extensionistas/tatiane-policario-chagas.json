@@ -150,17 +150,17 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17244",
-      "acao_id": "4820",
-      "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
-      "pub": 42
-    },
-    {
-      "ano": "2023",
       "atividade_id": "20470",
       "acao_id": "4820",
       "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
       "pub": 20
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17244",
+      "acao_id": "4820",
+      "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
+      "pub": 42
     },
     {
       "ano": "2025",

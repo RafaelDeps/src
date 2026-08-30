@@ -8,7 +8,6 @@
     "2019"
   ],
   "funcoes": [
-    "AUXILIAR TÉCNICO",
     "COLABORADOR(A)",
     "COORDENADOR(A)",
     "COORDENADOR(A) ADJUNTO(A)"
@@ -82,17 +81,6 @@
       ]
     },
     {
-      "acao_id": "708",
-      "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 77,
-      "pub": 29,
-      "funcoes": [
-        "AUXILIAR TÉCNICO"
-      ]
-    },
-    {
       "acao_id": "848",
       "titulo": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
       "tipo": "Projeto",
@@ -139,13 +127,6 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "1523",
-      "acao_id": "708",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "pub": 14
-    },
-    {
-      "ano": "2016",
       "atividade_id": "1939",
       "acao_id": "848",
       "atividade": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
@@ -160,8 +141,8 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 14,
-  "impacto": 14,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
     {
       "tema": "Saúde e bem-estar",
@@ -169,7 +150,7 @@
     },
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 2
+      "n": 1
     }
   ],
   "colaboradores": [
@@ -184,16 +165,6 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Rafaela Amorim Pessin",
       "slug": "rafaela-amorim-pessin",
       "acoes_comuns": 2
@@ -204,8 +175,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Rodrigo Fernandes Calhau",
-      "slug": "rodrigo-fernandes-calhau",
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 2
     },
     {
@@ -216,6 +187,11 @@
     {
       "nome": "Flávio Lopes da Silva",
       "slug": "flavio-lopes-da-silva",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 2
     },
     {
@@ -231,86 +207,6 @@
     {
       "nome": "Vinicius da Hora Corte",
       "slug": "vinicius-da-hora-corte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Elizangela Campos da Rosa Broetto",
-      "slug": "elizangela-campos-da-rosa-broetto",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Karin Satie Komati",
-      "slug": "karin-satie-komati",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luis Henrique Rosado Torres",
-      "slug": "luis-henrique-rosado-torres",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Giovani Zanetti Neto",
-      "slug": "giovani-zanetti-neto",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Aguinaldo Barata",
-      "slug": "aguinaldo-barata",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Christian Mariani Lucas dos Santos",
-      "slug": "christian-mariani-lucas-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Daniel Cruz Cavalieri",
-      "slug": "daniel-cruz-cavalieri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassius Zanetti Resende",
-      "slug": "cassius-zanetti-resende",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Leonardo Azevedo Scardua",
-      "slug": "leonardo-azevedo-scardua",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Teixeira da Costa",
-      "slug": "wagner-teixeira-da-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Flávio Barcelos Braz da Silva",
-      "slug": "flavio-barcelos-braz-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Humberto Henrique Ramos Brotto",
-      "slug": "humberto-henrique-ramos-brotto",
       "acoes_comuns": 1
     },
     {
@@ -486,6 +382,11 @@
     {
       "nome": "Sergio Nery Simões",
       "slug": "sergio-nery-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rodrigo Fernandes Calhau",
+      "slug": "rodrigo-fernandes-calhau",
       "acoes_comuns": 1
     },
     {

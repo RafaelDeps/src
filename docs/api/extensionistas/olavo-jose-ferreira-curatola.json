@@ -3,29 +3,15 @@
   "nome": "Olavo Jose Ferreira Curatola",
   "resumo_ia": null,
   "anos": [
-    "2016",
-    "2019"
+    "2016"
   ],
   "funcoes": [
     "ALUNO(A) VOLUNTARIO",
-    "COLABORADOR(A)",
     "EXPOSITOR(A)",
     "PALESTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "2823",
-      "titulo": "I Am Here: Registro de Frequência por Reconhecimento Facial",
-      "tipo": "Projeto",
-      "ano": "2019",
-      "n": 6,
-      "pub": 0,
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO",
-        "COLABORADOR(A)"
-      ]
-    },
     {
       "acao_id": "901",
       "titulo": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
@@ -42,17 +28,10 @@
   ],
   "atividades": [
     {
-      "ano": "2019",
-      "atividade_id": "9895",
-      "acao_id": "2823",
-      "atividade": "I Am Here: Registro de Frequência por Reconhecimento Facial",
-      "pub": 0
-    },
-    {
       "ano": "2016",
-      "atividade_id": "10019",
+      "atividade_id": "10343",
       "acao_id": "901",
-      "atividade": "Palestra: Apresentação de Projetos LEDS",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
       "pub": 0
     },
     {
@@ -64,9 +43,9 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "10343",
+      "atividade_id": "10019",
       "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
+      "atividade": "Palestra: Apresentação de Projetos LEDS",
       "pub": 0
     }
   ],
@@ -75,38 +54,19 @@
   "impacto": 0,
   "temas": [
     {
-      "tema": "Software, dados e sistemas",
-      "n": 1
-    },
-    {
       "tema": "Empreendedorismo e incubação",
       "n": 1
     }
   ],
   "colaboradores": [
     {
-      "nome": "Fabiano Borges Ruy",
-      "slug": "fabiano-borges-ruy",
-      "acoes_comuns": 2
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 1
     },
     {
       "nome": "Sarah Silva Ferreira",
       "slug": "sarah-silva-ferreira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Renato de Sant'anna Lopes",
-      "slug": "renato-de-sant-anna-lopes",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Joel Will Belmiro",
-      "slug": "joel-will-belmiro",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 1
     },
     {
@@ -132,6 +92,16 @@
     {
       "nome": "Ana Carolina Cebin Pereira",
       "slug": "ana-carolina-cebin-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Joel Will Belmiro",
+      "slug": "joel-will-belmiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Renato de Sant'anna Lopes",
+      "slug": "renato-de-sant-anna-lopes",
       "acoes_comuns": 1
     },
     {
@@ -312,6 +282,11 @@
     {
       "nome": "Icaro Duarte Gavazza Lima",
       "slug": "icaro-duarte-gavazza-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fabiano Borges Ruy",
+      "slug": "fabiano-borges-ruy",
       "acoes_comuns": 1
     }
   ]

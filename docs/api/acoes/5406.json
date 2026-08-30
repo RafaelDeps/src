@@ -9,6 +9,7 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências da Saúde",
   "Área temática principal": "",
+  "Área temática principal (inferida)": "Cultura",
   "Relatório aprovado": "Não",
   "Data último relatório": "",
   "Data de cadastro": "17/03/2025",
@@ -22,7 +23,7 @@
       "numero": "001",
       "atividade": "Jogos Estaduais do IFES 2025",
       "publico": 48,
-      "aprovados": 0,
+      "aprovados": 48,
       "certificados": 0,
       "equipe": 10
     }

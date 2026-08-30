@@ -26,8 +26,8 @@
       "titulo": "O IFES é o meu lugar",
       "tipo": "Curso",
       "ano": "2019",
-      "n": 106,
-      "pub": 80
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "2650",
@@ -48,17 +48,6 @@
       "pub": 74,
       "funcoes": [
         "COLABORADOR(A)",
-        "COORDENADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "2591",
-      "titulo": "O IFES é o meu lugar",
-      "tipo": "Curso",
-      "ano": "2019",
-      "n": 106,
-      "pub": 80,
-      "funcoes": [
         "COORDENADOR(A)"
       ]
     },
@@ -88,29 +77,15 @@
   "atividades": [
     {
       "ano": "2018",
-      "atividade_id": "6836",
-      "acao_id": "2081",
-      "atividade": "O IFES é o meu lugar",
-      "pub": 40
-    },
-    {
-      "ano": "2018",
       "atividade_id": "6835",
       "acao_id": "2081",
       "atividade": "O IFES é o meu lugar",
       "pub": 34
     },
     {
-      "ano": "2019",
-      "atividade_id": "8973",
-      "acao_id": "2591",
-      "atividade": "O IFES é o meu lugar",
-      "pub": 40
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "8972",
-      "acao_id": "2591",
+      "ano": "2018",
+      "atividade_id": "6836",
+      "acao_id": "2081",
       "atividade": "O IFES é o meu lugar",
       "pub": 40
     },
@@ -136,60 +111,25 @@
       "pub": 79
     }
   ],
-  "imp_coord": 188,
+  "imp_coord": 108,
   "imp_eq": 79,
-  "impacto": 267,
+  "impacto": 187,
   "temas": [
     {
       "tema": "Captação e ingresso",
-      "n": 7
+      "n": 5
     }
   ],
   "colaboradores": [
     {
       "nome": "Murilo Andrade Carvalho",
       "slug": "murilo-andrade-carvalho",
-      "acoes_comuns": 3
+      "acoes_comuns": 2
     },
     {
       "nome": "Alessandro Bermudes Gomes",
       "slug": "alessandro-bermudes-gomes",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Thiago Machado Oliveira",
-      "slug": "thiago-machado-oliveira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Rowenna Tonani Leão dos Santos",
-      "slug": "rowenna-tonani-leao-dos-santos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Leonardo Rocha Gomes",
-      "slug": "leonardo-rocha-gomes",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Daniella Araújo Fraga dos Santos",
-      "slug": "daniella-araujo-fraga-dos-santos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Alexia Coelho Barbosa",
-      "slug": "alexia-coelho-barbosa",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Davi Aragão Ascacibas",
-      "slug": "davi-aragao-ascacibas",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Izis Barbosa Coutinho",
-      "slug": "izis-barbosa-coutinho",
-      "acoes_comuns": 2
+      "acoes_comuns": 1
     },
     {
       "nome": "Josinei Rodrigues Filho",
@@ -197,23 +137,38 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Gabriela do Nascimento Marin",
-      "slug": "gabriela-do-nascimento-marin",
+      "nome": "Thiago Machado Oliveira",
+      "slug": "thiago-machado-oliveira",
       "acoes_comuns": 1
     },
     {
-      "nome": "Taise Gonçalves de Jesus",
-      "slug": "taise-goncalves-de-jesus",
+      "nome": "Rowenna Tonani Leão dos Santos",
+      "slug": "rowenna-tonani-leao-dos-santos",
       "acoes_comuns": 1
     },
     {
-      "nome": "Michelle Kapiche Alonso",
-      "slug": "michelle-kapiche-alonso",
+      "nome": "Leonardo Rocha Gomes",
+      "slug": "leonardo-rocha-gomes",
       "acoes_comuns": 1
     },
     {
-      "nome": "Nathielly Bertollo Marques",
-      "slug": "nathielly-bertollo-marques",
+      "nome": "Daniella Araújo Fraga dos Santos",
+      "slug": "daniella-araujo-fraga-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alexia Coelho Barbosa",
+      "slug": "alexia-coelho-barbosa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Aragão Ascacibas",
+      "slug": "davi-aragao-ascacibas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Izis Barbosa Coutinho",
+      "slug": "izis-barbosa-coutinho",
       "acoes_comuns": 1
     },
     {

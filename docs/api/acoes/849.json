@@ -14,54 +14,8 @@
   "Data de cadastro": "19/09/2016",
   "Resumo": "No Brasil temos duas instituições que fazem e publicam as estatísticas de produção agrícola em\nnível nacional e, portanto, acompanham o desempenho da produção agrícola no Brasil. A Conab faz\nestimativas de produção de grãos a nível nacional e divulga as estimativas somente em nível\nnacional e estadual. Já o IBGE faz estimativas não somente da produção de grãos, mas também de\nalguns produtos da fruticultura, olericultura, Extração vegetal, Silvicultura, pecuária e aquicultura. O\nIBGE,além de fazer a divulgação em nível nacional e estadual, também faz a divulgação em nível\nmunicipal e, por isso é a referência utilizada quando se trata de dados municipais da agropecuária.\nO IBGE faz o levantamento da produção agrícola de todos os produtos nos municípios, no entanto,\npublica apenas as estatísticas dos produtos que considera mais importante para o estado e que são\nproduzidos também em outras unidades da federação, ou seja, publica apenas parte das\nestatísticas. No caso da olericultura, de uma lista de 41 produtos produzidos no estado, apenas 8\nprodutos tem seus dados da produção publicados no SIDRA, banco de dados do IBGE, e na PAM –\nPesquisa Agrícola Municipal. No caso da fruticultura, de uma lista de 26 produtos, 15 tem seus\ndados de produção publicados no SIDRA e PAM. Ficam de fora da publicação no SIDRA e PAM os\ndados da produção de milho forrageira e cana forrageira. Faltam também as estatísticas de\nprodução da pecuária por município e também as estatísticas da pesca em mar.\nOs dados dos produtos que não são publicados ficam disponíveis nos escritórios regionais do IBGE\npara consulta e estão disponíveis para cópia mediante solicitação. Estes dados são importantes e\nfundamentais para que tenhamos estatísticas mais completas da produção agropecuária do estado\npara que seja possível o cálculo do valor bruto da produção do estado e também os municípios.\nEstes dados também são importantes para a avaliação dos resultados das tecnologias\ndesenvolvidas para melhorar a produtividade e desempenho das atividades agropecuárias, bem\ncomo para a avaliação dos resultados das políticas públicas voltadas para a agropecuária capixaba.\nA inexistência deste sistema tem atrasado o desempenho do planejamento estratégico voltado para\no desenvolvimento da agropecuária capixaba na medida em que: os dados existentes não estão\nsistematizados e não podem ser acessados com facilidade; faltam informações atualizadas sobre a\nprodução agropecuária e de fácil acesso; cada pesquisador quando precisa de informações sobre a\nprodução agropecuária tem de despender tempo de trabalho para buscar e organizar os dados para\nutilizar nas suas pesquisas.\nNo período de 2015 a 2016, o SIPAC foi desenvolvido em cooperação entre o Incaper e o Ifes por\nmeio do Leds. Esse sistema permitiu mitigar os problemas acima citados. Tendo como base a\ninfraestrutura de informação criada pelo SIPAC, tornou-se possível o desenvolvimento da evolução\ndo SIPAC para um sistema que auxilie a tomada de decisão por",
   "Campus": "Serra",
-  "total_participacoes": 5,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "1940",
-      "numero": "001",
-      "atividade": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 5
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Cristian da Silva Anterio",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Danilo de Oliveira",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Sergio Nery Simões",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

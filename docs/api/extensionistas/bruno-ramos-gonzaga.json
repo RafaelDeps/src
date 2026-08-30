@@ -50,17 +50,6 @@
   ],
   "participacoes_equipe": [
     {
-      "acao_id": "1633",
-      "titulo": "Mulheres na Ciência",
-      "tipo": "Projeto",
-      "ano": "2018",
-      "n": 21,
-      "pub": 11,
-      "funcoes": [
-        "PROFESSOR(A)"
-      ]
-    },
-    {
       "acao_id": "2082",
       "titulo": "Mulheres na Ciência",
       "tipo": "Curso",
@@ -119,13 +108,6 @@
   "atividades": [
     {
       "ano": "2018",
-      "atividade_id": "5158",
-      "acao_id": "1633",
-      "atividade": "Mulheres na Ciência",
-      "pub": 11
-    },
-    {
-      "ano": "2018",
       "atividade_id": "6873",
       "acao_id": "2082",
       "atividade": "Mulheres na Ciência",
@@ -161,12 +143,12 @@
     }
   ],
   "imp_coord": 49,
-  "imp_eq": 66,
-  "impacto": 115,
+  "imp_eq": 55,
+  "impacto": 104,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 7
+      "n": 6
     },
     {
       "tema": "Escola e formação de professores",
@@ -180,28 +162,18 @@
       "acoes_comuns": 5
     },
     {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
       "acoes_comuns": 3
     },
     {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 2
-    },
-    {
       "nome": "Ana Rúbia Ramos Vicente",
       "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 2
     },
     {
@@ -215,28 +187,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Ingrid de Lima Pella",
-      "slug": "ingrid-de-lima-pella",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sophia Holzmeister Simon",
-      "slug": "sophia-holzmeister-simon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bianca Rodrigues Tinoco",
-      "slug": "bianca-rodrigues-tinoco",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Fabio de Oliveira Lima",
-      "slug": "fabio-de-oliveira-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Geovane de Araujo Ceolin",
-      "slug": "geovane-de-araujo-ceolin",
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
       "acoes_comuns": 1
     },
     {
@@ -287,6 +239,11 @@
     {
       "nome": "Graziela Barboza Guaitolini Ramos",
       "slug": "graziela-barboza-guaitolini-ramos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
       "acoes_comuns": 1
     },
     {

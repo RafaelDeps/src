@@ -1,7 +1,7 @@
 {
   "slug": "anna-clara-dos-santos-vieira",
   "nome": "Anna Clara dos Santos Vieira",
-  "resumo_ia": "Participou como aluna bolsista da equipe do 'LAMPEX – Laboratório Modelo de Práticas de Extensão' em 2020, integrando ações de extensão voltadas ao desenvolvimento de práticas extensionistas.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -39,17 +39,17 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "19900",
-      "acao_id": "3140",
-      "atividade": "Apresentação do Lampex na Jornada de Integração do Ifes",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
       "atividade_id": "11184",
       "acao_id": "3140",
       "atividade": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "pub": 2
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "19900",
+      "acao_id": "3140",
+      "atividade": "Apresentação do Lampex na Jornada de Integração do Ifes",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

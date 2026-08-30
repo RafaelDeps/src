@@ -8,106 +8,15 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23158.001821/2021-50 - LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
   "Grande área conhecimento": "",
+  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "30/08/2024",
   "Data de cadastro": "18/12/2023",
   "Resumo": "O projeto “ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação”\né fruto de uma parceria entre a Fundação de Amparo à Pesquisa e Inovação do Espírito Santo\n(FAPES) e o Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) do Instituto\nFederal de Educação, Ciência e Tecnologia do Espírito Santo (IFES). O projeto tem como\nobjetivo a realização de pesquisas e o desenvolvimento de uma plataforma que permita: (i)\ngerenciar os processos operacionais de apoio à Pesquisa, Desenvolvimento e Inovação da\nFAPES, (ii) promover a integração com as diversas entidades externas à FAPES e (iii)\ncompartilhar informações de Pesquisa, Desenvolvimento, Inovação e Extensão com\npesquisadores, instituições e a sociedade em geral, visando ampliar as possibilidades de\ndesenvolvimento nos âmbitos de atuação dos entes envolvidos e fomentar possibilidades de\natuação conjunta pela via do estreitamento de relações de interesse mútuo.\nA solução subjacente ao projeto ConectaFapes busca resolver problemas enfrentados\natualmente pela FAPES no que se refere à gestão de seus processos. Ela consiste em um novo\nsistema que visa substituir o sistema atualmente em uso, o SigFapes.\nO projeto é composto pelas seguintes frentes de atuação:\n1. Desenvolvimento da plataforma ConectaFapes: consiste no levantamento de\nrequisitos, modelagem, desenvolvimento, migração de dados e implantação da\nplataforma composta por serviços que materializam os processos de suporte à\nPesquisa, Desenvolvimento, Inovação e Extensão da FAPES, incluindo os processos\ninternos, integração entre sistemas e compartilhamento de informações;\n2. Pesquisa para criação do processo e ferramental de suporte ao desenvolvimento da\nplataforma: tem por objetivo a concepção e a execução de um processo de\ndesenvolvimento de software baseado em métodos ágeis com equipes\ngeograficamente distribuídas e a criação de um ferramental contemplando a\nmodelagem e a geração semi automatizada de código (e.g., serviços de domínio,\ninterfaces, banco de dados e testes automatizados) que auxiliem no desenvolvimento\ndo ConectaFapes; e\n3. Capacitação de Pessoal: visa a qualificação de mão de obra em TI em competências\nassociadas às áreas de Engenharia de Software, Gestão de Projetos, geração de\ncódigo, migração de dados entre ferramentas e outras áreas necessárias para o\ndesenvolvimento do projeto.\nAssim, além deste projeto de extensão, esta iniciativa dará origem a projetos de pesquisa e,\neventualmente, a projetos de ensino.",
   "Campus": "Serra",
-  "total_participacoes": 124,
-  "publico_alvo_total": 115,
-  "atividades": [
-    {
-      "atividade_id": "17384",
-      "numero": "001",
-      "atividade": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
-      "publico": 66,
-      "aprovados": 66,
-      "certificados": 66,
-      "equipe": 5
-    },
-    {
-      "atividade_id": "18681",
-      "numero": "002",
-      "atividade": "Desenvolvimento do Módulo Inicial do Projeto Conecta Fapes",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 4
-    },
-    {
-      "atividade_id": "22381",
-      "numero": "003",
-      "atividade": "Desenvolvimento de Ferramentas de Desenvolvimento de Software",
-      "publico": 49,
-      "aprovados": 49,
-      "certificados": 48,
-      "equipe": 0
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "André Luiz Coelho Silva",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Arthur Cremasco Amaral",
-      "funcoes": [
-        "AUXILIAR TÉCNICO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Bruno Carvalho Caxias",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Emanuel Hoffmann Sperandio Cott",
-      "funcoes": [
-        "AUXILIAR TÉCNICO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Isabella Bissoli",
-      "funcoes": [
-        "AUXILIAR TÉCNICO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Marcela Starling Ferreira Lage",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Ruan Rody de Melo da Costa",
-      "funcoes": [
-        "AUXILIAR TÉCNICO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Victor Emerson Siqueira de Souza",
-      "funcoes": [
-        "AUXILIAR TÉCNICO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Vinícius de Jesus Estevam",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

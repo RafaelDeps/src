@@ -29,17 +29,10 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10567",
+      "atividade_id": "10568",
       "acao_id": "2505",
-      "atividade": "Oficina Especializada de Direção de Arte",
-      "pub": 5
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10563",
-      "acao_id": "2505",
-      "atividade": "Oficina Especializada de Direção",
-      "pub": 7
+      "atividade": "Ateliê de Produção Audiovisual",
+      "pub": 12
     },
     {
       "ano": "2019",
@@ -57,10 +50,17 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10568",
+      "atividade_id": "10563",
       "acao_id": "2505",
-      "atividade": "Ateliê de Produção Audiovisual",
-      "pub": 12
+      "atividade": "Oficina Especializada de Direção",
+      "pub": 7
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10567",
+      "acao_id": "2505",
+      "atividade": "Oficina Especializada de Direção de Arte",
+      "pub": 5
     }
   ],
   "imp_coord": 0,

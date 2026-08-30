@@ -4,7 +4,6 @@
   "resumo_ia": null,
   "anos": [
     "2016",
-    "2017",
     "2019"
   ],
   "funcoes": [
@@ -15,17 +14,6 @@
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "1426",
-      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
-      "tipo": "Evento",
-      "ano": "2017",
-      "n": 1062,
-      "pub": 366,
-      "funcoes": [
-        "COLABORADOR(A)"
-      ]
-    },
     {
       "acao_id": "2285",
       "titulo": "ES Na Palma da Mão: Uma Plataforma baseado em serviços para Cidades Humanas, Inteligentes e Sustentáveis",
@@ -63,13 +51,6 @@
   ],
   "atividades": [
     {
-      "ano": "2017",
-      "atividade_id": "4211",
-      "acao_id": "1426",
-      "atividade": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
-      "pub": 0
-    },
-    {
       "ano": "2019",
       "atividade_id": "7822",
       "acao_id": "2285",
@@ -85,16 +66,16 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "2297",
+      "atividade_id": "10343",
       "acao_id": "901",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
+      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
       "pub": 0
     },
     {
       "ano": "2016",
-      "atividade_id": "10343",
+      "atividade_id": "2297",
       "acao_id": "901",
-      "atividade": "Expositor: Apresentação de Projetos do LEDS no Sebrae StartupSummit 2019",
+      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
       "pub": 0
     }
   ],
@@ -104,7 +85,7 @@
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 3
+      "n": 2
     },
     {
       "tema": "Software, dados e sistemas",
@@ -112,16 +93,6 @@
     }
   ],
   "colaboradores": [
-    {
-      "nome": "David Pantaleão Vilaça",
-      "slug": "david-pantaleao-vilaca",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Gary Moura da Silva",
-      "slug": "gary-moura-da-silva",
-      "acoes_comuns": 3
-    },
     {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
@@ -133,23 +104,23 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Rafael Afonso dos Anjos",
-      "slug": "rafael-afonso-dos-anjos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Magno Macedo de Oliveira",
-      "slug": "magno-macedo-de-oliveira",
-      "acoes_comuns": 2
-    },
-    {
       "nome": "Icaro Duarte Gavazza Lima",
       "slug": "icaro-duarte-gavazza-lima",
       "acoes_comuns": 2
     },
     {
+      "nome": "Gary Moura da Silva",
+      "slug": "gary-moura-da-silva",
+      "acoes_comuns": 2
+    },
+    {
       "nome": "Lucas Gomes Flegler",
       "slug": "lucas-gomes-flegler",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "David Pantaleão Vilaça",
+      "slug": "david-pantaleao-vilaca",
       "acoes_comuns": 2
     },
     {
@@ -181,91 +152,6 @@
       "nome": "Gustavo Matozinho Lima",
       "slug": "gustavo-matozinho-lima",
       "acoes_comuns": 2
-    },
-    {
-      "nome": "Gilmar Luiz Vassoler",
-      "slug": "gilmar-luiz-vassoler",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ketter Zuchi Caliari Miranda",
-      "slug": "ketter-zuchi-caliari-miranda",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Vieira Motta",
-      "slug": "rafael-vieira-motta",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Yasmim da Silva Nunes",
-      "slug": "yasmim-da-silva-nunes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago da Costa Freitas",
-      "slug": "thiago-da-costa-freitas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Mathias Nakibar",
-      "slug": "pedro-mathias-nakibar",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ramon Kazushi Cossual Sakurada",
-      "slug": "ramon-kazushi-cossual-sakurada",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Carlos Pandolfi Santana",
-      "slug": "joao-carlos-pandolfi-santana",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tiago Ribeiro Santos",
-      "slug": "tiago-ribeiro-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabrielle Azevedo Barros da Cunha Duda",
-      "slug": "gabrielle-azevedo-barros-da-cunha-duda",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emanuel Rampinelli Gloria",
-      "slug": "emanuel-rampinelli-gloria",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vitor Soares Salzman",
-      "slug": "vitor-soares-salzman",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "José Guilherme Silva de Lima",
-      "slug": "jose-guilherme-silva-de-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Higor Martins Rebello",
-      "slug": "higor-martins-rebello",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eduarda Rodrigues Simões",
-      "slug": "eduarda-rodrigues-simoes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Caio Abelar Kinupp Monteiro",
-      "slug": "caio-abelar-kinupp-monteiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brunna Dalzini de Oliveira",
-      "slug": "brunna-dalzini-de-oliveira",
-      "acoes_comuns": 1
     },
     {
       "nome": "David de Moura Marques",
@@ -315,6 +201,11 @@
     {
       "nome": "Andreângelo da Paixão Patuzzo",
       "slug": "andreangelo-da-paixao-patuzzo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Afonso dos Anjos",
+      "slug": "rafael-afonso-dos-anjos",
       "acoes_comuns": 1
     },
     {
@@ -450,6 +341,11 @@
     {
       "nome": "Helen França Medeiros",
       "slug": "helen-franca-medeiros",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
       "acoes_comuns": 1
     },
     {

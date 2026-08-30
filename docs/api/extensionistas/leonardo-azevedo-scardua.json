@@ -7,7 +7,6 @@
     "2017"
   ],
   "funcoes": [
-    "AUXILIAR TÉCNICO",
     "COLABORADOR(A)",
     "ORIENTADOR(A)"
   ],
@@ -22,18 +21,6 @@
       "pub": 36,
       "funcoes": [
         "COLABORADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "708",
-      "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 77,
-      "pub": 29,
-      "funcoes": [
-        "AUXILIAR TÉCNICO",
-        "ORIENTADOR(A)"
       ]
     },
     {
@@ -58,13 +45,6 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "1524",
-      "acao_id": "708",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "pub": 15
-    },
-    {
-      "ano": "2016",
       "atividade_id": "2127",
       "acao_id": "912",
       "atividade": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
@@ -72,43 +52,28 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 19,
-  "impacto": 19,
+  "imp_eq": 4,
+  "impacto": 4,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 3
+      "n": 2
     }
   ],
   "colaboradores": [
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Luis Henrique Rosado Torres",
-      "slug": "luis-henrique-rosado-torres",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Flávio Barcelos Braz da Silva",
-      "slug": "flavio-barcelos-braz-da-silva",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Karin Satie Komati",
-      "slug": "karin-satie-komati",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 3
+      "acoes_comuns": 2
     },
     {
       "nome": "Marcos Simão Guimarães",
       "slug": "marcos-simao-guimaraes",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Luis Henrique Rosado Torres",
+      "slug": "luis-henrique-rosado-torres",
       "acoes_comuns": 2
     },
     {
@@ -117,48 +82,18 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Ronaldo Aparecida Marques",
-      "slug": "ronaldo-aparecida-marques",
+      "nome": "Flávio Barcelos Braz da Silva",
+      "slug": "flavio-barcelos-braz-da-silva",
       "acoes_comuns": 2
     },
     {
-      "nome": "Humberto Henrique Ramos Brotto",
-      "slug": "humberto-henrique-ramos-brotto",
+      "nome": "Karin Satie Komati",
+      "slug": "karin-satie-komati",
       "acoes_comuns": 2
     },
     {
-      "nome": "Christian Mariani Lucas dos Santos",
-      "slug": "christian-mariani-lucas-dos-santos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Rodrigo Fernandes Calhau",
-      "slug": "rodrigo-fernandes-calhau",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Elizangela Campos da Rosa Broetto",
-      "slug": "elizangela-campos-da-rosa-broetto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Giovani Zanetti Neto",
-      "slug": "giovani-zanetti-neto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Wagner Teixeira da Costa",
-      "slug": "wagner-teixeira-da-costa",
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 2
     },
     {
@@ -172,6 +107,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Ronaldo Aparecida Marques",
+      "slug": "ronaldo-aparecida-marques",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Rodolpho da Cruz Rangel",
       "slug": "rodolpho-da-cruz-rangel",
       "acoes_comuns": 1
@@ -182,8 +122,33 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Humberto Henrique Ramos Brotto",
+      "slug": "humberto-henrique-ramos-brotto",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Christian Mariani Lucas dos Santos",
+      "slug": "christian-mariani-lucas-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rodrigo Fernandes Calhau",
+      "slug": "rodrigo-fernandes-calhau",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Elizangela Campos da Rosa Broetto",
+      "slug": "elizangela-campos-da-rosa-broetto",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Jefferson Ribeiro de Lima",
       "slug": "jefferson-ribeiro-de-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Giovani Zanetti Neto",
+      "slug": "giovani-zanetti-neto",
       "acoes_comuns": 1
     },
     {
@@ -202,6 +167,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Edilson Luiz do Nascimento",
+      "slug": "edilson-luiz-do-nascimento",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Erley Crevelin Valentim",
       "slug": "erley-crevelin-valentim",
       "acoes_comuns": 1
@@ -217,28 +192,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Carlos Lins Borges Azevedo",
-      "slug": "carlos-lins-borges-azevedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Aguinaldo Barata",
-      "slug": "aguinaldo-barata",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Daniel Cruz Cavalieri",
-      "slug": "daniel-cruz-cavalieri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassius Zanetti Resende",
-      "slug": "cassius-zanetti-resende",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
+      "nome": "Wagner Teixeira da Costa",
+      "slug": "wagner-teixeira-da-costa",
       "acoes_comuns": 1
     }
   ]

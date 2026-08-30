@@ -1,7 +1,7 @@
 {
   "slug": "bertrand-olivier-sahli",
   "nome": "Bertrand Olivier Sahli",
-  "resumo_ia": "Atuou como assessor, avaliador, instrutor, ministrante e orientador no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020, participando de múltiplas frentes de formação e avaliação em extensão.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -33,13 +33,6 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "12814",
-      "acao_id": "3140",
-      "atividade": "Avaliação do TCC(Trabalho de conclusão de curso) do candidato Edson Simões Boldrini",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
       "atividade_id": "12881",
       "acao_id": "3140",
       "atividade": "Desenvolvimento do MOOC (Modelagem de bancos de dados relacionais) nas etapas de Análise, Planejamento, Desenvolvimento e Implementação.",
@@ -47,9 +40,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "12813",
+      "atividade_id": "12882",
       "acao_id": "3140",
-      "atividade": "Curso DB (Preparação do curso; Participação em aulas online e presencial e Apoio ao professor)",
+      "atividade": "Acompanhamento e orientação da atividade de criação de MOOC \"Consultas SQL em Banco de Dados Relacionais\" em conjunto com os professores Vitor Faiçal Campana e Edilson Nascimento",
       "pub": 0
     },
     {
@@ -61,9 +54,16 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "12882",
+      "atividade_id": "12814",
       "acao_id": "3140",
-      "atividade": "Acompanhamento e orientação da atividade de criação de MOOC \"Consultas SQL em Banco de Dados Relacionais\" em conjunto com os professores Vitor Faiçal Campana e Edilson Nascimento",
+      "atividade": "Avaliação do TCC(Trabalho de conclusão de curso) do candidato Edson Simões Boldrini",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "12813",
+      "acao_id": "3140",
+      "atividade": "Curso DB (Preparação do curso; Participação em aulas online e presencial e Apoio ao professor)",
       "pub": 0
     }
   ],

@@ -8,7 +8,6 @@
     "2019"
   ],
   "funcoes": [
-    "COORDENADOR(A)",
     "EXPOSITOR(A)",
     "MEMBRO DE COMITÊ GESTOR"
   ],
@@ -18,7 +17,7 @@
       "titulo": "I Am Here: Registro de Frequência por Reconhecimento Facial",
       "tipo": "Projeto",
       "ano": "2019",
-      "n": 6,
+      "n": 0,
       "pub": 0
     }
   ],
@@ -32,17 +31,6 @@
       "pub": 126,
       "funcoes": [
         "MEMBRO DE COMITÊ GESTOR"
-      ]
-    },
-    {
-      "acao_id": "2823",
-      "titulo": "I Am Here: Registro de Frequência por Reconhecimento Facial",
-      "tipo": "Projeto",
-      "ano": "2019",
-      "n": 6,
-      "pub": 0,
-      "funcoes": [
-        "COORDENADOR(A)"
       ]
     },
     {
@@ -66,13 +54,6 @@
       "pub": 0
     },
     {
-      "ano": "2019",
-      "atividade_id": "9895",
-      "acao_id": "2823",
-      "atividade": "I Am Here: Registro de Frequência por Reconhecimento Facial",
-      "pub": 0
-    },
-    {
       "ano": "2016",
       "atividade_id": "10343",
       "acao_id": "901",
@@ -85,10 +66,6 @@
   "impacto": 0,
   "temas": [
     {
-      "tema": "Software, dados e sistemas",
-      "n": 2
-    },
-    {
       "tema": "Empreendedorismo e incubação",
       "n": 2
     }
@@ -97,26 +74,6 @@
     {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Olavo Jose Ferreira Curatola",
-      "slug": "olavo-jose-ferreira-curatola",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Sarah Silva Ferreira",
-      "slug": "sarah-silva-ferreira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Renato de Sant'anna Lopes",
-      "slug": "renato-de-sant-anna-lopes",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Joel Will Belmiro",
-      "slug": "joel-will-belmiro",
       "acoes_comuns": 2
     },
     {
@@ -285,6 +242,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Olavo Jose Ferreira Curatola",
+      "slug": "olavo-jose-ferreira-curatola",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Rafaela Amorim Pessin",
       "slug": "rafaela-amorim-pessin",
       "acoes_comuns": 1
@@ -307,6 +274,16 @@
     {
       "nome": "Ana Carolina Cebin Pereira",
       "slug": "ana-carolina-cebin-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Joel Will Belmiro",
+      "slug": "joel-will-belmiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Renato de Sant'anna Lopes",
+      "slug": "renato-de-sant-anna-lopes",
       "acoes_comuns": 1
     },
     {

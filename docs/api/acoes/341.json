@@ -8,24 +8,16 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
+  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "",
+  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "07/11/2014",
   "Resumo": "Demonstrar os conceitos de Microcontroladores e suas aplicações. Capacitando, dessa forma, os alunos para desenvolvimento de novas soluções/projetos utilizando a plataforma Arduino em várias situações, seja acadêmicas ou até mesmo sociais.",
   "Campus": "Serra",
-  "total_participacoes": 16,
-  "publico_alvo_total": 16,
-  "atividades": [
-    {
-      "atividade_id": "495",
-      "numero": "001",
-      "atividade": "Introdução ao Arduino",
-      "publico": 16,
-      "aprovados": 16,
-      "certificados": 16,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

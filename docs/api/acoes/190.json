@@ -8,24 +8,16 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
+  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "",
+  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "11/07/2014",
   "Resumo": "A área de desenvolvimento da empresa Zaruc Ltda está vinculada ao Núcleo Incubador Serra do Ifes. A empresa atua primordialmente no setor de distribuição de energia elétrica, automação e controle industrial.\nO objetivo de pleitar espaço na MEC SHOW 2014 é apresentar as soluções de inovação desenvolvidos pela empresa em parceria com o IFES.\nDentre os produtos estão :\n- TAD- E (transmissão automática de dados de energia) é uma ferramenta que simplifica o processo de leitura nas unidades consumidoras de energia e proporciona economia de tempo e praticidade na coleta dos dados, utiliza-se de um sistema de comunicação sem fio;\n\n- Tomada Inteligente- permite a leitura do consumo da carga visualizando o display ou de forma remota utlizando o receptor sem fio TAD que se conecta no computador via USB. \n\n- Sistema de controle de cargas-soluções de gerenciamento remoto sem fio utlizando rádio frequência para acionamento de cargas elétricas. O sistema ajuda as empresas no controle de energia.",
   "Campus": "Serra",
-  "total_participacoes": 8,
-  "publico_alvo_total": 8,
-  "atividades": [
-    {
-      "atividade_id": "273",
-      "numero": "001",
-      "atividade": "Exposição do Trabalho: \"Soluções de Inovação da Empresa Zaruc\"",
-      "publico": 8,
-      "aprovados": 7,
-      "certificados": 7,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

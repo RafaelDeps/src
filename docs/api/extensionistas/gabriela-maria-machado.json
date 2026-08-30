@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2018",
-      "atividade_id": "14466",
-      "acao_id": "2107",
-      "atividade": "Visita EEEF Francisco Alves Mendes",
-      "pub": 65
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14468",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 2",
       "pub": 8
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14466",
+      "acao_id": "2107",
+      "atividade": "Visita EEEF Francisco Alves Mendes",
+      "pub": 65
     }
   ],
   "imp_coord": 0,

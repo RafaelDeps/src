@@ -1,7 +1,7 @@
 {
   "slug": "samiya-harumi",
   "nome": "Samiya Harumi",
-  "resumo_ia": "Participou da equipe do LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020, atuando como apoio técnico e organizador(a).",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -27,6 +27,13 @@
   "atividades": [
     {
       "ano": "2020",
+      "atividade_id": "19127",
+      "acao_id": "3140",
+      "atividade": "17th Brazilian Symposium on Bioinformatics",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
       "atividade_id": "19126",
       "acao_id": "3140",
       "atividade": "27th Brazilian Symposium on Formal Methods",
@@ -44,13 +51,6 @@
       "atividade_id": "22289",
       "acao_id": "3140",
       "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "19127",
-      "acao_id": "3140",
-      "atividade": "17th Brazilian Symposium on Bioinformatics",
       "pub": 0
     }
   ],

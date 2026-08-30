@@ -1,7 +1,7 @@
 {
   "slug": "hilario-tomaz-alves-de-oliveira",
   "nome": "Hilário Tomaz Alves de Oliveira",
-  "resumo_ia": "Participou como apoio técnico, colaborador(a) e organizador(a) no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -29,23 +29,23 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "19126",
-      "acao_id": "3140",
-      "atividade": "27th Brazilian Symposium on Formal Methods",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "21062",
-      "acao_id": "3140",
-      "atividade": "Equipe de organização do SCAI 2025",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
       "atividade_id": "22289",
       "acao_id": "3140",
       "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "19127",
+      "acao_id": "3140",
+      "atividade": "17th Brazilian Symposium on Bioinformatics",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "19126",
+      "acao_id": "3140",
+      "atividade": "27th Brazilian Symposium on Formal Methods",
       "pub": 0
     },
     {
@@ -57,9 +57,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "19127",
+      "atividade_id": "21062",
       "acao_id": "3140",
-      "atividade": "17th Brazilian Symposium on Bioinformatics",
+      "atividade": "Equipe de organização do SCAI 2025",
       "pub": 0
     }
   ],

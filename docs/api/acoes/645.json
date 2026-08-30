@@ -14,61 +14,8 @@
   "Data de cadastro": "22/03/2016",
   "Resumo": "No Brasil temos duas instituições que fazem e publicam as estatísticas de produção agrícola em nívelnacional e, portanto, acompanham o desempenho da produção agrícola no Brasil. A Conab faz estimativas de produção de grãos a nível nacional e divulga as estimativas somente em nível nacional e estadual. Já o IBGE faz estimativas não somente da produção de grãos, mas também de alguns produtos da fruticultura, olericultura, Extração vegetal, Silvicultura, pecuária e aquicultura. O IBGE,além de fazer a divulgação em nível nacional e estadual, também faz a divulgação em nível municipal e, por isso é a referência utilizada quando se trata de dados municipais da agropecuária. \n\nO IBGE faz o levantamento da produção agrícola de todos os produtos nos municípios, no entanto, publica apenas as estatísticas dos produtos que considera mais importante para o estado e que são produzidos também em outras unidades da federação, ou seja, publica apenas parte das estatísticas. No caso da olericultura, de uma lista de 41 produtos produzidos no estado, apenas 8 produtos tem seus dados da produção publicados no SIDRA, banco de dados do IBGE, e na PAM – Pesquisa Agrícola Municipal. No caso da fruticultura, de uma lista de 26 produtos, 15 tem seus dados de produção publicados no SIDRA e PAM. Ficam de fora da publicação no SIDRA e PAM os dados da produção de milho forrageira e cana forrageira. Faltam também as estatísticas de produção da pecuária por município e também as estatísticas da pesca em mar. \n\nNa Secretaria de Estado e da Agricultura, Abastecimento, Aquicultura e Pesca – SEAG já existe um banco de dados da produção agropecuária do estado. Esse banco de dados contém informações da produção agropecuária coletadas de várias instituições desde 1975. Esse banco de dados é o principal e mais completo que a secretaria dispõe. No entanto, este banco de dados foi feito no Access e fica em um computador restrito, não sendo possível a consulta via internet. Neste banco de dados também não constam as informações dos produtos que ficam foram da publicação no SIDRA e PAM. \n\nOs dados dos produtos que não são publicados ficam disponíveis nos escritórios regionais do IBGE para consulta e estão disponíveis para cópia mediante solicitação. Estes dados são importantes e fundamentais para que tenhamos estatísticas mais completas da produção agropecuária do estado para que seja possível o cálculo do valor bruto da produção do estado e também os municípios. Estes dados também são importantes para a avaliação dos resultados das tecnologias desenvolvidas para melhorar a produtividade e desempenho das atividades agropecuárias, bem como para a avaliação dos resultados das políticas públicas voltadas para a agropecuária capixaba. A inexistência deste sistema tem atrasado o desempenho do planejamento estratégico voltado para o desenvolvimento da agropecuária capixaba na medida em que: os dados existentes não estão sistematizados e não podem ser acessados com facilidade; faltam informações",
   "Campus": "Serra",
-  "total_participacoes": 7,
-  "publico_alvo_total": 1,
-  "atividades": [
-    {
-      "atividade_id": "1200",
-      "numero": "001",
-      "atividade": "SIPAC - Sistema de Informação da Produção Agropecuária capixaba",
-      "publico": 1,
-      "aprovados": 1,
-      "certificados": 1,
-      "equipe": 6
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Cristian da Silva Anterio",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Danilo de Oliveira",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Sergio Nery Simões",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

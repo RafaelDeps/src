@@ -1,7 +1,7 @@
 {
   "slug": "lucas-silverio-gums",
   "nome": "Lucas Silverio Gums",
-  "resumo_ia": "Atuou como instrutor, monitor e organizador no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020, contribuindo para a execução de atividades extensionistas no campus Serra.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -29,10 +29,10 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "20334",
+      "atividade_id": "20333",
       "acao_id": "3140",
-      "atividade": "Workshop de Inteligência Artificial na Semana da Engenharia",
-      "pub": 0
+      "atividade": "Monitoria de Matemática e Programação 2025/01",
+      "pub": 24
     },
     {
       "ano": "2020",
@@ -43,10 +43,10 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "20333",
+      "atividade_id": "20334",
       "acao_id": "3140",
-      "atividade": "Monitoria de Matemática e Programação 2025/01",
-      "pub": 24
+      "atividade": "Workshop de Inteligência Artificial na Semana da Engenharia",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

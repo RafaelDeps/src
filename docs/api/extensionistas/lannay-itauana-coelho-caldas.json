@@ -1,7 +1,7 @@
 {
   "slug": "lannay-itauana-coelho-caldas",
   "nome": "Lannay Itauana Coelho Caldas",
-  "resumo_ia": "Prestou apoio técnico no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020, colaborando com a operacionalização de atividades extensionistas.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -25,16 +25,16 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "19128",
+      "atividade_id": "19127",
       "acao_id": "3140",
-      "atividade": "9th School of Theoretical Computer Science and Formal Methods",
+      "atividade": "17th Brazilian Symposium on Bioinformatics",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "19127",
+      "atividade_id": "19128",
       "acao_id": "3140",
-      "atividade": "17th Brazilian Symposium on Bioinformatics",
+      "atividade": "9th School of Theoretical Computer Science and Formal Methods",
       "pub": 0
     }
   ],

@@ -55,17 +55,17 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "16756",
-      "acao_id": "4754",
-      "atividade": "QUÍMICA VERDE APLICADA: oficinas e workshops",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
       "atividade_id": "16986",
       "acao_id": "4754",
       "atividade": "Oficina Produtos renováveis",
       "pub": 69
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "16756",
+      "acao_id": "4754",
+      "atividade": "QUÍMICA VERDE APLICADA: oficinas e workshops",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

@@ -27,6 +27,20 @@
   "atividades": [
     {
       "ano": "2022",
+      "atividade_id": "19181",
+      "acao_id": "4033",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19182",
+      "acao_id": "4033",
+      "atividade": "Produção de um documentário referente à inauguração da sede da NATIVA - Associação de Produtores de Aroeira do ES",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "13927",
       "acao_id": "4033",
       "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
@@ -44,20 +58,6 @@
       "atividade_id": "19173",
       "acao_id": "4033",
       "atividade": "Participação em mentorias do Sebrae",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19182",
-      "acao_id": "4033",
-      "atividade": "Produção de um documentário referente à inauguração da sede da NATIVA - Associação de Produtores de Aroeira do ES",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19181",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
       "pub": 0
     }
   ],

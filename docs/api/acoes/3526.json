@@ -9,13 +9,32 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências Humanas",
   "Área temática principal": "",
+  "Área temática principal (inferida)": "Cultura",
   "Relatório aprovado": "Sim",
   "Data último relatório": "11/06/2022",
   "Data de cadastro": "14/10/2021",
   "Resumo": "O curso “Mitologia grega vista a partir da arte e literatura” pretende introduzir os estudantes no estudo da cultura clássica, possibilitando que estes compreendam como artistas e escritores se apropriaram dos mitos gregos em suas produções. Além do mais, o curso buscará estabelecer um diálogo entre essas histórias da mitologia grega retratadas na arte e literatura com problemas que ainda hoje nos são familiares, pois dizem respeito à política, moral, sexualidade, relações familiares, amizade, economia, dentre outros",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 9,
+  "publico_alvo_total": 8,
+  "atividades": [
+    {
+      "atividade_id": "12278",
+      "numero": "001",
+      "atividade": "A mitologia grega vista a partir da arte e da literatura",
+      "publico": 8,
+      "aprovados": 8,
+      "certificados": 8,
+      "equipe": 1
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Maikon Chaider Silva Scaldaferro",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

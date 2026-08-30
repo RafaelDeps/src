@@ -6,33 +6,10 @@
     "2016"
   ],
   "funcoes": [
-    "ALUNO(A) BOLSISTA",
     "ALUNO(A) VOLUNTARIO"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "645",
-      "titulo": "SIPAC - Sistema de Informação da Produção Agropecuária capixaba",
-      "tipo": "Projeto",
-      "ano": "2016",
-      "n": 7,
-      "pub": 1,
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ]
-    },
-    {
-      "acao_id": "849",
-      "titulo": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
-      "tipo": "Projeto",
-      "ano": "2016",
-      "n": 5,
-      "pub": 0,
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ]
-    },
     {
       "acao_id": "901",
       "titulo": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
@@ -48,20 +25,6 @@
   "atividades": [
     {
       "ano": "2016",
-      "atividade_id": "1200",
-      "acao_id": "645",
-      "atividade": "SIPAC - Sistema de Informação da Produção Agropecuária capixaba",
-      "pub": 1
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "1940",
-      "acao_id": "849",
-      "atividade": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "2297",
       "acao_id": "901",
       "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
@@ -69,44 +32,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 1,
-  "impacto": 1,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
-    {
-      "tema": "Cultura e arte",
-      "n": 2
-    },
     {
       "tema": "Empreendedorismo e incubação",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Sergio Nery Simões",
-      "slug": "sergio-nery-simoes",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Cristian da Silva Anterio",
-      "slug": "cristian-da-silva-anterio",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "slug": "ana-rubia-ramos-vicente",
-      "acoes_comuns": 2
-    },
     {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
@@ -208,6 +142,16 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Cristian da Silva Anterio",
+      "slug": "cristian-da-silva-anterio",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Diego Pasti",
       "slug": "diego-pasti",
       "acoes_comuns": 1
@@ -278,8 +222,23 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Carlos Lins Borges Azevedo",
       "slug": "carlos-lins-borges-azevedo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sergio Nery Simões",
+      "slug": "sergio-nery-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 1
     },
     {

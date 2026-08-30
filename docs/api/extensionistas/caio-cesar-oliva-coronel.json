@@ -1,7 +1,7 @@
 {
   "slug": "caio-cesar-oliva-coronel",
   "nome": "Caio Cesar Oliva Coronel",
-  "resumo_ia": "Desenvolveu atividades como apoio técnico, colaborador(a) e monitor(a) no LAMPEX – Laboratório Modelo de Práticas de Extensão em 2020, integrando ações de extensão universitária.",
+  "resumo_ia": null,
   "anos": [
     "2020"
   ],
@@ -36,17 +36,17 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "21062",
-      "acao_id": "3140",
-      "atividade": "Equipe de organização do SCAI 2025",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
       "atividade_id": "20333",
       "acao_id": "3140",
       "atividade": "Monitoria de Matemática e Programação 2025/01",
       "pub": 24
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "21062",
+      "acao_id": "3140",
+      "atividade": "Equipe de organização do SCAI 2025",
+      "pub": 0
     }
   ],
   "imp_coord": 0,

@@ -96,7 +96,7 @@
       "titulo": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
       "tipo": "Projeto",
       "ano": "2016",
-      "n": 5,
+      "n": 0,
       "pub": 0
     }
   ],
@@ -212,17 +212,6 @@
       ]
     },
     {
-      "acao_id": "645",
-      "titulo": "SIPAC - Sistema de Informação da Produção Agropecuária capixaba",
-      "tipo": "Projeto",
-      "ano": "2016",
-      "n": 7,
-      "pub": 1,
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ]
-    },
-    {
       "acao_id": "718",
       "titulo": "Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra",
       "tipo": "Programa",
@@ -247,17 +236,6 @@
     {
       "acao_id": "723",
       "titulo": "Acorde Musical",
-      "tipo": "Projeto",
-      "ano": "2016",
-      "n": 5,
-      "pub": 0,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "849",
-      "titulo": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
       "tipo": "Projeto",
       "ano": "2016",
       "n": 5,
@@ -330,10 +308,10 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "13928",
+      "atividade_id": "17191",
       "acao_id": "4034",
-      "atividade": "SmartIdea - Validação de Problemas e Ideias",
-      "pub": 1
+      "atividade": "Oficina de Design Sprint",
+      "pub": 2
     },
     {
       "ano": "2022",
@@ -344,10 +322,10 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "17191",
+      "atividade_id": "13928",
       "acao_id": "4034",
-      "atividade": "Oficina de Design Sprint",
-      "pub": 2
+      "atividade": "SmartIdea - Validação de Problemas e Ideias",
+      "pub": 1
     },
     {
       "ano": "2015",
@@ -362,13 +340,6 @@
       "acao_id": "569",
       "atividade": "Desafio Ifes de Negócios Socais",
       "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "1200",
-      "acao_id": "645",
-      "atividade": "SIPAC - Sistema de Informação da Produção Agropecuária capixaba",
-      "pub": 1
     },
     {
       "ano": "2016",
@@ -393,13 +364,6 @@
     },
     {
       "ano": "2016",
-      "atividade_id": "1940",
-      "acao_id": "849",
-      "atividade": "Sistema para auxiliar a gestão da Produção Agropecuária capixaba",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
       "atividade_id": "2297",
       "acao_id": "901",
       "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
@@ -407,20 +371,20 @@
     }
   ],
   "imp_coord": 35,
-  "imp_eq": 40,
-  "impacto": 75,
+  "imp_eq": 39,
+  "impacto": 74,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 7
     },
     {
-      "tema": "Cultura e arte",
-      "n": 7
-    },
-    {
       "tema": "Saúde e bem-estar",
       "n": 5
+    },
+    {
+      "tema": "Cultura e arte",
+      "n": 4
     },
     {
       "tema": "Ciência e divulgação",
@@ -445,16 +409,6 @@
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
       "acoes_comuns": 5
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
-      "acoes_comuns": 5
-    },
-    {
-      "nome": "Sergio Nery Simões",
-      "slug": "sergio-nery-simoes",
-      "acoes_comuns": 4
     },
     {
       "nome": "Andreângelo da Paixão Patuzzo",
@@ -482,8 +436,8 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "slug": "ana-rubia-ramos-vicente",
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 3
     },
     {
@@ -502,16 +456,6 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Cristian da Silva Anterio",
-      "slug": "cristian-da-silva-anterio",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Danilo de Oliveira",
-      "slug": "danilo-de-oliveira",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
       "acoes_comuns": 2
@@ -519,6 +463,16 @@
     {
       "nome": "Sandro de Freitas Nascimento",
       "slug": "sandro-de-freitas-nascimento",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Sergio Nery Simões",
+      "slug": "sergio-nery-simoes",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
       "acoes_comuns": 2
     },
     {
@@ -1129,6 +1083,16 @@
     {
       "nome": "Gustavo Matozinho Lima",
       "slug": "gustavo-matozinho-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Danilo de Oliveira",
+      "slug": "danilo-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Cristian da Silva Anterio",
+      "slug": "cristian-da-silva-anterio",
       "acoes_comuns": 1
     },
     {
