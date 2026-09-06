@@ -3,12 +3,10 @@
   "nome": "Emerson Atílio Birchler",
   "resumo_ia": null,
   "anos": [
-    "2016",
     "2017",
     "2024"
   ],
   "funcoes": [
-    "AVALIADOR(A)",
     "COLABORADOR(A)",
     "INSTRUTOR(A)",
     "MEMBRO DE COMITÊ GESTOR"
@@ -46,23 +44,19 @@
       "funcoes": [
         "INSTRUTOR(A)"
       ]
-    },
-    {
-      "acao_id": "912",
-      "titulo": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 21,
-      "pub": 3,
-      "funcoes": [
-        "AVALIADOR(A)"
-      ]
     }
   ],
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "11587",
+      "atividade_id": "3048",
+      "acao_id": "1116",
+      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "11584",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
@@ -83,9 +77,9 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "11584",
+      "atividade_id": "3049",
       "acao_id": "1116",
-      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
@@ -97,16 +91,9 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "3048",
+      "atividade_id": "11587",
       "acao_id": "1116",
-      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
-      "atividade_id": "3049",
-      "acao_id": "1116",
-      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
@@ -122,20 +109,6 @@
       "acao_id": "1261",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
       "pub": 12
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "3213",
-      "acao_id": "912",
-      "atividade": "Banca de Apresentação do Trabalho Final de Curso do aluno Renahn Pazini Marim",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "3212",
-      "acao_id": "912",
-      "atividade": "Banca de Apresentação do Trabalho Final de Curso do aluno Carlos de Melo Batista",
-      "pub": 0
     }
   ],
   "imp_coord": 0,
@@ -144,43 +117,38 @@
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 3
+      "n": 2
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Karin Satie Komati",
-      "slug": "karin-satie-komati",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Marcos Simão Guimarães",
-      "slug": "marcos-simao-guimaraes",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Flávio Barcelos Braz da Silva",
-      "slug": "flavio-barcelos-braz-da-silva",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 3
-    },
     {
       "nome": "Francisco José Casarim Rapchan",
       "slug": "francisco-jose-casarim-rapchan",
       "acoes_comuns": 2
     },
     {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Karin Satie Komati",
+      "slug": "karin-satie-komati",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Marcos Simão Guimarães",
+      "slug": "marcos-simao-guimaraes",
+      "acoes_comuns": 2
+    },
+    {
       "nome": "Ronaldo Aparecida Marques",
       "slug": "ronaldo-aparecida-marques",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Flávio Barcelos Braz da Silva",
+      "slug": "flavio-barcelos-braz-da-silva",
       "acoes_comuns": 2
     },
     {
@@ -194,6 +162,11 @@
       "acoes_comuns": 2
     },
     {
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 2
+    },
+    {
       "nome": "Valéria Gabriel Estanislau",
       "slug": "valeria-gabriel-estanislau",
       "acoes_comuns": 2
@@ -201,16 +174,6 @@
     {
       "nome": "Elizangela Campos da Rosa Broetto",
       "slug": "elizangela-campos-da-rosa-broetto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Luis Henrique Rosado Torres",
-      "slug": "luis-henrique-rosado-torres",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Leonardo Azevedo Scardua",
-      "slug": "leonardo-azevedo-scardua",
       "acoes_comuns": 2
     },
     {
@@ -334,6 +297,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Luis Henrique Rosado Torres",
+      "slug": "luis-henrique-rosado-torres",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Rodolpho da Cruz Rangel",
       "slug": "rodolpho-da-cruz-rangel",
       "acoes_comuns": 1
@@ -364,6 +332,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Leonardo Azevedo Scardua",
+      "slug": "leonardo-azevedo-scardua",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Giovani Zanetti Neto",
       "slug": "giovani-zanetti-neto",
       "acoes_comuns": 1
@@ -391,11 +364,6 @@
     {
       "nome": "Erley Crevelin Valentim",
       "slug": "erley-crevelin-valentim",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Teixeira da Costa",
-      "slug": "wagner-teixeira-da-costa",
       "acoes_comuns": 1
     }
   ]

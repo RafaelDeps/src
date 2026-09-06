@@ -3,14 +3,10 @@
   "nome": "Victorio Albani de Carvalho",
   "resumo_ia": null,
   "anos": [
-    "2016",
     "2021",
     "2022"
   ],
-  "funcoes": [
-    "COORDENADOR(A)",
-    "PROFESSOR(A)"
-  ],
+  "funcoes": [],
   "acoes_coordenadas": [
     {
       "acao_id": "3422",
@@ -25,74 +21,16 @@
       "titulo": "Operador de Computador",
       "tipo": "Curso",
       "ano": "2022",
-      "n": 23,
-      "pub": 17
-    },
-    {
-      "acao_id": "947",
-      "titulo": "Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS",
-      "tipo": "Programa em Rede",
-      "ano": "2016",
-      "n": 4,
+      "n": 0,
       "pub": 0
     }
   ],
-  "participacoes_equipe": [
-    {
-      "acao_id": "4210",
-      "titulo": "Operador de Computador",
-      "tipo": "Curso",
-      "ano": "2022",
-      "n": 23,
-      "pub": 17,
-      "funcoes": [
-        "COORDENADOR(A)",
-        "PROFESSOR(A)"
-      ]
-    },
-    {
-      "acao_id": "947",
-      "titulo": "Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS",
-      "tipo": "Programa em Rede",
-      "ano": "2016",
-      "n": 4,
-      "pub": 0,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    }
-  ],
-  "atividades": [
-    {
-      "ano": "2022",
-      "atividade_id": "14476",
-      "acao_id": "4210",
-      "atividade": "Operador de Computador",
-      "pub": 17
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "14475",
-      "acao_id": "4210",
-      "atividade": "Operador de Computador",
-      "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "2286",
-      "acao_id": "947",
-      "atividade": "Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS",
-      "pub": 0
-    }
-  ],
-  "imp_coord": 17,
+  "participacoes_equipe": [],
+  "atividades": [],
+  "imp_coord": 0,
   "imp_eq": 0,
-  "impacto": 17,
+  "impacto": 0,
   "temas": [
-    {
-      "tema": "Cultura e arte",
-      "n": 4
-    },
     {
       "tema": "Empreendedorismo e incubação",
       "n": 1
@@ -102,31 +40,6 @@
     {
       "nome": "Felipe Frechiani de Oliveira",
       "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "David de Assis",
-      "slug": "david-de-assis",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Walber Antonio Ramos Beltrame",
-      "slug": "walber-antonio-ramos-beltrame",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rodrigo Fernandes Calhau",
-      "slug": "rodrigo-fernandes-calhau",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
       "acoes_comuns": 1
     }
   ]

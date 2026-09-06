@@ -85,18 +85,18 @@
       "eq": 15
     },
     {
-      "acao_id": "986",
-      "titulo": "Energia Solar Fotovoltaica",
-      "tipo": "Curso",
-      "coordenador": "Giovani Zanetti Neto",
-      "coordenador_slug": "giovani-zanetti-neto",
+      "acao_id": "1426",
+      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
+      "tipo": "Evento",
+      "coordenador": "Gilmar Luiz Vassoler",
+      "coordenador_slug": "gilmar-luiz-vassoler",
       "ano": "2017",
-      "inicio": "04/03/2017",
-      "termino": "25/03/2017",
+      "inicio": "23/10/2017",
+      "termino": "27/10/2017",
       "ultimo": "nunca enviado",
       "pendente": true,
-      "pub": 25,
-      "eq": 1
+      "pub": 366,
+      "eq": 21
     },
     {
       "acao_id": "5406",
@@ -113,20 +113,6 @@
       "eq": 10
     },
     {
-      "acao_id": "2366",
-      "titulo": "Fitoterápicos em Horta: Compostos Químicos em Ação",
-      "tipo": "Projeto",
-      "coordenador": "Nauvia Maria Cancelieri",
-      "coordenador_slug": "nauvia-maria-cancelieri",
-      "ano": "2019",
-      "inicio": "09/09/2018",
-      "termino": "12/12/2020",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 34,
-      "eq": 1
-    },
-    {
       "acao_id": "3948",
       "titulo": "PEAM – Programa de Estudos Avançados em Matemática",
       "tipo": "Programa",
@@ -139,34 +125,6 @@
       "pendente": true,
       "pub": 39,
       "eq": 3
-    },
-    {
-      "acao_id": "3954",
-      "titulo": "Oficina de Tutoria em Física",
-      "tipo": "Projeto",
-      "coordenador": "Paulo Cezar Camargo Guedes",
-      "coordenador_slug": "paulo-cezar-camargo-guedes",
-      "ano": "2022",
-      "inicio": "08/08/2022",
-      "termino": "02/12/2022",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 2
-    },
-    {
-      "acao_id": "2913",
-      "titulo": "Projeto \"Física e Química na Prática\"",
-      "tipo": "Projeto",
-      "coordenador": "Rosiane Ribeiro Rocha",
-      "coordenador_slug": "rosiane-ribeiro-rocha",
-      "ano": "2020",
-      "inicio": "10/02/2020",
-      "termino": "09/02/2021",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 4
     },
     {
       "acao_id": "1945",
@@ -184,20 +142,6 @@
     }
   ],
   "zero": [
-    {
-      "acao_id": "4867",
-      "titulo": "Empresa Morpheus Jr",
-      "tipo": "Programa",
-      "coordenador": "Adelson Pereira do Nascimento",
-      "coordenador_slug": "adelson-pereira-do-nascimento",
-      "ano": "2024",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "22/12/2025",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
     {
       "acao_id": "5199",
       "titulo": "JOVEM APRENDIZ IFES CAMPUS SERRA",
@@ -227,6 +171,20 @@
       "eq": 0
     },
     {
+      "acao_id": "1117",
+      "titulo": "PRÉ – IFES Campus Serra",
+      "tipo": "Curso",
+      "coordenador": "Alessandro Bermudes Gomes",
+      "coordenador_slug": "alessandro-bermudes-gomes",
+      "ano": "2017",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "17/11/2017",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
       "acao_id": "1648",
       "titulo": "Projeto Expedição IFES – Conhecendo o Brasil",
       "tipo": "Projeto",
@@ -251,6 +209,20 @@
       "termino": "",
       "ultimo": "nunca enviado",
       "pendente": true,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "4163",
+      "titulo": "Expedição Ifes",
+      "tipo": "Projeto",
+      "coordenador": "Alessandro Bermudes Gomes",
+      "coordenador_slug": "alessandro-bermudes-gomes",
+      "ano": "2022",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "13/12/2022",
+      "pendente": false,
       "pub": 0,
       "eq": 0
     },
@@ -381,15 +353,15 @@
       "eq": 0
     },
     {
-      "acao_id": "2783",
-      "titulo": "Informática Básica Para Agentes Multiplicadores.",
-      "tipo": "Curso",
+      "acao_id": "2595",
+      "titulo": "Incluir & Multiplicar",
+      "tipo": "Projeto",
       "coordenador": "Bruno Cardoso Coutinho",
       "coordenador_slug": "bruno-cardoso-coutinho",
       "ano": "2019",
       "inicio": "",
       "termino": "",
-      "ultimo": "06/12/2019",
+      "ultimo": "01/09/2020",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -404,6 +376,20 @@
       "inicio": "",
       "termino": "",
       "ultimo": "06/10/2021",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "2675",
+      "titulo": "Tutoria de Estudos Orientados: Compartilhando Saberes",
+      "tipo": "Projeto",
+      "coordenador": "Bruno Ramos Gonzaga",
+      "coordenador_slug": "bruno-ramos-gonzaga",
+      "ano": "2019",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "30/12/2019",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -451,15 +437,15 @@
       "eq": 0
     },
     {
-      "acao_id": "1614",
-      "titulo": "Treinamento em Mikrotik 2018-1",
+      "acao_id": "2599",
+      "titulo": "Sistema de apoio para rastreio e geolocalização de transtornos mentais",
       "tipo": "Projeto",
-      "coordenador": "Celio Proliciano Maioli",
-      "coordenador_slug": "celio-proliciano-maioli",
-      "ano": "2018",
+      "coordenador": "Carlos Lins Borges Azevedo",
+      "coordenador_slug": "carlos-lins-borges-azevedo",
+      "ano": "2019",
       "inicio": "",
       "termino": "",
-      "ultimo": "04/04/2018",
+      "ultimo": "01/09/2020",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -515,7 +501,21 @@
       "ano": "2025",
       "inicio": "",
       "termino": "",
-      "ultimo": "13/02/2026",
+      "ultimo": "nunca enviado",
+      "pendente": true,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "110",
+      "titulo": "Curso de Eletricista Instalador Predial de Baixa Tensão",
+      "tipo": "Curso",
+      "coordenador": "Elizangela Campos da Rosa Broetto",
+      "coordenador_slug": "elizangela-campos-da-rosa-broetto",
+      "ano": "2013",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "nunca enviado",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -549,8 +549,22 @@
       "eq": 0
     },
     {
-      "acao_id": "190",
-      "titulo": "7ª Feira de Metalmecânica, Energia e Automação - MEC SHOW - 2014",
+      "acao_id": "5138",
+      "titulo": "Semana destinada à Educação Especial Inclusiva - Setembro Verde",
+      "tipo": "Evento",
+      "coordenador": "Emilene Coco dos Santos",
+      "coordenador_slug": "emilene-coco-dos-santos",
+      "ano": "2024",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "19/12/2024",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "235",
+      "titulo": "11ª Semana Estadual de Ciência e Tecnologia: Ciência e Tecnologia para o Desenvolvimento Social",
       "tipo": "Evento",
       "coordenador": "Emmanuel Marques Silva",
       "coordenador_slug": "emmanuel-marques-silva",
@@ -563,57 +577,15 @@
       "eq": 0
     },
     {
-      "acao_id": "234",
-      "titulo": "Innova Social 2014",
-      "tipo": "Evento",
-      "coordenador": "Emmanuel Marques Silva",
-      "coordenador_slug": "emmanuel-marques-silva",
-      "ano": "2014",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "237",
-      "titulo": "Innova World 2014",
-      "tipo": "Evento",
-      "coordenador": "Emmanuel Marques Silva",
-      "coordenador_slug": "emmanuel-marques-silva",
-      "ano": "2014",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "708",
-      "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
-      "tipo": "Curso",
+      "acao_id": "730",
+      "titulo": "Câmara de Assessoramento em Gestão e Tecnologia do Núcleo Incubador do campus Serra do Ifes",
+      "tipo": "Projeto",
       "coordenador": "Emmanuel Marques Silva",
       "coordenador_slug": "emmanuel-marques-silva",
       "ano": "2016",
       "inicio": "",
       "termino": "",
-      "ultimo": "30/11/2018",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "2823",
-      "titulo": "I Am Here: Registro de Frequência por Reconhecimento Facial",
-      "tipo": "Projeto",
-      "coordenador": "Fabiano Borges Ruy",
-      "coordenador_slug": "fabiano-borges-ruy",
-      "ano": "2019",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "10/01/2021",
+      "ultimo": "01/01/2020",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -623,25 +595,11 @@
       "titulo": "Tutoria em Estudos Avançados",
       "tipo": "Projeto",
       "coordenador": "Fabio de Oliveira Lima",
-      "coordenador_slug": null,
+      "coordenador_slug": "fabio-de-oliveira-lima",
       "ano": "2018",
       "inicio": "",
       "termino": "",
       "ultimo": "23/03/2018",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "903",
-      "titulo": "GDE: Gestão de Tipos Documentais do IFES",
-      "tipo": "Projeto",
-      "coordenador": "Felipe Frechiani de Oliveira",
-      "coordenador_slug": "felipe-frechiani-de-oliveira",
-      "ano": "2016",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -689,15 +647,15 @@
       "eq": 0
     },
     {
-      "acao_id": "341",
-      "titulo": "Curso de Introdução ao Arduino",
-      "tipo": "Curso",
-      "coordenador": "Flávio Lopes da Silva",
-      "coordenador_slug": "flavio-lopes-da-silva",
-      "ano": "2014",
+      "acao_id": "1816",
+      "titulo": "Maratona de Programação",
+      "tipo": "Evento",
+      "coordenador": "Flavio Severiano Lamas de Souza",
+      "coordenador_slug": "flavio-severiano-lamas-de-souza",
+      "ano": "2018",
       "inicio": "",
       "termino": "",
-      "ultimo": "nunca enviado",
+      "ultimo": "21/12/2018",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -712,6 +670,20 @@
       "inicio": "",
       "termino": "",
       "ultimo": "12/06/2017",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "3423",
+      "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
+      "tipo": "Programa",
+      "coordenador": "Francisco José Casarim Rapchan",
+      "coordenador_slug": "francisco-jose-casarim-rapchan",
+      "ano": "2021",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "18/12/2024",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -759,20 +731,6 @@
       "eq": 0
     },
     {
-      "acao_id": "1426",
-      "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
-      "tipo": "Evento",
-      "coordenador": "Gilmar Luiz Vassoler",
-      "coordenador_slug": "gilmar-luiz-vassoler",
-      "ano": "2017",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
       "acao_id": "1604",
       "titulo": "Improving your English",
       "tipo": "Projeto",
@@ -787,15 +745,15 @@
       "eq": 0
     },
     {
-      "acao_id": "1633",
+      "acao_id": "2082",
       "titulo": "Mulheres na Ciência",
-      "tipo": "Projeto",
+      "tipo": "Curso",
       "coordenador": "Giordana dos Santos Sperandio",
       "coordenador_slug": "giordana-dos-santos-sperandio",
       "ano": "2018",
       "inicio": "",
       "termino": "",
-      "ultimo": "11/09/2018",
+      "ultimo": "20/02/2019",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -871,8 +829,22 @@
       "eq": 0
     },
     {
-      "acao_id": "337",
+      "acao_id": "318",
       "titulo": "Curso de Calibração de Instrumentos",
+      "tipo": "Curso",
+      "coordenador": "Marco Antônio de Souza Leite Cuadros",
+      "coordenador_slug": "marco-antonio-de-souza-leite-cuadros",
+      "ano": "2014",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "nunca enviado",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "339",
+      "titulo": "Curso de Introdução à Programação do Lego MindStorm usando LabView",
       "tipo": "Curso",
       "coordenador": "Marco Antônio de Souza Leite Cuadros",
       "coordenador_slug": "marco-antonio-de-souza-leite-cuadros",
@@ -941,6 +913,20 @@
       "eq": 0
     },
     {
+      "acao_id": "4894",
+      "titulo": "Jogos Internos do Campus Serra",
+      "tipo": "Evento",
+      "coordenador": "Milainy Ludmila Santos Goulart",
+      "coordenador_slug": null,
+      "ano": "2024",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "01/10/2024",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
       "acao_id": "6146",
       "titulo": "Jogos Internos do Campus Serra (JICS)",
       "tipo": "Evento",
@@ -983,6 +969,34 @@
       "eq": 0
     },
     {
+      "acao_id": "2366",
+      "titulo": "Fitoterápicos em Horta: Compostos Químicos em Ação",
+      "tipo": "Projeto",
+      "coordenador": "Nauvia Maria Cancelieri",
+      "coordenador_slug": "nauvia-maria-cancelieri",
+      "ano": "2019",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "nunca enviado",
+      "pendente": true,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "4754",
+      "titulo": "QUÍMICA VERDE APLICADA: oficinas e workshops",
+      "tipo": "Projeto",
+      "coordenador": "Nauvia Maria Cancelieri",
+      "coordenador_slug": "nauvia-maria-cancelieri",
+      "ano": "2023",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "15/09/2025",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
       "acao_id": "3946",
       "titulo": "Estudos e Práticas para Simulação de Organizações Internacionais e Direitos Humanos",
       "tipo": "Programa",
@@ -1011,15 +1025,15 @@
       "eq": 0
     },
     {
-      "acao_id": "3757",
-      "titulo": "Oficina de Tutoria em Matemática",
+      "acao_id": "2650",
+      "titulo": "Matemática na Rede",
       "tipo": "Curso",
       "coordenador": "Paulo Cezar Camargo Guedes",
       "coordenador_slug": "paulo-cezar-camargo-guedes",
-      "ano": "2022",
+      "ano": "2019",
       "inicio": "",
       "termino": "",
-      "ultimo": "06/07/2022",
+      "ultimo": "14/11/2019",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -1067,16 +1081,16 @@
       "eq": 0
     },
     {
-      "acao_id": "4096",
-      "titulo": "PEAM – Programa de Estudos Avançados em Matemática",
-      "tipo": "Programa",
+      "acao_id": "3954",
+      "titulo": "Oficina de Tutoria em Física",
+      "tipo": "Projeto",
       "coordenador": "Paulo Cezar Camargo Guedes",
       "coordenador_slug": "paulo-cezar-camargo-guedes",
       "ano": "2022",
       "inicio": "",
       "termino": "",
-      "ultimo": "22/05/2024",
-      "pendente": false,
+      "ultimo": "nunca enviado",
+      "pendente": true,
       "pub": 0,
       "eq": 0
     },
@@ -1087,20 +1101,6 @@
       "coordenador": "Paulo Cezar Camargo Guedes",
       "coordenador_slug": "paulo-cezar-camargo-guedes",
       "ano": "2023",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "nunca enviado",
-      "pendente": true,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "930",
-      "titulo": "Despertar da Força - Processos e Ferramentas para o Gerenciamento Ágil de Projetos: Uma Abordagem Prática",
-      "tipo": "Curso",
-      "coordenador": "Paulo Sérgio dos Santos Júnior",
-      "coordenador_slug": "paulo-sergio-dos-santos-junior",
-      "ano": "2016",
       "inicio": "",
       "termino": "",
       "ultimo": "nunca enviado",
@@ -1123,43 +1123,15 @@
       "eq": 0
     },
     {
-      "acao_id": "4830",
-      "titulo": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
-      "tipo": "Projeto",
-      "coordenador": "Paulo Sérgio dos Santos Júnior",
-      "coordenador_slug": "paulo-sergio-dos-santos-junior",
-      "ano": "2023",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "30/08/2024",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "1106",
-      "titulo": "Coral Musicante",
+      "acao_id": "4209",
+      "titulo": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
       "tipo": "Curso",
-      "coordenador": "Ricardo Ramos Costa",
-      "coordenador_slug": null,
-      "ano": "2017",
+      "coordenador": "Renner Sartório Camargo",
+      "coordenador_slug": "renner-sartorio-camargo",
+      "ano": "2022",
       "inicio": "",
       "termino": "",
-      "ultimo": "03/03/2019",
-      "pendente": false,
-      "pub": 0,
-      "eq": 0
-    },
-    {
-      "acao_id": "1602",
-      "titulo": "Coral Musicante",
-      "tipo": "Projeto",
-      "coordenador": "Ricardo Ramos Costa",
-      "coordenador_slug": null,
-      "ano": "2018",
-      "inicio": "",
-      "termino": "",
-      "ultimo": "09/03/2018",
+      "ultimo": "15/12/2023",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -1179,15 +1151,29 @@
       "eq": 0
     },
     {
-      "acao_id": "1829",
-      "titulo": "Desenvolvimento de um sistema multiplataforma para robôs de assistência e manutenção de quadras esportivas",
+      "acao_id": "3567",
+      "titulo": "Laboratório IFMaker Serra: um ambiente colaborativo de aprendizagem e desenvolvimento de soluções",
       "tipo": "Projeto",
       "coordenador": "Richard Junior Manuel Godinez Tello",
       "coordenador_slug": "richard-junior-manuel-godinez-tello",
-      "ano": "2018",
+      "ano": "2021",
       "inicio": "",
       "termino": "",
-      "ultimo": "05/10/2019",
+      "ultimo": "16/12/2022",
+      "pendente": false,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "5086",
+      "titulo": "Conectando Talentos: Robótica e Programação no IFES-Serra",
+      "tipo": "Projeto",
+      "coordenador": "Richard Junior Manuel Godinez Tello",
+      "coordenador_slug": "richard-junior-manuel-godinez-tello",
+      "ano": "2024",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "11/02/2026",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -1207,43 +1193,57 @@
       "eq": 0
     },
     {
-      "acao_id": "2021",
+      "acao_id": "2913",
+      "titulo": "Projeto \"Física e Química na Prática\"",
+      "tipo": "Projeto",
+      "coordenador": "Rosiane Ribeiro Rocha",
+      "coordenador_slug": "rosiane-ribeiro-rocha",
+      "ano": "2020",
+      "inicio": "",
+      "termino": "",
+      "ultimo": "nunca enviado",
+      "pendente": true,
+      "pub": 0,
+      "eq": 0
+    },
+    {
+      "acao_id": "3768",
       "titulo": "Física ao Alcance de Todos",
       "tipo": "Projeto",
       "coordenador": "Rosilene de Sá Ribeiro",
       "coordenador_slug": "rosilene-de-sa-ribeiro",
-      "ano": "2018",
+      "ano": "2022",
       "inicio": "",
       "termino": "",
-      "ultimo": "28/12/2019",
+      "ultimo": "15/12/2023",
       "pendente": false,
       "pub": 0,
       "eq": 0
     },
     {
-      "acao_id": "645",
-      "titulo": "SIPAC - Sistema de Informação da Produção Agropecuária capixaba",
-      "tipo": "Projeto",
-      "coordenador": "Sergio Nery Simões",
-      "coordenador_slug": "sergio-nery-simoes",
-      "ano": "2016",
+      "acao_id": "4210",
+      "titulo": "Operador de Computador",
+      "tipo": "Curso",
+      "coordenador": "Victorio Albani de Carvalho",
+      "coordenador_slug": "victorio-albani-de-carvalho",
+      "ano": "2022",
       "inicio": "",
       "termino": "",
-      "ultimo": "08/06/2018",
+      "ultimo": "15/12/2023",
       "pendente": false,
       "pub": 0,
       "eq": 0
     },
     {
-      "acao_id": "4589",
-      "titulo": "Materiais Rodantes Ferroviários",
+      "acao_id": "4199",
+      "titulo": "Modelagem e Simulação de Conversores CC-CC - Z",
       "tipo": "Curso",
       "coordenador": "Vinícius Secchin de Melo",
       "coordenador_slug": null,
-      "ano": "2023",
+      "ano": "2022",
       "inicio": "",
       "termino": "",
-      "ultimo": "26/02/2024",
+      "ultimo": "28/11/2023",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -1277,15 +1277,15 @@
       "eq": 0
     },
     {
-      "acao_id": "1702",
-      "titulo": "Ifes Portas Abertas",
+      "acao_id": "4564",
+      "titulo": "MONITORIA",
       "tipo": "Projeto",
       "coordenador": "Wagner Kirmse Caldas",
       "coordenador_slug": "wagner-kirmse-caldas",
-      "ano": "2018",
+      "ano": "2023",
       "inicio": "",
       "termino": "",
-      "ultimo": "28/12/2018",
+      "ultimo": "10/12/2025",
       "pendente": false,
       "pub": 0,
       "eq": 0
@@ -1349,10 +1349,6 @@
       2
     ],
     [
-      "Paulo Sérgio dos Santos Júnior",
-      2
-    ],
-    [
       "Adrianna Machado Meneguelli",
       1
     ],
@@ -1366,6 +1362,10 @@
     ],
     [
       "Amarildo Mendes Lemos",
+      1
+    ],
+    [
+      "Cibelle Zanforlin Cesconetto Toresani",
       1
     ]
   ]

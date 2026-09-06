@@ -4,15 +4,12 @@
   "resumo_ia": null,
   "anos": [
     "2020",
-    "2021",
     "2023",
-    "2024",
     "2025"
   ],
   "funcoes": [
     "COORDENADOR(A)",
     "GESTOR(A) DE PROJETO",
-    "MEMBRO DE COMITÊ GESTOR",
     "ORGANIZADOR(A)"
   ],
   "acoes_coordenadas": [
@@ -50,21 +47,10 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "ORGANIZADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "3567",
-      "titulo": "Laboratório IFMaker Serra: um ambiente colaborativo de aprendizagem e desenvolvimento de soluções",
-      "tipo": "Projeto",
-      "ano": "2021",
-      "n": 4,
-      "pub": 0,
-      "funcoes": [
-        "MEMBRO DE COMITÊ GESTOR"
       ]
     },
     {
@@ -77,17 +63,6 @@
       "funcoes": [
         "GESTOR(A) DE PROJETO",
         "ORGANIZADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "5086",
-      "titulo": "Conectando Talentos: Robótica e Programação no IFES-Serra",
-      "tipo": "Projeto",
-      "ano": "2024",
-      "n": 218,
-      "pub": 168,
-      "funcoes": [
-        "MEMBRO DE COMITÊ GESTOR"
       ]
     },
     {
@@ -118,32 +93,11 @@
       "pub": 53
     },
     {
-      "ano": "2021",
-      "atividade_id": "12362",
-      "acao_id": "3567",
-      "atividade": "Laboratório IFMaker Serra: um ambiente colaborativo de aprendizagem e desenvolvimento de soluções",
-      "pub": 0
-    },
-    {
       "ano": "2023",
-      "atividade_id": "17041",
+      "atividade_id": "17044",
       "acao_id": "4655",
-      "atividade": "Palestra \"Inovação Sustentável: A Jornada da Intechno\"",
-      "pub": 75
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17043",
-      "acao_id": "4655",
-      "atividade": "Minicurso \"Habitats de Inovação\"",
-      "pub": 16
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "19697",
-      "acao_id": "4655",
-      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
-      "pub": 0
+      "atividade": "Palestra \" Crimes Cibernéticos e Cyberbullying no Brasil\"",
+      "pub": 34
     },
     {
       "ano": "2023",
@@ -154,52 +108,10 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17045",
-      "acao_id": "4655",
-      "atividade": "Palestra \"Mulher de energia solar: MEGA SOLUÇÕES ENERGÉTICAS\"",
-      "pub": 46
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17038",
-      "acao_id": "4655",
-      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
-      "pub": 5
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17036",
-      "acao_id": "4655",
-      "atividade": "Oficina \"A Química do cérebro: ondas gamma e efeitos da dimetiltriptamina de plantas medicinais/ roda de chá com meditação\"",
-      "pub": 15
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17046",
-      "acao_id": "4655",
-      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
-      "pub": 0
-    },
-    {
-      "ano": "2023",
       "atividade_id": "19698",
       "acao_id": "4655",
       "atividade": "Construindo Juntos no LabMaker Serra: Uma proposta de Educação com Sustentabilidade",
       "pub": 0
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17044",
-      "acao_id": "4655",
-      "atividade": "Palestra \" Crimes Cibernéticos e Cyberbullying no Brasil\"",
-      "pub": 34
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17039",
-      "acao_id": "4655",
-      "atividade": "Palestra \"Incubadora de Empreendimentos: Instrumento para Empreendedorismo e Inovação\"",
-      "pub": 45
     },
     {
       "ano": "2023",
@@ -210,10 +122,38 @@
     },
     {
       "ano": "2023",
+      "atividade_id": "17043",
+      "acao_id": "4655",
+      "atividade": "Minicurso \"Habitats de Inovação\"",
+      "pub": 16
+    },
+    {
+      "ano": "2023",
       "atividade_id": "17037",
       "acao_id": "4655",
       "atividade": "Oficina \"Pintura em pneus\"",
       "pub": 9
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17039",
+      "acao_id": "4655",
+      "atividade": "Palestra \"Incubadora de Empreendimentos: Instrumento para Empreendedorismo e Inovação\"",
+      "pub": 45
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17036",
+      "acao_id": "4655",
+      "atividade": "Oficina \"A Química do cérebro: ondas gamma e efeitos da dimetiltriptamina de plantas medicinais/ roda de chá com meditação\"",
+      "pub": 15
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17038",
+      "acao_id": "4655",
+      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
+      "pub": 5
     },
     {
       "ano": "2023",
@@ -223,11 +163,32 @@
       "pub": 28
     },
     {
-      "ano": "2024",
-      "atividade_id": "22201",
-      "acao_id": "5086",
-      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 112
+      "ano": "2023",
+      "atividade_id": "17045",
+      "acao_id": "4655",
+      "atividade": "Palestra \"Mulher de energia solar: MEGA SOLUÇÕES ENERGÉTICAS\"",
+      "pub": 46
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17041",
+      "acao_id": "4655",
+      "atividade": "Palestra \"Inovação Sustentável: A Jornada da Intechno\"",
+      "pub": 75
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19697",
+      "acao_id": "4655",
+      "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17046",
+      "acao_id": "4655",
+      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
+      "pub": 0
     },
     {
       "ano": "2025",
@@ -238,12 +199,12 @@
     }
   ],
   "imp_coord": 18,
-  "imp_eq": 585,
-  "impacto": 603,
+  "imp_eq": 473,
+  "impacto": 491,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 6
+      "n": 4
     },
     {
       "tema": "Saúde e bem-estar",
@@ -254,11 +215,6 @@
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 5
-    },
-    {
-      "nome": "Karin Satie Komati",
-      "slug": "karin-satie-komati",
       "acoes_comuns": 3
     },
     {
@@ -272,28 +228,8 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Marcos Simão Guimarães",
-      "slug": "marcos-simao-guimaraes",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Gabriel Tozatto Zago",
-      "slug": "gabriel-tozatto-zago",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Ícaro Lessa Secchin",
-      "slug": "icaro-lessa-secchin",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Anyssa Satimi Komati Andrade",
-      "slug": "anyssa-satimi-komati-andrade",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Thiago Henrique Ezequiel dos Santos",
-      "slug": "thiago-henrique-ezequiel-dos-santos",
+      "nome": "Karin Satie Komati",
+      "slug": "karin-satie-komati",
       "acoes_comuns": 2
     },
     {
@@ -302,8 +238,18 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Francisco José Casarim Rapchan",
-      "slug": "francisco-jose-casarim-rapchan",
+      "nome": "Gabriel Tozatto Zago",
+      "slug": "gabriel-tozatto-zago",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Ícaro Lessa Secchin",
+      "slug": "icaro-lessa-secchin",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Marcos Simão Guimarães",
+      "slug": "marcos-simao-guimaraes",
       "acoes_comuns": 2
     },
     {
@@ -642,6 +588,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Anyssa Satimi Komati Andrade",
+      "slug": "anyssa-satimi-komati-andrade",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Danilo de Paula e Silva",
       "slug": "danilo-de-paula-e-silva",
       "acoes_comuns": 1
@@ -674,6 +625,11 @@
     {
       "nome": "Luiz Felipe Elizeta dos Santos",
       "slug": "luiz-felipe-elizeta-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Henrique Ezequiel dos Santos",
+      "slug": "thiago-henrique-ezequiel-dos-santos",
       "acoes_comuns": 1
     },
     {
@@ -887,6 +843,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -894,11 +875,6 @@
     {
       "nome": "Ricardo Modenese Ramalho",
       "slug": "ricardo-modenese-ramalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -917,18 +893,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {
@@ -1172,6 +1138,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Francisco José Casarim Rapchan",
+      "slug": "francisco-jose-casarim-rapchan",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Eduardo Pinheiro Monteiro",
       "slug": "eduardo-pinheiro-monteiro",
       "acoes_comuns": 1
@@ -1229,156 +1200,6 @@
     {
       "nome": "Debora Galavote Moura",
       "slug": "debora-galavote-moura",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ludmila Dias",
-      "slug": "ludmila-dias",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Amanda Frasson Nascimento Martins",
-      "slug": "amanda-frasson-nascimento-martins",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luma Tavares Lopes de Souza",
-      "slug": "luma-tavares-lopes-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Meireles Paixão",
-      "slug": "thiago-meireles-paixao",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marta Talitha Carvalho Freire Mendes",
-      "slug": "marta-talitha-carvalho-freire-mendes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Paulo Kohler Caldas",
-      "slug": "marcos-paulo-kohler-caldas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kauã Alexandre Bernardes",
-      "slug": "kaua-alexandre-bernardes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maria Clara Peterle de Souza",
-      "slug": "maria-clara-peterle-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Leonardo Aguiar do Amaral",
-      "slug": "leonardo-aguiar-do-amaral",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luis Henrique Rosado Torres",
-      "slug": "luis-henrique-rosado-torres",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Andre Ferreira",
-      "slug": "andre-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Waleska Sulke dos Santos",
-      "slug": "waleska-sulke-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Almeida Deps Caldeira",
-      "slug": "thiago-almeida-deps-caldeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tainá Jesus Corrêa Bromonschenkel",
-      "slug": "taina-jesus-correa-bromonschenkel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Almeida Deps Caldeira",
-      "slug": "rafael-almeida-deps-caldeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pâmella Victória Bitencourt Novais dos Santos",
-      "slug": "pamella-victoria-bitencourt-novais-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Mesquita Gomes Moura",
-      "slug": "matheus-mesquita-gomes-moura",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marina Moraes Silva",
-      "slug": "marina-moraes-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maria Júlia Leopoldo Barros",
-      "slug": "maria-julia-leopoldo-barros",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maria Eduarda da Cruz Ferreira",
-      "slug": "maria-eduarda-da-cruz-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Maciel Santos",
-      "slug": "larissa-maciel-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lara Walcher de Andrade",
-      "slug": "lara-walcher-de-andrade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jordana do Amaral Geolando",
-      "slug": "jordana-do-amaral-geolando",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jessica Stinghel Abreu",
-      "slug": "jessica-stinghel-abreu",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Victor Nascimento Ribeiro",
-      "slug": "joao-victor-nascimento-ribeiro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Gomes Brzesky",
-      "slug": "gustavo-gomes-brzesky",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabriel Pereira Silva",
-      "slug": "gabriel-pereira-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eloah Leocádio de Moura",
-      "slug": "eloah-leocadio-de-moura",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Elisa Moreira Costa",
-      "slug": "elisa-moreira-costa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eduardo Peron Cardozo Babilone",
-      "slug": "eduardo-peron-cardozo-babilone",
       "acoes_comuns": 1
     },
     {

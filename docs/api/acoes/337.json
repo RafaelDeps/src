@@ -8,16 +8,24 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "06/11/2014",
   "Resumo": "Demonstrar os conceitos de Calibração e capacitar os alunos em estabelece  a peridiocidade de calibração dos equipamentos, sensibilizando-os de maneira a garantir a qualidade do processo de medição e a validade dos resultados.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
+  "total_participacoes": 5,
+  "publico_alvo_total": 5,
+  "atividades": [
+    {
+      "atividade_id": "491",
+      "numero": "001",
+      "atividade": "Calibração de Instrumentos",
+      "publico": 5,
+      "aprovados": 5,
+      "certificados": 5,
+      "equipe": 0
+    }
+  ],
   "equipe_execucao": []
 }

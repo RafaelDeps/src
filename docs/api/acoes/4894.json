@@ -9,50 +9,13 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências da Saúde",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Cultura",
   "Relatório aprovado": "Sim",
   "Data último relatório": "01/10/2024",
   "Data de cadastro": "29/02/2024",
   "Resumo": "Os Jogos Internos do Campus Serra serão realizados em duas etapas durante o ano\nletivo de 2024. Nos meses de abril e outubro, alunos e servidores do campus terão a oportunidade de\nparticiparem de competições esportivas e prestigiarem apresentações artístico-culturais. Surge como\nproposta de formação visando o fomento ao lazer, esporte e cultura.",
   "Campus": "Serra",
-  "total_participacoes": 51,
-  "publico_alvo_total": 49,
-  "atividades": [
-    {
-      "atividade_id": "17724",
-      "numero": "001",
-      "atividade": "Jogos Internos do Campus Serra",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 1
-    },
-    {
-      "atividade_id": "17725",
-      "numero": "002",
-      "atividade": "Jogos Internos do Campus Serra – Etapa 1",
-      "publico": 27,
-      "aprovados": 27,
-      "certificados": 27,
-      "equipe": 1
-    },
-    {
-      "atividade_id": "17726",
-      "numero": "003",
-      "atividade": "Jogos Internos do Campus Serra – Etapa 2",
-      "publico": 22,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 0
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Milainy Ludmila Santos Goulart",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

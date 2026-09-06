@@ -31,7 +31,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "ORGANIZADOR(A)"
@@ -856,6 +856,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -863,11 +888,6 @@
     {
       "nome": "Ricardo Modenese Ramalho",
       "slug": "ricardo-modenese-ramalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -886,18 +906,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

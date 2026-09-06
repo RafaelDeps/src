@@ -3,12 +3,10 @@
   "nome": "Amarildo Mendes Lemos",
   "resumo_ia": null,
   "anos": [
-    "2017",
     "2019"
   ],
   "funcoes": [
-    "COORDENADOR(A)",
-    "PROFESSOR(A)"
+    "COORDENADOR(A)"
   ],
   "acoes_coordenadas": [
     {
@@ -21,17 +19,6 @@
     }
   ],
   "participacoes_equipe": [
-    {
-      "acao_id": "1117",
-      "titulo": "PRÉ – IFES Campus Serra",
-      "tipo": "Curso",
-      "ano": "2017",
-      "n": 48,
-      "pub": 33,
-      "funcoes": [
-        "PROFESSOR(A)"
-      ]
-    },
     {
       "acao_id": "2505",
       "titulo": "Circuito Audiovisual",
@@ -46,32 +33,11 @@
   ],
   "atividades": [
     {
-      "ano": "2017",
-      "atividade_id": "2882",
-      "acao_id": "1117",
-      "atividade": "PRÉ- IFES Campus Serra",
-      "pub": 33
-    },
-    {
       "ano": "2019",
       "atividade_id": "10576",
       "acao_id": "2505",
       "atividade": "Ação Cineclubista \"produção Polo 3\"",
       "pub": 13
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10573",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
-      "pub": 11
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10575",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
     },
     {
       "ano": "2019",
@@ -86,87 +52,32 @@
       "acao_id": "2505",
       "atividade": "Circuito Audiovisual",
       "pub": 0
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10575",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10573",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
+      "pub": 11
     }
   ],
   "imp_coord": 86,
-  "imp_eq": 33,
-  "impacto": 119,
+  "imp_eq": 0,
+  "impacto": 86,
   "temas": [
     {
       "tema": "Cultura e arte",
       "n": 2
-    },
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Alessandro Bermudes Gomes",
-      "slug": "alessandro-bermudes-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luana Santos Lemos",
-      "slug": "luana-santos-lemos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Breno Siquara Azevedo",
-      "slug": "breno-siquara-azevedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Daniella Araújo Fraga dos Santos",
-      "slug": "daniella-araujo-fraga-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Davi Aragão Ascacibas",
-      "slug": "davi-aragao-ascacibas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alexia Coelho Barbosa",
-      "slug": "alexia-coelho-barbosa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sillas Ribeiro Ataide",
-      "slug": "sillas-ribeiro-ataide",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Machado Oliveira",
-      "slug": "thiago-machado-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Murilo Andrade Carvalho",
-      "slug": "murilo-andrade-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ian Drumond Duarte",
-      "slug": "ian-drumond-duarte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mizael Fernandes de Oliveira",
-      "slug": "mizael-fernandes-de-oliveira",
-      "acoes_comuns": 1
-    },
     {
       "nome": "André Malverdes",
       "slug": "andre-malverdes",

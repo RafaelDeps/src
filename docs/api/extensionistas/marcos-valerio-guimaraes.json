@@ -27,48 +27,6 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10576",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"produção Polo 3\"",
-      "pub": 13
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10577",
-      "acao_id": "2505",
-      "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
-      "pub": 16
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10573",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
-      "pub": 11
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10559",
-      "acao_id": "2505",
-      "atividade": "Oficina de Sensibilização",
-      "pub": 19
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10575",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "8630",
-      "acao_id": "2505",
-      "atividade": "Circuito Audiovisual",
-      "pub": 0
-    },
-    {
-      "ano": "2019",
       "atividade_id": "10572",
       "acao_id": "2505",
       "atividade": "Master Class de Distribuição de Circulação",
@@ -80,6 +38,48 @@
       "acao_id": "2505",
       "atividade": "Master Class de Optimização de Redes",
       "pub": 7
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10576",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"produção Polo 3\"",
+      "pub": 13
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10559",
+      "acao_id": "2505",
+      "atividade": "Oficina de Sensibilização",
+      "pub": 19
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "8630",
+      "acao_id": "2505",
+      "atividade": "Circuito Audiovisual",
+      "pub": 0
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10577",
+      "acao_id": "2505",
+      "atividade": "Oficina Cinema e Educação: preservação do patrimônio histórico e cultural",
+      "pub": 16
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10575",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10573",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"Lançamento do Projeto\"",
+      "pub": 11
     }
   ],
   "imp_coord": 0,

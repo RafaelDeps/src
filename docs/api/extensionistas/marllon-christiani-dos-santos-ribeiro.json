@@ -17,7 +17,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "ALUNO(A) BOLSISTA",
@@ -29,10 +29,10 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "18018",
+      "atividade_id": "20334",
       "acao_id": "3140",
-      "atividade": "Minicurso de Informática Básica – Módulo II",
-      "pub": 7
+      "atividade": "Workshop de Inteligência Artificial na Semana da Engenharia",
+      "pub": 0
     },
     {
       "ano": "2020",
@@ -43,30 +43,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "19902",
-      "acao_id": "3140",
-      "atividade": "Atendimento personalizado à comunidade através de monitorias",
-      "pub": 3
-    },
-    {
-      "ano": "2020",
       "atividade_id": "19898",
       "acao_id": "3140",
       "atividade": "Site Institucional da Associação Shalom",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "18019",
-      "acao_id": "3140",
-      "atividade": "Produção de Material de Apoio Pedagógico para os Minicursos do Lampex na Edição 2023-2024",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "20335",
-      "acao_id": "3140",
-      "atividade": "Manutenção do Site Institucional da Associação Shalom",
       "pub": 0
     },
     {
@@ -78,16 +57,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "20334",
+      "atividade_id": "18019",
       "acao_id": "3140",
-      "atividade": "Workshop de Inteligência Artificial na Semana da Engenharia",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "19901",
-      "acao_id": "3140",
-      "atividade": "Jogo do Projeto de Extensão do Hucam - Ufes",
+      "atividade": "Produção de Material de Apoio Pedagógico para os Minicursos do Lampex na Edição 2023-2024",
       "pub": 0
     },
     {
@@ -95,6 +67,34 @@
       "atividade_id": "19900",
       "acao_id": "3140",
       "atividade": "Apresentação do Lampex na Jornada de Integração do Ifes",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "18018",
+      "acao_id": "3140",
+      "atividade": "Minicurso de Informática Básica – Módulo II",
+      "pub": 7
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "20335",
+      "acao_id": "3140",
+      "atividade": "Manutenção do Site Institucional da Associação Shalom",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "19902",
+      "acao_id": "3140",
+      "atividade": "Atendimento personalizado à comunidade através de monitorias",
+      "pub": 3
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "19901",
+      "acao_id": "3140",
+      "atividade": "Jogo do Projeto de Extensão do Hucam - Ufes",
       "pub": 0
     }
   ],
@@ -684,6 +684,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -696,11 +721,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -719,18 +739,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

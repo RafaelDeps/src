@@ -14,8 +14,60 @@
   "Data de cadastro": "15/05/2018",
   "Resumo": "O Campus Serra é um centro de excelência do Instituto Federal do Espírito Santo, no município de Serra, e oferece cursos em diversas modalidades, desde o ensino técnico integrado, Proeja, cursos concomitantes, superiores, mestrado e cursos de extensão, entretanto, por esse município ser muito extenso, o Instituto não é tão conhecido, e essa realidade estende-se à Grande Vitória. O projeto “Ifes Portas Abertas”, tem por objetivo receber a visita de alunos da rede pública e privada, principalmente aqueles cursando os oitavos e nonos anos do ensino fundamental e os alunos do ensino médio, para que eles possam conhecer o Campus e os cursos nele ofertados. Para isso, a cada visita, um grupo de recepção ficará a disposição dos visitantes, apresentando: a estrutura organizacional; os cursos; o processo seletivo; e as instalações do Campus. Esse grupo de recepção será formado por professores, técnicos administrativos e alunos regulares, totalizando um máximo de doze pessoas, de nossos cursos. Com isso, é esperado um maior reconhecimento do Instituto, pela comunidade, principalmente da Serra, porém, com pretensão de atingir a região Grande Vitória, fazendo com que mais alunos possam conhecer suas possibilidades de estudo. É nossa meta que esse projeto auxilie na ampliação da relação candidatos x vaga dos cursos ofertados.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 387,
+  "publico_alvo_total": 385,
+  "atividades": [
+    {
+      "atividade_id": "5300",
+      "numero": "001",
+      "atividade": "Ifes Portas Abertas",
+      "publico": 75,
+      "aprovados": 75,
+      "certificados": 75,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "6085",
+      "numero": "002",
+      "atividade": "Projeto Ifes Portas Abertas",
+      "publico": 244,
+      "aprovados": 243,
+      "certificados": 243,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "6086",
+      "numero": "003",
+      "atividade": "Projeto Ifes Portas Abertas",
+      "publico": 63,
+      "aprovados": 63,
+      "certificados": 63,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "6087",
+      "numero": "004",
+      "atividade": "Projeto Ifes Portas Abertas",
+      "publico": 3,
+      "aprovados": 3,
+      "certificados": 0,
+      "equipe": 0
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

@@ -6,6 +6,7 @@
     "2020"
   ],
   "funcoes": [
+    "APOIO TÉCNICO",
     "ORGANIZADOR(A)"
   ],
   "acoes_coordenadas": [],
@@ -15,14 +16,22 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
+        "APOIO TÉCNICO",
         "ORGANIZADOR(A)"
       ]
     }
   ],
   "atividades": [
+    {
+      "ano": "2020",
+      "atividade_id": "22288",
+      "acao_id": "3140",
+      "atividade": "Maratona de Programação 2026",
+      "pub": 0
+    },
     {
       "ano": "2020",
       "atividade_id": "22289",
@@ -622,6 +631,26 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -652,18 +681,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

@@ -3,30 +3,13 @@
   "nome": "Laisa Bernabe do Carmo",
   "resumo_ia": null,
   "anos": [
-    "2021",
     "2023"
   ],
   "funcoes": [
-    "COORDENADOR(A) ADJUNTO(A)",
-    "MENTOR(A)",
-    "PALESTRANTE",
-    "PROFESSOR(A)"
+    "PALESTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "3423",
-      "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
-      "tipo": "Programa",
-      "ano": "2021",
-      "n": 189,
-      "pub": 152,
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)",
-        "MENTOR(A)",
-        "PROFESSOR(A)"
-      ]
-    },
     {
       "acao_id": "4655",
       "titulo": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
@@ -41,34 +24,6 @@
   ],
   "atividades": [
     {
-      "ano": "2021",
-      "atividade_id": "19381",
-      "acao_id": "3423",
-      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 40
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "19841",
-      "acao_id": "3423",
-      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 101
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "18590",
-      "acao_id": "3423",
-      "atividade": "Pré-incubação – Capacitação para empreendedores inovadores – Turma 2023/2024",
-      "pub": 4
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "15044",
-      "acao_id": "3423",
-      "atividade": "Pré-incubação – Capacitação para empreendedores inovadores",
-      "pub": 7
-    },
-    {
       "ano": "2023",
       "atividade_id": "17039",
       "acao_id": "4655",
@@ -77,169 +32,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 197,
-  "impacto": 197,
+  "imp_eq": 45,
+  "impacto": 45,
   "temas": [
-    {
-      "tema": "Empreendedorismo e incubação",
-      "n": 1
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Francisco José Casarim Rapchan",
-      "slug": "francisco-jose-casarim-rapchan",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Jéssika de Oliveira Ferreira",
-      "slug": "jessika-de-oliveira-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Batista Rangel",
-      "slug": "larissa-batista-rangel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorhan de Souza",
-      "slug": "lorhan-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Caio Lessa Simão",
-      "slug": "caio-lessa-simao",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Butter Dias",
-      "slug": "matheus-butter-dias",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Vinícius Souza dos Santos",
-      "slug": "marcos-vinicius-souza-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Julio Cesar da Silva",
-      "slug": "julio-cesar-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vinícius Gomes Caetano",
-      "slug": "vinicius-gomes-caetano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Isabella Sampaio Martins dos Santos",
-      "slug": "isabella-sampaio-martins-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vinicius da Hora Corte",
-      "slug": "vinicius-da-hora-corte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rodrigo Couto Rodrigues",
-      "slug": "rodrigo-couto-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renato Marques Teixeira Ferreira",
-      "slug": "renato-marques-teixeira-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Ricardo Pereira Gomes",
-      "slug": "paulo-ricardo-pereira-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mayannara Trindade Carvalho",
-      "slug": "mayannara-trindade-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Xavier Melotti",
-      "slug": "matheus-xavier-melotti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mateus Damaceno Schineider",
-      "slug": "mateus-damaceno-schineider",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiza de Alencar",
-      "slug": "luiza-de-alencar",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kellen Moura Ferreira",
-      "slug": "kellen-moura-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Joao Pedro Garcia Pereira",
-      "slug": "joao-pedro-garcia-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Augusto Casagrande da Silva",
-      "slug": "joao-augusto-casagrande-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "George Matheus Santos Oliveira",
-      "slug": "george-matheus-santos-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Douglas Correa Nunes",
-      "slug": "douglas-correa-nunes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Camila Fornaciari Volponi",
-      "slug": "camila-fornaciari-volponi",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brunna Dalzini de Oliveira",
-      "slug": "brunna-dalzini-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brayan Mazega de Freitas Souza",
-      "slug": "brayan-mazega-de-freitas-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Arthur Delpupo Coelho",
-      "slug": "arthur-delpupo-coelho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Gabriella Gomes de Almeida Ferreira",
-      "slug": "ana-gabriella-gomes-de-almeida-ferreira",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",
@@ -308,6 +109,11 @@
     {
       "nome": "Anna Julia Ferreira Tamanini",
       "slug": "anna-julia-ferreira-tamanini",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Francisco José Casarim Rapchan",
+      "slug": "francisco-jose-casarim-rapchan",
       "acoes_comuns": 1
     },
     {

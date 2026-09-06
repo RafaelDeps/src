@@ -3,10 +3,12 @@
   "nome": "Isabella Bissoli",
   "resumo_ia": null,
   "anos": [
-    "2020"
+    "2020",
+    "2023"
   ],
   "funcoes": [
-    "APOIO TÉCNICO"
+    "APOIO TÉCNICO",
+    "AUXILIAR TÉCNICO"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -15,10 +17,21 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "APOIO TÉCNICO"
+      ]
+    },
+    {
+      "acao_id": "4830",
+      "titulo": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+      "tipo": "Projeto",
+      "ano": "2023",
+      "n": 126,
+      "pub": 86,
+      "funcoes": [
+        "AUXILIAR TÉCNICO"
       ]
     }
   ],
@@ -36,18 +49,34 @@
       "acao_id": "3140",
       "atividade": "9th School of Theoretical Computer Science and Formal Methods",
       "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17384",
+      "acao_id": "4830",
+      "atividade": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+      "pub": 66
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 0,
-  "impacto": 0,
+  "imp_eq": 66,
+  "impacto": 66,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 1
+    },
+    {
+      "tema": "Saúde e bem-estar",
+      "n": 1
     }
   ],
   "colaboradores": [
+    {
+      "nome": "Marcela Starling Ferreira Lage",
+      "slug": "marcela-starling-ferreira-lage",
+      "acoes_comuns": 2
+    },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
@@ -454,11 +483,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Marcela Starling Ferreira Lage",
-      "slug": "marcela-starling-ferreira-lage",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Lannay Itauana Coelho Caldas",
       "slug": "lannay-itauana-coelho-caldas",
       "acoes_comuns": 1
@@ -624,6 +648,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -636,11 +685,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -659,18 +703,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {
@@ -856,6 +890,51 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Paulo Henrique Freitas",
+      "slug": "paulo-henrique-freitas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Arthur Cremasco Amaral",
+      "slug": "arthur-cremasco-amaral",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Victor Emerson Siqueira de Souza",
+      "slug": "victor-emerson-siqueira-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Hoffmann Sperandio Cott",
+      "slug": "emanuel-hoffmann-sperandio-cott",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ruan Rody de Melo da Costa",
+      "slug": "ruan-rody-de-melo-da-costa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "André Luiz Coelho Silva",
+      "slug": "andre-luiz-coelho-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vinícius de Jesus Estevam",
+      "slug": "vinicius-de-jesus-estevam",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Bruno Carvalho Caxias",
+      "slug": "bruno-carvalho-caxias",
       "acoes_comuns": 1
     }
   ]

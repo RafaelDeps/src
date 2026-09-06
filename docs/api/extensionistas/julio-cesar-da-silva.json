@@ -3,11 +3,9 @@
   "nome": "Julio Cesar da Silva",
   "resumo_ia": null,
   "anos": [
-    "2020",
-    "2021"
+    "2020"
   ],
   "funcoes": [
-    "ALUNO(A) EM ATIVIDADE CURRICULAR",
     "INSTRUTOR(A)"
   ],
   "acoes_coordenadas": [],
@@ -17,32 +15,14 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "INSTRUTOR(A)"
       ]
-    },
-    {
-      "acao_id": "3423",
-      "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
-      "tipo": "Programa",
-      "ano": "2021",
-      "n": 189,
-      "pub": 152,
-      "funcoes": [
-        "ALUNO(A) EM ATIVIDADE CURRICULAR"
-      ]
     }
   ],
   "atividades": [
-    {
-      "ano": "2020",
-      "atividade_id": "16742",
-      "acao_id": "3140",
-      "atividade": "Minicurso de Informática Básica - Fundamentos de Informática e Habilidades Digitais",
-      "pub": 18
-    },
     {
       "ano": "2020",
       "atividade_id": "15712",
@@ -51,11 +31,11 @@
       "pub": 11
     },
     {
-      "ano": "2021",
-      "atividade_id": "11939",
-      "acao_id": "3423",
-      "atividade": "Programa Local Núcleo Incubador Campus Serra – NIS",
-      "pub": 0
+      "ano": "2020",
+      "atividade_id": "16742",
+      "acao_id": "3140",
+      "atividade": "Minicurso de Informática Básica - Fundamentos de Informática e Habilidades Digitais",
+      "pub": 18
     }
   ],
   "imp_coord": 0,
@@ -65,38 +45,9 @@
     {
       "tema": "Robótica e cultura maker",
       "n": 1
-    },
-    {
-      "tema": "Empreendedorismo e incubação",
-      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Vinícius Gomes Caetano",
-      "slug": "vinicius-gomes-caetano",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Matheus Butter Dias",
-      "slug": "matheus-butter-dias",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "João Augusto Casagrande da Silva",
-      "slug": "joao-augusto-casagrande-da-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Larissa Batista Rangel",
-      "slug": "larissa-batista-rangel",
-      "acoes_comuns": 2
-    },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
@@ -113,6 +64,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Vinícius Gomes Caetano",
+      "slug": "vinicius-gomes-caetano",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Carlos Henrique Santos das Neves de Almeida Feu",
       "slug": "carlos-henrique-santos-das-neves-de-almeida-feu",
       "acoes_comuns": 1
@@ -120,6 +76,11 @@
     {
       "nome": "Marllon Christiani dos Santos Ribeiro",
       "slug": "marllon-christiani-dos-santos-ribeiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Adelson Pereira do Nascimento",
+      "slug": "adelson-pereira-do-nascimento",
       "acoes_comuns": 1
     },
     {
@@ -200,6 +161,11 @@
     {
       "nome": "Irene Schmidt da Silva Alves",
       "slug": "irene-schmidt-da-silva-alves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Matheus Butter Dias",
+      "slug": "matheus-butter-dias",
       "acoes_comuns": 1
     },
     {
@@ -513,6 +479,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "João Augusto Casagrande da Silva",
+      "slug": "joao-augusto-casagrande-da-silva",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Arthur de Moraes Andrade Corrêa",
       "slug": "arthur-de-moraes-andrade-correa",
       "acoes_comuns": 1
@@ -583,6 +554,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Larissa Batista Rangel",
+      "slug": "larissa-batista-rangel",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Nicolas Loose",
       "slug": "nicolas-loose",
       "acoes_comuns": 1
@@ -648,6 +624,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -660,11 +661,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -683,18 +679,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {
@@ -880,131 +866,6 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Francisco José Casarim Rapchan",
-      "slug": "francisco-jose-casarim-rapchan",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jéssika de Oliveira Ferreira",
-      "slug": "jessika-de-oliveira-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorhan de Souza",
-      "slug": "lorhan-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Caio Lessa Simão",
-      "slug": "caio-lessa-simao",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Vinícius Souza dos Santos",
-      "slug": "marcos-vinicius-souza-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Isabella Sampaio Martins dos Santos",
-      "slug": "isabella-sampaio-martins-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vinicius da Hora Corte",
-      "slug": "vinicius-da-hora-corte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rodrigo Couto Rodrigues",
-      "slug": "rodrigo-couto-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renato Marques Teixeira Ferreira",
-      "slug": "renato-marques-teixeira-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Ricardo Pereira Gomes",
-      "slug": "paulo-ricardo-pereira-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mayannara Trindade Carvalho",
-      "slug": "mayannara-trindade-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Xavier Melotti",
-      "slug": "matheus-xavier-melotti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mateus Damaceno Schineider",
-      "slug": "mateus-damaceno-schineider",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiza de Alencar",
-      "slug": "luiza-de-alencar",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kellen Moura Ferreira",
-      "slug": "kellen-moura-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Joao Pedro Garcia Pereira",
-      "slug": "joao-pedro-garcia-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "George Matheus Santos Oliveira",
-      "slug": "george-matheus-santos-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Douglas Correa Nunes",
-      "slug": "douglas-correa-nunes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Camila Fornaciari Volponi",
-      "slug": "camila-fornaciari-volponi",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brunna Dalzini de Oliveira",
-      "slug": "brunna-dalzini-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brayan Mazega de Freitas Souza",
-      "slug": "brayan-mazega-de-freitas-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Arthur Delpupo Coelho",
-      "slug": "arthur-delpupo-coelho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Gabriella Gomes de Almeida Ferreira",
-      "slug": "ana-gabriella-gomes-de-almeida-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Laisa Bernabe do Carmo",
-      "slug": "laisa-bernabe-do-carmo",
       "acoes_comuns": 1
     }
   ]

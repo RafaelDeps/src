@@ -13,9 +13,7 @@
     "COORDENADOR(A)",
     "COORDENADOR(A) ADJUNTO(A)",
     "INSTRUTOR(A)",
-    "MEMBRO DE COMITÊ GESTOR",
-    "MENTOR(A)",
-    "PROFESSOR(A)"
+    "MENTOR(A)"
   ],
   "acoes_coordenadas": [
     {
@@ -39,8 +37,8 @@
       "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
       "tipo": "Programa",
       "ano": "2021",
-      "n": 189,
-      "pub": 152
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "5421",
@@ -87,29 +85,6 @@
       ]
     },
     {
-      "acao_id": "3423",
-      "titulo": "Programa Local Núcleo Incubador Campus Serra – NIS",
-      "tipo": "Programa",
-      "ano": "2021",
-      "n": 189,
-      "pub": 152,
-      "funcoes": [
-        "COORDENADOR(A)",
-        "PROFESSOR(A)"
-      ]
-    },
-    {
-      "acao_id": "3567",
-      "titulo": "Laboratório IFMaker Serra: um ambiente colaborativo de aprendizagem e desenvolvimento de soluções",
-      "tipo": "Projeto",
-      "ano": "2021",
-      "n": 4,
-      "pub": 0,
-      "funcoes": [
-        "MEMBRO DE COMITÊ GESTOR"
-      ]
-    },
-    {
       "acao_id": "4655",
       "titulo": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
       "tipo": "Programa",
@@ -124,17 +99,17 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "3053",
-      "acao_id": "1116",
-      "atividade": "Programa Local Núcleo Incubador Campus Serra – NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
       "atividade_id": "10997",
       "acao_id": "1116",
       "atividade": "Capacitação em \"Modelagem de Novos Negócios\"",
       "pub": 24
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "3053",
+      "acao_id": "1116",
+      "atividade": "Programa Local Núcleo Incubador Campus Serra – NIS",
+      "pub": 0
     },
     {
       "ano": "2017",
@@ -151,34 +126,6 @@
       "pub": 0
     },
     {
-      "ano": "2021",
-      "atividade_id": "19381",
-      "acao_id": "3423",
-      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 40
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "19841",
-      "acao_id": "3423",
-      "atividade": "Inovação e seus Ecossistemas: uma visão panorâmica",
-      "pub": 101
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "18590",
-      "acao_id": "3423",
-      "atividade": "Pré-incubação – Capacitação para empreendedores inovadores – Turma 2023/2024",
-      "pub": 4
-    },
-    {
-      "ano": "2021",
-      "atividade_id": "12362",
-      "acao_id": "3567",
-      "atividade": "Laboratório IFMaker Serra: um ambiente colaborativo de aprendizagem e desenvolvimento de soluções",
-      "pub": 0
-    },
-    {
       "ano": "2023",
       "atividade_id": "17043",
       "acao_id": "4655",
@@ -186,25 +133,20 @@
       "pub": 16
     }
   ],
-  "imp_coord": 278,
+  "imp_coord": 126,
   "imp_eq": 25,
-  "impacto": 303,
+  "impacto": 151,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 7
+      "n": 5
     },
     {
       "tema": "Robótica e cultura maker",
-      "n": 2
+      "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Marcos Simão Guimarães",
-      "slug": "marcos-simao-guimaraes",
-      "acoes_comuns": 4
-    },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
@@ -216,13 +158,13 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Gilmar Luiz Vassoler",
-      "slug": "gilmar-luiz-vassoler",
+      "nome": "Marcos Simão Guimarães",
+      "slug": "marcos-simao-guimaraes",
       "acoes_comuns": 3
     },
     {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
+      "nome": "Gilmar Luiz Vassoler",
+      "slug": "gilmar-luiz-vassoler",
       "acoes_comuns": 3
     },
     {
@@ -238,11 +180,6 @@
     {
       "nome": "Emerson Atílio Birchler",
       "slug": "emerson-atilio-birchler",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Adelson Pereira do Nascimento",
-      "slug": "adelson-pereira-do-nascimento",
       "acoes_comuns": 2
     },
     {
@@ -286,13 +223,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Laisa Bernabe do Carmo",
-      "slug": "laisa-bernabe-do-carmo",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Rosiane Ribeiro Rocha",
-      "slug": "rosiane-ribeiro-rocha",
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 2
     },
     {
@@ -323,6 +255,11 @@
     {
       "nome": "Mateus Conrad Barcelos da Costa",
       "slug": "mateus-conrad-barcelos-da-costa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Adelson Pereira do Nascimento",
+      "slug": "adelson-pereira-do-nascimento",
       "acoes_comuns": 1
     },
     {
@@ -466,148 +403,13 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Jéssika de Oliveira Ferreira",
-      "slug": "jessika-de-oliveira-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Batista Rangel",
-      "slug": "larissa-batista-rangel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorhan de Souza",
-      "slug": "lorhan-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Caio Lessa Simão",
-      "slug": "caio-lessa-simao",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Butter Dias",
-      "slug": "matheus-butter-dias",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Vinícius Souza dos Santos",
-      "slug": "marcos-vinicius-souza-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Julio Cesar da Silva",
-      "slug": "julio-cesar-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vinícius Gomes Caetano",
-      "slug": "vinicius-gomes-caetano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Isabella Sampaio Martins dos Santos",
-      "slug": "isabella-sampaio-martins-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vinicius da Hora Corte",
-      "slug": "vinicius-da-hora-corte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rodrigo Couto Rodrigues",
-      "slug": "rodrigo-couto-rodrigues",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renato Marques Teixeira Ferreira",
-      "slug": "renato-marques-teixeira-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Ricardo Pereira Gomes",
-      "slug": "paulo-ricardo-pereira-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mayannara Trindade Carvalho",
-      "slug": "mayannara-trindade-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Xavier Melotti",
-      "slug": "matheus-xavier-melotti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mateus Damaceno Schineider",
-      "slug": "mateus-damaceno-schineider",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiza de Alencar",
-      "slug": "luiza-de-alencar",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kellen Moura Ferreira",
-      "slug": "kellen-moura-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Joao Pedro Garcia Pereira",
-      "slug": "joao-pedro-garcia-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Augusto Casagrande da Silva",
-      "slug": "joao-augusto-casagrande-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "George Matheus Santos Oliveira",
-      "slug": "george-matheus-santos-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Douglas Correa Nunes",
-      "slug": "douglas-correa-nunes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Camila Fornaciari Volponi",
-      "slug": "camila-fornaciari-volponi",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brunna Dalzini de Oliveira",
-      "slug": "brunna-dalzini-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brayan Mazega de Freitas Souza",
-      "slug": "brayan-mazega-de-freitas-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Arthur Delpupo Coelho",
-      "slug": "arthur-delpupo-coelho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Gabriella Gomes de Almeida Ferreira",
-      "slug": "ana-gabriella-gomes-de-almeida-ferreira",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rosiane Ribeiro Rocha",
+      "slug": "rosiane-ribeiro-rocha",
       "acoes_comuns": 1
     },
     {
@@ -633,6 +435,11 @@
     {
       "nome": "Leonardo Gonçalves Batista",
       "slug": "leonardo-goncalves-batista",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Laisa Bernabe do Carmo",
+      "slug": "laisa-bernabe-do-carmo",
       "acoes_comuns": 1
     },
     {

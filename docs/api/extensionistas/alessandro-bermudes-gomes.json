@@ -17,8 +17,8 @@
       "titulo": "PRÉ – IFES Campus Serra",
       "tipo": "Curso",
       "ano": "2017",
-      "n": 48,
-      "pub": 33
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "1546",
@@ -30,17 +30,6 @@
     }
   ],
   "participacoes_equipe": [
-    {
-      "acao_id": "1117",
-      "titulo": "PRÉ – IFES Campus Serra",
-      "tipo": "Curso",
-      "ano": "2017",
-      "n": 48,
-      "pub": 33,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    },
     {
       "acao_id": "1261",
       "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
@@ -89,13 +78,6 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "2882",
-      "acao_id": "1117",
-      "atividade": "PRÉ- IFES Campus Serra",
-      "pub": 33
-    },
-    {
-      "ano": "2017",
       "atividade_id": "4502",
       "acao_id": "1261",
       "atividade": "Seminário de Apresentação dos Empreendimentos",
@@ -124,17 +106,17 @@
     },
     {
       "ano": "2018",
+      "atividade_id": "14470",
+      "acao_id": "2107",
+      "atividade": "Visita EEEFM Nova Carapina",
+      "pub": 91
+    },
+    {
+      "ano": "2018",
       "atividade_id": "14466",
       "acao_id": "2107",
       "atividade": "Visita EEEF Francisco Alves Mendes",
       "pub": 65
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "14468",
-      "acao_id": "2107",
-      "atividade": "Visita EMEF Jonas Farias 2",
-      "pub": 8
     },
     {
       "ano": "2018",
@@ -145,27 +127,23 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14470",
-      "acao_id": "2107",
-      "atividade": "Visita EEEFM Nova Carapina",
-      "pub": 91
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14467",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 1",
       "pub": 9
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14468",
+      "acao_id": "2107",
+      "atividade": "Visita EMEF Jonas Farias 2",
+      "pub": 8
     }
   ],
-  "imp_coord": 50,
+  "imp_coord": 17,
   "imp_eq": 284,
-  "impacto": 334,
+  "impacto": 301,
   "temas": [
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 2
-    },
     {
       "tema": "Cultura e arte",
       "n": 2
@@ -180,71 +158,6 @@
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Daniella Araújo Fraga dos Santos",
-      "slug": "daniella-araujo-fraga-dos-santos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Davi Aragão Ascacibas",
-      "slug": "davi-aragao-ascacibas",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Alexia Coelho Barbosa",
-      "slug": "alexia-coelho-barbosa",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Thiago Machado Oliveira",
-      "slug": "thiago-machado-oliveira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Murilo Andrade Carvalho",
-      "slug": "murilo-andrade-carvalho",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luana Santos Lemos",
-      "slug": "luana-santos-lemos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Breno Siquara Azevedo",
-      "slug": "breno-siquara-azevedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sillas Ribeiro Ataide",
-      "slug": "sillas-ribeiro-ataide",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ian Drumond Duarte",
-      "slug": "ian-drumond-duarte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Amarildo Mendes Lemos",
-      "slug": "amarildo-mendes-lemos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mizael Fernandes de Oliveira",
-      "slug": "mizael-fernandes-de-oliveira",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
@@ -386,6 +299,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Thiago Machado Oliveira",
+      "slug": "thiago-machado-oliveira",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Rowenna Tonani Leão dos Santos",
       "slug": "rowenna-tonani-leao-dos-santos",
       "acoes_comuns": 1
@@ -393,6 +311,26 @@
     {
       "nome": "Leonardo Rocha Gomes",
       "slug": "leonardo-rocha-gomes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Daniella Araújo Fraga dos Santos",
+      "slug": "daniella-araujo-fraga-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alexia Coelho Barbosa",
+      "slug": "alexia-coelho-barbosa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Aragão Ascacibas",
+      "slug": "davi-aragao-ascacibas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Murilo Andrade Carvalho",
+      "slug": "murilo-andrade-carvalho",
       "acoes_comuns": 1
     },
     {

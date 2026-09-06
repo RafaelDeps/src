@@ -4,7 +4,6 @@
   "resumo_ia": null,
   "anos": [
     "2020",
-    "2022",
     "2023"
   ],
   "funcoes": [
@@ -18,21 +17,10 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "COLABORADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "4210",
-      "titulo": "Operador de Computador",
-      "tipo": "Curso",
-      "ano": "2022",
-      "n": 23,
-      "pub": 17,
-      "funcoes": [
-        "MONITOR(A)"
       ]
     },
     {
@@ -56,13 +44,6 @@
       "pub": 0
     },
     {
-      "ano": "2022",
-      "atividade_id": "14476",
-      "acao_id": "4210",
-      "atividade": "Operador de Computador",
-      "pub": 17
-    },
-    {
       "ano": "2023",
       "atividade_id": "17244",
       "acao_id": "4820",
@@ -71,15 +52,11 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 59,
-  "impacto": 59,
+  "imp_eq": 42,
+  "impacto": 42,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 1
-    },
-    {
-      "tema": "Cultura e arte",
       "n": 1
     },
     {
@@ -664,6 +641,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -676,11 +678,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -699,18 +696,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {
@@ -896,16 +883,6 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Victorio Albani de Carvalho",
-      "slug": "victorio-albani-de-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
       "acoes_comuns": 1
     },
     {

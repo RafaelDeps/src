@@ -8,14 +8,13 @@
   "Fomento": "PAEX-IFES",
   "Ação vinculante": "23158.001812/2017-31 - Ifes para todos",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "12/02/2026",
   "Data de cadastro": "04/12/2020",
   "Resumo": "O LAMPEX – Laboratório Modelo de Práticas de Extensão – constitui-se em um ambiente colaborativo\nem que alunos dos cursos superiores e técnicos das áreas de automação e informática do campus\nSerra do Ifes, poderão cumprir atividades de formação em práticas aderentes às disciplinas dos\nrespectivos cursos, em resposta a demandas espontâneas dos parceiros do projeto, bem como da\nsociedade capixaba, com o intuito de contribuir positivamente na formação do estudante, incentivando o\nseu protagonismo.\nO Laboratório Modelo de Práticas de Extensão consiste basicamente na ampliação de oportunidades\neducacionais de transferência de conhecimento e experiências trabalhadas nos cursos do campus\nSerra do Ifes, por meio de atendimentos personalizados, orientações, mentorias, capacitações e\nassessorias em tecnologias e gestão.",
   "Campus": "Serra",
-  "total_participacoes": 1611,
+  "total_participacoes": 1618,
   "publico_alvo_total": 1290,
   "atividades": [
     {
@@ -685,6 +684,15 @@
       "equipe": 1
     },
     {
+      "atividade_id": "22288",
+      "numero": "102",
+      "atividade": "Maratona de Programação 2026",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 7
+    },
+    {
       "atividade_id": "22289",
       "numero": "103",
       "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
@@ -867,6 +875,7 @@
     {
       "nome": "Alice Lourenço dos Reis",
       "funcoes": [
+        "APOIO TÉCNICO",
         "EXTENSIONISTA",
         "ORGANIZADOR(A)"
       ],
@@ -1095,6 +1104,7 @@
     {
       "nome": "Davi Campos Sutil",
       "funcoes": [
+        "APOIO TÉCNICO",
         "ORGANIZADOR(A)"
       ],
       "vinculo": "Aluno"
@@ -1138,6 +1148,13 @@
       "nome": "Eduardo Alves Figueiredo",
       "funcoes": [
         "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "funcoes": [
+        "APOIO TÉCNICO"
       ],
       "vinculo": "Aluno"
     },
@@ -1402,6 +1419,13 @@
       "nome": "Jessica Nogueira Duque",
       "funcoes": [
         "INSTRUTOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Jheam Storch Ross",
+      "funcoes": [
+        "APOIO TÉCNICO"
       ],
       "vinculo": "Aluno"
     },
@@ -1756,6 +1780,7 @@
     {
       "nome": "Rafael Machado Souza",
       "funcoes": [
+        "APOIO TÉCNICO",
         "ORGANIZADOR(A)"
       ],
       "vinculo": "Aluno"

@@ -8,47 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23148.005875/2019-29 - Educação Profissional integrada ao Ensino Fundamental na modalidade de Educação de Jovens e Adultos",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "15/12/2023",
   "Data de cadastro": "06/12/2022",
   "Resumo": "O Curso de Eletricista Instalador Predial de Baixa Tensão é um projeto de extensão EJA-FIC.\nObjetivos:\n- capacitar os estudantes a realizar serviços de instalações e de manutenção em instalações elétricas de baixa\ntensão, residenciais e comerciais, de forma segura do ponto de vista pessoal e operacional das instalações (em\nconformidade com a norma de segurança regulamentadora NR10 e com a de instalações elétricas previstas na NBR\n5410);\n- desenvolver nos estudantes uma postura profissional comprometida com a segurança e qualidade dos serviços\nexecutados quer sejam desenvolvidos como um empregado ou como um empreendedor.\nMetodologia: - o curso será dividido em duas partes. Na primeira parte os conceitos de segurança,\nempreendedorismo, leitura e interpretação de projetos elétricos serão estudados de forma integrada com a\nfundamentação de eletricidade. Na segunda parte, aplicam-se esses conceitos em instalações elétricas. Esta parte\ntambém está dividida em duas: instalações elétricas convencionais e automação residencial. - Serão utilizadas aulas\nteóricas dialogadas, demonstrativas e práticas em laboratórios de Eletricidade e de Instalações Elétricas.",
   "Campus": "Serra",
-  "total_participacoes": 26,
-  "publico_alvo_total": 23,
-  "atividades": [
-    {
-      "atividade_id": "14474",
-      "numero": "002",
-      "atividade": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
-      "publico": 23,
-      "aprovados": 23,
-      "certificados": 23,
-      "equipe": 3
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Marcos Paulo Kohler Caldas",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Nicolas Nasário Ferreira",
-      "funcoes": [
-        "MONITOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

@@ -14,5 +14,11 @@
       "APROVADO": 49
     }
   },
-  "equipe_execucao": []
+  "equipe_execucao": [
+    {
+      "nome": "Paulo Henrique Freitas",
+      "funcao": "ALUNO(A) BOLSISTA",
+      "vinculo": "Aluno"
+    }
+  ]
 }

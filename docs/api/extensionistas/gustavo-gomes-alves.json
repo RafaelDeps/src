@@ -15,7 +15,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "ALUNO(A) BOLSISTA"
@@ -32,20 +32,6 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "19902",
-      "acao_id": "3140",
-      "atividade": "Atendimento personalizado à comunidade através de monitorias",
-      "pub": 3
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "20335",
-      "acao_id": "3140",
-      "atividade": "Manutenção do Site Institucional da Associação Shalom",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
       "atividade_id": "19899",
       "acao_id": "3140",
       "atividade": "Site Responsivo Institucional do InovaSerra (Produto)",
@@ -57,6 +43,20 @@
       "acao_id": "3140",
       "atividade": "Apresentação do Lampex na Jornada de Integração do Ifes",
       "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "20335",
+      "acao_id": "3140",
+      "atividade": "Manutenção do Site Institucional da Associação Shalom",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "19902",
+      "acao_id": "3140",
+      "atividade": "Atendimento personalizado à comunidade através de monitorias",
+      "pub": 3
     }
   ],
   "imp_coord": 0,
@@ -645,6 +645,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -657,11 +682,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -680,18 +700,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

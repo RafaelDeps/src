@@ -3,26 +3,13 @@
   "nome": "Nicolas Nasário Ferreira",
   "resumo_ia": null,
   "anos": [
-    "2022",
     "2023"
   ],
   "funcoes": [
-    "ALUNO(A) VOLUNTARIO",
-    "MONITOR(A)"
+    "ALUNO(A) VOLUNTARIO"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "4209",
-      "titulo": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
-      "tipo": "Curso",
-      "ano": "2022",
-      "n": 26,
-      "pub": 23,
-      "funcoes": [
-        "MONITOR(A)"
-      ]
-    },
     {
       "acao_id": "4655",
       "titulo": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
@@ -37,13 +24,6 @@
   ],
   "atividades": [
     {
-      "ano": "2022",
-      "atividade_id": "14474",
-      "acao_id": "4209",
-      "atividade": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
-      "pub": 23
-    },
-    {
       "ano": "2023",
       "atividade_id": "17046",
       "acao_id": "4655",
@@ -52,34 +32,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 23,
-  "impacto": 23,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
-    {
-      "tema": "Empreendedorismo e incubação",
-      "n": 1
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Renner Sartório Camargo",
-      "slug": "renner-sartorio-camargo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Paulo Kohler Caldas",
-      "slug": "marcos-paulo-kohler-caldas",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",

@@ -6,6 +6,7 @@
     "2020"
   ],
   "funcoes": [
+    "APOIO TÉCNICO",
     "EXTENSIONISTA",
     "ORGANIZADOR(A)"
   ],
@@ -16,9 +17,10 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
+        "APOIO TÉCNICO",
         "EXTENSIONISTA",
         "ORGANIZADOR(A)"
       ]
@@ -27,9 +29,9 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "22289",
+      "atividade_id": "22288",
       "acao_id": "3140",
-      "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
+      "atividade": "Maratona de Programação 2026",
       "pub": 0
     },
     {
@@ -37,6 +39,13 @@
       "atividade_id": "22293",
       "acao_id": "3140",
       "atividade": "Marketing Digital do Lampex",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "22289",
+      "acao_id": "3140",
+      "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
       "pub": 0
     }
   ],
@@ -631,6 +640,26 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -646,11 +675,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Erick Kenzo Komati",
       "slug": "erick-kenzo-komati",
       "acoes_comuns": 1
@@ -663,11 +687,6 @@
     {
       "nome": "Jose Augusto Costa Breciani",
       "slug": "jose-augusto-costa-breciani",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
       "acoes_comuns": 1
     },
     {

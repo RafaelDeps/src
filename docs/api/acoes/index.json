@@ -29,19 +29,8 @@
     "natureza": "Extensão",
     "coordenador": "Elizangela Campos da Rosa Broetto",
     "ano": "2013",
-    "total_participacoes": 39,
-    "url": "api/acoes/110.json"
-  },
-  {
-    "acao_id": "1106",
-    "processo": "23158.000151/2017-26",
-    "titulo": "Coral Musicante",
-    "tipo": "Curso",
-    "natureza": "Ensino",
-    "coordenador": "Ricardo Ramos Costa",
-    "ano": "2017",
     "total_participacoes": 0,
-    "url": "api/acoes/1106.json"
+    "url": "api/acoes/110.json"
   },
   {
     "acao_id": "1116",
@@ -62,7 +51,7 @@
     "natureza": "Extensão",
     "coordenador": "Alessandro Bermudes Gomes",
     "ano": "2017",
-    "total_participacoes": 48,
+    "total_participacoes": 0,
     "url": "api/acoes/1117.json"
   },
   {
@@ -139,7 +128,7 @@
     "natureza": "Extensão",
     "coordenador": "Gilmar Luiz Vassoler",
     "ano": "2017",
-    "total_participacoes": 0,
+    "total_participacoes": 1062,
     "url": "api/acoes/1426.json"
   },
   {
@@ -194,7 +183,7 @@
     "natureza": "Ensino",
     "coordenador": "Ricardo Ramos Costa",
     "ano": "2018",
-    "total_participacoes": 0,
+    "total_participacoes": 16,
     "url": "api/acoes/1602.json"
   },
   {
@@ -227,7 +216,7 @@
     "natureza": "Ensino",
     "coordenador": "Celio Proliciano Maioli",
     "ano": "2018",
-    "total_participacoes": 0,
+    "total_participacoes": 24,
     "url": "api/acoes/1614.json"
   },
   {
@@ -238,7 +227,7 @@
     "natureza": "Extensão",
     "coordenador": "Giordana dos Santos Sperandio",
     "ano": "2018",
-    "total_participacoes": 0,
+    "total_participacoes": 21,
     "url": "api/acoes/1633.json"
   },
   {
@@ -271,7 +260,7 @@
     "natureza": "Extensão",
     "coordenador": "Wagner Kirmse Caldas",
     "ano": "2018",
-    "total_participacoes": 0,
+    "total_participacoes": 387,
     "url": "api/acoes/1702.json"
   },
   {
@@ -304,7 +293,7 @@
     "natureza": "Extensão",
     "coordenador": "Flavio Severiano Lamas de Souza",
     "ano": "2018",
-    "total_participacoes": 49,
+    "total_participacoes": 0,
     "url": "api/acoes/1816.json"
   },
   {
@@ -326,7 +315,7 @@
     "natureza": "Extensão",
     "coordenador": "Richard Junior Manuel Godinez Tello",
     "ano": "2018",
-    "total_participacoes": 0,
+    "total_participacoes": 3,
     "url": "api/acoes/1829.json"
   },
   {
@@ -392,7 +381,7 @@
     "natureza": "Ensino",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2014",
-    "total_participacoes": 0,
+    "total_participacoes": 8,
     "url": "api/acoes/190.json"
   },
   {
@@ -425,7 +414,7 @@
     "natureza": "Extensão",
     "coordenador": "Rosilene de Sá Ribeiro",
     "ano": "2018",
-    "total_participacoes": 0,
+    "total_participacoes": 429,
     "url": "api/acoes/2021.json"
   },
   {
@@ -447,7 +436,7 @@
     "natureza": "Extensão",
     "coordenador": "Giordana dos Santos Sperandio",
     "ano": "2018",
-    "total_participacoes": 53,
+    "total_participacoes": 0,
     "url": "api/acoes/2082.json"
   },
   {
@@ -524,7 +513,7 @@
     "natureza": "Ensino",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2014",
-    "total_participacoes": 0,
+    "total_participacoes": 16,
     "url": "api/acoes/234.json"
   },
   {
@@ -535,7 +524,7 @@
     "natureza": "Ensino",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2014",
-    "total_participacoes": 7,
+    "total_participacoes": 0,
     "url": "api/acoes/235.json"
   },
   {
@@ -568,7 +557,7 @@
     "natureza": "Ensino",
     "coordenador": "Nauvia Maria Cancelieri",
     "ano": "2019",
-    "total_participacoes": 40,
+    "total_participacoes": 0,
     "url": "api/acoes/2366.json"
   },
   {
@@ -579,7 +568,7 @@
     "natureza": "Ensino",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2014",
-    "total_participacoes": 0,
+    "total_participacoes": 11,
     "url": "api/acoes/237.json"
   },
   {
@@ -623,7 +612,7 @@
     "natureza": "Extensão",
     "coordenador": "Bruno Cardoso Coutinho",
     "ano": "2019",
-    "total_participacoes": 5,
+    "total_participacoes": 0,
     "url": "api/acoes/2595.json"
   },
   {
@@ -634,7 +623,7 @@
     "natureza": "Extensão",
     "coordenador": "Carlos Lins Borges Azevedo",
     "ano": "2019",
-    "total_participacoes": 3,
+    "total_participacoes": 0,
     "url": "api/acoes/2599.json"
   },
   {
@@ -656,7 +645,7 @@
     "natureza": "Extensão",
     "coordenador": "Paulo Cezar Camargo Guedes",
     "ano": "2019",
-    "total_participacoes": 40,
+    "total_participacoes": 0,
     "url": "api/acoes/2650.json"
   },
   {
@@ -667,7 +656,7 @@
     "natureza": "Extensão",
     "coordenador": "Bruno Ramos Gonzaga",
     "ano": "2019",
-    "total_participacoes": 19,
+    "total_participacoes": 0,
     "url": "api/acoes/2675.json"
   },
   {
@@ -700,7 +689,7 @@
     "natureza": "Extensão",
     "coordenador": "Bruno Cardoso Coutinho",
     "ano": "2019",
-    "total_participacoes": 0,
+    "total_participacoes": 42,
     "url": "api/acoes/2783.json"
   },
   {
@@ -733,7 +722,7 @@
     "natureza": "Extensão",
     "coordenador": "Fabiano Borges Ruy",
     "ano": "2019",
-    "total_participacoes": 0,
+    "total_participacoes": 6,
     "url": "api/acoes/2823.json"
   },
   {
@@ -766,7 +755,7 @@
     "natureza": "Ensino",
     "coordenador": "Rosiane Ribeiro Rocha",
     "ano": "2020",
-    "total_participacoes": 4,
+    "total_participacoes": 0,
     "url": "api/acoes/2913.json"
   },
   {
@@ -832,7 +821,7 @@
     "natureza": "Extensão",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2020",
-    "total_participacoes": 1611,
+    "total_participacoes": 1618,
     "url": "api/acoes/3140.json"
   },
   {
@@ -843,7 +832,7 @@
     "natureza": "Ensino",
     "coordenador": "Marco Antônio de Souza Leite Cuadros",
     "ano": "2014",
-    "total_participacoes": 20,
+    "total_participacoes": 0,
     "url": "api/acoes/318.json"
   },
   {
@@ -876,7 +865,7 @@
     "natureza": "Ensino",
     "coordenador": "Marco Antônio de Souza Leite Cuadros",
     "ano": "2014",
-    "total_participacoes": 0,
+    "total_participacoes": 5,
     "url": "api/acoes/337.json"
   },
   {
@@ -887,7 +876,7 @@
     "natureza": "Ensino",
     "coordenador": "Marco Antônio de Souza Leite Cuadros",
     "ano": "2014",
-    "total_participacoes": 14,
+    "total_participacoes": 0,
     "url": "api/acoes/339.json"
   },
   {
@@ -909,7 +898,7 @@
     "natureza": "Ensino",
     "coordenador": "Flávio Lopes da Silva",
     "ano": "2014",
-    "total_participacoes": 0,
+    "total_participacoes": 16,
     "url": "api/acoes/341.json"
   },
   {
@@ -931,7 +920,7 @@
     "natureza": "Extensão",
     "coordenador": "Francisco José Casarim Rapchan",
     "ano": "2021",
-    "total_participacoes": 189,
+    "total_participacoes": 0,
     "url": "api/acoes/3423.json"
   },
   {
@@ -997,7 +986,7 @@
     "natureza": "Extensão",
     "coordenador": "Richard Junior Manuel Godinez Tello",
     "ano": "2021",
-    "total_participacoes": 4,
+    "total_participacoes": 0,
     "url": "api/acoes/3567.json"
   },
   {
@@ -1041,7 +1030,7 @@
     "natureza": "Ensino",
     "coordenador": "Paulo Cezar Camargo Guedes",
     "ano": "2022",
-    "total_participacoes": 0,
+    "total_participacoes": 36,
     "url": "api/acoes/3757.json"
   },
   {
@@ -1052,7 +1041,7 @@
     "natureza": "Extensão",
     "coordenador": "Rosilene de Sá Ribeiro",
     "ano": "2022",
-    "total_participacoes": 11,
+    "total_participacoes": 0,
     "url": "api/acoes/3768.json"
   },
   {
@@ -1173,7 +1162,7 @@
     "natureza": "Ensino",
     "coordenador": "Paulo Cezar Camargo Guedes",
     "ano": "2022",
-    "total_participacoes": 2,
+    "total_participacoes": 0,
     "url": "api/acoes/3954.json"
   },
   {
@@ -1228,7 +1217,7 @@
     "natureza": "Ensino",
     "coordenador": "Paulo Cezar Camargo Guedes",
     "ano": "2022",
-    "total_participacoes": 0,
+    "total_participacoes": 51,
     "url": "api/acoes/4096.json"
   },
   {
@@ -1250,7 +1239,7 @@
     "natureza": "Ensino",
     "coordenador": "Alessandro Bermudes Gomes",
     "ano": "2022",
-    "total_participacoes": 198,
+    "total_participacoes": 0,
     "url": "api/acoes/4163.json"
   },
   {
@@ -1261,7 +1250,7 @@
     "natureza": "Ensino",
     "coordenador": "Vinícius Secchin de Melo",
     "ano": "2022",
-    "total_participacoes": 6,
+    "total_participacoes": 0,
     "url": "api/acoes/4199.json"
   },
   {
@@ -1283,7 +1272,7 @@
     "natureza": "Extensão",
     "coordenador": "Renner Sartório Camargo",
     "ano": "2022",
-    "total_participacoes": 26,
+    "total_participacoes": 0,
     "url": "api/acoes/4209.json"
   },
   {
@@ -1294,7 +1283,7 @@
     "natureza": "Extensão",
     "coordenador": "Victorio Albani de Carvalho",
     "ano": "2022",
-    "total_participacoes": 23,
+    "total_participacoes": 0,
     "url": "api/acoes/4210.json"
   },
   {
@@ -1371,7 +1360,7 @@
     "natureza": "Ensino",
     "coordenador": "Wagner Kirmse Caldas",
     "ano": "2023",
-    "total_participacoes": 37,
+    "total_participacoes": 0,
     "url": "api/acoes/4564.json"
   },
   {
@@ -1382,7 +1371,7 @@
     "natureza": "Ensino",
     "coordenador": "Vinícius Secchin de Melo",
     "ano": "2023",
-    "total_participacoes": 0,
+    "total_participacoes": 17,
     "url": "api/acoes/4589.json"
   },
   {
@@ -1481,7 +1470,7 @@
     "natureza": "Extensão",
     "coordenador": "Nauvia Maria Cancelieri",
     "ano": "2023",
-    "total_participacoes": 159,
+    "total_participacoes": 0,
     "url": "api/acoes/4754.json"
   },
   {
@@ -1514,7 +1503,7 @@
     "natureza": "Extensão",
     "coordenador": "Paulo Sérgio dos Santos Júnior",
     "ano": "2023",
-    "total_participacoes": 0,
+    "total_participacoes": 126,
     "url": "api/acoes/4830.json"
   },
   {
@@ -1547,7 +1536,7 @@
     "natureza": "Extensão",
     "coordenador": "Adelson Pereira do Nascimento",
     "ano": "2024",
-    "total_participacoes": 0,
+    "total_participacoes": 14,
     "url": "api/acoes/4867.json"
   },
   {
@@ -1558,7 +1547,7 @@
     "natureza": "Ensino",
     "coordenador": "Milainy Ludmila Santos Goulart",
     "ano": "2024",
-    "total_participacoes": 51,
+    "total_participacoes": 0,
     "url": "api/acoes/4894.json"
   },
   {
@@ -1602,7 +1591,7 @@
     "natureza": "Extensão",
     "coordenador": "Richard Junior Manuel Godinez Tello",
     "ano": "2024",
-    "total_participacoes": 218,
+    "total_participacoes": 0,
     "url": "api/acoes/5086.json"
   },
   {
@@ -1613,7 +1602,7 @@
     "natureza": "Ensino",
     "coordenador": "Emilene Coco dos Santos",
     "ano": "2024",
-    "total_participacoes": 222,
+    "total_participacoes": 0,
     "url": "api/acoes/5138.json"
   },
   {
@@ -1866,7 +1855,7 @@
     "natureza": "Extensão",
     "coordenador": "Sergio Nery Simões",
     "ano": "2016",
-    "total_participacoes": 0,
+    "total_participacoes": 7,
     "url": "api/acoes/645.json"
   },
   {
@@ -1899,7 +1888,7 @@
     "natureza": "Extensão",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2016",
-    "total_participacoes": 0,
+    "total_participacoes": 77,
     "url": "api/acoes/708.json"
   },
   {
@@ -1954,7 +1943,7 @@
     "natureza": "Extensão",
     "coordenador": "Emmanuel Marques Silva",
     "ano": "2016",
-    "total_participacoes": 9,
+    "total_participacoes": 0,
     "url": "api/acoes/730.json"
   },
   {
@@ -2011,93 +2000,5 @@
     "ano": "2016",
     "total_participacoes": 181,
     "url": "api/acoes/899.json"
-  },
-  {
-    "acao_id": "901",
-    "processo": "23158.001139/2014-96",
-    "titulo": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
-    "tipo": "Programa",
-    "natureza": "Extensão",
-    "coordenador": "Felipe Frechiani de Oliveira",
-    "ano": "2016",
-    "total_participacoes": 104,
-    "url": "api/acoes/901.json"
-  },
-  {
-    "acao_id": "902",
-    "processo": "23158.000650/2016-32",
-    "titulo": "Introdução ao Arduino e Microcontroladores",
-    "tipo": "Curso",
-    "natureza": "Ensino",
-    "coordenador": "Richard Junior Manuel Godinez Tello",
-    "ano": "2016",
-    "total_participacoes": 43,
-    "url": "api/acoes/902.json"
-  },
-  {
-    "acao_id": "903",
-    "processo": "23158.000425/2016-04",
-    "titulo": "GDE: Gestão de Tipos Documentais do IFES",
-    "tipo": "Projeto",
-    "natureza": "Desenv. Institucional",
-    "coordenador": "Felipe Frechiani de Oliveira",
-    "ano": "2016",
-    "total_participacoes": 0,
-    "url": "api/acoes/903.json"
-  },
-  {
-    "acao_id": "912",
-    "processo": "23158.000537/2015-76",
-    "titulo": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
-    "tipo": "Curso",
-    "natureza": "Extensão",
-    "coordenador": "Emmanuel Marques Silva",
-    "ano": "2016",
-    "total_participacoes": 21,
-    "url": "api/acoes/912.json"
-  },
-  {
-    "acao_id": "916",
-    "processo": "23150.000715/2016-11",
-    "titulo": "Inglês Instrumental para leitura",
-    "tipo": "Curso",
-    "natureza": "Ensino",
-    "coordenador": "Rosângela Guimarães Seba",
-    "ano": "2016",
-    "total_participacoes": 29,
-    "url": "api/acoes/916.json"
-  },
-  {
-    "acao_id": "930",
-    "processo": "23158.000635/2016-94",
-    "titulo": "Despertar da Força - Processos e Ferramentas para o Gerenciamento Ágil de Projetos: Uma Abordagem Prática",
-    "tipo": "Curso",
-    "natureza": "Extensão",
-    "coordenador": "Paulo Sérgio dos Santos Júnior",
-    "ano": "2016",
-    "total_participacoes": 0,
-    "url": "api/acoes/930.json"
-  },
-  {
-    "acao_id": "947",
-    "processo": "23158.003281/2023-69",
-    "titulo": "Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS",
-    "tipo": "Programa em Rede",
-    "natureza": "Extensão",
-    "coordenador": "Victorio Albani de Carvalho",
-    "ano": "2016",
-    "total_participacoes": 4,
-    "url": "api/acoes/947.json"
-  },
-  {
-    "acao_id": "986",
-    "processo": "23158.000731/2016-32",
-    "titulo": "Energia Solar Fotovoltaica",
-    "tipo": "Curso",
-    "natureza": "Extensão",
-    "coordenador": "Giovani Zanetti Neto",
-    "ano": "2017",
-    "total_participacoes": 26,
-    "url": "api/acoes/986.json"
   }
 ]

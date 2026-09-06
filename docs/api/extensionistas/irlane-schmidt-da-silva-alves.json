@@ -16,7 +16,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "APOIO TÉCNICO",
@@ -25,13 +25,6 @@
     }
   ],
   "atividades": [
-    {
-      "ano": "2020",
-      "atividade_id": "21454",
-      "acao_id": "3140",
-      "atividade": "“Workshops do Seminário Capixaba de Aplicações de Inteligência Artificial (SCAI) 2025” *",
-      "pub": 0
-    },
     {
       "ano": "2020",
       "atividade_id": "14032",
@@ -59,6 +52,13 @@
       "acao_id": "3140",
       "atividade": "SOF - Serviço de Orientação Financeira",
       "pub": 34
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "21454",
+      "acao_id": "3140",
+      "atividade": "“Workshops do Seminário Capixaba de Aplicações de Inteligência Artificial (SCAI) 2025” *",
+      "pub": 0
     }
   ],
   "imp_coord": 0,
@@ -647,6 +647,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -659,11 +684,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -682,18 +702,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

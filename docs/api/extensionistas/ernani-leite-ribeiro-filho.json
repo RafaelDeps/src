@@ -4,28 +4,15 @@
   "resumo_ia": null,
   "anos": [
     "2015",
-    "2016",
-    "2018"
+    "2016"
   ],
   "funcoes": [
     "AVALIADOR(A)",
     "COLABORADOR(A)",
-    "ORGANIZADOR(A)",
-    "PROFESSOR(A)"
+    "ORGANIZADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "2082",
-      "titulo": "Mulheres na Ciência",
-      "tipo": "Curso",
-      "ano": "2018",
-      "n": 53,
-      "pub": 25,
-      "funcoes": [
-        "PROFESSOR(A)"
-      ]
-    },
     {
       "acao_id": "542",
       "titulo": "Programação Visual Criativa com Scratch",
@@ -73,13 +60,6 @@
   ],
   "atividades": [
     {
-      "ano": "2018",
-      "atividade_id": "6874",
-      "acao_id": "2082",
-      "atividade": "Mulheres na Ciência",
-      "pub": 17
-    },
-    {
       "ano": "2015",
       "atividade_id": "923",
       "acao_id": "542",
@@ -109,16 +89,12 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 50,
-  "impacto": 50,
+  "imp_eq": 33,
+  "impacto": 33,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 3
-    },
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
     },
     {
       "tema": "Cultura e arte",
@@ -127,24 +103,14 @@
   ],
   "colaboradores": [
     {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 4
-    },
-    {
       "nome": "Moisés Savedra Omena",
       "slug": "moises-savedra-omena",
       "acoes_comuns": 4
     },
     {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 3
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
     },
     {
       "nome": "Mirleni de Jesus",
@@ -152,74 +118,9 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "slug": "ana-rubia-ramos-vicente",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Ramos Gonzaga",
-      "slug": "bruno-ramos-gonzaga",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nauvia Maria Cancelieri",
-      "slug": "nauvia-maria-cancelieri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Fidelis Zanetti de Castro",
-      "slug": "fidelis-zanetti-de-castro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Josué Rego da Silva",
-      "slug": "josue-rego-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Scopel Falcão",
-      "slug": "wagner-scopel-falcao",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maria Gabriela Siqueira Tavares",
-      "slug": "maria-gabriela-siqueira-tavares",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sarah Silva Ferreira",
-      "slug": "sarah-silva-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Graziela Barboza Guaitolini Ramos",
-      "slug": "graziela-barboza-guaitolini-ramos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 1
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 2
     },
     {
       "nome": "Renato Eugênio da Mota",
@@ -379,6 +280,11 @@
     {
       "nome": "Paulo Sérgio dos Santos Júnior",
       "slug": "paulo-sergio-dos-santos-junior",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 1
     },
     {

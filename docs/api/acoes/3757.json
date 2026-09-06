@@ -9,14 +9,59 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências Exatas e da Terra",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "06/07/2022",
   "Data de cadastro": "27/04/2022",
   "Resumo": "Proporcionar aos alunos oriundos da rede pública municipal ou estadual, que estejam com dificuldade no aprendizado de Matemática, devido à pandemia ou a outros fatores educacionais, a oportunidade de participarem de oficinas de resolução de exercícios, acompanhados de tutores, que podem ser o professor de Matemática ou alunos das séries mais avançadas. Estas oficinas trabalharão os conteúdos estudados nas aulas regulares da turma ou, assuntos que são pré-requisitos para estes conteúdos.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 36,
+  "publico_alvo_total": 31,
+  "atividades": [
+    {
+      "atividade_id": "13255",
+      "numero": "001",
+      "atividade": "Oficina de Tutoria em Matemática",
+      "publico": 31,
+      "aprovados": 31,
+      "certificados": 30,
+      "equipe": 5
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Gianluca Scalzi Sampogna",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Jordana Lourenço Santos",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Josias Neves Jardim Borba",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "João Pedro Marchesi Tavares",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Paulo Cezar Camargo Guedes",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

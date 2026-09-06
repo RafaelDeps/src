@@ -29,17 +29,17 @@
   "atividades": [
     {
       "ano": "2023",
-      "atividade_id": "19700",
-      "acao_id": "4655",
-      "atividade": "Minicurso \"Manufatura Aditiva\" do Projeto SerraMaker: fomentando a cultura Maker no município da Serra",
-      "pub": 16
-    },
-    {
-      "ano": "2023",
       "atividade_id": "17046",
       "acao_id": "4655",
       "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
       "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "19700",
+      "acao_id": "4655",
+      "atividade": "Minicurso \"Manufatura Aditiva\" do Projeto SerraMaker: fomentando a cultura Maker no município da Serra",
+      "pub": 16
     },
     {
       "ano": "2023",

@@ -34,8 +34,8 @@
       "titulo": "Matemática na Rede",
       "tipo": "Curso",
       "ano": "2019",
-      "n": 40,
-      "pub": 34
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
@@ -48,17 +48,6 @@
       "pub": 74,
       "funcoes": [
         "COLABORADOR(A)",
-        "COORDENADOR(A)"
-      ]
-    },
-    {
-      "acao_id": "2650",
-      "titulo": "Matemática na Rede",
-      "tipo": "Curso",
-      "ano": "2019",
-      "n": 40,
-      "pub": 34,
-      "funcoes": [
         "COORDENADOR(A)"
       ]
     },
@@ -90,20 +79,6 @@
       "pub": 40
     },
     {
-      "ano": "2019",
-      "atividade_id": "9117",
-      "acao_id": "2650",
-      "atividade": "Matemática na Rede",
-      "pub": 34
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "9118",
-      "acao_id": "2650",
-      "atividade": "Matemática na Rede",
-      "pub": 0
-    },
-    {
       "ano": "2023",
       "atividade_id": "15941",
       "acao_id": "4597",
@@ -111,21 +86,16 @@
       "pub": 79
     }
   ],
-  "imp_coord": 108,
+  "imp_coord": 74,
   "imp_eq": 79,
-  "impacto": 187,
+  "impacto": 153,
   "temas": [
     {
       "tema": "Captação e ingresso",
-      "n": 5
+      "n": 3
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Murilo Andrade Carvalho",
-      "slug": "murilo-andrade-carvalho",
-      "acoes_comuns": 2
-    },
     {
       "nome": "Alessandro Bermudes Gomes",
       "slug": "alessandro-bermudes-gomes",
@@ -167,13 +137,13 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Izis Barbosa Coutinho",
-      "slug": "izis-barbosa-coutinho",
+      "nome": "Murilo Andrade Carvalho",
+      "slug": "murilo-andrade-carvalho",
       "acoes_comuns": 1
     },
     {
-      "nome": "Rafael de Almeida Viana Gusmão",
-      "slug": "rafael-de-almeida-viana-gusmao",
+      "nome": "Izis Barbosa Coutinho",
+      "slug": "izis-barbosa-coutinho",
       "acoes_comuns": 1
     },
     {

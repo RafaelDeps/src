@@ -16,6 +16,11 @@
   },
   "equipe_execucao": [
     {
+      "nome": "Paulo Henrique Freitas",
+      "funcao": "ALUNO(A) BOLSISTA",
+      "vinculo": "Aluno"
+    },
+    {
       "nome": "Arthur Cremasco Amaral",
       "funcao": "AUXILIAR TÉCNICO",
       "vinculo": "Aluno"

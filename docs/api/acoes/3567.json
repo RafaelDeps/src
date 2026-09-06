@@ -8,54 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Engenharias",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "16/12/2022",
   "Data de cadastro": "26/10/2021",
   "Resumo": "O presente projeto visa oferecer soluções a partir da cultura Maker para demandas da comunidade\nexterna e interna do Campus Serra do Ifes. O laboratório Maker chamado de IFMaker é um espaço\npara geração de soluções a partir de problemas reais. A abordagem da cultura Maker, cuja filosofia é\nchamada “Do It Yourself!”, apresenta a ideia de que qualquer pessoa consegue construir, consertar ou\ncriar seus próprios objetos ou soluções diante de determinados problemas ou situações.\nO laboratório Maker apresenta grande potencial para despertar o interesse dos alunos no\ndesenvolvimento de competências, envolvendo conhecimentos, habilidades e atitudes, que irão\ncontribuir para a sua formação. Além disso, este ambiente possibilita estimular a aprendizagem\ninterdisciplinar e o protagonismo do estudante no processo de ensino-aprendizagem, integrando teoria\ne prática na construção de soluções.\nO laboratório IFMaker Serra, que pretende ser implementado, possibilitará iniciativas que ofereçam um\nportfólio de serviços à comunidade interna e externa, com uma perspectiva empreendedora e de\ninovação, atendendo inventores independentes e empreendedores. Dessa forma, visa aproximar as\ndiversas áreas temáticas do campus e seus níveis de verticalização nos serviços integrados. Além\ndisso, o laboratório pode ser um potencializador dos projetos desenvolvidos pelo núcleo incubador e\nempresa júnior presentes no campus.\nO Campus Serra do Ifes foi contemplado através da Edital Nº 35/2020 (Chamada Pública SETEC/MEC)\nvia Edital de chamada Interna - PROEX/PRPPG - IFES - 03/2020 com 1 laboratório equipado com\ndiversos equipamentos para sua implementação, entre os que podemos citar: Impressoras 3D\nnotebooks, Ferramentas, projetor, kits de Arduino/Robótica, kits de Lego, Maquina CNC Laser, Scanner\n3D, etc.",
   "Campus": "Serra",
-  "total_participacoes": 4,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "12362",
-      "numero": "001",
-      "atividade": "Laboratório IFMaker Serra: um ambiente colaborativo de aprendizagem e desenvolvimento de soluções",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 4
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Francisco José Casarim Rapchan",
-      "funcoes": [
-        "MEMBRO DE COMITÊ GESTOR"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Marcos Simão Guimarães",
-      "funcoes": [
-        "MEMBRO DE COMITÊ GESTOR"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Rosiane Ribeiro Rocha",
-      "funcoes": [
-        "MEMBRO DE COMITÊ GESTOR"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

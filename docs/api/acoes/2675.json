@@ -8,118 +8,14 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23158.001812/2017-31 - Ifes para todos",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências Humanas",
   "Área temática principal": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "30/12/2019",
   "Data de cadastro": "17/09/2019",
   "Resumo": "No dia 10 de dezembro do ano de 2014, foi lançado, por nós, no Ifes, o Projeto Tutoria Em Estudos Orientados, que, desde então, vem acontecendo de forma ininterrupta em todos os semestres letivos, a intenção é ampliar e aprimorar o projeto conferindo-lhe uma conceptualização teórica mais consistente, tendo com base,  várias teorias da aprendizagem, entre elas, a Zona de Desenvolvimento Proximal de Vigotsky.  Ao longo destes anos o projeto certificou dezenas de estudantes participantes, além de ter criado uma rede colaborativa de solidariedade, pois alguns dos alunos participantes que aprendem a estudar, retornam no semestre seguinte como candidatos a voluntários, motivados pela gratidão ou por razões que envolvem experiência profissional.  O  projeto dialoga com a agenda 2030 da organização das nações unidas (ONU) em dois dos objetivos do desenvolvimento sustentável (ODS): Assegurar a educação inclusiva e equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todas e todos (ODS 4) e reduzir a desigualdade dentro dos países e entre eles (ODS 10). Portanto, sabendo da importância social da presente proposta, realizaram-se reuniões no Instituto Federal do Espírito Santo (Ifes), na presença de professores, pedagogos e diretores do Ifes e potenciais escolas parceiras. Os relatos abordaram aspectos sociais, geográficos e econômicos da realidade escolar e das comunidades adjacentes ao bairro onde se situam as escolas, além dos relatos das experiências com êxitos, dificuldades e necessidades das comunidades locais,  Durante as reuniões houve uma interação entre saberes, rompendo com o discurso da hegemonia acadêmica, permitindo a todos que estavam presentes na reunião, alunos ou servidores do Ifes, aprender e perceber questões de âmbito educacional, social e econômico, que podem ser obstáculos para o sucesso escolar de qualquer instituição de ensino. Então, foi resolvido aplicar um projeto de intervenção e/ou mediação que colaborasse com escolas públicas do Espírito Santo.",
   "Campus": "Serra",
-  "total_participacoes": 19,
-  "publico_alvo_total": 5,
-  "atividades": [
-    {
-      "atividade_id": "9225",
-      "numero": "001",
-      "atividade": "Tutoria de Estudos Orientados: Compartilhando Saberes",
-      "publico": 5,
-      "aprovados": 5,
-      "certificados": 5,
-      "equipe": 14
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Ana Paula Ferreira Pimentel Cesar",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO",
-        "PALESTRANTE"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Bruno Ramos Gonzaga",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Carlos Guilherme Felismino Pedroni",
-      "funcoes": [
-        "EXPOSITOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Euléssia Costa Silva",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Helen França Medeiros",
-      "funcoes": [
-        "PALESTRANTE"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Janaina de Medeiros Freitas",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Larissa Vervloet Mendonça",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Marcelo Victor Ferreira Barbosa",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Raphael Pinto de Almeida",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Samara Cristina Zupeli Babilon",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Vitória Maciel de Carvalho",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

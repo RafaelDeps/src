@@ -7,19 +7,22 @@
     "2020"
   ],
   "funcoes": [
-    "ALUNO(A) BOLSISTA"
+    "ALUNO(A) BOLSISTA",
+    "INSTRUTOR(A)",
+    "PROFESSOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
     {
-      "acao_id": "2595",
-      "titulo": "Incluir & Multiplicar",
-      "tipo": "Projeto",
+      "acao_id": "2783",
+      "titulo": "Informática Básica Para Agentes Multiplicadores.",
+      "tipo": "Curso",
       "ano": "2019",
-      "n": 5,
-      "pub": 0,
+      "n": 42,
+      "pub": 16,
       "funcoes": [
-        "ALUNO(A) BOLSISTA"
+        "INSTRUTOR(A)",
+        "PROFESSOR(A)"
       ]
     },
     {
@@ -27,7 +30,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "ALUNO(A) BOLSISTA"
@@ -37,9 +40,30 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "8979",
-      "acao_id": "2595",
-      "atividade": "Incluir & Multiplicar",
+      "atividade_id": "10922",
+      "acao_id": "2783",
+      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
+      "pub": 16
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "9577",
+      "acao_id": "2783",
+      "atividade": "Informática Básica Para Agentes Multiplicadores.",
+      "pub": 16
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "11195",
+      "acao_id": "3140",
+      "atividade": "Desenvolvimento de uma Sistemática para Acompanhamento e Controle de Atendimento Discente no LAMPEX",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "11192",
+      "acao_id": "3140",
+      "atividade": "Desenvolvimento de uma Sistemática para Agendamento do Atendimento à Comunidade no LAMPEX",
       "pub": 0
     },
     {
@@ -55,25 +79,11 @@
       "acao_id": "3140",
       "atividade": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "pub": 2
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "11195",
-      "acao_id": "3140",
-      "atividade": "Desenvolvimento de uma Sistemática para Acompanhamento e Controle de Atendimento Discente no LAMPEX",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "11192",
-      "acao_id": "3140",
-      "atividade": "Desenvolvimento de uma Sistemática para Agendamento do Atendimento à Comunidade no LAMPEX",
-      "pub": 0
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 2,
-  "impacto": 2,
+  "imp_eq": 34,
+  "impacto": 34,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
@@ -96,8 +106,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Glaucelena Dias Lopes da Vitória",
-      "slug": "glaucelena-dias-lopes-da-vitoria",
+      "nome": "Ridley Francis Miranda Amorim",
+      "slug": "ridley-francis-miranda-amorim",
       "acoes_comuns": 1
     },
     {
@@ -676,6 +686,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -688,11 +723,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -711,18 +741,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

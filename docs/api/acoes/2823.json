@@ -8,15 +8,61 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "23158.001139/2014-96 - LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências Exatas e da Terra",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "10/01/2021",
   "Data de cadastro": "28/11/2019",
   "Resumo": "O registro de frequência durante as aulas é uma atividade necessária porém repetitiva e custosa\n(especialmente em turmas grandes). Em cada aula de 100 minutos, esta atividade pode tomar cerca de\n5% do tempo de aula. Dessa forma, poderia ser (semi)automatizada. O objetivo deste projeto é o\ndesenvolvimento de uma aplicação capaz de contabilizar a frequência de alunos por meio de um\naplicativo utilizando técnicas de reconhecimento facial. Espera-se, com isso, dar mais produtividade ao\nprofessor na atividade docente. O desenvolvimento do aplicativo é realizado com base em métodos e\ntécnicas de Engenharia de Software e a sua avaliação por meio de experimentos com professores no\nambiente real de sala de aula. O feedback coletado e problemas encontrados são utilizados para\nmelhorias. Os principais resultados esperados são a economia de tempo do professor na realização de\nchamadas, a disseminação da tecnologia nas instituições interessadas, a formação dos alunos nas\ntecnologias e metodologias envolvidas e os possíveis encaminhamentos para produção científica e\ngeração de um produto.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 6,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "9895",
+      "numero": "001",
+      "atividade": "I Am Here: Registro de Frequência por Reconhecimento Facial",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 6
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Fabiano Borges Ruy",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Joel Will Belmiro",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Olavo Jose Ferreira Curatola",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO",
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Renato de Sant'anna Lopes",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

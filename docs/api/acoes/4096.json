@@ -9,14 +9,45 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências Exatas e da Terra",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "22/05/2024",
   "Data de cadastro": "06/10/2022",
   "Resumo": "Esta proposta de atividade complementar ao ensino consiste no oferecimento de encontros semanais aos estudantes dos cursos técnicos integrados ao Ensino Médio abordando tópicos da área de\nMatemática não totalmente contemplados no currículo escolar dos estudantes, seja em sua variedade e/ou profundidade.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 51,
+  "publico_alvo_total": 48,
+  "atividades": [
+    {
+      "atividade_id": "14082",
+      "numero": "001",
+      "atividade": "PEAM – Programa de Estudos Avançados em Matemática",
+      "publico": 48,
+      "aprovados": 48,
+      "certificados": 48,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Augusto Cesar Machado Ramos",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Paulo Cezar Camargo Guedes",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

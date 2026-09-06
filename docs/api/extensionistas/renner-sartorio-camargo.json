@@ -15,8 +15,8 @@
       "titulo": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
       "tipo": "Curso",
       "ano": "2022",
-      "n": 26,
-      "pub": 23
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
@@ -25,7 +25,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "COORDENADOR(A) TÉCNICO-CIENTÍFICO"
@@ -41,14 +41,10 @@
       "pub": 9
     }
   ],
-  "imp_coord": 23,
+  "imp_coord": 0,
   "imp_eq": 9,
-  "impacto": 32,
+  "impacto": 9,
   "temas": [
-    {
-      "tema": "Empreendedorismo e incubação",
-      "n": 1
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
@@ -631,6 +627,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -643,11 +664,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -666,18 +682,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {
@@ -863,21 +869,6 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nicolas Nasário Ferreira",
-      "slug": "nicolas-nasario-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Paulo Kohler Caldas",
-      "slug": "marcos-paulo-kohler-caldas",
       "acoes_comuns": 1
     }
   ]

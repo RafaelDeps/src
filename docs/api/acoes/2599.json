@@ -8,47 +8,14 @@
   "Fomento": "PAEX-IFES",
   "Ação vinculante": "23158.001139/2014-96 - LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências da Saúde",
   "Área temática principal": "Tecnologia e Produção",
   "Relatório aprovado": "Sim",
   "Data último relatório": "01/09/2020",
   "Data de cadastro": "15/08/2019",
   "Resumo": "O presente projeto partiu de necessidades das Unidades Básicas de Saúde de Vitória verificadas em projetos anteriores realizados pelos professores parceiros da UFES. \n \nEstudos epidemiológicos tem mostrado à alta prevalência e o impacto importante dos transtornos mentais na saúde pública (Demyttenaere et al., 2004; Report, 1993). Os transtornos mentais foram responsáveis por quase um terço de anos vividos com incapacidade no mundo em 2005 (Lopez, Mathers, Ezzati, Jamison, & Murray, 2006). Além disso, os transtornos mentais ampliam a morbidade e incapacidade associada a outros problemas de saúde (Moussavi et al., 2007).  \n \nHá ainda um número pequeno de acesso ao tratamento em grande parte da  população geral , quando levado em conta a alta prevalência de transtornos mentais na população (Prince et al., 2007). Segundo o estudo de Gonçalves et al. (2014), há alta prevalência de transtornos mentais em 27 Unidades de Saúde da Família de quatro capitais. Foram verificadas taxas elevadas em todos os municípios pesquisados: 51,9% (Rio de Janeiro), 53,3% (São Paulo), 64,3% (Fortaleza) e 57,7% (Porto Alegre). De acordo com os dados acima, sabe-se que a maior parte dos indivíduos com transtornos mentais não recebe tratamento.    O principal desafio é ampliar o alcance e maximizar o rastreamento e a identificação dos transtornos mentais mais prevalentes na população geral e, portanto, mais frequentes na atenção primária, sem sobrecarregar ainda mais o sistema e os profissionais que constituem as equipes.  \n Uma possível resposta a esse desafio é representada pela implementação de soluções computacionais baseadas em ciência de dados, capazes de estimar a prevalência dos transtornos mentais na população geral assistida pelas equipes de saúde familiar , assim como a sua gravidade clínica e necessidade de intervenção.  \n O uso de ciência de dados permite, ainda, identificar fatores de risco e fatores correlatos aos transtornos mentais presentes na comunidade, como aspectos sociodemográficos e econômicos, distribuição geográfica, estressores ambientais, características comunitárias, entre outros, auxiliando a tomada de decisões, estabelecimento de políticas públicas e alocação de recursos por parte do poder público. O projeto atual pretende utilizar uma base de dados já coletada e anonimizada por projetos anteriores da instituição parceira, a UFES, para auxiliar a tomada de decisões pelos profissionais da saúde.  A base de dados já está disponível, coletada e anonimizada. Os pesquisadores nesse projeto não terão acesso a dados não anonimizados dos pacientes. \n Este projeto será realizado em paralelo com o projeto “Sistema para predição de transtornos mentais comuns na atenção primária a saúde” e com o projeto “Identificação de Transtornos Mentais Comuns e Abuso De Álcool/Drogas no  Âmbito Da  Atenção Primária à Saúde” submetido a EDITAL FAPES pela proponente Maria Carmen Viana, cujo proponente do referido projeto é pesquisador principal.",
   "Campus": "Serra",
-  "total_participacoes": 3,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "10936",
-      "numero": "001",
-      "atividade": "Sistema de apoio para rastreio e geolocalização de transtornos mentaiscomuns na atenção primária a saúde",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 3
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Carlos Lins Borges Azevedo",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Vinicius da Hora Corte",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Vitor Siqueira da Silva",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

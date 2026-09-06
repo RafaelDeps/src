@@ -1,0 +1,102 @@
+{
+  "slug": "paulo-henrique-freitas",
+  "nome": "Paulo Henrique Freitas",
+  "resumo_ia": null,
+  "anos": [
+    "2023"
+  ],
+  "funcoes": [
+    "ALUNO(A) BOLSISTA"
+  ],
+  "acoes_coordenadas": [],
+  "participacoes_equipe": [
+    {
+      "acao_id": "4830",
+      "titulo": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+      "tipo": "Projeto",
+      "ano": "2023",
+      "n": 126,
+      "pub": 86,
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ]
+    }
+  ],
+  "atividades": [
+    {
+      "ano": "2023",
+      "atividade_id": "17384",
+      "acao_id": "4830",
+      "atividade": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+      "pub": 66
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "22381",
+      "acao_id": "4830",
+      "atividade": "Desenvolvimento de Ferramentas de Desenvolvimento de Software",
+      "pub": 49
+    }
+  ],
+  "imp_coord": 0,
+  "imp_eq": 115,
+  "impacto": 115,
+  "temas": [
+    {
+      "tema": "Saúde e bem-estar",
+      "n": 1
+    }
+  ],
+  "colaboradores": [
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Arthur Cremasco Amaral",
+      "slug": "arthur-cremasco-amaral",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Victor Emerson Siqueira de Souza",
+      "slug": "victor-emerson-siqueira-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Hoffmann Sperandio Cott",
+      "slug": "emanuel-hoffmann-sperandio-cott",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Isabella Bissoli",
+      "slug": "isabella-bissoli",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ruan Rody de Melo da Costa",
+      "slug": "ruan-rody-de-melo-da-costa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "André Luiz Coelho Silva",
+      "slug": "andre-luiz-coelho-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vinícius de Jesus Estevam",
+      "slug": "vinicius-de-jesus-estevam",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Bruno Carvalho Caxias",
+      "slug": "bruno-carvalho-caxias",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marcela Starling Ferreira Lage",
+      "slug": "marcela-starling-ferreira-lage",
+      "acoes_comuns": 1
+    }
+  ]
+}

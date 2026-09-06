@@ -3,14 +3,10 @@
   "nome": "Nauvia Maria Cancelieri",
   "resumo_ia": null,
   "anos": [
-    "2018",
     "2023"
   ],
   "funcoes": [
-    "COORDENADOR(A)",
-    "MINISTRANTE",
-    "ORGANIZADOR(A)",
-    "PALESTRANTE"
+    "MINISTRANTE"
   ],
   "acoes_coordenadas": [
     {
@@ -18,22 +14,11 @@
       "titulo": "QUÍMICA VERDE APLICADA: oficinas e workshops",
       "tipo": "Projeto",
       "ano": "2023",
-      "n": 159,
-      "pub": 134
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
-    {
-      "acao_id": "2082",
-      "titulo": "Mulheres na Ciência",
-      "tipo": "Curso",
-      "ano": "2018",
-      "n": 53,
-      "pub": 25,
-      "funcoes": [
-        "PALESTRANTE"
-      ]
-    },
     {
       "acao_id": "4655",
       "titulo": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
@@ -44,178 +29,27 @@
       "funcoes": [
         "MINISTRANTE"
       ]
-    },
-    {
-      "acao_id": "4754",
-      "titulo": "QUÍMICA VERDE APLICADA: oficinas e workshops",
-      "tipo": "Projeto",
-      "ano": "2023",
-      "n": 159,
-      "pub": 134,
-      "funcoes": [
-        "COORDENADOR(A)",
-        "ORGANIZADOR(A)"
-      ]
     }
   ],
   "atividades": [
-    {
-      "ano": "2018",
-      "atividade_id": "6874",
-      "acao_id": "2082",
-      "atividade": "Mulheres na Ciência",
-      "pub": 17
-    },
     {
       "ano": "2023",
       "atividade_id": "17036",
       "acao_id": "4655",
       "atividade": "Oficina \"A Química do cérebro: ondas gamma e efeitos da dimetiltriptamina de plantas medicinais/ roda de chá com meditação\"",
       "pub": 15
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "20747",
-      "acao_id": "4754",
-      "atividade": "Do Sensorial ao Tecnológico — Extração de Óleos Essenciais por Arraste a Vapor",
-      "pub": 24
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "16986",
-      "acao_id": "4754",
-      "atividade": "Oficina Produtos renováveis",
-      "pub": 69
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17146",
-      "acao_id": "4754",
-      "atividade": "Oficina de saboaria - segunda edição",
-      "pub": 15
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "16756",
-      "acao_id": "4754",
-      "atividade": "QUÍMICA VERDE APLICADA: oficinas e workshops",
-      "pub": 0
     }
   ],
-  "imp_coord": 134,
-  "imp_eq": 32,
-  "impacto": 166,
+  "imp_coord": 0,
+  "imp_eq": 15,
+  "impacto": 15,
   "temas": [
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 3
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Matheus Tiago Amorim Pereira",
-      "slug": "matheus-tiago-amorim-pereira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marianna Stark Gardioli Rangel",
-      "slug": "marianna-stark-gardioli-rangel",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Debora Galavote Moura",
-      "slug": "debora-galavote-moura",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "slug": "ana-rubia-ramos-vicente",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Ramos Gonzaga",
-      "slug": "bruno-ramos-gonzaga",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Fidelis Zanetti de Castro",
-      "slug": "fidelis-zanetti-de-castro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ernani Leite Ribeiro Filho",
-      "slug": "ernani-leite-ribeiro-filho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Josué Rego da Silva",
-      "slug": "josue-rego-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Scopel Falcão",
-      "slug": "wagner-scopel-falcao",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maria Gabriela Siqueira Tavares",
-      "slug": "maria-gabriela-siqueira-tavares",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sarah Silva Ferreira",
-      "slug": "sarah-silva-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Graziela Barboza Guaitolini Ramos",
-      "slug": "graziela-barboza-guaitolini-ramos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",
@@ -224,6 +58,21 @@
     {
       "nome": "Rosiane Ribeiro Rocha",
       "slug": "rosiane-ribeiro-rocha",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Matheus Tiago Amorim Pereira",
+      "slug": "matheus-tiago-amorim-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marianna Stark Gardioli Rangel",
+      "slug": "marianna-stark-gardioli-rangel",
       "acoes_comuns": 1
     },
     {
@@ -357,38 +206,13 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Debora Galavote Moura",
+      "slug": "debora-galavote-moura",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Julia Sagrillo Barreiros",
-      "slug": "julia-sagrillo-barreiros",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabriel Santos da Silva Valbuza",
-      "slug": "gabriel-santos-da-silva-valbuza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Akilanny Silva Cruz",
-      "slug": "akilanny-silva-cruz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Angelo dos Santos Teixeira",
-      "slug": "angelo-dos-santos-teixeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kauã Alexandre Bernardes",
-      "slug": "kaua-alexandre-bernardes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Victor Ramos Dessaune",
-      "slug": "victor-ramos-dessaune",
       "acoes_comuns": 1
     }
   ]

@@ -3,26 +3,13 @@
   "nome": "Breno Siquara Azevedo",
   "resumo_ia": null,
   "anos": [
-    "2016",
-    "2017"
+    "2016"
   ],
   "funcoes": [
-    "COLABORADOR(A)",
-    "PROFESSOR(A)"
+    "COLABORADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "1117",
-      "titulo": "PRÉ – IFES Campus Serra",
-      "tipo": "Curso",
-      "ano": "2017",
-      "n": 48,
-      "pub": 33,
-      "funcoes": [
-        "PROFESSOR(A)"
-      ]
-    },
     {
       "acao_id": "899",
       "titulo": "SEMANA DE CONTROLE E AUTOMAÇÃO",
@@ -37,13 +24,6 @@
   ],
   "atividades": [
     {
-      "ano": "2017",
-      "atividade_id": "2882",
-      "acao_id": "1117",
-      "atividade": "PRÉ- IFES Campus Serra",
-      "pub": 33
-    },
-    {
       "ano": "2016",
       "atividade_id": "2732",
       "acao_id": "899",
@@ -52,84 +32,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 102,
-  "impacto": 102,
+  "imp_eq": 69,
+  "impacto": 69,
   "temas": [
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Alessandro Bermudes Gomes",
-      "slug": "alessandro-bermudes-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luana Santos Lemos",
-      "slug": "luana-santos-lemos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Daniella Araújo Fraga dos Santos",
-      "slug": "daniella-araujo-fraga-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Davi Aragão Ascacibas",
-      "slug": "davi-aragao-ascacibas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alexia Coelho Barbosa",
-      "slug": "alexia-coelho-barbosa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sillas Ribeiro Ataide",
-      "slug": "sillas-ribeiro-ataide",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Machado Oliveira",
-      "slug": "thiago-machado-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Murilo Andrade Carvalho",
-      "slug": "murilo-andrade-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ian Drumond Duarte",
-      "slug": "ian-drumond-duarte",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Amarildo Mendes Lemos",
-      "slug": "amarildo-mendes-lemos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mizael Fernandes de Oliveira",
-      "slug": "mizael-fernandes-de-oliveira",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Wallas Gusmão Thomas",
       "slug": "wallas-gusmao-thomas",

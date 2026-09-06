@@ -29,10 +29,10 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10566",
+      "atividade_id": "10569",
       "acao_id": "2505",
-      "atividade": "Oficina Especializada de Produção",
-      "pub": 3
+      "atividade": "Pesquisa em Audiovisual",
+      "pub": 0
     },
     {
       "ano": "2019",
@@ -43,10 +43,10 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10569",
+      "atividade_id": "10566",
       "acao_id": "2505",
-      "atividade": "Pesquisa em Audiovisual",
-      "pub": 0
+      "atividade": "Oficina Especializada de Produção",
+      "pub": 3
     }
   ],
   "imp_coord": 0,

@@ -9,41 +9,13 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Ciências Biológicas",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Meio Ambiente",
   "Relatório aprovado": "Não",
   "Data último relatório": "",
   "Data de cadastro": "22/04/2019",
   "Resumo": "O presente projeto têm como principal objetivo a conscientização da comunidade acadêmica quanto a utilização de fitoterápicos como espécies vegetais e seus constituintes químicos, como também fazer o resgaste popular referente ao uso tradicional de espécies vegetais; preparar horta com uso de mudas e sementes de espécies vegetais aprovadas para uso como fitoterápicos; fazer extratos etanólicos e tinturas; preparar exsicatas; incentivar e proporcionar o uso correto de espécies vegetais como fitoterápicos; desmistificar conceitos de plantas medicinais, produtos naturais e fitoterápicos. Nesse contexto, serão inseridos conteúdos curriculares relacionados aos compostos químicos inorgânicos (constituintes do solo) e orgânicos (presentes nas plantas), assim como utilização de cálculos estequiométricos para certificação de quantidade adequada de elementos químicos (N, P e C) presentes no adubo, como também medida e correção de pH do solo. A metodologia a ser utilizada para conscientização sobre o uso correto de medicamentos fitoterápicos será realizada por ações de divulgação através de seminários, roda de chá com bate papo, confecção de cartilhas e marcadores de páginas.  Este projeto terá sustentação em informações retiradas da Anvisa, artigos científicos e livros da área. O resgate popular será realizado com conhecimento popular do estado do Espírito Santo. Os extratos, tinturas, identificação de compostos químicos de solo e plantas, além de medida de pH do solo serão obtidos no Laboratório de Química. Espera-se com esse trabalho não somente criar mecanismos de aprendizagem de conteúdos curriculares, mas também oportunizar o uso correto, de forma segura, eficaz e de fácil acesso de espécies vegetais com fins medicinais, conscientizando não somente a comunidade acadêmica, mas também a comunidade em geral.",
   "Campus": "Serra",
-  "total_participacoes": 40,
-  "publico_alvo_total": 39,
-  "atividades": [
-    {
-      "atividade_id": "8186",
-      "numero": "001",
-      "atividade": "Fitoterápicos em Horta: Compostos Químicos em Ação",
-      "publico": 26,
-      "aprovados": 2,
-      "certificados": 0,
-      "equipe": 1
-    },
-    {
-      "atividade_id": "9259",
-      "numero": "002",
-      "atividade": "Fitoterápicos em Horta II: Compostos Químicos em Ação",
-      "publico": 13,
-      "aprovados": 1,
-      "certificados": 0,
-      "equipe": 0
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Nauvia Maria Cancelieri",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

@@ -3,34 +3,21 @@
   "nome": "Hilario Seibel Junior",
   "resumo_ia": null,
   "anos": [
-    "2018",
     "2020"
   ],
   "funcoes": [
     "APOIO TÉCNICO",
-    "COORDENADOR(A) ADJUNTO(A)",
     "ORGANIZADOR(A)",
     "ORIENTADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
     {
-      "acao_id": "1816",
-      "titulo": "Maratona de Programação",
-      "tipo": "Evento",
-      "ano": "2018",
-      "n": 49,
-      "pub": 37,
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ]
-    },
-    {
       "acao_id": "3140",
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "APOIO TÉCNICO",
@@ -40,20 +27,6 @@
     }
   ],
   "atividades": [
-    {
-      "ano": "2018",
-      "atividade_id": "5720",
-      "acao_id": "1816",
-      "atividade": "Maratona de Programação",
-      "pub": 37
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "21063",
-      "acao_id": "3140",
-      "atividade": "Equipe de organização da Maratona de Programação 2025",
-      "pub": 0
-    },
     {
       "ano": "2020",
       "atividade_id": "22289",
@@ -67,77 +40,25 @@
       "acao_id": "3140",
       "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Programação e Desenvolvimento",
       "pub": 17
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "21063",
+      "acao_id": "3140",
+      "atividade": "Equipe de organização da Maratona de Programação 2025",
+      "pub": 0
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 54,
-  "impacto": 54,
+  "imp_eq": 17,
+  "impacto": 17,
   "temas": [
-    {
-      "tema": "Cultura e arte",
-      "n": 1
-    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "João Augusto Casagrande da Silva",
-      "slug": "joao-augusto-casagrande-da-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Jefferson Oliveira Andrade",
-      "slug": "jefferson-oliveira-andrade",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Flavio Severiano Lamas de Souza",
-      "slug": "flavio-severiano-lamas-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Daniel Ribeiro Trindade",
-      "slug": "daniel-ribeiro-trindade",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Carlos Vieira Berger",
-      "slug": "luiz-carlos-vieira-berger",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "slug": "ana-rubia-ramos-vicente",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo Ricardo Viana Ferreira",
-      "slug": "paulo-ricardo-viana-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Amanda Ferreira de Souza",
-      "slug": "amanda-ferreira-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Moreto de Oliveira",
-      "slug": "bruno-moreto-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
@@ -484,6 +405,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jefferson Oliveira Andrade",
+      "slug": "jefferson-oliveira-andrade",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Jefferson Tatsu Komati Andrade",
       "slug": "jefferson-tatsu-komati-andrade",
       "acoes_comuns": 1
@@ -566,6 +492,11 @@
     {
       "nome": "Lara Aguilar de Amorim",
       "slug": "lara-aguilar-de-amorim",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "João Augusto Casagrande da Silva",
+      "slug": "joao-augusto-casagrande-da-silva",
       "acoes_comuns": 1
     },
     {
@@ -704,6 +635,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -716,11 +672,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -739,18 +690,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {

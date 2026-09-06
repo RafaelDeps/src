@@ -32,17 +32,6 @@
       "funcoes": [
         "ALUNO(A) EM ATIVIDADE CURRICULAR"
       ]
-    },
-    {
-      "acao_id": "4754",
-      "titulo": "QUÍMICA VERDE APLICADA: oficinas e workshops",
-      "tipo": "Projeto",
-      "ano": "2023",
-      "n": 159,
-      "pub": 134,
-      "funcoes": [
-        "MONITOR(A)"
-      ]
     }
   ],
   "atividades": [
@@ -59,13 +48,6 @@
       "acao_id": "4659",
       "atividade": "Atividades físicas adaptadas e inclusão (AFAI)",
       "pub": 197
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "16756",
-      "acao_id": "4754",
-      "atividade": "QUÍMICA VERDE APLICADA: oficinas e workshops",
-      "pub": 0
     }
   ],
   "imp_coord": 0,
@@ -73,30 +55,15 @@
   "impacto": 212,
   "temas": [
     {
-      "tema": "Mulheres e inclusão",
-      "n": 2
+      "tema": "Robótica e cultura maker",
+      "n": 1
     },
     {
-      "tema": "Robótica e cultura maker",
+      "tema": "Mulheres e inclusão",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Matheus Tiago Amorim Pereira",
-      "slug": "matheus-tiago-amorim-pereira",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Nauvia Maria Cancelieri",
-      "slug": "nauvia-maria-cancelieri",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Debora Galavote Moura",
-      "slug": "debora-galavote-moura",
-      "acoes_comuns": 2
-    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",
@@ -110,6 +77,16 @@
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Matheus Tiago Amorim Pereira",
+      "slug": "matheus-tiago-amorim-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
       "acoes_comuns": 1
     },
     {
@@ -240,6 +217,11 @@
     {
       "nome": "Leticia Comissario da Silva",
       "slug": "leticia-comissario-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Debora Galavote Moura",
+      "slug": "debora-galavote-moura",
       "acoes_comuns": 1
     },
     {
@@ -745,36 +727,6 @@
     {
       "nome": "Marcio de Lima Braga",
       "slug": "marcio-de-lima-braga",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Julia Sagrillo Barreiros",
-      "slug": "julia-sagrillo-barreiros",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabriel Santos da Silva Valbuza",
-      "slug": "gabriel-santos-da-silva-valbuza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Akilanny Silva Cruz",
-      "slug": "akilanny-silva-cruz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Angelo dos Santos Teixeira",
-      "slug": "angelo-dos-santos-teixeira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kauã Alexandre Bernardes",
-      "slug": "kaua-alexandre-bernardes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Victor Ramos Dessaune",
-      "slug": "victor-ramos-dessaune",
       "acoes_comuns": 1
     }
   ]

@@ -9,14 +9,31 @@
   "Ação vinculante": "-",
   "Grande área conhecimento": "Linguística, Letras e Artes",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Cultura",
   "Relatório aprovado": "Sim",
   "Data último relatório": "09/03/2018",
   "Data de cadastro": "02/04/2018",
   "Resumo": "O projeto Coral Musicante tem como objetivo principal oferecer aos alunos do Ifes Campus Serra interação, aprendizagem e aprofundamento sobre música por meio da atividade de canto coral. A proposta visa desenvolver e ampliar as experiências estéticas e musicais em nossa escola através de ensaios, preparação de repertório e apresentações musicais internas e externas.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 16,
+  "publico_alvo_total": 15,
+  "atividades": [
+    {
+      "atividade_id": "5112",
+      "numero": "001",
+      "atividade": "Coral Musicante",
+      "publico": 15,
+      "aprovados": 15,
+      "certificados": 15,
+      "equipe": 1
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Ricardo Ramos Costa",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

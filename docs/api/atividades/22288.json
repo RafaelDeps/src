@@ -1,0 +1,52 @@
+{
+  "atividade_id": "22288",
+  "numero": "102",
+  "atividade": "Maratona de Programação 2026",
+  "acao_id": "3140",
+  "acao_titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
+  "processo": "23158.001185/2020-56",
+  "coordenador_acao": "Emmanuel Marques Silva",
+  "publico_alvo": {
+    "total": 0,
+    "aprovados": 0,
+    "certificados": 0,
+    "situacao": {}
+  },
+  "equipe_execucao": [
+    {
+      "nome": "Karin Satie Komati",
+      "funcao": "ORGANIZADOR(A)",
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Jheam Storch Ross",
+      "funcao": "APOIO TÉCNICO",
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "funcao": "APOIO TÉCNICO",
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Vivian Moreira Gomes de Lacerda",
+      "funcao": "APOIO TÉCNICO",
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "funcao": "APOIO TÉCNICO",
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "funcao": "APOIO TÉCNICO",
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "funcao": "APOIO TÉCNICO",
+      "vinculo": "Aluno"
+    }
+  ]
+}

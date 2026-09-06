@@ -3,29 +3,16 @@
   "nome": "Wagner Scopel Falcão",
   "resumo_ia": null,
   "anos": [
-    "2018",
     "2019",
     "2020"
   ],
   "funcoes": [
     "APOIO TÉCNICO",
     "ASSESSOR(A)",
-    "INSTRUTOR(A)",
-    "PALESTRANTE"
+    "INSTRUTOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "2082",
-      "titulo": "Mulheres na Ciência",
-      "tipo": "Curso",
-      "ano": "2018",
-      "n": 53,
-      "pub": 25,
-      "funcoes": [
-        "PALESTRANTE"
-      ]
-    },
     {
       "acao_id": "2505",
       "titulo": "Circuito Audiovisual",
@@ -42,7 +29,7 @@
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
       "tipo": "Programa",
       "ano": "2020",
-      "n": 1611,
+      "n": 1618,
       "pub": 905,
       "funcoes": [
         "APOIO TÉCNICO",
@@ -52,11 +39,11 @@
   ],
   "atividades": [
     {
-      "ano": "2018",
-      "atividade_id": "6874",
-      "acao_id": "2082",
-      "atividade": "Mulheres na Ciência",
-      "pub": 17
+      "ano": "2019",
+      "atividade_id": "10575",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     },
     {
       "ano": "2019",
@@ -74,13 +61,6 @@
     },
     {
       "ano": "2019",
-      "atividade_id": "10575",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
-    },
-    {
-      "ano": "2019",
       "atividade_id": "8630",
       "acao_id": "2505",
       "atividade": "Circuito Audiovisual",
@@ -95,27 +75,23 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "18849",
-      "acao_id": "3140",
-      "atividade": "I Workshop de Formação sobre Mediação EaD – Curso de Tecnologia em Sistemas para Internet",
-      "pub": 22
-    },
-    {
-      "ano": "2020",
       "atividade_id": "18850",
       "acao_id": "3140",
       "atividade": "I Workshop de Formação sobre Mediação EaD – Curso de Tecnologia em Sistemas para Internet",
       "pub": 32
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "18849",
+      "acao_id": "3140",
+      "atividade": "I Workshop de Formação sobre Mediação EaD – Curso de Tecnologia em Sistemas para Internet",
+      "pub": 22
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 112,
-  "impacto": 112,
+  "imp_eq": 95,
+  "impacto": 95,
   "temas": [
-    {
-      "tema": "Mulheres e inclusão",
-      "n": 1
-    },
     {
       "tema": "Cultura e arte",
       "n": 1
@@ -126,91 +102,6 @@
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Graziela Barboza Guaitolini Ramos",
-      "slug": "graziela-barboza-guaitolini-ramos",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Éllen Oliveira Silva Neves",
-      "slug": "ellen-oliveira-silva-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Rúbia Ramos Vicente",
-      "slug": "ana-rubia-ramos-vicente",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Ramos Gonzaga",
-      "slug": "bruno-ramos-gonzaga",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nauvia Maria Cancelieri",
-      "slug": "nauvia-maria-cancelieri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Fidelis Zanetti de Castro",
-      "slug": "fidelis-zanetti-de-castro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Tatiane Policário Chagas",
-      "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ernani Leite Ribeiro Filho",
-      "slug": "ernani-leite-ribeiro-filho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Josué Rego da Silva",
-      "slug": "josue-rego-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maria Gabriela Siqueira Tavares",
-      "slug": "maria-gabriela-siqueira-tavares",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Sarah Silva Ferreira",
-      "slug": "sarah-silva-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Amarildo Mendes Lemos",
       "slug": "amarildo-mendes-lemos",
@@ -269,6 +160,11 @@
     {
       "nome": "Ursula Dart Bottrel do Nascimento",
       "slug": "ursula-dart-bottrel-do-nascimento",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 1
     },
     {
@@ -429,6 +325,11 @@
     {
       "nome": "Celeste Nascimento Souza Silva",
       "slug": "celeste-nascimento-souza-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
     },
     {
@@ -837,6 +738,31 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Jheam Storch Ross",
+      "slug": "jheam-storch-ross",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Silva Guimarães",
+      "slug": "eduardo-silva-guimaraes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Machado Souza",
+      "slug": "rafael-machado-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Campos Sutil",
+      "slug": "davi-campos-sutil",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alice Lourenço dos Reis",
+      "slug": "alice-lourenco-dos-reis",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Karyna Martins Carbas",
       "slug": "karyna-martins-carbas",
       "acoes_comuns": 1
@@ -849,11 +775,6 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rafael Machado Souza",
-      "slug": "rafael-machado-souza",
       "acoes_comuns": 1
     },
     {
@@ -872,18 +793,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Campos Sutil",
-      "slug": "davi-campos-sutil",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Gustavo Saraiva Mariano",
       "slug": "gustavo-saraiva-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alice Lourenço dos Reis",
-      "slug": "alice-lourenco-dos-reis",
       "acoes_comuns": 1
     },
     {
@@ -962,8 +873,18 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Wagner Kirmse Caldas",
       "slug": "wagner-kirmse-caldas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 1
     },
     {
@@ -1014,6 +935,11 @@
     {
       "nome": "Guilherme Santos do Rosário",
       "slug": "guilherme-santos-do-rosario",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
       "acoes_comuns": 1
     },
     {

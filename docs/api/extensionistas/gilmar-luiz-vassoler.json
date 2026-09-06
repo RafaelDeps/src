@@ -3,14 +3,12 @@
   "nome": "Gilmar Luiz Vassoler",
   "resumo_ia": null,
   "anos": [
-    "2016",
     "2017",
     "2018"
   ],
   "funcoes": [
     "AVALIADOR(A)",
     "COLABORADOR(A)",
-    "COORDENADOR(A) ADJUNTO(A)",
     "MEMBRO DE COMITÊ GESTOR",
     "ORGANIZADOR(A)"
   ],
@@ -20,8 +18,8 @@
       "titulo": "Semana de Ciência e Tecnologia do Campus Serra do Ifes",
       "tipo": "Evento",
       "ano": "2017",
-      "n": 0,
-      "pub": 0
+      "n": 1062,
+      "pub": 366
     }
   ],
   "participacoes_equipe": [
@@ -58,23 +56,12 @@
       "funcoes": [
         "COLABORADOR(A)"
       ]
-    },
-    {
-      "acao_id": "730",
-      "titulo": "Câmara de Assessoramento em Gestão e Tecnologia do Núcleo Incubador do campus Serra do Ifes",
-      "tipo": "Projeto",
-      "ano": "2016",
-      "n": 9,
-      "pub": 0,
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ]
     }
   ],
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "11587",
+      "atividade_id": "11584",
       "acao_id": "1116",
       "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
@@ -88,9 +75,9 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "11584",
+      "atividade_id": "3049",
       "acao_id": "1116",
-      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
@@ -102,9 +89,9 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "3049",
+      "atividade_id": "11587",
       "acao_id": "1116",
-      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
@@ -120,18 +107,11 @@
       "acao_id": "1883",
       "atividade": "Inova Serra",
       "pub": 0
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "1610",
-      "acao_id": "730",
-      "atividade": "Câmara de Assessoramento em Gestão e Tecnologia do Núcleo Incubador do campus Serra do Ifes",
-      "pub": 0
     }
   ],
-  "imp_coord": 0,
+  "imp_coord": 366,
   "imp_eq": 15,
-  "impacto": 15,
+  "impacto": 381,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
@@ -140,23 +120,13 @@
   ],
   "colaboradores": [
     {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 4
-    },
-    {
       "nome": "Francisco José Casarim Rapchan",
       "slug": "francisco-jose-casarim-rapchan",
       "acoes_comuns": 3
     },
     {
-      "nome": "Dirceu Soares Júnior",
-      "slug": "dirceu-soares-junior",
-      "acoes_comuns": 3
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 3
     },
     {
@@ -190,6 +160,16 @@
       "acoes_comuns": 2
     },
     {
+      "nome": "Dirceu Soares Júnior",
+      "slug": "dirceu-soares-junior",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 2
+    },
+    {
       "nome": "Valéria Gabriel Estanislau",
       "slug": "valeria-gabriel-estanislau",
       "acoes_comuns": 2
@@ -197,16 +177,6 @@
     {
       "nome": "Elizangela Campos da Rosa Broetto",
       "slug": "elizangela-campos-da-rosa-broetto",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Edilson Luiz do Nascimento",
-      "slug": "edilson-luiz-do-nascimento",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "José Geraldo das Neves Orlandi",
-      "slug": "jose-geraldo-das-neves-orlandi",
       "acoes_comuns": 2
     },
     {
@@ -380,6 +350,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Edilson Luiz do Nascimento",
+      "slug": "edilson-luiz-do-nascimento",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
@@ -390,18 +365,118 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Ketter Zuchi Caliari Miranda",
+      "slug": "ketter-zuchi-caliari-miranda",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Vieira Motta",
+      "slug": "rafael-vieira-motta",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Yasmim da Silva Nunes",
+      "slug": "yasmim-da-silva-nunes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago da Costa Freitas",
+      "slug": "thiago-da-costa-freitas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Pedro Mathias Nakibar",
+      "slug": "pedro-mathias-nakibar",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tarcisio Bruni Rangel",
+      "slug": "tarcisio-bruni-rangel",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "David Pantaleão Vilaça",
+      "slug": "david-pantaleao-vilaca",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ramon Kazushi Cossual Sakurada",
+      "slug": "ramon-kazushi-cossual-sakurada",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Afonso dos Anjos",
+      "slug": "rafael-afonso-dos-anjos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "João Carlos Pandolfi Santana",
+      "slug": "joao-carlos-pandolfi-santana",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Magno Macedo de Oliveira",
+      "slug": "magno-macedo-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tiago Ribeiro Santos",
+      "slug": "tiago-ribeiro-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gary Moura da Silva",
+      "slug": "gary-moura-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabrielle Azevedo Barros da Cunha Duda",
+      "slug": "gabrielle-azevedo-barros-da-cunha-duda",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emanuel Rampinelli Gloria",
+      "slug": "emanuel-rampinelli-gloria",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vitor Soares Salzman",
+      "slug": "vitor-soares-salzman",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "José Guilherme Silva de Lima",
+      "slug": "jose-guilherme-silva-de-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Higor Martins Rebello",
+      "slug": "higor-martins-rebello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduarda Rodrigues Simões",
+      "slug": "eduarda-rodrigues-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Caio Abelar Kinupp Monteiro",
+      "slug": "caio-abelar-kinupp-monteiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Brunna Dalzini de Oliveira",
+      "slug": "brunna-dalzini-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Suely Ferreira Augusto",
       "slug": "suely-ferreira-augusto",
       "acoes_comuns": 1
     },
     {
-      "nome": "Filipe Arthur Firmino Monhol",
-      "slug": "filipe-arthur-firmino-monhol",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Maxwell Eduardo Monteiro",
-      "slug": "maxwell-eduardo-monteiro",
+      "nome": "José Geraldo das Neves Orlandi",
+      "slug": "jose-geraldo-das-neves-orlandi",
       "acoes_comuns": 1
     }
   ]

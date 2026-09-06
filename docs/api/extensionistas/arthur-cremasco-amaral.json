@@ -15,7 +15,7 @@
       "titulo": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
       "tipo": "Projeto",
       "ano": "2023",
-      "n": 124,
+      "n": 126,
       "pub": 86,
       "funcoes": [
         "AUXILIAR TÉCNICO"
@@ -44,6 +44,11 @@
     {
       "nome": "Paulo Sérgio dos Santos Júnior",
       "slug": "paulo-sergio-dos-santos-junior",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Paulo Henrique Freitas",
+      "slug": "paulo-henrique-freitas",
       "acoes_comuns": 1
     },
     {
