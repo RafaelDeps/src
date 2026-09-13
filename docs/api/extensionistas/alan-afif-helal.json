@@ -3,37 +3,37 @@
   "nome": "Alan Afif Helal",
   "resumo_ia": null,
   "anos": [
-    "2016"
+    "2021"
   ],
   "funcoes": [
-    "COLABORADOR(A)"
+    "ORIENTADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
     {
-      "acao_id": "899",
-      "titulo": "SEMANA DE CONTROLE E AUTOMAÇÃO",
-      "tipo": "Evento",
-      "ano": "2016",
-      "n": 181,
-      "pub": 124,
+      "acao_id": "3431",
+      "titulo": "Lampex + empreendedor",
+      "tipo": "Projeto",
+      "ano": "2021",
+      "n": 14,
+      "pub": 2,
       "funcoes": [
-        "COLABORADOR(A)"
+        "ORIENTADOR(A)"
       ]
     }
   ],
   "atividades": [
     {
-      "ano": "2016",
-      "atividade_id": "2732",
-      "acao_id": "899",
-      "atividade": "SEMANA DE CONTROLE E AUTOMAÇÃO",
-      "pub": 69
+      "ano": "2021",
+      "atividade_id": "11978",
+      "acao_id": "3431",
+      "atividade": "Lampex + empreendedor",
+      "pub": 2
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 69,
-  "impacto": 69,
+  "imp_eq": 2,
+  "impacto": 2,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
@@ -42,38 +42,13 @@
   ],
   "colaboradores": [
     {
-      "nome": "Wallas Gusmão Thomas",
-      "slug": "wallas-gusmao-thomas",
+      "nome": "Bruno Cardoso Coutinho",
+      "slug": "bruno-cardoso-coutinho",
       "acoes_comuns": 1
     },
     {
-      "nome": "João Antonio Campos Panceri",
-      "slug": "joao-antonio-campos-panceri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabriel Tozatto Zago",
-      "slug": "gabriel-tozatto-zago",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Arthur de Almeida Macedo",
-      "slug": "arthur-de-almeida-macedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Pedro Quirino Filho",
-      "slug": "joao-pedro-quirino-filho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Christian Mariani Lucas dos Santos",
-      "slug": "christian-mariani-lucas-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cloves Antonio Wotkovsky Junior",
-      "slug": "cloves-antonio-wotkovsky-junior",
+      "nome": "Matheus Teixeira de Aguiar",
+      "slug": "matheus-teixeira-de-aguiar",
       "acoes_comuns": 1
     },
     {
@@ -82,128 +57,43 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Sérgio Estevam da Costa Junior",
-      "slug": "sergio-estevam-da-costa-junior",
+      "nome": "Adelson Pereira do Nascimento",
+      "slug": "adelson-pereira-do-nascimento",
       "acoes_comuns": 1
     },
     {
-      "nome": "José Martins de Oliveira Junior",
-      "slug": "jose-martins-de-oliveira-junior",
+      "nome": "Guilherme Firme Fiorot",
+      "slug": "guilherme-firme-fiorot",
       "acoes_comuns": 1
     },
     {
-      "nome": "Diego de Deus Bazilio",
-      "slug": "diego-de-deus-bazilio",
+      "nome": "Juliana Ricato Musso Silva",
+      "slug": "juliana-ricato-musso-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Breno Ricardo Ferreira Antunes",
+      "slug": "breno-ricardo-ferreira-antunes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Pedro Aguiar Alves",
+      "slug": "pedro-aguiar-alves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Elen Lara",
+      "slug": "elen-lara",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Flavio Severiano Lamas de Souza",
+      "slug": "flavio-severiano-lamas-de-souza",
       "acoes_comuns": 1
     },
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alan Pablo Donati Pereira",
-      "slug": "alan-pablo-donati-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gilberto Neves Sudre Filho",
-      "slug": "gilberto-neves-sudre-filho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Diego Pereira de Carvalho Pires",
-      "slug": "diego-pereira-de-carvalho-pires",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiza Alcantara dos Santos",
-      "slug": "luiza-alcantara-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Paulo José de Almeida Barbosa",
-      "slug": "paulo-jose-de-almeida-barbosa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ana Carolina dos Santos Rangel",
-      "slug": "ana-carolina-dos-santos-rangel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Adriano Felipe Salgado Barros",
-      "slug": "adriano-felipe-salgado-barros",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Filipe Nolasco Anastácio",
-      "slug": "filipe-nolasco-anastacio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Miguel Castro Gomes",
-      "slug": "miguel-castro-gomes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Jéssica Vieira Alvarenga dos Passos",
-      "slug": "jessica-vieira-alvarenga-dos-passos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Wander Marques Sanches Matos",
-      "slug": "pedro-wander-marques-sanches-matos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Victor Bonella Lopes",
-      "slug": "joao-victor-bonella-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Vitor Zanchetta Corres",
-      "slug": "joao-vitor-zanchetta-corres",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Breno Siquara Azevedo",
-      "slug": "breno-siquara-azevedo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luis Felippe Klein Faria",
-      "slug": "luis-felippe-klein-faria",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Estevão Nolasco Fonseca",
-      "slug": "estevao-nolasco-fonseca",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Eduardo Pereira Tavares",
-      "slug": "eduardo-pereira-tavares",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cleiton Maximo Junior",
-      "slug": "cleiton-maximo-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kamila Maria Vieira Pralon",
-      "slug": "kamila-maria-vieira-pralon",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alexandre Elias de Amorim Pagung",
-      "slug": "alexandre-elias-de-amorim-pagung",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiza Broseghini Pin",
-      "slug": "luiza-broseghini-pin",
       "acoes_comuns": 1
     }
   ]

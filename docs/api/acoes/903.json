@@ -8,16 +8,102 @@
   "Fomento": "SEM VÍNCULO",
   "Ação vinculante": "-",
   "Grande área conhecimento": "",
-  "Grande área conhecimento (inferida)": "Ciências Sociais Aplicadas",
   "Área temática principal": "",
-  "Área temática principal (inferida)": "Educação",
   "Relatório aprovado": "Sim",
   "Data último relatório": "",
   "Data de cadastro": "24/10/2016",
   "Resumo": "Visa auxiliar na normalização e na educação dos servidores públicos do Ifes sobre o aspecto da gestão documental, este projeto tem como objetivo desenvolver um sistema de informação denominado GDE. O GDE permitirá que a Arquivologista do Ifes classifique os documentos e crie uma relação de equiparidade entre os documentos existentes no Ifes. A classificação e equiparidade será por meio da tabela fornecida da CONARQ.\n\nO GDE não será utilizado apenas pela Arquivologista do Ifes e, sim, por todos os servidores públicos da instituição. Esse será uma base de conhecimento para toda a instituição sobre os documentos e seus tramites dentro e fora do Ifes.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 11,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "2101",
+      "numero": "001",
+      "atividade": "GDE: Gestão de Tipos Documentais do IFES",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 11
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "André Spadetto Leão",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Gabriel Luiz Magnago Bianchi",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Ivana Amorim Julião",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Janda Tamara de Sousa",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Jennifer Camille Gomes Duarte",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Lucas Gomes Flegler",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marcos Vinícius Forecchi Accioly",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "funcoes": [
+        "AUXILIAR TÉCNICO"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Rodrigo Fernandes Calhau",
+      "funcoes": [
+        "AUXILIAR TÉCNICO"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Sara Coelho Gregório Dias",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

@@ -14,18 +14,8 @@
   "Data de cadastro": "23/06/2015",
   "Resumo": "A Diretoria de Pesquisa, Pós-Graduação e Extensão realizará no dia 4 de maio (segunda-feira), no auditório do Campus, das 14h às 17h, o Seminário dos Grupos de Pesquisa do campus Serra. O evento tem o objetivo de expor, difundir e discutir os trabalhos de pesquisa dos grupos e contará com apresentações da Coordenação de Pesquisa e de todos os grupos de pesquisa do Campus.\n\nO seminário é destinado aos estudantes dos cursos técnicos e superiores interessados em conhecer melhor as possibilidades de iniciação científica e tecnológica.",
   "Campus": "Serra",
-  "total_participacoes": 115,
-  "publico_alvo_total": 115,
-  "atividades": [
-    {
-      "atividade_id": "676",
-      "numero": "001",
-      "atividade": "Seminário dos Grupos de Pesquisa do Campus Serra",
-      "publico": 115,
-      "aprovados": 115,
-      "certificados": 115,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

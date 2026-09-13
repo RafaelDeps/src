@@ -14,26 +14,8 @@
   "Data de cadastro": "31/10/2024",
   "Resumo": "A “Semana da Consciência Negra – IFES-Serra – 2024” corresponde a uma Ação\nComplementar de Ensino que contempla aspectos relevantes agenda dos movimentos sociais\nligados às lutas do povo negro e dos povos indígenas do Brasil pelo reconhecimento de\ndireitos e por reparações históricas. O evento consistirá em um dia de atividades realizadas no\ncampus Serra do IFES (auditório, saguão de entrada, pátio interno e ginásio poliesportivo). Os\nparticipantes contarão, inicialmente com uma Mesa-redonda que tratará de problemas\nrelacionados ao acesso, permanência e conhecimento de sua história por parte de pretos,\npardos e indígenas, por meio de uma palestra e da apresentação de dados escolares dos\ncotistas do IFES-Serra. Acontecerá também uma oficina na qual os participantes terão acesso a\nconhecimentos básicos da produção audiovisual e os colocarão em prática na mesma oficina.\nNa sequência, será oferecida uma sessão cineclubista com bate-papo ao final sobre as\nquestões trazidas nas peças audiovisuais apresentadas. Por fim, acontecerá uma oficina de\ncapoeira e maculelê.",
   "Campus": "Serra",
-  "total_participacoes": 1,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "19034",
-      "numero": "001",
-      "atividade": "Semana da Consciência Negra – IFES-Serra - 2024",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 1
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Amarildo Mendes Lemos",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

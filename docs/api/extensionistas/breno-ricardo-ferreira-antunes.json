@@ -3,7 +3,8 @@
   "nome": "Breno Ricardo Ferreira Antunes",
   "resumo_ia": null,
   "anos": [
-    "2021"
+    "2021",
+    "2022"
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA"
@@ -20,6 +21,17 @@
       "funcoes": [
         "ALUNO(A) BOLSISTA"
       ]
+    },
+    {
+      "acao_id": "4033",
+      "titulo": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "tipo": "Projeto",
+      "ano": "2022",
+      "n": 165,
+      "pub": 0,
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ]
     }
   ],
   "atividades": [
@@ -29,6 +41,13 @@
       "acao_id": "3431",
       "atividade": "Lampex + empreendedor",
       "pub": 2
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "13927",
+      "acao_id": "4033",
+      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "pub": 0
     }
   ],
   "imp_coord": 0,
@@ -37,18 +56,18 @@
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 1
+      "n": 2
     }
   ],
   "colaboradores": [
     {
-      "nome": "Bruno Cardoso Coutinho",
-      "slug": "bruno-cardoso-coutinho",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Matheus Teixeira de Aguiar",
       "slug": "matheus-teixeira-de-aguiar",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Bruno Cardoso Coutinho",
+      "slug": "bruno-cardoso-coutinho",
       "acoes_comuns": 1
     },
     {
@@ -94,6 +113,76 @@
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Douglas de Oliveira Alkimim",
+      "slug": "douglas-de-oliveira-alkimim",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Augusto de Carvalho",
+      "slug": "thiago-augusto-de-carvalho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Arthur Delpupo Coelho",
+      "slug": "arthur-delpupo-coelho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thaís de Souza",
+      "slug": "thais-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Lucas Gabriel Araújo Codeco",
+      "slug": "lucas-gabriel-araujo-codeco",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sofia de Alcantara Silva",
+      "slug": "sofia-de-alcantara-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Mulullo Alcântara",
+      "slug": "davi-mulullo-alcantara",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Inaê Santos Gonçalves",
+      "slug": "inae-santos-goncalves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduarda Rodrigues Simões",
+      "slug": "eduarda-rodrigues-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Mayke Willans Christo Pereira",
+      "slug": "mayke-willans-christo-pereira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Manoel Rodrigues Loureiro",
+      "slug": "manoel-rodrigues-loureiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Raynan Araujo da Silva",
+      "slug": "raynan-araujo-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Filipe Anunciação Batista de Moura",
+      "slug": "filipe-anunciacao-batista-de-moura",
       "acoes_comuns": 1
     }
   ]

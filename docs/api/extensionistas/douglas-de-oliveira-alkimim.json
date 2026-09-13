@@ -15,7 +15,7 @@
       "titulo": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "tipo": "Projeto",
       "ano": "2022",
-      "n": 164,
+      "n": 165,
       "pub": 0,
       "funcoes": [
         "ALUNO(A) VOLUNTARIO"
@@ -44,6 +44,11 @@
     {
       "nome": "Fidelis Zanetti de Castro",
       "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Breno Ricardo Ferreira Antunes",
+      "slug": "breno-ricardo-ferreira-antunes",
       "acoes_comuns": 1
     },
     {

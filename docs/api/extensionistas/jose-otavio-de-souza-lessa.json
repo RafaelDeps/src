@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "21455",
-      "acao_id": "3140",
-      "atividade": "Monitoria de Programação e Matemática do 2º Semestre Letivo de 2025",
-      "pub": 20
-    },
-    {
-      "ano": "2020",
       "atividade_id": "22295",
       "acao_id": "3140",
       "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Programação e Desenvolvimento",
       "pub": 17
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "21455",
+      "acao_id": "3140",
+      "atividade": "Monitoria de Programação e Matemática do 2º Semestre Letivo de 2025",
+      "pub": 20
     }
   ],
   "imp_coord": 0,

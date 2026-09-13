@@ -14,54 +14,8 @@
   "Data de cadastro": "08/08/2018",
   "Resumo": "O presente projeto partiu de necessidades das Unidades Básicas de Saúde de Vitória verificadas em projetos anteriores realizados pelos professores parceiros da UFES. Este projeto será realizado em paralelo com o projeto “Sistema para predição de transtornos mentais comuns na atenção primária a saúde” e com o projeto “Identificação de Transtornos Mentais Comuns e Abuso De Álcool/Drogas no Âmbito Da Atenção Primária à Saúde” submetido a EDITAL FAPES pela proponente Maria Carmen Viana, cujo proponente do referido projeto é pesquisador principal.",
   "Campus": "Serra",
-  "total_participacoes": 5,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "5788",
-      "numero": "001",
-      "atividade": "Sistema de apoio para rastreio e geolocalização de transtornos mentais comuns na atenção primária a saúde",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 5
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Andreângelo da Paixão Patuzzo",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Carlos Lins Borges Azevedo",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Rafael Afonso dos Anjos",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

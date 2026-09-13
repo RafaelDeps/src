@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2024",
-      "atividade_id": "20161",
-      "acao_id": "5086",
-      "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
-      "pub": 51
-    },
-    {
-      "ano": "2024",
       "atividade_id": "22201",
       "acao_id": "5086",
       "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 112
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "20161",
+      "acao_id": "5086",
+      "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 51
     }
   ],
   "imp_coord": 0,

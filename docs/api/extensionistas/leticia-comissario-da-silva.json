@@ -46,17 +46,17 @@
     },
     {
       "ano": "2025",
-      "atividade_id": "20615",
-      "acao_id": "5641",
-      "atividade": "Minicurso \"Manufatura Aditiva\"",
-      "pub": 17
-    },
-    {
-      "ano": "2025",
       "atividade_id": "20613",
       "acao_id": "5641",
       "atividade": "LabMaker 4.0: capacitando professores para a cultura maker e tecnologias da Indústria 4.0",
       "pub": 0
+    },
+    {
+      "ano": "2025",
+      "atividade_id": "20615",
+      "acao_id": "5641",
+      "atividade": "Minicurso \"Manufatura Aditiva\"",
+      "pub": 17
     }
   ],
   "imp_coord": 0,

@@ -14,18 +14,8 @@
   "Data de cadastro": "01/06/2015",
   "Resumo": "Analisando os índices de retenção em disciplinas dos primeiros períodos acadêmicos dos cursos de Bacharelado em Sistemas de Informação e Engenharia de Controle e Automação do Instituto Federal do Espírito Santo (Campus Serra), têm-se observado que, ao longo dos anos tem havido um grande crescimento, comportamento este que tem gerado uma grande preocupação por parte da equipe pedagógica, levando-se a se inferir que a base estudantil em matemática dos alunos de um modo geral, tem se mostrado pouco eficiente, em especial os que possuem atividades acadêmicas em período integral, estudantes-trabalhadores que embarcam e ficam dias sem aulas ou qualquer estudante que não possuem competências necessárias ao bom desempenho escolar.\n\nAssim, torna-se necessário uma intervenção pedagógica, possibilitando uma melhora nos estudos dos alunos, maior motivação, inclusão, garantir a permanência, visando cada vez mais oferecer ensino público de qualidade para a sociedade.\n\nDiante deste contexto, o Ifes campus Serra inicia seu projeto de Tutoria de Estudos Orientados em Matemática, cujo qual acontecerá em forma de encontros presenciais e à distância, entre professores, alunos e pedagogos, com o intuito de aumentar a possibilidade de sucesso acadêmico através do atendimento diferenciado do aluno, uma vez que cada aluno terá a oportunidade, através de metodologia complementar e paralela, de aprender o conteúdo ou a unidade curricular que mais necessita e no seu ritmo, sendo que o mesmo terá acompanhamento pedagógico para apresentar seu rendimento ou suas dificuldades.",
   "Campus": "Serra",
-  "total_participacoes": 38,
-  "publico_alvo_total": 38,
-  "atividades": [
-    {
-      "atividade_id": "674",
-      "numero": "001",
-      "atividade": "Tutoria de Estudos Orientados em Matemática Nº 01/2014",
-      "publico": 38,
-      "aprovados": 18,
-      "certificados": 18,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

@@ -15,8 +15,8 @@
       "titulo": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
       "tipo": "Curso",
       "ano": "2022",
-      "n": 0,
-      "pub": 0
+      "n": 26,
+      "pub": 23
     }
   ],
   "participacoes_equipe": [
@@ -41,10 +41,14 @@
       "pub": 9
     }
   ],
-  "imp_coord": 0,
+  "imp_coord": 23,
   "imp_eq": 9,
-  "impacto": 9,
+  "impacto": 32,
   "temas": [
+    {
+      "tema": "Empreendedorismo e incubação",
+      "n": 1
+    },
     {
       "tema": "Robótica e cultura maker",
       "n": 1
@@ -869,6 +873,21 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nicolas Nasário Ferreira",
+      "slug": "nicolas-nasario-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marcos Paulo Kohler Caldas",
+      "slug": "marcos-paulo-kohler-caldas",
       "acoes_comuns": 1
     }
   ]

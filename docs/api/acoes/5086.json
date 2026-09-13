@@ -14,8 +14,300 @@
   "Data de cadastro": "23/07/2024",
   "Resumo": "O projeto é uma ação com o intuito de democratizar o conhecimento em programação e Robótica em\nalunos dos últimos anos do ensino fundamental e alunos do Ensino Médio de escolas do município da\nSerra-ES. O projeto visa capacitar alunos para o uso de tecnologias e projetar soluções que possam\nmudar seu entorno e estimular a visão criativa. O projeto considera que através da publicidade e os canais\nde comunicação é possível chamar a atenção de gestores, professores e alunos das escolas e executar\num projeto em formato hibrido. Podem existir momentos presenciais, como também momentos remotos,\nestimulando a cooperação e estreitando os laços entre o ensino da rede federal com o ensino da rede\nmunicipal. Pretende-se utilizar plataformas físicas e também plataformas abertas para\nsimulação/programação, como Tinkercad Circuits e Open Roberta Lab. Este chamado será semestral\ncom o intuito de aderir novas escolas ao projeto e cada final do ano será realizado uma competição ou\nfeira robótica para apresentação de seus projetos ou protótipos. Uma das principais justificativas para\nexecução deste projeto está relacionada com o impacto social regional do município atendido. O\nmunicípio da Serra é atualmente a mais populosa cidade do Estado do Espírito Santo, região que conta\ncom um polo industrial de grandes proporções e que alberga uma grande quantidade de empresas. Pese\na estas indicadores, existe uma grande problemática com a qualidade de ensino fundamental dos últimos\nanos, consequentemente os outros níveis e o fator alarmante da violência registrada nos últimos anos.\nSegundo o Índice de Desenvolvimento da Educação Básica (Ideb) de 2019 (Saeb/Ideb, INEP – 2019), as\nescolas públicas do município apresentaram os seguintes resultados de 4,5 e 4,1 (bandeira vermelha).\nIsto é, os alunos estão muito abaixo da média de aprendizado esperada. O projeto apresentado pretende\ncontribuir com a geração de oportunidades, formação de pessoas com conhecimentos em\ntecnologia/programação, brindando novos caminhos para potencializar habilidades e a possibilidade de\ninserção de cidadãos ao mundo laboral trazendo um retorno positivo para a sociedade.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 218,
+  "publico_alvo_total": 172,
+  "atividades": [
+    {
+      "atividade_id": "20161",
+      "numero": "002",
+      "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "publico": 51,
+      "aprovados": 51,
+      "certificados": 51,
+      "equipe": 8
+    },
+    {
+      "atividade_id": "21813",
+      "numero": "003",
+      "atividade": "Minicurso: Treinamento em Robótica",
+      "publico": 9,
+      "aprovados": 9,
+      "certificados": 9,
+      "equipe": 3
+    },
+    {
+      "atividade_id": "22201",
+      "numero": "004",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "publico": 112,
+      "aprovados": 112,
+      "certificados": 112,
+      "equipe": 35
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Amanda Frasson Nascimento Martins",
+      "funcoes": [
+        "APOIO TÉCNICO",
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Andre Ferreira",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Anyssa Satimi Komati Andrade",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Eduardo Peron Cardozo Babilone",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Elisa Moreira Costa",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Eloah Leocádio de Moura",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Gabriel Pereira Silva",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Gabriel Tozatto Zago",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Gustavo Gomes Brzesky",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Jessica Stinghel Abreu",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Jordana do Amaral Geolando",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "João Victor Nascimento Ribeiro",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Karin Satie Komati",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Kauã Alexandre Bernardes",
+      "funcoes": [
+        "COLABORADOR(A)",
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Lara Walcher de Andrade",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Larissa Maciel Santos",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Leonardo Aguiar do Amaral",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Ludmila Dias",
+      "funcoes": [
+        "APOIO TÉCNICO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Luis Henrique Rosado Torres",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Luma Tavares Lopes de Souza",
+      "funcoes": [
+        "APOIO TÉCNICO",
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marcos Paulo Kohler Caldas",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Maria Clara Peterle de Souza",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Maria Eduarda da Cruz Ferreira",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Maria Júlia Leopoldo Barros",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marina Moraes Silva",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marta Talitha Carvalho Freire Mendes",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Matheus Mesquita Gomes Moura",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Pâmella Victória Bitencourt Novais dos Santos",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Rafael Almeida Deps Caldeira",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "funcoes": [
+        "COORDENADOR(A)",
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Rosiane Ribeiro Rocha",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Tainá Jesus Corrêa Bromonschenkel",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Thiago Almeida Deps Caldeira",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Thiago Henrique Ezequiel dos Santos",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Thiago Meireles Paixão",
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Waleska Sulke dos Santos",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Ícaro Lessa Secchin",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

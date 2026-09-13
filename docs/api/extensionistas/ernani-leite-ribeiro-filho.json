@@ -4,15 +4,28 @@
   "resumo_ia": null,
   "anos": [
     "2015",
-    "2016"
+    "2016",
+    "2018"
   ],
   "funcoes": [
     "AVALIADOR(A)",
     "COLABORADOR(A)",
-    "ORGANIZADOR(A)"
+    "ORGANIZADOR(A)",
+    "PROFESSOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
+      "funcoes": [
+        "PROFESSOR(A)"
+      ]
+    },
     {
       "acao_id": "542",
       "titulo": "Programação Visual Criativa com Scratch",
@@ -45,20 +58,16 @@
       "funcoes": [
         "ORGANIZADOR(A)"
       ]
-    },
-    {
-      "acao_id": "719",
-      "titulo": "Programação Visual Criativa com Scratch + Arduino",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 21,
-      "pub": 12,
-      "funcoes": [
-        "COLABORADOR(A)"
-      ]
     }
   ],
   "atividades": [
+    {
+      "ano": "2018",
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
+    },
     {
       "ano": "2015",
       "atividade_id": "923",
@@ -79,22 +88,19 @@
       "acao_id": "718",
       "atividade": "Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra",
       "pub": 1
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "1560",
-      "acao_id": "719",
-      "atividade": "Programação Criativa com Scratch + Arduino",
-      "pub": 12
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 33,
-  "impacto": 33,
+  "imp_eq": 38,
+  "impacto": 38,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 3
+      "n": 2
+    },
+    {
+      "tema": "Mulheres e inclusão",
+      "n": 1
     },
     {
       "tema": "Cultura e arte",
@@ -103,24 +109,99 @@
   ],
   "colaboradores": [
     {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 4
-    },
-    {
       "nome": "Alessandra Aguiar Vilarinho",
       "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 3
     },
     {
-      "nome": "Mirleni de Jesus",
-      "slug": "mirleni-de-jesus",
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 2
     },
     {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
-      "acoes_comuns": 2
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Bruno Ramos Gonzaga",
+      "slug": "bruno-ramos-gonzaga",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Mirleni de Jesus",
+      "slug": "mirleni-de-jesus",
+      "acoes_comuns": 1
     },
     {
       "nome": "Renato Eugênio da Mota",
@@ -283,11 +364,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Aurélia Hubner Peixouto",
       "slug": "aurelia-hubner-peixouto",
       "acoes_comuns": 1
@@ -380,31 +456,6 @@
     {
       "nome": "Carolinne Quintanilha Ornellas",
       "slug": "carolinne-quintanilha-ornellas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "slug": "irisson-junio-maximo-borges",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Kirmse Caldas",
-      "slug": "wagner-kirmse-caldas",
       "acoes_comuns": 1
     }
   ]

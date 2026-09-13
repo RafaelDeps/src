@@ -14,8 +14,26 @@
   "Data de cadastro": "10/08/2023",
   "Resumo": "Este projeto trata da oferta de uma ação de ensino, Oficina de Libras na prática, aos\nestudantes dos cursos Técnicos Integrados ao Ensino Médio, Técnicos ,Graduação, PósGraduação, Proeja, do campus Serra. Por meio de aulas expositivas, dinâmicas, práticas e\ninteração, será uma oportunidade para o desenvolvimento de práticas inclusivas e\nacessíveis. Os encontros acontecerão semanalmente, às terças-feiras. Para avaliação da\natividade, serão realizadas dinâmicas e quiz no encerramento das aulas. Espera-se que ao\nfinal desta oficina, seja construído um novo olhar sobre a acessibilidade comunicacional,\nprioritariamente da pessoa surda, pois os alunos concluintes estarão em condições de\nusarem o conhecimento adquirido na comunicação básica e apoio aos alunos surdos\nmatriculados em suas turmas ou em outras situações vividas em sociedade.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 19,
+  "publico_alvo_total": 18,
+  "atividades": [
+    {
+      "atividade_id": "16013",
+      "numero": "001",
+      "atividade": "Oficina de Libras na prática",
+      "publico": 18,
+      "aprovados": 18,
+      "certificados": 18,
+      "equipe": 1
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Emilene Coco dos Santos",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

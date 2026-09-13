@@ -14,8 +14,103 @@
   "Data de cadastro": "20/07/2018",
   "Resumo": "A Maratona de Programação é um evento da Sociedade Brasileira de Computação que existe desde o ano de 1996. A Maratona nasceu das competições regionais classificatórias para as finais mundiais do concurso de programação da ACM, o ACM International Collegiate Programming Contest, e é parte da regional sulamericana do concurso. Neste ano ocorre a 20ª edição da Maratona.\n\nEla se destina a alunos de cursos de graduação e início de pós-graduação na área de Computação e afins (Ciência da Computação, Engenharia de Computação, Sistemas de Informação, Matemática, etc). A competição promove nos alunos a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão. De ano para ano temos observado que as instituições e principalmente as grandes empresas da área têm valorizado os alunos que participam da Maratona.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 49,
+  "publico_alvo_total": 37,
+  "atividades": [
+    {
+      "atividade_id": "5720",
+      "numero": "001",
+      "atividade": "Maratona de Programação",
+      "publico": 37,
+      "aprovados": 37,
+      "certificados": 37,
+      "equipe": 12
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Amanda Ferreira de Souza",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Anne Caroline Silva",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Bruno Moreto de Oliveira",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Daniel Ribeiro Trindade",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Flavio Severiano Lamas de Souza",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Hilario Seibel Junior",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Jefferson Oliveira Andrade",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "João Augusto Casagrande da Silva",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Luiz Carlos Vieira Berger",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Paulo Ricardo Viana Ferreira",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

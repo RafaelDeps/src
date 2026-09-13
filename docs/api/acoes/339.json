@@ -14,8 +14,18 @@
   "Data de cadastro": "07/11/2014",
   "Resumo": "O projeto é coordenado por um grupo de professores, entretanto, será ministrado por um grupo de alunos do curso técnico que trabalharam num projeto (\"Robôs Móveis para Inspeção\") de extensão do Programa Petrobras de Formação de Recursos Humanos (PFRH) em parceria com o Ifes e a Facto. Nesse curso se pretende difundir o conhecimento adquirido pelo grupo dos alunos no projeto mencionado.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
+  "total_participacoes": 14,
+  "publico_alvo_total": 14,
+  "atividades": [
+    {
+      "atividade_id": "493",
+      "numero": "001",
+      "atividade": "Introdução à Programação do Lego MindStorm usando LabView",
+      "publico": 14,
+      "aprovados": 14,
+      "certificados": 14,
+      "equipe": 0
+    }
+  ],
   "equipe_execucao": []
 }

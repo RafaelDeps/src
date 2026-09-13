@@ -32,6 +32,17 @@
       "funcoes": [
         "SUPERVISOR(A)"
       ]
+    },
+    {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
+      "funcoes": [
+        "PROFESSOR(A)"
+      ]
     }
   ],
   "atividades": [
@@ -48,15 +59,22 @@
       "acao_id": "1795",
       "atividade": "ESPM-Empregos: Um serviço inteligente para promover a empregabilidade",
       "pub": 0
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 11,
-  "impacto": 11,
+  "imp_eq": 28,
+  "impacto": 28,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 1
+      "n": 2
     },
     {
       "tema": "Ciência e divulgação",
@@ -67,7 +85,17 @@
     {
       "nome": "Giordana dos Santos Sperandio",
       "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Bruno Ramos Gonzaga",
+      "slug": "bruno-ramos-gonzaga",
+      "acoes_comuns": 2
     },
     {
       "nome": "Ingrid de Lima Pella",
@@ -92,16 +120,6 @@
     {
       "nome": "Geovane de Araujo Ceolin",
       "slug": "geovane-de-araujo-ceolin",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Ramos Gonzaga",
-      "slug": "bruno-ramos-gonzaga",
       "acoes_comuns": 1
     },
     {
@@ -132,6 +150,76 @@
     {
       "nome": "Sergio Nery Simões",
       "slug": "sergio-nery-simoes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
       "acoes_comuns": 1
     }
   ]

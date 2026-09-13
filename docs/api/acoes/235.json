@@ -14,8 +14,18 @@
   "Data de cadastro": "05/08/2014",
   "Resumo": "A empresa Intechno Desenvolvimento e Capacitação , empresa incubada no Núcleo Incubador Serra, desenvolve produtos na área industrial e de educaçãocom ênfase em equipamentos e simuladores didáticos para estudantes do ensino técnico e médio. \nA Intechno é uma empresa com base em tecnologia robótica, mecânica e de automação, com grande capacidade inovadora na criação de produtos e soluções.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
+  "total_participacoes": 7,
+  "publico_alvo_total": 7,
+  "atividades": [
+    {
+      "atividade_id": "336",
+      "numero": "001",
+      "atividade": "Exposição do Trabalho: \"Empresa Incubada - Intechno\"",
+      "publico": 7,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 0
+    }
+  ],
   "equipe_execucao": []
 }

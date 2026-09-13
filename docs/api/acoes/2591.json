@@ -14,8 +14,126 @@
   "Data de cadastro": "13/08/2019",
   "Resumo": "O Instituto Federal do Espírito Santo – Campus Serra foi inaugurado em 2001, e desde então oferta cursos técnicos subsequentes e, posteriormente, cursos superiores e mestrado profissional. Somente a partir de 2017, considerando-se as expectativas da comunidade local, esse campus passou a ofertar o ensino médio integrado à educação profissional, o que significou um grande avanço no que diz respeito ao acesso ao ensino médio de qualidade no referido município.\nNesse contexto, o projeto “O IFES é o meu lugar” visa estimular os alunos da rede pública, por meio de uma preparação para o processo seletivo do ensino médio integrado, com aulas expositivas e dialogadas, bem como a resolução de exercícios das disciplinas do ensino fundamental, visando possibilitar a esses alunos uma revisão dos conteúdos trabalhados em suas respectivas escolas. Destarte, esperamos que os alunos estejam preparados e estimulados a realizarem uma boa prova no processo seletivo, como forma de ingresso ao ensino médio integrado no IFES Campus Serra ou em qualquer instituição do IFES no estado.\nÉ sabido que a educação profissional foi inicialmente organizada conforme a concepção de uma sociedade capitalista separada em classes sociais, cuja divisão social do trabalho faz-se entre os que ‘pensam’ e os que ‘fazem’, conforme a dicotomia do saber (a teoria, o ensino secundário, normal e superior) e do executar tarefas manuais (a prática, o ensino profissional) (Gomes &Marins, 2004, p. 30). No entanto, a incorporação do ensino médio ao ensino técnico, nos leva a uma concepção politécnica no qual “se encaminha na direção da superação da dicotomia entre trabalho manual e trabalho intelectual, entre instrução profissional e instrução geral” (Saviani, 2003, p. 136).\nNesse contexto, o ensino médio integrado enseja uma formação que não apenas seja técnica e profissional com o propósito de preparar para o exercício de profissões técnicas, mas também que articule as dimensões da cultura, da ciência e da tecnologia. Integrar, nesse sentido, compreende tornar-se único, em uma totalidade, essas dimensões. Para Ciavatta (2012) “a ideia de formação integrada sugere superar o ser humano dividido historicamente pela divisão social do trabalho entre a ação de executar e a ação de pensar, dirigir ou planejar. Trata-se de superar a redução da preparação para o trabalho ao seu aspecto operacional, simplificado, escoimado dos conhecimentos que estão na sua gênese científico-tecnológica e na sua apropriação histórico-social”. Nesse sentido, a formação humana busca garantir ao jovem trabalhador o direito a uma formação completa para a “leitura do mundo e para a atuação como cidadão pertencente a um país, integrado dignamente à sua sociedade política. (CIAVATTA, 2012, pág. 85).\nReconhecendo, assim, a importância do ensino médio integrado aos jovens em idade escolar, acreditamos que esse Projeto contribuirá para o acesso dos estudantes das escolas públicas do município da Serra aos Institutos Federais, como",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 106,
+  "publico_alvo_total": 80,
+  "atividades": [
+    {
+      "atividade_id": "8972",
+      "numero": "001",
+      "atividade": "O IFES é o meu lugar",
+      "publico": 40,
+      "aprovados": 40,
+      "certificados": 40,
+      "equipe": 14
+    },
+    {
+      "atividade_id": "8973",
+      "numero": "002",
+      "atividade": "O IFES é o meu lugar",
+      "publico": 40,
+      "aprovados": 40,
+      "certificados": 40,
+      "equipe": 12
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Alessandro Bermudes Gomes",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Alexia Coelho Barbosa",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Daniella Araújo Fraga dos Santos",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Davi Aragão Ascacibas",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Gabriela do Nascimento Marin",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Izis Barbosa Coutinho",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Leonardo Rocha Gomes",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Michelle Kapiche Alonso",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Murilo Andrade Carvalho",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Nathielly Bertollo Marques",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Paulo Cezar Camargo Guedes",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Rowenna Tonani Leão dos Santos",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Taise Gonçalves de Jesus",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Thiago Machado Oliveira",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

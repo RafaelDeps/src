@@ -20,8 +20,8 @@
       "titulo": "Tutoria de Estudos Orientados: Compartilhando Saberes",
       "tipo": "Projeto",
       "ano": "2019",
-      "n": 0,
-      "pub": 0
+      "n": 19,
+      "pub": 5
     },
     {
       "acao_id": "2773",
@@ -44,8 +44,8 @@
       "titulo": "Tutoria de Estudos Orientados em Matemática Nº 01/2014",
       "tipo": "Curso",
       "ano": "2015",
-      "n": 38,
-      "pub": 38
+      "n": 0,
+      "pub": 0
     }
   ],
   "participacoes_equipe": [
@@ -58,6 +58,28 @@
       "pub": 11,
       "funcoes": [
         "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
+      "funcoes": [
+        "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "2675",
+      "titulo": "Tutoria de Estudos Orientados: Compartilhando Saberes",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 19,
+      "pub": 5,
+      "funcoes": [
+        "COORDENADOR(A)"
       ]
     },
     {
@@ -103,6 +125,20 @@
       "pub": 11
     },
     {
+      "ano": "2018",
+      "atividade_id": "6873",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 11
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "9225",
+      "acao_id": "2675",
+      "atividade": "Tutoria de Estudos Orientados: Compartilhando Saberes",
+      "pub": 5
+    },
+    {
       "ano": "2019",
       "atividade_id": "9562",
       "acao_id": "2773",
@@ -124,13 +160,13 @@
       "pub": 24
     }
   ],
-  "imp_coord": 44,
-  "imp_eq": 55,
-  "impacto": 99,
+  "imp_coord": 11,
+  "imp_eq": 66,
+  "impacto": 77,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 4
+      "n": 6
     },
     {
       "tema": "Escola e formação de professores",
@@ -141,27 +177,42 @@
     {
       "nome": "Tatiane Policário Chagas",
       "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 3
+      "acoes_comuns": 5
     },
     {
       "nome": "Alessandra Aguiar Vilarinho",
       "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 2
+      "acoes_comuns": 3
     },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 2
     },
     {
       "nome": "Cynthia Kruger Quinino",
       "slug": "cynthia-kruger-quinino",
       "acoes_comuns": 2
-    },
-    {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
     },
     {
       "nome": "Ingrid de Lima Pella",
@@ -184,13 +235,108 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
+      "nome": "Geovane de Araujo Ceolin",
+      "slug": "geovane-de-araujo-ceolin",
       "acoes_comuns": 1
     },
     {
-      "nome": "Geovane de Araujo Ceolin",
-      "slug": "geovane-de-araujo-ceolin",
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Janaina de Medeiros Freitas",
+      "slug": "janaina-de-medeiros-freitas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Euléssia Costa Silva",
+      "slug": "eulessia-costa-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Paula Ferreira Pimentel Cesar",
+      "slug": "ana-paula-ferreira-pimentel-cesar",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Samara Cristina Zupeli Babilon",
+      "slug": "samara-cristina-zupeli-babilon",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Larissa Vervloet Mendonça",
+      "slug": "larissa-vervloet-mendonca",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marcelo Victor Ferreira Barbosa",
+      "slug": "marcelo-victor-ferreira-barbosa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Carlos Guilherme Felismino Pedroni",
+      "slug": "carlos-guilherme-felismino-pedroni",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Helen França Medeiros",
+      "slug": "helen-franca-medeiros",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Raphael Pinto de Almeida",
+      "slug": "raphael-pinto-de-almeida",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vitória Maciel de Carvalho",
+      "slug": "vitoria-maciel-de-carvalho",
       "acoes_comuns": 1
     },
     {
@@ -201,11 +347,6 @@
     {
       "nome": "Priscila dos Santos Moreira",
       "slug": "priscila-dos-santos-moreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
     },
     {

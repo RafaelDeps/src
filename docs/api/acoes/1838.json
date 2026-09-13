@@ -14,8 +14,40 @@
   "Data de cadastro": "31/07/2018",
   "Resumo": "O programa Leds cria é um ambiente que simula o dia-a-dia empresarial. Nesse ambiente alunos se beneficiam da experiência profissional de servidores e parceiros que orientam o desenvolvimento de produtos, processos e serviços, para a sociedade.\nEsse ambiente propicia um aprendizado vivencial para alunos e servidores por meio da cooperação mútua. Além disso, o Leds proporciona um ambiente prático e de experimentação no qual alunos, servidores e parceiros de instituições públicas e privadas podem interagir e, assim, gerar conhecimento e inovações que beneficiem a sociedade. Com isso, o Leds deseja tornar-se\nreferência entre alunos, empresas e sociedade no geral no aprendizado prático e efetivo e em soluções inovativas no âmbito das tecnologias industriais, sociais e da economia criativa.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 4,
+  "publico_alvo_total": 1,
+  "atividades": [
+    {
+      "atividade_id": "5767",
+      "numero": "001",
+      "atividade": "LEDS – Laboratório de Extensão e Desenvolvimento de Soluções",
+      "publico": 1,
+      "aprovados": 1,
+      "certificados": 1,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Gabriel Gonçalves da Costa",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Joel Will Belmiro",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

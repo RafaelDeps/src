@@ -3,15 +3,29 @@
   "nome": "Marcos Paulo Kohler Caldas",
   "resumo_ia": null,
   "anos": [
+    "2022",
     "2023",
+    "2024",
     "2025"
   ],
   "funcoes": [
+    "MEMBRO DE COMITÊ GESTOR",
     "ORIENTADOR(A)",
     "PROFESSOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "4209",
+      "titulo": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
+      "tipo": "Curso",
+      "ano": "2022",
+      "n": 26,
+      "pub": 23,
+      "funcoes": [
+        "PROFESSOR(A)"
+      ]
+    },
     {
       "acao_id": "4820",
       "titulo": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
@@ -22,6 +36,17 @@
       "funcoes": [
         "ORIENTADOR(A)",
         "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "5086",
+      "titulo": "Conectando Talentos: Robótica e Programação no IFES-Serra",
+      "tipo": "Projeto",
+      "ano": "2024",
+      "n": 218,
+      "pub": 168,
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
       ]
     },
     {
@@ -38,11 +63,11 @@
   ],
   "atividades": [
     {
-      "ano": "2023",
-      "atividade_id": "17244",
-      "acao_id": "4820",
-      "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
-      "pub": 42
+      "ano": "2022",
+      "atividade_id": "14474",
+      "acao_id": "4209",
+      "atividade": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
+      "pub": 23
     },
     {
       "ano": "2023",
@@ -50,6 +75,27 @@
       "acao_id": "4820",
       "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
       "pub": 20
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17244",
+      "acao_id": "4820",
+      "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
+      "pub": 42
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "20161",
+      "acao_id": "5086",
+      "atividade": "I Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 51
     },
     {
       "ano": "2025",
@@ -60,19 +106,27 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 91,
-  "impacto": 91,
+  "imp_eq": 277,
+  "impacto": 277,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
       "n": 2
+    },
+    {
+      "tema": "Empreendedorismo e incubação",
+      "n": 1
+    },
+    {
+      "tema": "Robótica e cultura maker",
+      "n": 1
     }
   ],
   "colaboradores": [
     {
       "nome": "Tatiane Policário Chagas",
       "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 2
+      "acoes_comuns": 3
     },
     {
       "nome": "Gina Carla Maciel",
@@ -88,6 +142,16 @@
       "nome": "Matheus Policário Amorim",
       "slug": "matheus-policario-amorim",
       "acoes_comuns": 2
+    },
+    {
+      "nome": "Renner Sartório Camargo",
+      "slug": "renner-sartorio-camargo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nicolas Nasário Ferreira",
+      "slug": "nicolas-nasario-ferreira",
+      "acoes_comuns": 1
     },
     {
       "nome": "Edjane Martins da Silva",
@@ -107,6 +171,186 @@
     {
       "nome": "Cynthia Kruger Quinino",
       "slug": "cynthia-kruger-quinino",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ludmila Dias",
+      "slug": "ludmila-dias",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Amanda Frasson Nascimento Martins",
+      "slug": "amanda-frasson-nascimento-martins",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luma Tavares Lopes de Souza",
+      "slug": "luma-tavares-lopes-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Meireles Paixão",
+      "slug": "thiago-meireles-paixao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marta Talitha Carvalho Freire Mendes",
+      "slug": "marta-talitha-carvalho-freire-mendes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabriel Tozatto Zago",
+      "slug": "gabriel-tozatto-zago",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Kauã Alexandre Bernardes",
+      "slug": "kaua-alexandre-bernardes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Clara Peterle de Souza",
+      "slug": "maria-clara-peterle-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Leonardo Aguiar do Amaral",
+      "slug": "leonardo-aguiar-do-amaral",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luis Henrique Rosado Torres",
+      "slug": "luis-henrique-rosado-torres",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rosiane Ribeiro Rocha",
+      "slug": "rosiane-ribeiro-rocha",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Karin Satie Komati",
+      "slug": "karin-satie-komati",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Andre Ferreira",
+      "slug": "andre-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Waleska Sulke dos Santos",
+      "slug": "waleska-sulke-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Henrique Ezequiel dos Santos",
+      "slug": "thiago-henrique-ezequiel-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Almeida Deps Caldeira",
+      "slug": "thiago-almeida-deps-caldeira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tainá Jesus Corrêa Bromonschenkel",
+      "slug": "taina-jesus-correa-bromonschenkel",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Almeida Deps Caldeira",
+      "slug": "rafael-almeida-deps-caldeira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Pâmella Victória Bitencourt Novais dos Santos",
+      "slug": "pamella-victoria-bitencourt-novais-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Matheus Mesquita Gomes Moura",
+      "slug": "matheus-mesquita-gomes-moura",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marina Moraes Silva",
+      "slug": "marina-moraes-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Júlia Leopoldo Barros",
+      "slug": "maria-julia-leopoldo-barros",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Eduarda da Cruz Ferreira",
+      "slug": "maria-eduarda-da-cruz-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Larissa Maciel Santos",
+      "slug": "larissa-maciel-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Lara Walcher de Andrade",
+      "slug": "lara-walcher-de-andrade",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jordana do Amaral Geolando",
+      "slug": "jordana-do-amaral-geolando",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jessica Stinghel Abreu",
+      "slug": "jessica-stinghel-abreu",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "João Victor Nascimento Ribeiro",
+      "slug": "joao-victor-nascimento-ribeiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ícaro Lessa Secchin",
+      "slug": "icaro-lessa-secchin",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gustavo Gomes Brzesky",
+      "slug": "gustavo-gomes-brzesky",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabriel Pereira Silva",
+      "slug": "gabriel-pereira-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eloah Leocádio de Moura",
+      "slug": "eloah-leocadio-de-moura",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Elisa Moreira Costa",
+      "slug": "elisa-moreira-costa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Peron Cardozo Babilone",
+      "slug": "eduardo-peron-cardozo-babilone",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Anyssa Satimi Komati Andrade",
+      "slug": "anyssa-satimi-komati-andrade",
       "acoes_comuns": 1
     },
     {

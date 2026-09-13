@@ -14,8 +14,18 @@
   "Data de cadastro": "25/09/2014",
   "Resumo": "Demonstrar os conceitos de Calibração e capacitar os alunos em estabelece  a peridiocidade de calibração dos equipamentos, sensibilizando-os de maneira a garantir a qualidade do processo de medição e a validade dos resultados.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
+  "total_participacoes": 20,
+  "publico_alvo_total": 20,
+  "atividades": [
+    {
+      "atividade_id": "457",
+      "numero": "001",
+      "atividade": "Calibração de Instrumentos",
+      "publico": 20,
+      "aprovados": 19,
+      "certificados": 19,
+      "equipe": 0
+    }
+  ],
   "equipe_execucao": []
 }

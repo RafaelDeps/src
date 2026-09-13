@@ -14,8 +14,54 @@
   "Data de cadastro": "13/08/2019",
   "Resumo": "Tendo em vista a grande diversidade de conhecimentos tecnológicos, de natureza dinâmica e evolutiva, juntamente com a necessidade de incluir todos neste mundo digital e visando o compartilhamento igualitário de oportunidades no mercado de trabalho, torna-se cada vez mais necessária a realização de ações de inclusão digital, social e implementação de tecnologias sociais em comunidades vulneráveis. Neste contexto, o projeto “Incluir & Multiplicar” tem como finalidade promover melhorias na formação intelectual, profissional e social de crianças, adolescentes e jovens do bairro de Central Carapina, localizado na periferia do município de Serra - ES, via a inserção de multiplicadores de conhecimentos de informática na comunidade, com a intermediação da Associação de Vivência Shalon, que realiza vários projetos sociais no bairro desde 1997. A formação destes multiplicadores, ou facilitadores, se dará através da oferta de curso de formação básica em informática no Instituto Federal do Espírito Santo, campus Serra. Inserida no projeto pedagógico deste curso, teremos a componente curricular “Estágio em Docência”, quando os alunos dos cursos de inclusão digital do Ifes poderão dedicar algumas horas na semana para ensinar o que aprenderam para as crianças menores, que fazem os cursos de informática na Associação Shalon. A formação no curso de inclusão digital do Ifes terá metodologia específica e adaptada à realidade dos moradores daquela comunidade. As disciplinas serão ministradas por aluno bolsista dos cursos técnicos ou superiores do Ifes, sob orientação do professor coordenador desta ação. A partir da inserção dos multiplicadores na comunidade, espera-se que mais turmas de formação básica em computação possam ser criadas na Associação Shalon, permitindo uma propagação do conhecimento, já que os alunos terão a possibilidade de se tornarem futuros multiplicadores em sua comunidade. Espera-se com esta metodologia cíclica (multiplicadores formando futuros multiplicadores) e com a facilidade de reaplicação da tecnologia social proposta neste trabalho, contribuir com a geração de renda e superação da desigualdade social, por meio da inclusão no mundo do trabalho e autonomia econômica das famílias inscritas no Cadastro Único para Programas Sociais do Governo Federal.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 5,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "8979",
+      "numero": "001",
+      "atividade": "Incluir & Multiplicar",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 5
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Bruno Cardoso Coutinho",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Gabriel Victor Ferreira de Araújo",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Glaucelena Dias Lopes da Vitória",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Juliana Rohsner Vianna Toniati",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Renata Imaculada de Oliveira Teixeira",
+      "funcoes": [
+        "COLABORADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

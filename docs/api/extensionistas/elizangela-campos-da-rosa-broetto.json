@@ -32,16 +32,16 @@
       "titulo": "Curso de Operador de Computador",
       "tipo": "Curso",
       "ano": "2013",
-      "n": 44,
-      "pub": 44
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "110",
       "titulo": "Curso de Eletricista Instalador Predial de Baixa Tensão",
       "tipo": "Curso",
       "ano": "2013",
-      "n": 0,
-      "pub": 0
+      "n": 39,
+      "pub": 39
     }
   ],
   "participacoes_equipe": [
@@ -112,24 +112,17 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "4818",
-      "acao_id": "1261",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
-      "pub": 12
-    },
-    {
-      "ano": "2017",
       "atividade_id": "4502",
       "acao_id": "1261",
       "atividade": "Seminário de Apresentação dos Empreendimentos",
       "pub": 1
     },
     {
-      "ano": "2020",
-      "atividade_id": "13559",
-      "acao_id": "3140",
-      "atividade": "Palestra sobre desenvolvimento de sistemas e empreendedorismo: Tiago Comério (MeuDinheiro)",
-      "pub": 10
+      "ano": "2017",
+      "atividade_id": "4818",
+      "acao_id": "1261",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
+      "pub": 12
     },
     {
       "ano": "2020",
@@ -153,6 +146,13 @@
       "pub": 16
     },
     {
+      "ano": "2020",
+      "atividade_id": "13559",
+      "acao_id": "3140",
+      "atividade": "Palestra sobre desenvolvimento de sistemas e empreendedorismo: Tiago Comério (MeuDinheiro)",
+      "pub": 10
+    },
+    {
       "ano": "2016",
       "atividade_id": "1523",
       "acao_id": "708",
@@ -167,9 +167,9 @@
       "pub": 15
     }
   ],
-  "imp_coord": 118,
+  "imp_coord": 113,
   "imp_eq": 187,
-  "impacto": 305,
+  "impacto": 300,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",

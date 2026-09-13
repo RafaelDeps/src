@@ -4,6 +4,7 @@
   "resumo_ia": null,
   "anos": [
     "2016",
+    "2018",
     "2020"
   ],
   "funcoes": [
@@ -25,6 +26,17 @@
     }
   ],
   "participacoes_equipe": [
+    {
+      "acao_id": "1816",
+      "titulo": "Maratona de Programação",
+      "tipo": "Evento",
+      "ano": "2018",
+      "n": 49,
+      "pub": 37,
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ]
+    },
     {
       "acao_id": "2932",
       "titulo": "Física ao Alcance de Todos",
@@ -64,6 +76,13 @@
   ],
   "atividades": [
     {
+      "ano": "2018",
+      "atividade_id": "5720",
+      "acao_id": "1816",
+      "atividade": "Maratona de Programação",
+      "pub": 37
+    },
+    {
       "ano": "2020",
       "atividade_id": "10285",
       "acao_id": "2932",
@@ -79,9 +98,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "22289",
+      "atividade_id": "21063",
       "acao_id": "3140",
-      "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
+      "atividade": "Equipe de organização da Maratona de Programação 2025",
       "pub": 0
     },
     {
@@ -100,9 +119,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "21063",
+      "atividade_id": "22289",
       "acao_id": "3140",
-      "atividade": "Equipe de organização da Maratona de Programação 2025",
+      "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
       "pub": 0
     },
     {
@@ -114,12 +133,16 @@
     }
   ],
   "imp_coord": 1,
-  "imp_eq": 9,
-  "impacto": 10,
+  "imp_eq": 46,
+  "impacto": 47,
   "temas": [
     {
       "tema": "Software, dados e sistemas",
       "n": 2
+    },
+    {
+      "tema": "Cultura e arte",
+      "n": 1
     },
     {
       "tema": "Captação e ingresso",
@@ -132,9 +155,64 @@
   ],
   "colaboradores": [
     {
+      "nome": "Hilario Seibel Junior",
+      "slug": "hilario-seibel-junior",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "João Augusto Casagrande da Silva",
+      "slug": "joao-augusto-casagrande-da-silva",
+      "acoes_comuns": 2
+    },
+    {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 2
+    },
+    {
+      "nome": "Flavio Severiano Lamas de Souza",
+      "slug": "flavio-severiano-lamas-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Daniel Ribeiro Trindade",
+      "slug": "daniel-ribeiro-trindade",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luiz Carlos Vieira Berger",
+      "slug": "luiz-carlos-vieira-berger",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Anne Caroline Silva",
+      "slug": "anne-caroline-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Paulo Ricardo Viana Ferreira",
+      "slug": "paulo-ricardo-viana-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Amanda Ferreira de Souza",
+      "slug": "amanda-ferreira-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Bruno Moreto de Oliveira",
+      "slug": "bruno-moreto-de-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
+      "acoes_comuns": 1
     },
     {
       "nome": "Rosilene de Sá Ribeiro",
@@ -577,11 +655,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "João Augusto Casagrande da Silva",
-      "slug": "joao-augusto-casagrande-da-silva",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Arthur de Moraes Andrade Corrêa",
       "slug": "arthur-de-moraes-andrade-correa",
       "acoes_comuns": 1
@@ -679,11 +752,6 @@
     {
       "nome": "Matheus Florindo de Deus Barboza Gonçalves",
       "slug": "matheus-florindo-de-deus-barboza-goncalves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Hilario Seibel Junior",
-      "slug": "hilario-seibel-junior",
       "acoes_comuns": 1
     },
     {

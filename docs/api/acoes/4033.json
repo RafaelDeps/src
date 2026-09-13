@@ -14,7 +14,7 @@
   "Data de cadastro": "05/09/2022",
   "Resumo": "O projeto intitulado “Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira\n(Schinus terebinthifolius Raddi) usando Inteligência Computacional” visa desenvolver um sistema\ninteligente para determinar a qualidade produtiva da pimenta rosa baseado na implementação,\ntreinamento, teste e validação de redes neurais profundas voltadas para a tarefa de segmentação de\nimagens por instâncias. Imagens NIR (Near Infrared), obtidas in loco de plantio por meio de sobrevoo\npor drone equipado com uma câmera específica, servirão para determinação de regiões de interesse\nusando-se cálculo de índices de vegetação saudável. Frutos coletados das regiões de interesse\nfornecerão dados biofísicos e dados químicos, obtidos por análise de campo e laboratorial. As imagens\ne demais parâmetros formarão um dataset para treinamento dos modelos de redes neurais, as quais\nfornecerão resultados que serão validados do ponto de vista da plausibilidade biológica por um\nespecialista da área. Por fim, sistemas em versão Web e Mobile propiciarão aos seus usuários obter\nacesso ao nível de qualidade dos seus frutos por meio da captura de fotos.",
   "Campus": "Serra",
-  "total_participacoes": 164,
+  "total_participacoes": 165,
   "publico_alvo_total": 0,
   "atividades": [
     {
@@ -24,7 +24,7 @@
       "publico": 0,
       "aprovados": 0,
       "certificados": 0,
-      "equipe": 16
+      "equipe": 17
     },
     {
       "atividade_id": "19151",
@@ -336,6 +336,13 @@
   "equipe_execucao": [
     {
       "nome": "Arthur Delpupo Coelho",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Breno Ricardo Ferreira Antunes",
       "funcoes": [
         "ALUNO(A) BOLSISTA"
       ],

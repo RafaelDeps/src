@@ -14,8 +14,174 @@
   "Data de cadastro": "01/11/2018",
   "Resumo": "O objetivo deste curso é promover, à jovens mulheres, uma visão do mundo tecnológico e científico, possibilitando a participação plena das mulheres, rompendo com barreiras e injustiças históricas no mundo científico bem como fomentar o empoderamento feminino. Intencionando ampliar suas condições e perspectivas de vida, este curso contará com a participação de 18 alunas de 2 escolas públicas estaduais parceiras, localizadas no município de Serra, para oportunizar estudos de programação na linguagem Python, aprendizado da língua inglesa com utilização do software Wolfram Mathematica. No dia 8 de março de 2017, a diretora executiva da Onu Mulheres Phumzile Mlambo- Ngcuka fez um discurso sobre a igualdade de gênero, e na oportunidade disse “Queremos construir para as mulheres um mundo do trabalho diferente. Conforme as meninas cresçam, elas devem ser expostas a um vasto leque de carreiras e encorajadas a fazer escolhas que as levem além dos serviços tradicionais e de cuidado, para profissões na indústria, na arte, no serviço público, na agricultura modera e na ciência”.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 53,
+  "publico_alvo_total": 28,
+  "atividades": [
+    {
+      "atividade_id": "6873",
+      "numero": "001",
+      "atividade": "Mulheres na Ciência",
+      "publico": 11,
+      "aprovados": 10,
+      "certificados": 10,
+      "equipe": 6
+    },
+    {
+      "atividade_id": "6874",
+      "numero": "002",
+      "atividade": "Mulheres na Ciência",
+      "publico": 17,
+      "aprovados": 9,
+      "certificados": 9,
+      "equipe": 17
+    },
+    {
+      "atividade_id": "6875",
+      "numero": "003",
+      "atividade": "Mulheres na Ciência",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    },
+    {
+      "atividade_id": "10619",
+      "numero": "004",
+      "atividade": "Palestra \"Uma introdução à Robótica de Reabilitação e Robótica Vestível (Wearables Robotics)",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Adriana Padua Lovatte",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)",
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Bruno Ramos Gonzaga",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "funcoes": [
+        "PALESTRANTE"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Giordana dos Santos Sperandio",
+      "funcoes": [
+        "COORDENADOR(A)",
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "funcoes": [
+        "PALESTRANTE"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "funcoes": [
+        "PALESTRANTE"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "funcoes": [
+        "PALESTRANTE"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "funcoes": [
+        "PALESTRANTE"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

@@ -25,16 +25,16 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "11188",
+      "atividade_id": "11194",
       "acao_id": "3140",
-      "atividade": "Desenvolvimento de Documentos de Institucionais do LAMPEX",
+      "atividade": "Desenvolvimento de uma Sistemática para Acompanhamento e Controle de Atendimento Docente no LAMPEX",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "11194",
+      "atividade_id": "11188",
       "acao_id": "3140",
-      "atividade": "Desenvolvimento de uma Sistemática para Acompanhamento e Controle de Atendimento Docente no LAMPEX",
+      "atividade": "Desenvolvimento de Documentos de Institucionais do LAMPEX",
       "pub": 0
     }
   ],

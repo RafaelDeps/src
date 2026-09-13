@@ -4,15 +4,13 @@
   "resumo_ia": null,
   "anos": [
     "2016",
-    "2017",
-    "2018"
+    "2017"
   ],
   "funcoes": [
     "COLABORADOR(A)",
     "INSTRUTOR(A)",
     "MEMBRO DE COMITÊ GESTOR",
-    "ORIENTADOR(A)",
-    "PALESTRANTE"
+    "ORIENTADOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -41,23 +39,23 @@
       ]
     },
     {
-      "acao_id": "2021",
-      "titulo": "Física ao Alcance de Todos",
-      "tipo": "Projeto",
-      "ano": "2018",
-      "n": 429,
-      "pub": 235,
-      "funcoes": [
-        "PALESTRANTE"
-      ]
-    },
-    {
       "acao_id": "708",
       "titulo": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
       "tipo": "Curso",
       "ano": "2016",
       "n": 77,
       "pub": 29,
+      "funcoes": [
+        "ORIENTADOR(A)"
+      ]
+    },
+    {
+      "acao_id": "912",
+      "titulo": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
+      "tipo": "Curso",
+      "ano": "2016",
+      "n": 21,
+      "pub": 3,
       "funcoes": [
         "ORIENTADOR(A)"
       ]
@@ -73,13 +71,6 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "11584",
-      "acao_id": "1116",
-      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
       "atividade_id": "3047",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
@@ -90,6 +81,13 @@
       "atividade_id": "3049",
       "acao_id": "1116",
       "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "pub": 0
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "11584",
+      "acao_id": "1116",
+      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
@@ -114,42 +112,53 @@
       "pub": 1
     },
     {
-      "ano": "2018",
-      "atividade_id": "9600",
-      "acao_id": "2021",
-      "atividade": "Palestra: Energia Fotovoltaica na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 47
-    },
-    {
       "ano": "2016",
       "atividade_id": "1524",
       "acao_id": "708",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
       "pub": 15
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "2127",
+      "acao_id": "912",
+      "atividade": "Curso de Pré-Incubação de Empreendimentos – modalidade Residência",
+      "pub": 3
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 78,
-  "impacto": 78,
+  "imp_eq": 34,
+  "impacto": 34,
   "temas": [
     {
       "tema": "Empreendedorismo e incubação",
-      "n": 3
-    },
-    {
-      "tema": "Robótica e cultura maker",
-      "n": 1
+      "n": 4
     }
   ],
   "colaboradores": [
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 3
+      "acoes_comuns": 4
     },
     {
       "nome": "Karin Satie Komati",
       "slug": "karin-satie-komati",
+      "acoes_comuns": 4
+    },
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "slug": "felipe-frechiani-de-oliveira",
+      "acoes_comuns": 4
+    },
+    {
+      "nome": "Emerson Atílio Birchler",
+      "slug": "emerson-atilio-birchler",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Marcos Simão Guimarães",
+      "slug": "marcos-simao-guimaraes",
       "acoes_comuns": 3
     },
     {
@@ -158,38 +167,23 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Felipe Frechiani de Oliveira",
-      "slug": "felipe-frechiani-de-oliveira",
-      "acoes_comuns": 3
-    },
-    {
       "nome": "Elizangela Campos da Rosa Broetto",
       "slug": "elizangela-campos-da-rosa-broetto",
       "acoes_comuns": 3
     },
     {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
+      "nome": "Luis Henrique Rosado Torres",
+      "slug": "luis-henrique-rosado-torres",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Leonardo Azevedo Scardua",
+      "slug": "leonardo-azevedo-scardua",
       "acoes_comuns": 3
     },
     {
       "nome": "Francisco José Casarim Rapchan",
       "slug": "francisco-jose-casarim-rapchan",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Emerson Atílio Birchler",
-      "slug": "emerson-atilio-birchler",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Rosilene de Sá Ribeiro",
-      "slug": "rosilene-de-sa-ribeiro",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Marcos Simão Guimarães",
-      "slug": "marcos-simao-guimaraes",
       "acoes_comuns": 2
     },
     {
@@ -213,11 +207,6 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Luis Henrique Rosado Torres",
-      "slug": "luis-henrique-rosado-torres",
-      "acoes_comuns": 2
-    },
-    {
       "nome": "Humberto Henrique Ramos Brotto",
       "slug": "humberto-henrique-ramos-brotto",
       "acoes_comuns": 2
@@ -233,11 +222,6 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Leonardo Azevedo Scardua",
-      "slug": "leonardo-azevedo-scardua",
-      "acoes_comuns": 2
-    },
-    {
       "nome": "Giovani Zanetti Neto",
       "slug": "giovani-zanetti-neto",
       "acoes_comuns": 2
@@ -245,6 +229,16 @@
     {
       "nome": "Edilson Luiz do Nascimento",
       "slug": "edilson-luiz-do-nascimento",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Wagner Teixeira da Costa",
+      "slug": "wagner-teixeira-da-costa",
       "acoes_comuns": 2
     },
     {
@@ -290,6 +284,11 @@
     {
       "nome": "Adelson Pereira do Nascimento",
       "slug": "adelson-pereira-do-nascimento",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rosilene de Sá Ribeiro",
+      "slug": "rosilene-de-sa-ribeiro",
       "acoes_comuns": 1
     },
     {
@@ -388,251 +387,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Leandro Melo de Sá",
-      "slug": "leandro-melo-de-sa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Estácio Righette Pereira",
-      "slug": "estacio-righette-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Faye Manski Queiroz",
-      "slug": "faye-manski-queiroz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Isabelle Pereira Souza Dias",
-      "slug": "isabelle-pereira-souza-dias",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renan dos Santos Siqueira",
-      "slug": "renan-dos-santos-siqueira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Arthur de Souza Silva Mayerhofer",
-      "slug": "arthur-de-souza-silva-mayerhofer",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Junior Aguilar Amorim",
-      "slug": "junior-aguilar-amorim",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Xavier da Silva",
-      "slug": "lucas-xavier-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Rodolfo Luiz de Oliveira",
-      "slug": "rodolfo-luiz-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Davi Moura Araujo",
-      "slug": "davi-moura-araujo",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gustavo Olmo Santana",
-      "slug": "gustavo-olmo-santana",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mateus Maioli Giacomin",
-      "slug": "mateus-maioli-giacomin",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Weverton Gomes da Silva",
-      "slug": "weverton-gomes-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lara Costa Vargen",
-      "slug": "lara-costa-vargen",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Davi Aragão Ascacibas",
-      "slug": "davi-aragao-ascacibas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mateus de Mattos Ferreira",
-      "slug": "mateus-de-mattos-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Santana Prates",
-      "slug": "pedro-santana-prates",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Beatriz Auer Mariano",
-      "slug": "beatriz-auer-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Roberto Bozzi Perereira",
-      "slug": "luiz-roberto-bozzi-perereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Roger Leonardo Coimbra Silva",
-      "slug": "roger-leonardo-coimbra-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Tejada Fabres",
-      "slug": "lucas-tejada-fabres",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kleydson Gonçalves Caetano",
-      "slug": "kleydson-goncalves-caetano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kaio Henrique da Silva Nezio",
-      "slug": "kaio-henrique-da-silva-nezio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Silveira Mendes",
-      "slug": "guilherme-silveira-mendes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Noíza Sperandio Bino",
-      "slug": "noiza-sperandio-bino",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Charles Bruno Ferreira de Morais Junior",
-      "slug": "charles-bruno-ferreira-de-morais-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorena Teixeira de Almeida",
-      "slug": "lorena-teixeira-de-almeida",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Bianchini Moares",
-      "slug": "larissa-bianchini-moares",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Campos Vieira",
-      "slug": "larissa-campos-vieira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Henrique de Carvalho Scaramussa Luz",
-      "slug": "pedro-henrique-de-carvalho-scaramussa-luz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Vitor Calmon C R Porto",
-      "slug": "joao-vitor-calmon-c-r-porto",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcelo Victor Ferreira Barbosa",
-      "slug": "marcelo-victor-ferreira-barbosa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Júlia Suzano Fraga",
-      "slug": "julia-suzano-fraga",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Shayane Teixeira da Cruz",
-      "slug": "shayane-teixeira-da-cruz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cecília Bastazini Kroëbel",
-      "slug": "cecilia-bastazini-kroebel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mariana Pinto Ferraz Tassan",
-      "slug": "mariana-pinto-ferraz-tassan",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Caio Bastos Buteri",
-      "slug": "caio-bastos-buteri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Rocha Pratti",
-      "slug": "bruno-rocha-pratti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Viguini de Carvalho",
-      "slug": "thiago-viguini-de-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Lopes de Oliveira",
-      "slug": "guilherme-lopes-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Fidelis Zanetti de Castro",
-      "slug": "fidelis-zanetti-de-castro",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Denise Rocco de Sena",
-      "slug": "denise-rocco-de-sena",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ramyson de Araujo Nascimento",
-      "slug": "ramyson-de-araujo-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luis Felippe Klein Faria",
-      "slug": "luis-felippe-klein-faria",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Antonio da Hora Borges",
-      "slug": "marcos-antonio-da-hora-borges",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vantuil Manoel Thebas",
-      "slug": "vantuil-manoel-thebas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Filipe dos Santos Schelemberg",
-      "slug": "luiz-filipe-dos-santos-schelemberg",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thais Gonçalves de Lima",
-      "slug": "thais-goncalves-de-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brenno Pelegrino Costa Guimarães",
-      "slug": "brenno-pelegrino-costa-guimaraes",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Carlos Lins Borges Azevedo",
       "slug": "carlos-lins-borges-azevedo",
       "acoes_comuns": 1
@@ -645,11 +399,6 @@
     {
       "nome": "Cassius Zanetti Resende",
       "slug": "cassius-zanetti-resende",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Teixeira da Costa",
-      "slug": "wagner-teixeira-da-costa",
       "acoes_comuns": 1
     },
     {

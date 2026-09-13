@@ -11,6 +11,7 @@
   ],
   "funcoes": [
     "COLABORADOR(A)",
+    "COORDENADOR(A) ADJUNTO(A)",
     "ORGANIZADOR(A)",
     "ORIENTADOR(A)",
     "PROFESSOR(A)"
@@ -25,6 +26,18 @@
       "n": 21,
       "pub": 11,
       "funcoes": [
+        "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)",
         "PROFESSOR(A)"
       ]
     },
@@ -72,17 +85,6 @@
       "funcoes": [
         "ORGANIZADOR(A)"
       ]
-    },
-    {
-      "acao_id": "719",
-      "titulo": "Programação Visual Criativa com Scratch + Arduino",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 21,
-      "pub": 12,
-      "funcoes": [
-        "COLABORADOR(A)"
-      ]
     }
   ],
   "atividades": [
@@ -92,6 +94,20 @@
       "acao_id": "1633",
       "atividade": "Mulheres na Ciência",
       "pub": 11
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6873",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 11
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
     },
     {
       "ano": "2020",
@@ -120,25 +136,18 @@
       "acao_id": "718",
       "atividade": "Programa Regular de Promoção da Cultura e da Arte no Ifes Campus Serra",
       "pub": 1
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "1560",
-      "acao_id": "719",
-      "atividade": "Programação Criativa com Scratch + Arduino",
-      "pub": 12
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 85,
-  "impacto": 85,
+  "imp_eq": 101,
+  "impacto": 101,
   "temas": [
     {
-      "tema": "Robótica e cultura maker",
+      "tema": "Mulheres e inclusão",
       "n": 3
     },
     {
-      "tema": "Mulheres e inclusão",
+      "tema": "Robótica e cultura maker",
       "n": 2
     },
     {
@@ -148,8 +157,18 @@
   ],
   "colaboradores": [
     {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Bruno Ramos Gonzaga",
+      "slug": "bruno-ramos-gonzaga",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 3
     },
     {
@@ -158,18 +177,33 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
       "acoes_comuns": 2
     },
     {
-      "nome": "Bruno Ramos Gonzaga",
-      "slug": "bruno-ramos-gonzaga",
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 2
     },
     {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
       "acoes_comuns": 2
     },
     {
@@ -183,13 +217,8 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Wagner Kirmse Caldas",
-      "slug": "wagner-kirmse-caldas",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Mirleni de Jesus",
-      "slug": "mirleni-de-jesus",
+      "nome": "Moisés Savedra Omena",
+      "slug": "moises-savedra-omena",
       "acoes_comuns": 2
     },
     {
@@ -213,13 +242,43 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
+      "nome": "Geovane de Araujo Ceolin",
+      "slug": "geovane-de-araujo-ceolin",
       "acoes_comuns": 1
     },
     {
-      "nome": "Geovane de Araujo Ceolin",
-      "slug": "geovane-de-araujo-ceolin",
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
       "acoes_comuns": 1
     },
     {
@@ -383,11 +442,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Renner Sartório Camargo",
       "slug": "renner-sartorio-camargo",
       "acoes_comuns": 1
@@ -515,11 +569,6 @@
     {
       "nome": "Kamila Scalzer",
       "slug": "kamila-scalzer",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Scopel Falcão",
-      "slug": "wagner-scopel-falcao",
       "acoes_comuns": 1
     },
     {
@@ -923,6 +972,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Maxine Amorim Silva Gois",
       "slug": "maxine-amorim-silva-gois",
       "acoes_comuns": 1
@@ -973,11 +1027,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Graziela Barboza Guaitolini Ramos",
-      "slug": "graziela-barboza-guaitolini-ramos",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Julia Neiva Gomes",
       "slug": "julia-neiva-gomes",
       "acoes_comuns": 1
@@ -1018,11 +1067,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Tatiane Policário Chagas",
-      "slug": "tatiane-policario-chagas",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Remerson Victor Silva da Assurreição",
       "slug": "remerson-victor-silva-da-assurreicao",
       "acoes_comuns": 1
@@ -1043,13 +1087,13 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Renato Eugênio da Mota",
-      "slug": "renato-eugenio-da-mota",
+      "nome": "Mirleni de Jesus",
+      "slug": "mirleni-de-jesus",
       "acoes_comuns": 1
     },
     {
-      "nome": "Ana Paula Klauck",
-      "slug": "ana-paula-klauck",
+      "nome": "Renato Eugênio da Mota",
+      "slug": "renato-eugenio-da-mota",
       "acoes_comuns": 1
     },
     {
@@ -1120,26 +1164,6 @@
     {
       "nome": "Carolinne Quintanilha Ornellas",
       "slug": "carolinne-quintanilha-ornellas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "slug": "irisson-junio-maximo-borges",
       "acoes_comuns": 1
     }
   ]

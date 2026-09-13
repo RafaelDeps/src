@@ -27,16 +27,16 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "22288",
+      "atividade_id": "22289",
       "acao_id": "3140",
-      "atividade": "Maratona de Programação 2026",
+      "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "22289",
+      "atividade_id": "22288",
       "acao_id": "3140",
-      "atividade": "XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
+      "atividade": "Maratona de Programação 2026",
       "pub": 0
     }
   ],

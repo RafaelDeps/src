@@ -14,75 +14,8 @@
   "Data de cadastro": "04/08/2016",
   "Resumo": "O projeto visa capacitar LEDs Santa Teresa nas metodologias de desenvolvimento de projetos ágeis utilizada no LEDS-Serra. Dentre os temas que serão abordados no curso: Quebra de conceitos e filosofia Ágil, Educação focada no aluno e o professor aprendiz, Gestão Ágil de projetos: Scrum, Extreme Programming e Test-Driven Desgin. Além disso, vista uma maior integração entre os LEDS existentes em outros campos.",
   "Campus": "Serra",
-  "total_participacoes": 14,
-  "publico_alvo_total": 6,
-  "atividades": [
-    {
-      "atividade_id": "1791",
-      "numero": "001",
-      "atividade": "Curso de Introdução a Metodologia LEDS",
-      "publico": 6,
-      "aprovados": 6,
-      "certificados": 6,
-      "equipe": 8
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "André Spadetto Leão",
-      "funcoes": [
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Carlos Lins Borges Azevedo",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Diego Pasti",
-      "funcoes": [
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Ivana Amorim Julião",
-      "funcoes": [
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Jennifer Camille Gomes Duarte",
-      "funcoes": [
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Rodrigo Fernandes Calhau",
-      "funcoes": [
-        "COLABORADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

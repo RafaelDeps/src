@@ -55,17 +55,17 @@
     },
     {
       "ano": "2024",
-      "atividade_id": "21813",
-      "acao_id": "5086",
-      "atividade": "Minicurso: Treinamento em Robótica",
-      "pub": 9
-    },
-    {
-      "ano": "2024",
       "atividade_id": "22201",
       "acao_id": "5086",
       "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
       "pub": 112
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "21813",
+      "acao_id": "5086",
+      "atividade": "Minicurso: Treinamento em Robótica",
+      "pub": 9
     }
   ],
   "imp_coord": 0,

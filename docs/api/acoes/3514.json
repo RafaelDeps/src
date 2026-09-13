@@ -14,34 +14,8 @@
   "Data de cadastro": "05/10/2021",
   "Resumo": "No proposto curso será realizada uma introdução ao panorâma da mobilidade elétrica no Brasil, bem como as tendências de mercado. Também serão abordados os principais tipos de veículos elétricos, apresentando suas topologias e configurações internas, bem como uma breve análise de seus componentes elétricos e mecânicos. Também serão apresentados os tipos de carregadores para veículos elétricos e noções de recarga inteligente integrada às cidades inteligentes.",
   "Campus": "Serra",
-  "total_participacoes": 19,
-  "publico_alvo_total": 16,
-  "atividades": [
-    {
-      "atividade_id": "12261",
-      "numero": "001",
-      "atividade": "Introdução aos Veículos Elétricos",
-      "publico": 16,
-      "aprovados": 16,
-      "certificados": 16,
-      "equipe": 3
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Flávio Barcelos Braz da Silva",
-      "funcoes": [
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Vinícius Secchin de Melo",
-      "funcoes": [
-        "COORDENADOR(A)",
-        "INSTRUTOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

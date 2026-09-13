@@ -14,33 +14,8 @@
   "Data de cadastro": "27/07/2018",
   "Resumo": "O objetivo é a criação de uma ferramenta para análise de desempenho esportivo para golf. Especificamente a ferramenta fará uma análise do movimento de golf chamado swing, sendo este o movimento realizado pelo jogador imediatamente antes da batida na bola. Para a criação da ferramenta de análise serão estudados os aspectos mecânicos e de postura para a melhor realização possível do movimento. Esses dados servirão de parâmetros para a produção de algoritmos cuja função será determinar a qualidade do movimento do jogador, permitindo que ele possa corrigir possíveis erros. Como resultado espera-se obter a uma aplicação para dispositivos móveis para uso dos jogadores e que permita que eles possam aferir seu desempenho de jogo.",
   "Campus": "Serra",
-  "total_participacoes": 2,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "5760",
-      "numero": "001",
-      "atividade": "ALGolfSwing: Análise de Desempenho Esportivo para Golf",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 2
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Daniel Ribeiro Trindade",
-      "funcoes": [
-        "ORIENTADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Jordan de Oliveira Kau Lyrio",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

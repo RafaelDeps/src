@@ -12,6 +12,17 @@
   "acoes_coordenadas": [],
   "participacoes_equipe": [
     {
+      "acao_id": "2595",
+      "titulo": "Incluir & Multiplicar",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 5,
+      "pub": 0,
+      "funcoes": [
+        "COLABORADOR(A)"
+      ]
+    },
+    {
       "acao_id": "2783",
       "titulo": "Informática Básica Para Agentes Multiplicadores.",
       "tipo": "Curso",
@@ -27,16 +38,23 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10922",
-      "acao_id": "2783",
-      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
-      "pub": 16
+      "atividade_id": "8979",
+      "acao_id": "2595",
+      "atividade": "Incluir & Multiplicar",
+      "pub": 0
     },
     {
       "ano": "2019",
       "atividade_id": "9577",
       "acao_id": "2783",
       "atividade": "Informática Básica Para Agentes Multiplicadores.",
+      "pub": 16
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10922",
+      "acao_id": "2783",
+      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
       "pub": 16
     }
   ],
@@ -46,28 +64,33 @@
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 1
+      "n": 2
     }
   ],
   "colaboradores": [
     {
       "nome": "Bruno Cardoso Coutinho",
       "slug": "bruno-cardoso-coutinho",
-      "acoes_comuns": 1
+      "acoes_comuns": 2
     },
     {
       "nome": "Juliana Rohsner Vianna Toniati",
       "slug": "juliana-rohsner-vianna-toniati",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Gabriel Victor Ferreira de Araújo",
+      "slug": "gabriel-victor-ferreira-de-araujo",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Glaucelena Dias Lopes da Vitória",
+      "slug": "glaucelena-dias-lopes-da-vitoria",
       "acoes_comuns": 1
     },
     {
       "nome": "Ridley Francis Miranda Amorim",
       "slug": "ridley-francis-miranda-amorim",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabriel Victor Ferreira de Araújo",
-      "slug": "gabriel-victor-ferreira-de-araujo",
       "acoes_comuns": 1
     }
   ]

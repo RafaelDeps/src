@@ -27,17 +27,17 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "22290",
-      "acao_id": "3140",
-      "atividade": "Ideathon do XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
-      "pub": 27
-    },
-    {
-      "ano": "2020",
       "atividade_id": "22295",
       "acao_id": "3140",
       "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Programação e Desenvolvimento",
       "pub": 17
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "22290",
+      "acao_id": "3140",
+      "atividade": "Ideathon do XXII Simpósio Brasileiro de Sistemas de Informação SBSI 2026",
+      "pub": 27
     },
     {
       "ano": "2020",

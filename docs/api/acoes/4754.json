@@ -14,8 +14,128 @@
   "Data de cadastro": "25/10/2023",
   "Resumo": "Recentemente, no ano de 2022 foi celebrado o Ano Internacional das Ciências Básicas para o\nDesenvolvimento Sustentável (do inglês: International Year of Basic Sciences for Sustainable\nDevelopment). Este evento de divulgação global teve por objetivo geral e principal promover ações para\no progresso autossustentável e inclusivo no planeta. Desta forma, incluindo a divulgação e propósitos\nreais da Química Verde que é considerada uma área multidisciplinar que cria, desenvolve e aplica\nprodutos e processos químicos que visam a redução ou eliminação do uso e da geração de substâncias\nnocivas ao meio ambiente e ao homem e assim corroborando no que tange a sustentabilidade e a\nviabilidade contínua de habitat e melhorias no bem viver e conviver com práticas voltadas ao púbico geral,\nindo além do universo acadêmico. Desta forma, este projeto será de grande contribuição e espera-se\nestreitar laços importantes de parceria entre academia e comunidade em geral, contribuindo de forma\neficaz e duradoura no dia a dia das pessoas através do conhecimento e práticas da química verde. Assim,\noportunizando novas fontes de renda, acelerando o processo de inclusão de novos aprendizes e\nempreendedores no mercado de reciclagem e melhor utilização de recursos naturais a nosso dispor,\ncomo por exemplo, o uso correto de plantas medicinais, como prevenção e tratamento de doenças.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 159,
+  "publico_alvo_total": 142,
+  "atividades": [
+    {
+      "atividade_id": "16756",
+      "numero": "001",
+      "atividade": "QUÍMICA VERDE APLICADA: oficinas e workshops",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 6
+    },
+    {
+      "atividade_id": "16986",
+      "numero": "002",
+      "atividade": "Oficina Produtos renováveis",
+      "publico": 69,
+      "aprovados": 69,
+      "certificados": 69,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "17146",
+      "numero": "003",
+      "atividade": "Oficina de saboaria - segunda edição",
+      "publico": 15,
+      "aprovados": 15,
+      "certificados": 15,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "19329",
+      "numero": "004",
+      "atividade": "1 Oficina de sabão com visão sustentável.",
+      "publico": 34,
+      "aprovados": 34,
+      "certificados": 34,
+      "equipe": 4
+    },
+    {
+      "atividade_id": "20747",
+      "numero": "005",
+      "atividade": "Do Sensorial ao Tecnológico — Extração de Óleos Essenciais por Arraste a Vapor",
+      "publico": 24,
+      "aprovados": 24,
+      "certificados": 24,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Akilanny Silva Cruz",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Angelo dos Santos Teixeira",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Debora Galavote Moura",
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO",
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Gabriel Santos da Silva Valbuza",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Julia Sagrillo Barreiros",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Kauã Alexandre Bernardes",
+      "funcoes": [
+        "MONITOR(A)",
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marianna Stark Gardioli Rangel",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Matheus Tiago Amorim Pereira",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "funcoes": [
+        "COORDENADOR(A)",
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Victor Ramos Dessaune",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

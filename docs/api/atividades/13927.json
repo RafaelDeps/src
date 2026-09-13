@@ -14,6 +14,11 @@
   },
   "equipe_execucao": [
     {
+      "nome": "Breno Ricardo Ferreira Antunes",
+      "funcao": "ALUNO(A) BOLSISTA",
+      "vinculo": "Aluno"
+    },
+    {
       "nome": "Douglas de Oliveira Alkimim",
       "funcao": "ALUNO(A) VOLUNTARIO",
       "vinculo": "Aluno"

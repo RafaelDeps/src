@@ -6,22 +6,10 @@
     "2016"
   ],
   "funcoes": [
-    "ALUNO(A) BOLSISTA",
-    "MINISTRANTE"
+    "ALUNO(A) BOLSISTA"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
-    {
-      "acao_id": "719",
-      "titulo": "Programação Visual Criativa com Scratch + Arduino",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 21,
-      "pub": 12,
-      "funcoes": [
-        "MINISTRANTE"
-      ]
-    },
     {
       "acao_id": "848",
       "titulo": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
@@ -37,13 +25,6 @@
   "atividades": [
     {
       "ano": "2016",
-      "atividade_id": "1560",
-      "acao_id": "719",
-      "atividade": "Programação Criativa com Scratch + Arduino",
-      "pub": 12
-    },
-    {
-      "ano": "2016",
       "atividade_id": "1939",
       "acao_id": "848",
       "atividade": "Sistema de apoio para monitorar temperatura para preparaçãode caixas para transporte de órgão.",
@@ -51,59 +32,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 12,
-  "impacto": 12,
+  "imp_eq": 0,
+  "impacto": 0,
   "temas": [
-    {
-      "tema": "Robótica e cultura maker",
-      "n": 1
-    },
     {
       "tema": "Saúde e bem-estar",
       "n": 1
     }
   ],
   "colaboradores": [
-    {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mirleni de Jesus",
-      "slug": "mirleni-de-jesus",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Kirmse Caldas",
-      "slug": "wagner-kirmse-caldas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ernani Leite Ribeiro Filho",
-      "slug": "ernani-leite-ribeiro-filho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
-      "acoes_comuns": 1
-    },
     {
       "nome": "Carlos Lins Borges Azevedo",
       "slug": "carlos-lins-borges-azevedo",

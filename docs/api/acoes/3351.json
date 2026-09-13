@@ -14,33 +14,8 @@
   "Data de cadastro": "24/05/2021",
   "Resumo": "No proposto curso serão apresentados os modelos de locomotivas atualmente utilizadas pelas principais ferrovias brasileiras, bem como seus componentes elétricos, eletrônicos e mecânicos, e o funcionamento de todos como um sistema.",
   "Campus": "Serra",
-  "total_participacoes": 9,
-  "publico_alvo_total": 7,
-  "atividades": [
-    {
-      "atividade_id": "11771",
-      "numero": "001",
-      "atividade": "Automação e Controle aplicados aos Materiais Rodantes e Sinalização Ferroviária",
-      "publico": 7,
-      "aprovados": 6,
-      "certificados": 6,
-      "equipe": 2
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Bene Regis Figueiredo",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Vinícius Secchin de Melo",
-      "funcoes": [
-        "PROFESSOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

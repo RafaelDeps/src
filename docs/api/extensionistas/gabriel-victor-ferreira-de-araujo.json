@@ -14,6 +14,17 @@
   "acoes_coordenadas": [],
   "participacoes_equipe": [
     {
+      "acao_id": "2595",
+      "titulo": "Incluir & Multiplicar",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 5,
+      "pub": 0,
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ]
+    },
+    {
       "acao_id": "2783",
       "titulo": "Informática Básica Para Agentes Multiplicadores.",
       "tipo": "Curso",
@@ -40,10 +51,10 @@
   "atividades": [
     {
       "ano": "2019",
-      "atividade_id": "10922",
-      "acao_id": "2783",
-      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
-      "pub": 16
+      "atividade_id": "8979",
+      "acao_id": "2595",
+      "atividade": "Incluir & Multiplicar",
+      "pub": 0
     },
     {
       "ano": "2019",
@@ -53,17 +64,24 @@
       "pub": 16
     },
     {
-      "ano": "2020",
-      "atividade_id": "11195",
-      "acao_id": "3140",
-      "atividade": "Desenvolvimento de uma Sistemática para Acompanhamento e Controle de Atendimento Discente no LAMPEX",
-      "pub": 0
+      "ano": "2019",
+      "atividade_id": "10922",
+      "acao_id": "2783",
+      "atividade": "Mini-Curso: Arquitetura Básica de Computadores",
+      "pub": 16
     },
     {
       "ano": "2020",
       "atividade_id": "11192",
       "acao_id": "3140",
       "atividade": "Desenvolvimento de uma Sistemática para Agendamento do Atendimento à Comunidade no LAMPEX",
+      "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "11195",
+      "acao_id": "3140",
+      "atividade": "Desenvolvimento de uma Sistemática para Acompanhamento e Controle de Atendimento Discente no LAMPEX",
       "pub": 0
     },
     {
@@ -87,7 +105,7 @@
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 1
+      "n": 2
     },
     {
       "tema": "Robótica e cultura maker",
@@ -98,21 +116,26 @@
     {
       "nome": "Bruno Cardoso Coutinho",
       "slug": "bruno-cardoso-coutinho",
-      "acoes_comuns": 2
+      "acoes_comuns": 3
     },
     {
       "nome": "Juliana Rohsner Vianna Toniati",
       "slug": "juliana-rohsner-vianna-toniati",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Renata Imaculada de Oliveira Teixeira",
+      "slug": "renata-imaculada-de-oliveira-teixeira",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Glaucelena Dias Lopes da Vitória",
+      "slug": "glaucelena-dias-lopes-da-vitoria",
       "acoes_comuns": 1
     },
     {
       "nome": "Ridley Francis Miranda Amorim",
       "slug": "ridley-francis-miranda-amorim",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Renata Imaculada de Oliveira Teixeira",
-      "slug": "renata-imaculada-de-oliveira-teixeira",
       "acoes_comuns": 1
     },
     {

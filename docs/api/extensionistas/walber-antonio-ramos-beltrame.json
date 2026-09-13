@@ -3,9 +3,11 @@
   "nome": "Walber Antonio Ramos Beltrame",
   "resumo_ia": null,
   "anos": [
-    "2015"
+    "2015",
+    "2016"
   ],
   "funcoes": [
+    "COORDENADOR(A) ADJUNTO(A)",
     "MENTOR(A)"
   ],
   "acoes_coordenadas": [],
@@ -20,6 +22,17 @@
       "funcoes": [
         "MENTOR(A)"
       ]
+    },
+    {
+      "acao_id": "947",
+      "titulo": "Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS",
+      "tipo": "Programa em Rede",
+      "ano": "2016",
+      "n": 4,
+      "pub": 0,
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ]
     }
   ],
   "atividades": [
@@ -28,6 +41,13 @@
       "atividade_id": "1271",
       "acao_id": "569",
       "atividade": "Desafio Ifes de Negócios Socais",
+      "pub": 0
+    },
+    {
+      "ano": "2016",
+      "atividade_id": "2286",
+      "acao_id": "947",
+      "atividade": "Rede de Laboratórios de Educação em Desenvolvimento de Soluções - LEDS",
       "pub": 0
     }
   ],
@@ -38,13 +58,22 @@
     {
       "tema": "Robótica e cultura maker",
       "n": 1
+    },
+    {
+      "tema": "Cultura e arte",
+      "n": 1
     }
   ],
   "colaboradores": [
     {
       "nome": "Rodrigo Fernandes Calhau",
       "slug": "rodrigo-fernandes-calhau",
-      "acoes_comuns": 1
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "slug": "paulo-sergio-dos-santos-junior",
+      "acoes_comuns": 2
     },
     {
       "nome": "André Silva Aguiar",
@@ -192,11 +221,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Paulo Sérgio dos Santos Júnior",
-      "slug": "paulo-sergio-dos-santos-junior",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
       "acoes_comuns": 1
@@ -234,6 +258,11 @@
     {
       "nome": "Kamila Maria Vieira Pralon",
       "slug": "kamila-maria-vieira-pralon",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Victorio Albani de Carvalho",
+      "slug": "victorio-albani-de-carvalho",
       "acoes_comuns": 1
     }
   ]

@@ -14,8 +14,50 @@
   "Data de cadastro": "06/12/2022",
   "Resumo": "O Curso de Operador de Computador é um projeto de extensão EJA-FIC.\nObjetivos:\n- Propiciar qualificação profissional de operador de computador, visando contribuir para a inserção\nprofissional no mercado de trabalho.\n- Formar o aluno para trabalhar no mercado que necessita de profissionais com conhecimento para\ninstalação de sistemas operacionais e softwares aplicativos, e para operação de utilitários de edição de\ntextos, para elaboração de planilhas eletrônicas e de apresentação de slides, para backups de arquivos\ne para suporte a reparos de computadores.\nMetodologia: - o curso será dividido em três partes principais. Na primeira parte os conceitos\nfundamentais de computadores e processamento de dados serão estudados. Na segunda parte, os\nalunos serão treinados a utilizar utilitários de edição de textos, elaboração de planilha eletrônicas,\napresentações de slides e navegação na internet. Para finalizar os alunos serão treinados a instalar e\nutilizar um sistema operacional bem como a instalar softwares aplicativos. As aulas serão ministradas em\nlaboratórios e terão foco em atividades práticas",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 23,
+  "publico_alvo_total": 17,
+  "atividades": [
+    {
+      "atividade_id": "14475",
+      "numero": "001",
+      "atividade": "Operador de Computador",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 3
+    },
+    {
+      "atividade_id": "14476",
+      "numero": "002",
+      "atividade": "Operador de Computador",
+      "publico": 17,
+      "aprovados": 17,
+      "certificados": 17,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "David de Assis",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Victorio Albani de Carvalho",
+      "funcoes": [
+        "COORDENADOR(A)",
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

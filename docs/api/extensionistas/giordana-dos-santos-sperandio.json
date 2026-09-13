@@ -3,11 +3,13 @@
   "nome": "Giordana dos Santos Sperandio",
   "resumo_ia": null,
   "anos": [
+    "2017",
     "2018",
     "2020"
   ],
   "funcoes": [
     "COORDENADOR(A)",
+    "MINISTRANTE",
     "ORIENTADOR(A)",
     "PROFESSOR(A)"
   ],
@@ -25,11 +27,23 @@
       "titulo": "Mulheres na Ciência",
       "tipo": "Curso",
       "ano": "2018",
-      "n": 0,
-      "pub": 0
+      "n": 53,
+      "pub": 25
     }
   ],
   "participacoes_equipe": [
+    {
+      "acao_id": "1117",
+      "titulo": "PRÉ – IFES Campus Serra",
+      "tipo": "Curso",
+      "ano": "2017",
+      "n": 48,
+      "pub": 33,
+      "funcoes": [
+        "MINISTRANTE",
+        "PROFESSOR(A)"
+      ]
+    },
     {
       "acao_id": "1633",
       "titulo": "Mulheres na Ciência",
@@ -37,6 +51,18 @@
       "ano": "2018",
       "n": 21,
       "pub": 11,
+      "funcoes": [
+        "COORDENADOR(A)",
+        "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
       "funcoes": [
         "COORDENADOR(A)",
         "PROFESSOR(A)"
@@ -56,11 +82,39 @@
   ],
   "atividades": [
     {
+      "ano": "2017",
+      "atividade_id": "2882",
+      "acao_id": "1117",
+      "atividade": "PRÉ- IFES Campus Serra",
+      "pub": 33
+    },
+    {
       "ano": "2018",
       "atividade_id": "5158",
       "acao_id": "1633",
       "atividade": "Mulheres na Ciência",
       "pub": 11
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6873",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 11
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "6875",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 0
     },
     {
       "ano": "2020",
@@ -77,13 +131,13 @@
       "pub": 3
     }
   ],
-  "imp_coord": 11,
-  "imp_eq": 20,
-  "impacto": 31,
+  "imp_coord": 36,
+  "imp_eq": 53,
+  "impacto": 89,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 2
+      "n": 5
     },
     {
       "tema": "Robótica e cultura maker",
@@ -94,7 +148,102 @@
     {
       "nome": "Alessandra Aguiar Vilarinho",
       "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
       "acoes_comuns": 2
+    },
+    {
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Bruno Ramos Gonzaga",
+      "slug": "bruno-ramos-gonzaga",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Alessandro Bermudes Gomes",
+      "slug": "alessandro-bermudes-gomes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luana Santos Lemos",
+      "slug": "luana-santos-lemos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Breno Siquara Azevedo",
+      "slug": "breno-siquara-azevedo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Daniella Araújo Fraga dos Santos",
+      "slug": "daniella-araujo-fraga-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Davi Aragão Ascacibas",
+      "slug": "davi-aragao-ascacibas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Alexia Coelho Barbosa",
+      "slug": "alexia-coelho-barbosa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sillas Ribeiro Ataide",
+      "slug": "sillas-ribeiro-ataide",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Machado Oliveira",
+      "slug": "thiago-machado-oliveira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Murilo Andrade Carvalho",
+      "slug": "murilo-andrade-carvalho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ian Drumond Duarte",
+      "slug": "ian-drumond-duarte",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Amarildo Mendes Lemos",
+      "slug": "amarildo-mendes-lemos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Mizael Fernandes de Oliveira",
+      "slug": "mizael-fernandes-de-oliveira",
+      "acoes_comuns": 1
     },
     {
       "nome": "Ingrid de Lima Pella",
@@ -117,23 +266,53 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Adriana Padua Lovatte",
-      "slug": "adriana-padua-lovatte",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Geovane de Araujo Ceolin",
       "slug": "geovane-de-araujo-ceolin",
       "acoes_comuns": 1
     },
     {
-      "nome": "Bruno Ramos Gonzaga",
-      "slug": "bruno-ramos-gonzaga",
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
       "acoes_comuns": 1
     },
     {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
       "acoes_comuns": 1
     },
     {
@@ -297,11 +476,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Renner Sartório Camargo",
       "slug": "renner-sartorio-camargo",
       "acoes_comuns": 1
@@ -429,11 +603,6 @@
     {
       "nome": "Kamila Scalzer",
       "slug": "kamila-scalzer",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Wagner Scopel Falcão",
-      "slug": "wagner-scopel-falcao",
       "acoes_comuns": 1
     },
     {
@@ -899,11 +1068,6 @@
     {
       "nome": "Guilherme Santos do Rosário",
       "slug": "guilherme-santos-do-rosario",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Graziela Barboza Guaitolini Ramos",
-      "slug": "graziela-barboza-guaitolini-ramos",
       "acoes_comuns": 1
     },
     {

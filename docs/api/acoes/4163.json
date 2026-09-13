@@ -14,8 +14,118 @@
   "Data de cadastro": "03/11/2022",
   "Resumo": "A ação ocorre em algumas cidades históricas e/ou com fortes aspectos culturais, alternando o ano da visitação, assim, visitamos uma cidade a cada ano, envolvendo os alunos que estão cursando do primeiro ao quarto módulo (1º e 2º anos) dos cursos técnicos integrados, do Campus Serra.\n\nAs ações extracurriculares envolvem visitação a cidades históricas, visitação aos biomas, sítios arqueológicos e museus de arte e cultura, de cada região do projeto, visando a complementação e suplementação da formação dos estudantes, bem como seu desenvolvimento pessoal, a partir da representatividade dos atravessamentos culturais que recebem.\n\nA ideia, com essa ação complementar é ensinar conteúdos que vão além dos limites da sala de aula e que, por conta disso, podem complementar / suplementar as disciplinas obrigatórias e garantir uma formação ainda mais completa e sólida ao aluno, ao conhecer os aspectos históricos, sócio e culturais in loco, recebendo as informações onde a história ocorreu, conhecendo os aspectos da diversidade biológica diretamente na natureza. As atividades também favorecem a interdisciplinaridade e, dessa forma, uma aprendizagem mais significativa.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 198,
+  "publico_alvo_total": 189,
+  "atividades": [
+    {
+      "atividade_id": "14250",
+      "numero": "001",
+      "atividade": "Expedição Ifes",
+      "publico": 9,
+      "aprovados": 9,
+      "certificados": 0,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "14251",
+      "numero": "002",
+      "atividade": "Visita guiada: Ilhas de Paraty e City Tour",
+      "publico": 57,
+      "aprovados": 57,
+      "certificados": 57,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "14252",
+      "numero": "003",
+      "atividade": "Visita guiada: Comunidade Caiçara de Trindade",
+      "publico": 57,
+      "aprovados": 57,
+      "certificados": 57,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "14253",
+      "numero": "004",
+      "atividade": "Visita guiada: Trilha do Ouro",
+      "publico": 57,
+      "aprovados": 57,
+      "certificados": 57,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "14686",
+      "numero": "005",
+      "atividade": "Expedição Ifes - Paraty 2022",
+      "publico": 9,
+      "aprovados": 9,
+      "certificados": 0,
+      "equipe": 9
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Alessandro Bermudes Gomes",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Gabriele Gonçalves Soares",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Hilario Seibel Junior",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Jessica Oliveira Ferreira",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Nicole Silva Loss",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Paulo Cezar Camargo Guedes",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

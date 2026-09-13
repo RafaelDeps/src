@@ -14,8 +14,49 @@
   "Data de cadastro": "11/09/2019",
   "Resumo": "O Instituto Federal do Espírito Santo – Campus Serra foi inaugurado em 2001, e desde então oferta cursos técnicos subsequentes e, posteriormente, cursos superiores e mestrado profissional. Somente a partir de 2017, considerando-se as expectativas da comunidade local, esse campus passou a ofertar o ensino médio integrado à educação profissional, o que significou um grande avanço no que diz respeito ao acesso ao ensino médio de qualidade no referido município. Nesse contexto, o projeto “Matemática na Rede” visa estimular os alunos da rede pública, por meio de uma preparação para a segunda (2ª) etapa da Olimpíada Brasileira de Matemática das Escolas Públicas - OBMEP, com aulas expositivas e dialogadas, bem como a resolução de exercícios e problemas das provas anteriores, socializando as resoluções dos problemas com os outros alunos, visando possibilitar a esses alunos uma revisão dos conteúdos trabalhados em suas respectivas escolas, bem como um aprofundamento dos conteúdos de Matemática, possibilitando a realização da segunda fase da OBMEP 2019. Assim, a implantação desse projeto vem nessa perspectiva de expandir a oportunidade aos alunos da rede pública municipal e estadual à realização da segunda fase da OBMEP. Resumindo, temos as seguintes atividades como referencial para o trabalho: 1 – Participar e incentivar os estudantes no processo seletivo do projeto de iniciação científica de Matemática - PicMat; 2 – Participar de encontros formativos dos professores com os coordenadores regionais; 3 – Organizar e oferecer orientação dos encontros formativos com os estudantes de iniciação científica nos PicMat; 4 – Orientar e viabilizar a participação dos estudantes dos PicMat nas fases da OBMEP; 5 – Verificar e enviar resultados do desempenho dos estudantes dos PicMat; 6 – Orientar, corrigir e enviar para o coordenador regional as produções e/ou produtos \ncientíficos e tecnológicos dos estudantes de iniciação científica de Matemática; 7 – Assessorar e acompanhar os estudantes de iniciação científica no portal da Matemática; 8 – Confeccionar relatórios finais (prestar contas), junto a FAPES e a SEDU, quanto a participação nos encontros formativos com os coordenadores regionais e da realização dos encontros formativos com os estudantes de iniciação científica no PicMat; 9 – Desenvolver e assinar o relatório técnico final da FAPES a ser desenvolvido no sistema SigFapes, conforme edital do processo seletivo dos professores para os PicMat relacionada às condições específicas para recebimento de todas as bolsas.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 40,
+  "publico_alvo_total": 34,
+  "atividades": [
+    {
+      "atividade_id": "9117",
+      "numero": "001",
+      "atividade": "Matemática na Rede",
+      "publico": 34,
+      "aprovados": 34,
+      "certificados": 34,
+      "equipe": 3
+    },
+    {
+      "atividade_id": "9118",
+      "numero": "002",
+      "atividade": "Matemática na Rede",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Murilo Andrade Carvalho",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Paulo Cezar Camargo Guedes",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Rafael de Almeida Viana Gusmão",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

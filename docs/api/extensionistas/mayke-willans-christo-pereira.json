@@ -15,7 +15,7 @@
       "titulo": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "tipo": "Projeto",
       "ano": "2022",
-      "n": 164,
+      "n": 165,
       "pub": 0,
       "funcoes": [
         "ALUNO(A) BOLSISTA"
@@ -25,58 +25,16 @@
   "atividades": [
     {
       "ano": "2022",
-      "atividade_id": "19154",
+      "atividade_id": "19175",
       "acao_id": "4033",
-      "atividade": "Estudo de algoritmos de redes neurais profundas voltadas para segmentação de imagens",
+      "atividade": "Realização de ajustes hiperparamétricos dos modelos de redes neurais",
       "pub": 0
     },
     {
       "ano": "2022",
-      "atividade_id": "19167",
+      "atividade_id": "19181",
       "acao_id": "4033",
-      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19153",
-      "acao_id": "4033",
-      "atividade": "3ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19156",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19157",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19172",
-      "acao_id": "4033",
-      "atividade": "Gravação de uma reportagem para o Jornal do Campo da TV Gazeta",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19152",
-      "acao_id": "4033",
-      "atividade": "2ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19160",
-      "acao_id": "4033",
-      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
       "pub": 0
     },
     {
@@ -95,44 +53,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19178",
-      "acao_id": "4033",
-      "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 1",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19165",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma primeira versão de uma base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19187",
-      "acao_id": "4033",
-      "atividade": "Desenvolvimento de protótipos de tela do aplicativo Pink Pepper Qualifier - Etapa 1",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19169",
-      "acao_id": "4033",
-      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 1",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19174",
-      "acao_id": "4033",
-      "atividade": "Implementação de algoritmos de redes neurais profundas voltadas para segmentação de imagens de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "19155",
       "acao_id": "4033",
       "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19156",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 2",
       "pub": 0
     },
     {
@@ -144,9 +74,9 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "13927",
+      "atividade_id": "19166",
       "acao_id": "4033",
-      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
+      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 1",
       "pub": 0
     },
     {
@@ -158,16 +88,16 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19181",
+      "atividade_id": "19160",
       "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
+      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
       "pub": 0
     },
     {
       "ano": "2022",
-      "atividade_id": "19166",
+      "atividade_id": "19174",
       "acao_id": "4033",
-      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 1",
+      "atividade": "Implementação de algoritmos de redes neurais profundas voltadas para segmentação de imagens de pimenta rosa",
       "pub": 0
     },
     {
@@ -179,6 +109,27 @@
     },
     {
       "ano": "2022",
+      "atividade_id": "19169",
+      "acao_id": "4033",
+      "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19157",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19152",
+      "acao_id": "4033",
+      "atividade": "2ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
       "atividade_id": "19170",
       "acao_id": "4033",
       "atividade": "Implementações do front-end do sistema Pink Pepper Qualifier - Etapa 2",
@@ -186,9 +137,58 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19175",
+      "atividade_id": "19187",
       "acao_id": "4033",
-      "atividade": "Realização de ajustes hiperparamétricos dos modelos de redes neurais",
+      "atividade": "Desenvolvimento de protótipos de tela do aplicativo Pink Pepper Qualifier - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19165",
+      "acao_id": "4033",
+      "atividade": "Montagem de uma primeira versão de uma base de dados de fotos de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19172",
+      "acao_id": "4033",
+      "atividade": "Gravação de uma reportagem para o Jornal do Campo da TV Gazeta",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19167",
+      "acao_id": "4033",
+      "atividade": "Implementações do back-end do sistema Pink Pepper Qualifier - Etapa 2",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19178",
+      "acao_id": "4033",
+      "atividade": "Modelagem e implementação do banco de dados da solução Pink Pepper Qualifier - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19154",
+      "acao_id": "4033",
+      "atividade": "Estudo de algoritmos de redes neurais profundas voltadas para segmentação de imagens",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19153",
+      "acao_id": "4033",
+      "atividade": "3ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "13927",
+      "acao_id": "4033",
+      "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "pub": 0
     }
   ],
@@ -205,6 +205,11 @@
     {
       "nome": "Fidelis Zanetti de Castro",
       "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Breno Ricardo Ferreira Antunes",
+      "slug": "breno-ricardo-ferreira-antunes",
       "acoes_comuns": 1
     },
     {

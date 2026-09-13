@@ -4,6 +4,7 @@
   "resumo_ia": null,
   "anos": [
     "2020",
+    "2022",
     "2023"
   ],
   "funcoes": [
@@ -21,6 +22,17 @@
       "pub": 905,
       "funcoes": [
         "COLABORADOR(A)"
+      ]
+    },
+    {
+      "acao_id": "4210",
+      "titulo": "Operador de Computador",
+      "tipo": "Curso",
+      "ano": "2022",
+      "n": 23,
+      "pub": 17,
+      "funcoes": [
+        "MONITOR(A)"
       ]
     },
     {
@@ -44,6 +56,13 @@
       "pub": 0
     },
     {
+      "ano": "2022",
+      "atividade_id": "14476",
+      "acao_id": "4210",
+      "atividade": "Operador de Computador",
+      "pub": 17
+    },
+    {
       "ano": "2023",
       "atividade_id": "17244",
       "acao_id": "4820",
@@ -52,11 +71,15 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 42,
-  "impacto": 42,
+  "imp_eq": 59,
+  "impacto": 59,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
+      "n": 1
+    },
+    {
+      "tema": "Cultura e arte",
       "n": 1
     },
     {
@@ -883,6 +906,16 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Victorio Albani de Carvalho",
+      "slug": "victorio-albani-de-carvalho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
       "acoes_comuns": 1
     },
     {

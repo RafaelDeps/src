@@ -25,16 +25,16 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "19127",
+      "atividade_id": "19128",
       "acao_id": "3140",
-      "atividade": "17th Brazilian Symposium on Bioinformatics",
+      "atividade": "9th School of Theoretical Computer Science and Formal Methods",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "19128",
+      "atividade_id": "19127",
       "acao_id": "3140",
-      "atividade": "9th School of Theoretical Computer Science and Formal Methods",
+      "atividade": "17th Brazilian Symposium on Bioinformatics",
       "pub": 0
     }
   ],

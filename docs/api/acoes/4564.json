@@ -14,8 +14,247 @@
   "Data de cadastro": "26/06/2023",
   "Resumo": "O projeto Monitoria é uma ação que visa incentivar a participação dos alunos no \nprocesso de aprendizagem de seus pares, por meio do atendimento individual ou em grupo, em \nhorários previamente definidos para esse fim. Sendo, também, introduzidos à prática docente, tanto \nno ensino, quanto na participação do planejamento das atividades de monitoria em conjunto com o \nprofessor-orientador.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 37,
+  "publico_alvo_total": 5,
+  "atividades": [
+    {
+      "atividade_id": "15689",
+      "numero": "001",
+      "atividade": "MONITORIA",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    },
+    {
+      "atividade_id": "15708",
+      "numero": "002",
+      "atividade": "Monitoria primeiro semestre",
+      "publico": 5,
+      "aprovados": 5,
+      "certificados": 5,
+      "equipe": 6
+    },
+    {
+      "atividade_id": "15709",
+      "numero": "003",
+      "atividade": "Monitoria segundo semestre",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 25
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Bruno Carvalho Caxias",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Christofer de Oliveira Viana",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Daiane Geraldino Guerra",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "David Pantaleão Vilaça",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Eduardo Henrique Próspero Souza",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Enzo Hubner",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Fernanda Jaimara do Nascimento",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Gary Moura da Silva",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Hanna Leticia S de Jesus",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Harian Adami Chagas Radaelli",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Isabella Sampaio Martins dos Santos",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Israel Magalhães do Carmo",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "João Vitor Maciel Vianna",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "João Vitor Oliveira Scheidegger",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Kaua Mateus de Barros Terra",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Ludmila Dias",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Luiza de Oliveira Guidine",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Marcos Vinicius Mendes Faria",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Maressa Karen Henrique da Silva",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Maria Luiza Guimaraes Silva",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Mateus Lannes Cunha",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Matheus Henrique Gonçalves Costa",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Matheus Kleber Rodrigues Barbosa",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Matheus Silva Caldas",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "funcoes": [
+        "ORIENTADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Petar Veljovic",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Victor Oliveira Santos",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Vinicius Costa Marcelos",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Vinícius de Jesus Estevam",
+      "funcoes": [
+        "MONITOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Wagner Kirmse Caldas",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

@@ -14,36 +14,8 @@
   "Data de cadastro": "14/10/2013",
   "Resumo": "Emprega recursos dos principais aplicativos de escritório e utilitários da edição de textos, elaboração de planilhas eletrônicas, apresentação de slides e compactação de arquivos. Pesquisa e navega na internet. Usa correio eletrônico. Instala e configura sistema operacional, aplicativos de escritório e periféricos. Preparar profissionais para organizar a entrada e saída de dados em sistemas de informação, selecionar programas de aplicação a partir da avaliação do usuário, de acordo com normas e procedimentos técnicos de qualidade, segurança. higiene e saúde.",
   "Campus": "Serra",
-  "total_participacoes": 44,
-  "publico_alvo_total": 44,
-  "atividades": [
-    {
-      "atividade_id": "160",
-      "numero": "001",
-      "atividade": "Operador de Computador",
-      "publico": 16,
-      "aprovados": 16,
-      "certificados": 16,
-      "equipe": 0
-    },
-    {
-      "atividade_id": "161",
-      "numero": "002",
-      "atividade": "Operador de Computador",
-      "publico": 16,
-      "aprovados": 16,
-      "certificados": 16,
-      "equipe": 0
-    },
-    {
-      "atividade_id": "520",
-      "numero": "003",
-      "atividade": "Operador de Computador",
-      "publico": 12,
-      "aprovados": 12,
-      "certificados": 12,
-      "equipe": 0
-    }
-  ],
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
   "equipe_execucao": []
 }

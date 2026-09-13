@@ -14,63 +14,8 @@
   "Data de cadastro": "04/12/2020",
   "Resumo": "Nesse momento de crise mundial, o presente projeto tem o objetivo de promover diversas ações\nextensionistas, envolvendo professores, técnicos e alunos do Campus Serra do Ifes, para mitigar os\nefeitos da pandemia do Covid-19.\nUma das vertentes do projeto é a produção de protetores faciais por impressão 3D. Essa ação já vem\nsendo realizada por servidores voluntários (conforme Notícias Ifes presentes nos Anexo), mas o\nobjetivo é ampliar e incluir a participação de alunos, desde a concepção de modelos mais confortáveis,\naté a montagem do protetor, passando pela captação de recursos e parcerias com empresas privadas\nda região. Os protetores são a primeira camada de proteção para profissionais de saúde, evitando que\ntenham contato com saliva e fluidos corporais de pessoas infectadas com o novo coronavírus. A peça é\numa barreira física transparente entre o paciente e o médico ou enfermeiro, que pode ser higienizada e\nreutilizada.\nOutras vertentes deste projeto serão desenvolvidas após pesquisa envolvendo a participação de\nprofissionais da saúde. Estes irão nos informar os problemas possíveis de serem resolvidos utilizando a\ntecnologia disponível. Desta forma, será levantada a demanda das soluções que serão desenvolvidas\ncom a participação da equipe deste projeto.",
   "Campus": "Serra",
-  "total_participacoes": 9,
-  "publico_alvo_total": 1,
-  "atividades": [
-    {
-      "atividade_id": "11183",
-      "numero": "001",
-      "atividade": "IFES Contra a Covid-19",
-      "publico": 1,
-      "aprovados": 1,
-      "certificados": 0,
-      "equipe": 8
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Gabriel Ravani do Rosario",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Lucas Eduardo da Silva Pacheco",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA",
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Marcus Romano Salles Bernardes de Souza",
-      "funcoes": [
-        "COORDENADOR(A) ADJUNTO(A)"
-      ],
-      "vinculo": "Convidado"
-    },
-    {
-      "nome": "Rosiane Ribeiro Rocha",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    },
-    {
-      "nome": "Victor Laurentino Subtil",
-      "funcoes": [
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    },
-    {
-      "nome": "Vitor Almeida Nascimento Lopes",
-      "funcoes": [
-        "ALUNO(A) BOLSISTA",
-        "ALUNO(A) VOLUNTARIO"
-      ],
-      "vinculo": "Aluno"
-    }
-  ]
+  "total_participacoes": 0,
+  "publico_alvo_total": 0,
+  "atividades": [],
+  "equipe_execucao": []
 }

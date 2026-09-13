@@ -5,11 +5,13 @@
   "anos": [
     "2020",
     "2023",
+    "2024",
     "2025"
   ],
   "funcoes": [
     "COORDENADOR(A)",
     "GESTOR(A) DE PROJETO",
+    "MEMBRO DE COMITÊ GESTOR",
     "ORGANIZADOR(A)"
   ],
   "acoes_coordenadas": [
@@ -18,8 +20,8 @@
       "titulo": "IFES Contra a Covid-19",
       "tipo": "Projeto",
       "ano": "2020",
-      "n": 9,
-      "pub": 1
+      "n": 0,
+      "pub": 0
     },
     {
       "acao_id": "5641",
@@ -31,17 +33,6 @@
     }
   ],
   "participacoes_equipe": [
-    {
-      "acao_id": "3139",
-      "titulo": "IFES Contra a Covid-19",
-      "tipo": "Projeto",
-      "ano": "2020",
-      "n": 9,
-      "pub": 1,
-      "funcoes": [
-        "COORDENADOR(A)"
-      ]
-    },
     {
       "acao_id": "3140",
       "titulo": "LAMPEX – Laboratório Modelo de Práticas de Extensão",
@@ -66,6 +57,17 @@
       ]
     },
     {
+      "acao_id": "5086",
+      "titulo": "Conectando Talentos: Robótica e Programação no IFES-Serra",
+      "tipo": "Projeto",
+      "ano": "2024",
+      "n": 218,
+      "pub": 168,
+      "funcoes": [
+        "MEMBRO DE COMITÊ GESTOR"
+      ]
+    },
+    {
       "acao_id": "5641",
       "titulo": "LabMaker 4.0: capacitando professores para a cultura maker e tecnologias da Indústria 4.0",
       "tipo": "Projeto",
@@ -80,13 +82,6 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "11183",
-      "acao_id": "3139",
-      "atividade": "IFES Contra a Covid-19",
-      "pub": 1
-    },
-    {
-      "ano": "2020",
       "atividade_id": "18721",
       "acao_id": "3140",
       "atividade": "Minicurso \"Introdução à Siderurgia\"",
@@ -94,10 +89,10 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17044",
+      "atividade_id": "17038",
       "acao_id": "4655",
-      "atividade": "Palestra \" Crimes Cibernéticos e Cyberbullying no Brasil\"",
-      "pub": 34
+      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
+      "pub": 5
     },
     {
       "ano": "2023",
@@ -115,17 +110,10 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17035",
+      "atividade_id": "17041",
       "acao_id": "4655",
-      "atividade": "Palestra \"Robótica, Programação e Simulações: desenvolvendo o pensamento computacional nas aulas\"",
-      "pub": 80
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17043",
-      "acao_id": "4655",
-      "atividade": "Minicurso \"Habitats de Inovação\"",
-      "pub": 16
+      "atividade": "Palestra \"Inovação Sustentável: A Jornada da Intechno\"",
+      "pub": 75
     },
     {
       "ano": "2023",
@@ -143,20 +131,6 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17036",
-      "acao_id": "4655",
-      "atividade": "Oficina \"A Química do cérebro: ondas gamma e efeitos da dimetiltriptamina de plantas medicinais/ roda de chá com meditação\"",
-      "pub": 15
-    },
-    {
-      "ano": "2023",
-      "atividade_id": "17038",
-      "acao_id": "4655",
-      "atividade": "Oficina \"Introdução aos Sistemas Microcontrolados: uso do Arduino e ESP32\"",
-      "pub": 5
-    },
-    {
-      "ano": "2023",
       "atividade_id": "17040",
       "acao_id": "4655",
       "atividade": "Palestra \"Prontualize, solução que promove bem-estar emocional e mental\"",
@@ -164,17 +138,17 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17045",
+      "atividade_id": "17046",
       "acao_id": "4655",
-      "atividade": "Palestra \"Mulher de energia solar: MEGA SOLUÇÕES ENERGÉTICAS\"",
-      "pub": 46
+      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
+      "pub": 0
     },
     {
       "ano": "2023",
-      "atividade_id": "17041",
+      "atividade_id": "17035",
       "acao_id": "4655",
-      "atividade": "Palestra \"Inovação Sustentável: A Jornada da Intechno\"",
-      "pub": 75
+      "atividade": "Palestra \"Robótica, Programação e Simulações: desenvolvendo o pensamento computacional nas aulas\"",
+      "pub": 80
     },
     {
       "ano": "2023",
@@ -185,10 +159,38 @@
     },
     {
       "ano": "2023",
-      "atividade_id": "17046",
+      "atividade_id": "17036",
       "acao_id": "4655",
-      "atividade": "Semana Nacional de Ciência e Tecnologia do IFES campus Serra",
-      "pub": 0
+      "atividade": "Oficina \"A Química do cérebro: ondas gamma e efeitos da dimetiltriptamina de plantas medicinais/ roda de chá com meditação\"",
+      "pub": 15
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17043",
+      "acao_id": "4655",
+      "atividade": "Minicurso \"Habitats de Inovação\"",
+      "pub": 16
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17045",
+      "acao_id": "4655",
+      "atividade": "Palestra \"Mulher de energia solar: MEGA SOLUÇÕES ENERGÉTICAS\"",
+      "pub": 46
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17044",
+      "acao_id": "4655",
+      "atividade": "Palestra \" Crimes Cibernéticos e Cyberbullying no Brasil\"",
+      "pub": 34
+    },
+    {
+      "ano": "2024",
+      "atividade_id": "22201",
+      "acao_id": "5086",
+      "atividade": "II Torneio e Mostra Tecnológica de Robótica do Ifes - Campus Serra (TMTR)",
+      "pub": 112
     },
     {
       "ano": "2025",
@@ -198,23 +200,24 @@
       "pub": 0
     }
   ],
-  "imp_coord": 18,
-  "imp_eq": 473,
-  "impacto": 491,
+  "imp_coord": 17,
+  "imp_eq": 585,
+  "impacto": 602,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 4
-    },
-    {
-      "tema": "Saúde e bem-estar",
-      "n": 2
+      "n": 5
     }
   ],
   "colaboradores": [
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 4
+    },
+    {
+      "nome": "Karin Satie Komati",
+      "slug": "karin-satie-komati",
       "acoes_comuns": 3
     },
     {
@@ -228,23 +231,28 @@
       "acoes_comuns": 3
     },
     {
-      "nome": "Karin Satie Komati",
-      "slug": "karin-satie-komati",
+      "nome": "Gabriel Tozatto Zago",
+      "slug": "gabriel-tozatto-zago",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Ícaro Lessa Secchin",
+      "slug": "icaro-lessa-secchin",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Anyssa Satimi Komati Andrade",
+      "slug": "anyssa-satimi-komati-andrade",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Thiago Henrique Ezequiel dos Santos",
+      "slug": "thiago-henrique-ezequiel-dos-santos",
       "acoes_comuns": 2
     },
     {
       "nome": "João Vitor Oliveira Scheidegger",
       "slug": "joao-vitor-oliveira-scheidegger",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Gabriel Tozatto Zago",
-      "slug": "gabriel-tozatto-zago",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Ícaro Lessa Secchin",
-      "slug": "icaro-lessa-secchin",
       "acoes_comuns": 2
     },
     {
@@ -256,31 +264,6 @@
       "nome": "Leticia Comissario da Silva",
       "slug": "leticia-comissario-da-silva",
       "acoes_comuns": 2
-    },
-    {
-      "nome": "Vitor Almeida Nascimento Lopes",
-      "slug": "vitor-almeida-nascimento-lopes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Eduardo da Silva Pacheco",
-      "slug": "lucas-eduardo-da-silva-pacheco",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcus Romano Salles Bernardes de Souza",
-      "slug": "marcus-romano-salles-bernardes-de-souza",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Victor Laurentino Subtil",
-      "slug": "victor-laurentino-subtil",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Gabriel Ravani do Rosario",
-      "slug": "gabriel-ravani-do-rosario",
-      "acoes_comuns": 1
     },
     {
       "nome": "Emmanuel Marques Silva",
@@ -588,11 +571,6 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Anyssa Satimi Komati Andrade",
-      "slug": "anyssa-satimi-komati-andrade",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Danilo de Paula e Silva",
       "slug": "danilo-de-paula-e-silva",
       "acoes_comuns": 1
@@ -625,11 +603,6 @@
     {
       "nome": "Luiz Felipe Elizeta dos Santos",
       "slug": "luiz-felipe-elizeta-dos-santos",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Henrique Ezequiel dos Santos",
-      "slug": "thiago-henrique-ezequiel-dos-santos",
       "acoes_comuns": 1
     },
     {
@@ -1200,6 +1173,156 @@
     {
       "nome": "Debora Galavote Moura",
       "slug": "debora-galavote-moura",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ludmila Dias",
+      "slug": "ludmila-dias",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Amanda Frasson Nascimento Martins",
+      "slug": "amanda-frasson-nascimento-martins",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luma Tavares Lopes de Souza",
+      "slug": "luma-tavares-lopes-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Meireles Paixão",
+      "slug": "thiago-meireles-paixao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marta Talitha Carvalho Freire Mendes",
+      "slug": "marta-talitha-carvalho-freire-mendes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marcos Paulo Kohler Caldas",
+      "slug": "marcos-paulo-kohler-caldas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Kauã Alexandre Bernardes",
+      "slug": "kaua-alexandre-bernardes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Clara Peterle de Souza",
+      "slug": "maria-clara-peterle-de-souza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Leonardo Aguiar do Amaral",
+      "slug": "leonardo-aguiar-do-amaral",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Luis Henrique Rosado Torres",
+      "slug": "luis-henrique-rosado-torres",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Andre Ferreira",
+      "slug": "andre-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Waleska Sulke dos Santos",
+      "slug": "waleska-sulke-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Thiago Almeida Deps Caldeira",
+      "slug": "thiago-almeida-deps-caldeira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tainá Jesus Corrêa Bromonschenkel",
+      "slug": "taina-jesus-correa-bromonschenkel",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Rafael Almeida Deps Caldeira",
+      "slug": "rafael-almeida-deps-caldeira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Pâmella Victória Bitencourt Novais dos Santos",
+      "slug": "pamella-victoria-bitencourt-novais-dos-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Matheus Mesquita Gomes Moura",
+      "slug": "matheus-mesquita-gomes-moura",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marina Moraes Silva",
+      "slug": "marina-moraes-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Júlia Leopoldo Barros",
+      "slug": "maria-julia-leopoldo-barros",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Eduarda da Cruz Ferreira",
+      "slug": "maria-eduarda-da-cruz-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Larissa Maciel Santos",
+      "slug": "larissa-maciel-santos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Lara Walcher de Andrade",
+      "slug": "lara-walcher-de-andrade",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jordana do Amaral Geolando",
+      "slug": "jordana-do-amaral-geolando",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Jessica Stinghel Abreu",
+      "slug": "jessica-stinghel-abreu",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "João Victor Nascimento Ribeiro",
+      "slug": "joao-victor-nascimento-ribeiro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gustavo Gomes Brzesky",
+      "slug": "gustavo-gomes-brzesky",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabriel Pereira Silva",
+      "slug": "gabriel-pereira-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eloah Leocádio de Moura",
+      "slug": "eloah-leocadio-de-moura",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Elisa Moreira Costa",
+      "slug": "elisa-moreira-costa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Eduardo Peron Cardozo Babilone",
+      "slug": "eduardo-peron-cardozo-babilone",
       "acoes_comuns": 1
     },
     {

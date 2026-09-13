@@ -14,8 +14,36 @@
   "Data de cadastro": "14/10/2013",
   "Resumo": "Preparar profissionais para realizar instalação e manutenção elétrica predial de baixa tensão, de acordo com normas e procedimentos técnicos de qualidade, segurança, higiene e saúde.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
+  "total_participacoes": 39,
+  "publico_alvo_total": 39,
+  "atividades": [
+    {
+      "atividade_id": "162",
+      "numero": "001",
+      "atividade": "Eletricista Instalador Predial de Baixa Tensão",
+      "publico": 9,
+      "aprovados": 9,
+      "certificados": 9,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "163",
+      "numero": "002",
+      "atividade": "Eletricista Instalador Predial de Baixa Tensão",
+      "publico": 12,
+      "aprovados": 12,
+      "certificados": 12,
+      "equipe": 0
+    },
+    {
+      "atividade_id": "516",
+      "numero": "003",
+      "atividade": "Eletricista Instalador Predial de Baixa Tensão",
+      "publico": 18,
+      "aprovados": 18,
+      "certificados": 18,
+      "equipe": 0
+    }
+  ],
   "equipe_execucao": []
 }

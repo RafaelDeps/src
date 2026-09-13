@@ -3,13 +3,11 @@
   "nome": "Wagner Kirmse Caldas",
   "resumo_ia": null,
   "anos": [
-    "2016",
     "2018",
     "2019",
     "2020"
   ],
   "funcoes": [
-    "COLABORADOR(A)",
     "COORDENADOR(A)",
     "ORIENTADOR(A)",
     "PROFESSOR(A)"
@@ -76,17 +74,6 @@
       "funcoes": [
         "ORIENTADOR(A)"
       ]
-    },
-    {
-      "acao_id": "719",
-      "titulo": "Programação Visual Criativa com Scratch + Arduino",
-      "tipo": "Curso",
-      "ano": "2016",
-      "n": 21,
-      "pub": 12,
-      "funcoes": [
-        "COLABORADOR(A)"
-      ]
     }
   ],
   "atividades": [
@@ -99,17 +86,10 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14470",
+      "atividade_id": "14469",
       "acao_id": "2107",
-      "atividade": "Visita EEEFM Nova Carapina",
-      "pub": 91
-    },
-    {
-      "ano": "2018",
-      "atividade_id": "14466",
-      "acao_id": "2107",
-      "atividade": "Visita EEEF Francisco Alves Mendes",
-      "pub": 65
+      "atividade": "Visita CEEFMTI Joaquim Beato",
+      "pub": 36
     },
     {
       "ano": "2018",
@@ -120,17 +100,24 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "14469",
-      "acao_id": "2107",
-      "atividade": "Visita CEEFMTI Joaquim Beato",
-      "pub": 36
-    },
-    {
-      "ano": "2018",
       "atividade_id": "14467",
       "acao_id": "2107",
       "atividade": "Visita EMEF Jonas Farias 1",
       "pub": 9
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14466",
+      "acao_id": "2107",
+      "atividade": "Visita EEEF Francisco Alves Mendes",
+      "pub": 65
+    },
+    {
+      "ano": "2018",
+      "atividade_id": "14470",
+      "acao_id": "2107",
+      "atividade": "Visita EEEFM Nova Carapina",
+      "pub": 91
     },
     {
       "ano": "2018",
@@ -152,29 +139,22 @@
       "acao_id": "3140",
       "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Programação e Desenvolvimento",
       "pub": 17
-    },
-    {
-      "ano": "2016",
-      "atividade_id": "1560",
-      "acao_id": "719",
-      "atividade": "Programação Criativa com Scratch + Arduino",
-      "pub": 12
     }
   ],
   "imp_coord": 885,
-  "imp_eq": 35,
-  "impacto": 920,
+  "imp_eq": 23,
+  "impacto": 908,
   "temas": [
     {
       "tema": "Captação e ingresso",
       "n": 4
     },
     {
-      "tema": "Robótica e cultura maker",
-      "n": 2
+      "tema": "Escola e formação de professores",
+      "n": 1
     },
     {
-      "tema": "Escola e formação de professores",
+      "tema": "Robótica e cultura maker",
       "n": 1
     }
   ],
@@ -192,11 +172,6 @@
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 2
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 2
     },
     {
@@ -975,6 +950,11 @@
       "acoes_comuns": 1
     },
     {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Maxine Amorim Silva Gois",
       "slug": "maxine-amorim-silva-gois",
       "acoes_comuns": 1
@@ -1067,41 +1047,6 @@
     {
       "nome": "Vinicius Prata Lima",
       "slug": "vinicius-prata-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Moisés Savedra Omena",
-      "slug": "moises-savedra-omena",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marlon Woelffel Candoti",
-      "slug": "marlon-woelffel-candoti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Anne Caroline Silva",
-      "slug": "anne-caroline-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cassiano Knsch das Neves",
-      "slug": "cassiano-knsch-das-neves",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Irisson Junio Máximo Borges",
-      "slug": "irisson-junio-maximo-borges",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mirleni de Jesus",
-      "slug": "mirleni-de-jesus",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ernani Leite Ribeiro Filho",
-      "slug": "ernani-leite-ribeiro-filho",
       "acoes_comuns": 1
     }
   ]

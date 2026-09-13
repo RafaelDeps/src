@@ -9,9 +9,19 @@
   "funcoes": [
     "AUXILIAR TÉCNICO",
     "COLABORADOR(A)",
+    "INSTRUTOR(A)",
     "ORIENTADOR(A)"
   ],
-  "acoes_coordenadas": [],
+  "acoes_coordenadas": [
+    {
+      "acao_id": "986",
+      "titulo": "Energia Solar Fotovoltaica",
+      "tipo": "Curso",
+      "ano": "2017",
+      "n": 26,
+      "pub": 25
+    }
+  ],
   "participacoes_equipe": [
     {
       "acao_id": "1261",
@@ -34,6 +44,17 @@
       "funcoes": [
         "AUXILIAR TÉCNICO",
         "ORIENTADOR(A)"
+      ]
+    },
+    {
+      "acao_id": "986",
+      "titulo": "Energia Solar Fotovoltaica",
+      "tipo": "Curso",
+      "ano": "2017",
+      "n": 26,
+      "pub": 25,
+      "funcoes": [
+        "INSTRUTOR(A)"
       ]
     }
   ],
@@ -58,12 +79,23 @@
       "acao_id": "708",
       "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedoras",
       "pub": 15
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "2570",
+      "acao_id": "986",
+      "atividade": "Energia Solar Fotovoltaica",
+      "pub": 25
     }
   ],
-  "imp_coord": 0,
+  "imp_coord": 25,
   "imp_eq": 30,
-  "impacto": 30,
+  "impacto": 55,
   "temas": [
+    {
+      "tema": "Software, dados e sistemas",
+      "n": 2
+    },
     {
       "tema": "Empreendedorismo e incubação",
       "n": 2

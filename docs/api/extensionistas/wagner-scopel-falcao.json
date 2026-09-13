@@ -3,16 +3,29 @@
   "nome": "Wagner Scopel Falcão",
   "resumo_ia": null,
   "anos": [
+    "2018",
     "2019",
     "2020"
   ],
   "funcoes": [
     "APOIO TÉCNICO",
     "ASSESSOR(A)",
-    "INSTRUTOR(A)"
+    "INSTRUTOR(A)",
+    "PALESTRANTE"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
+    {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
+      "funcoes": [
+        "PALESTRANTE"
+      ]
+    },
     {
       "acao_id": "2505",
       "titulo": "Circuito Audiovisual",
@@ -39,11 +52,11 @@
   ],
   "atividades": [
     {
-      "ano": "2019",
-      "atividade_id": "10575",
-      "acao_id": "2505",
-      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
-      "pub": 3
+      "ano": "2018",
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
     },
     {
       "ano": "2019",
@@ -51,13 +64,6 @@
       "acao_id": "2505",
       "atividade": "Ação Cineclubista \"produção Polo 3\"",
       "pub": 13
-    },
-    {
-      "ano": "2019",
-      "atividade_id": "10568",
-      "acao_id": "2505",
-      "atividade": "Ateliê de Produção Audiovisual",
-      "pub": 12
     },
     {
       "ano": "2019",
@@ -72,6 +78,20 @@
       "acao_id": "2505",
       "atividade": "Oficina de Sensibilização",
       "pub": 13
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10568",
+      "acao_id": "2505",
+      "atividade": "Ateliê de Produção Audiovisual",
+      "pub": 12
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "10575",
+      "acao_id": "2505",
+      "atividade": "Ação Cineclubista \"O Silêncio dos Homens\"",
+      "pub": 3
     },
     {
       "ano": "2020",
@@ -89,9 +109,13 @@
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 95,
-  "impacto": 95,
+  "imp_eq": 112,
+  "impacto": 112,
   "temas": [
+    {
+      "tema": "Mulheres e inclusão",
+      "n": 1
+    },
     {
       "tema": "Cultura e arte",
       "n": 1
@@ -102,6 +126,91 @@
     }
   ],
   "colaboradores": [
+    {
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Bruno Ramos Gonzaga",
+      "slug": "bruno-ramos-gonzaga",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
+      "acoes_comuns": 1
+    },
     {
       "nome": "Amarildo Mendes Lemos",
       "slug": "amarildo-mendes-lemos",
@@ -160,11 +269,6 @@
     {
       "nome": "Ursula Dart Bottrel do Nascimento",
       "slug": "ursula-dart-bottrel-do-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Emmanuel Marques Silva",
-      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 1
     },
     {
@@ -325,11 +429,6 @@
     {
       "nome": "Celeste Nascimento Souza Silva",
       "slug": "celeste-nascimento-souza-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 1
     },
     {
@@ -873,18 +972,8 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Giordana dos Santos Sperandio",
-      "slug": "giordana-dos-santos-sperandio",
-      "acoes_comuns": 1
-    },
-    {
       "nome": "Wagner Kirmse Caldas",
       "slug": "wagner-kirmse-caldas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 1
     },
     {
@@ -935,11 +1024,6 @@
     {
       "nome": "Guilherme Santos do Rosário",
       "slug": "guilherme-santos-do-rosario",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Graziela Barboza Guaitolini Ramos",
-      "slug": "graziela-barboza-guaitolini-ramos",
       "acoes_comuns": 1
     },
     {

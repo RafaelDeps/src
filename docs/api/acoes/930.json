@@ -14,8 +14,124 @@
   "Data de cadastro": "18/11/2016",
   "Resumo": "O presente curso visa o desenvolvimento de habilidades básicas relacionadas ao gerenciamento de projetos interdisciplinares, inovação e métodos ágeis, para que professores e alunos dos Institutos Federais. O curso faz parte de um projeto de desenvolvimento de laboratórios dentro da rede dos Institutos capaz de interligar a comunidade acadêmica, o setor produtivo e a sociedade, desenvolvendo projetos colaborativos tentando resolver problemas reais.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 68,
+  "publico_alvo_total": 53,
+  "atividades": [
+    {
+      "atividade_id": "2154",
+      "numero": "001",
+      "atividade": "Despertar da Força - Processos e Ferramentas para o Gerenciamento Ágil de Projetos: Uma Abordagem Prática",
+      "publico": 53,
+      "aprovados": 53,
+      "certificados": 53,
+      "equipe": 15
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Andréia Sias Rodrigues",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Flávio Lopes da Silva",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Francisco Petronio Alencar de Medeiros",
+      "funcoes": [
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Heremita Brasileiro Lira",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Jaqueline Carlos",
+      "funcoes": [
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "José Wlamir Barreto Soares",
+      "funcoes": [
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "José de Irigon de Irigon",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Lukese Rosa Menegussi",
+      "funcoes": [
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Marcio Bender Machado",
+      "funcoes": [
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Nadja da Nóbrega Rodrigues",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Paula Felipe Schlemper de Oliveira",
+      "funcoes": [
+        "INSTRUTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Paulo Ditarso Maciel Junior",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Paulo Sérgio dos Santos Júnior",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Rafaela Elisa Maurin Benedicto",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Vinicius Kruger da Costa",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Convidado"
+    }
+  ]
 }

@@ -25,17 +25,17 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "22299",
-      "acao_id": "3140",
-      "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Matemática, Cálculo e Física",
-      "pub": 9
-    },
-    {
-      "ano": "2020",
       "atividade_id": "22302",
       "acao_id": "3140",
       "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Ensino de Língua Inglesa",
       "pub": 3
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "22299",
+      "acao_id": "3140",
+      "atividade": "Atendimentos Personalizados e Monitorias de Extensão Tecnológica - área de Matemática, Cálculo e Física",
+      "pub": 9
     }
   ],
   "imp_coord": 0,

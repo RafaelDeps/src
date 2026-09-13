@@ -14,8 +14,80 @@
   "Data de cadastro": "27/04/2022",
   "Resumo": "Neste projeto iremos montar e organizar as salas 406, 407 e 408 localizada no Campus Serra do Ifes\ncom o objetivo de criarmos um espaço não formal de ensino e aprendizagem. Este espaço será\ninaugurado no decorrer do ano de 2022 e contará com vários experimentos de diversas áreas,\nprincipalmente de física, sendo a maioria dos experimentos automatizados. Este espaço estará aberto\npara visitações orientadas de escolas e grupos externos previamente agendados durante o decorrer do\nano, dando apoio também ao projeto Ifes portas abertas, já existente no campus. Vale ressaltar que os\nexperimentos que serão expostos na sala 408 são experimentos construídos por alunos do Ifes Serra\nsob nossa orientação via projetos de pesquisa dos anos anteriores (PICTI).\nUma mostra permanente do conjunto de experimentos produzidos permitirá a divulgação, capilarização\ne apropriação do conhecimento adquirido de forma contínua.\nAlém disso, este projeto possibilita uma estreita interface com a área de computação, através da\nprogramação de microcontroladores que fazem a automação dos experimentos. Por isso ele também\ncontempla ações envolvendo o aprendizado de técnicas de programação do Arduino através de\nminicursos sobre como programar o Arduino e como aplicar esta programação, a qual é semelhante\nàquela realizada em robôs industriais.\nPortanto, o projeto aproxima o jovem estudante e a comunidade em geral da tecnologia empregada no\nmercado de trabalho, servindo, assim, como multiplicador dessa atividade, além de ser mais atrativa\naos olhos dos jovens, que estão imersos no mundo tecnológico.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 11,
+  "publico_alvo_total": 3,
+  "atividades": [
+    {
+      "atividade_id": "13271",
+      "numero": "001",
+      "atividade": "Física ao Alcance de Todos",
+      "publico": 3,
+      "aprovados": 3,
+      "certificados": 3,
+      "equipe": 3
+    },
+    {
+      "atividade_id": "17382",
+      "numero": "002",
+      "atividade": "Inciciação Científica",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "17383",
+      "numero": "003",
+      "atividade": "Inciciação Científica",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Faye Manski Queiroz",
+      "funcoes": [
+        "EXTENSIONISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Jonas Emanuel dos Santos Egert",
+      "funcoes": [
+        "EXTENSIONISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Leandro Melo de Sá",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Lucas Eduardo da Silva Pacheco",
+      "funcoes": [
+        "EXTENSIONISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Luiz Felipe Loureiro Mascarenhas",
+      "funcoes": [
+        "EXTENSIONISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Rosilene de Sá Ribeiro",
+      "funcoes": [
+        "COORDENADOR(A)",
+        "ORIENTADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

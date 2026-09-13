@@ -8,9 +8,9 @@
     "2023"
   ],
   "funcoes": [
-    "COLABORADOR(A)",
     "COORDENADOR(A)",
-    "COORDENADOR(A) ADJUNTO(A)"
+    "COORDENADOR(A) ADJUNTO(A)",
+    "PROFESSOR(A)"
   ],
   "acoes_coordenadas": [
     {
@@ -18,7 +18,7 @@
       "titulo": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "tipo": "Projeto",
       "ano": "2022",
-      "n": 164,
+      "n": 165,
       "pub": 0
     },
     {
@@ -43,14 +43,14 @@
       ]
     },
     {
-      "acao_id": "2021",
-      "titulo": "Física ao Alcance de Todos",
-      "tipo": "Projeto",
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
       "ano": "2018",
-      "n": 429,
-      "pub": 235,
+      "n": 53,
+      "pub": 25,
       "funcoes": [
-        "COLABORADOR(A)"
+        "PROFESSOR(A)"
       ]
     },
     {
@@ -69,7 +69,7 @@
       "titulo": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "tipo": "Projeto",
       "ano": "2022",
-      "n": 164,
+      "n": 165,
       "pub": 0,
       "funcoes": [
         "COORDENADOR(A)"
@@ -86,16 +86,121 @@
     },
     {
       "ano": "2018",
-      "atividade_id": "9595",
-      "acao_id": "2021",
-      "atividade": "Mostra Tecnológica na Semana Nacional de Ciência e Tecnologia 2019",
-      "pub": 0
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
     },
     {
       "ano": "2018",
       "atividade_id": "7247",
       "acao_id": "2107",
       "atividade": "Ifes Portas Abertas",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19181",
+      "acao_id": "4033",
+      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19185",
+      "acao_id": "4033",
+      "atividade": "Realização da palestra intitulada “Aplicativo Pink: Uma solução para avaliar a qualidade produtiva da pimenta rosa”, proferida no 2° Festival Brasileiro de Pimenta Rosa.",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19158",
+      "acao_id": "4033",
+      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19155",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 1",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19156",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 2",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19159",
+      "acao_id": "4033",
+      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 2",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19173",
+      "acao_id": "4033",
+      "atividade": "Participação em mentorias do Sebrae",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19177",
+      "acao_id": "4033",
+      "atividade": "Apresentação no “Primeiro Seminário de Empreendedorismo na Rede Federal” (para uma banca de especialistas empresários e representantes de entidades governamentais) de um pitch sobre a solução Pink Pepper Qualifier.",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19160",
+      "acao_id": "4033",
+      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19151",
+      "acao_id": "4033",
+      "atividade": "1ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19157",
+      "acao_id": "4033",
+      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19184",
+      "acao_id": "4033",
+      "atividade": "Realização de palestra intitulada \"Qualidade produtiva da pimenta rosa usando Inteligência Computacional\" no TecnoAgro 2022",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19152",
+      "acao_id": "4033",
+      "atividade": "2ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19165",
+      "acao_id": "4033",
+      "atividade": "Montagem de uma primeira versão de uma base de dados de fotos de pimenta rosa",
+      "pub": 0
+    },
+    {
+      "ano": "2022",
+      "atividade_id": "19172",
+      "acao_id": "4033",
+      "atividade": "Gravação de uma reportagem para o Jornal do Campo da TV Gazeta",
       "pub": 0
     },
     {
@@ -121,128 +226,27 @@
     },
     {
       "ano": "2022",
-      "atividade_id": "19156",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19185",
-      "acao_id": "4033",
-      "atividade": "Realização da palestra intitulada “Aplicativo Pink: Uma solução para avaliar a qualidade produtiva da pimenta rosa”, proferida no 2° Festival Brasileiro de Pimenta Rosa.",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19177",
-      "acao_id": "4033",
-      "atividade": "Apresentação no “Primeiro Seminário de Empreendedorismo na Rede Federal” (para uma banca de especialistas empresários e representantes de entidades governamentais) de um pitch sobre a solução Pink Pepper Qualifier.",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19157",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 3",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19172",
-      "acao_id": "4033",
-      "atividade": "Gravação de uma reportagem para o Jornal do Campo da TV Gazeta",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19152",
-      "acao_id": "4033",
-      "atividade": "2ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19160",
-      "acao_id": "4033",
-      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 3",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19158",
-      "acao_id": "4033",
-      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 1",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19165",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma primeira versão de uma base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19155",
-      "acao_id": "4033",
-      "atividade": "Captura de fotos de pimentas em diferentes estádios fenológicos de maturação - Etapa 1",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19159",
-      "acao_id": "4033",
-      "atividade": "Coleta de frutos para realização de análises químicas - Etapa 2",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
       "atividade_id": "13927",
       "acao_id": "4033",
       "atividade": "Pink Pepper Qualifier: Determinação da qualidade produtiva dos frutos da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional",
       "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19173",
-      "acao_id": "4033",
-      "atividade": "Participação em mentorias do Sebrae",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19181",
-      "acao_id": "4033",
-      "atividade": "Montagem de uma segunda base de dados de fotos de pimenta rosa",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19184",
-      "acao_id": "4033",
-      "atividade": "Realização de palestra intitulada \"Qualidade produtiva da pimenta rosa usando Inteligência Computacional\" no TecnoAgro 2022",
-      "pub": 0
-    },
-    {
-      "ano": "2022",
-      "atividade_id": "19151",
-      "acao_id": "4033",
-      "atividade": "1ª viagem técnica à região do Nativo/SM para realização de entrevistas com produtores de pimenta rosa",
-      "pub": 0
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 75,
-  "impacto": 75,
+  "imp_eq": 92,
+  "impacto": 92,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
-      "n": 3
+      "n": 2
     },
     {
       "tema": "Captação e ingresso",
       "n": 2
+    },
+    {
+      "tema": "Mulheres e inclusão",
+      "n": 1
     }
   ],
   "colaboradores": [
@@ -252,28 +256,28 @@
       "acoes_comuns": 2
     },
     {
-      "nome": "Rosilene de Sá Ribeiro",
-      "slug": "rosilene-de-sa-ribeiro",
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
       "acoes_comuns": 1
     },
     {
-      "nome": "Leandro Melo de Sá",
-      "slug": "leandro-melo-de-sa",
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
       "acoes_comuns": 1
     },
     {
-      "nome": "Estácio Righette Pereira",
-      "slug": "estacio-righette-pereira",
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
       "acoes_comuns": 1
     },
     {
-      "nome": "Faye Manski Queiroz",
-      "slug": "faye-manski-queiroz",
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 1
     },
     {
-      "nome": "Isabelle Pereira Souza Dias",
-      "slug": "isabelle-pereira-souza-dias",
+      "nome": "Bruno Ramos Gonzaga",
+      "slug": "bruno-ramos-gonzaga",
       "acoes_comuns": 1
     },
     {
@@ -282,228 +286,58 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Renan dos Santos Siqueira",
-      "slug": "renan-dos-santos-siqueira",
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
       "acoes_comuns": 1
     },
     {
-      "nome": "Arthur de Souza Silva Mayerhofer",
-      "slug": "arthur-de-souza-silva-mayerhofer",
+      "nome": "Emmanuel Marques Silva",
+      "slug": "emmanuel-marques-silva",
       "acoes_comuns": 1
     },
     {
-      "nome": "Junior Aguilar Amorim",
-      "slug": "junior-aguilar-amorim",
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
       "acoes_comuns": 1
     },
     {
-      "nome": "Lucas Xavier da Silva",
-      "slug": "lucas-xavier-da-silva",
+      "nome": "Tatiane Policário Chagas",
+      "slug": "tatiane-policario-chagas",
       "acoes_comuns": 1
     },
     {
-      "nome": "Rodolfo Luiz de Oliveira",
-      "slug": "rodolfo-luiz-de-oliveira",
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Moura Araujo",
-      "slug": "davi-moura-araujo",
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
       "acoes_comuns": 1
     },
     {
-      "nome": "Gustavo Olmo Santana",
-      "slug": "gustavo-olmo-santana",
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
       "acoes_comuns": 1
     },
     {
-      "nome": "Mateus Maioli Giacomin",
-      "slug": "mateus-maioli-giacomin",
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
       "acoes_comuns": 1
     },
     {
-      "nome": "Weverton Gomes da Silva",
-      "slug": "weverton-gomes-da-silva",
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
       "acoes_comuns": 1
     },
     {
-      "nome": "Lara Costa Vargen",
-      "slug": "lara-costa-vargen",
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
       "acoes_comuns": 1
     },
     {
-      "nome": "Davi Aragão Ascacibas",
-      "slug": "davi-aragao-ascacibas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mateus de Mattos Ferreira",
-      "slug": "mateus-de-mattos-ferreira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Santana Prates",
-      "slug": "pedro-santana-prates",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Beatriz Auer Mariano",
-      "slug": "beatriz-auer-mariano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Roberto Bozzi Perereira",
-      "slug": "luiz-roberto-bozzi-perereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Roger Leonardo Coimbra Silva",
-      "slug": "roger-leonardo-coimbra-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lucas Tejada Fabres",
-      "slug": "lucas-tejada-fabres",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kleydson Gonçalves Caetano",
-      "slug": "kleydson-goncalves-caetano",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Kaio Henrique da Silva Nezio",
-      "slug": "kaio-henrique-da-silva-nezio",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Silveira Mendes",
-      "slug": "guilherme-silveira-mendes",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Noíza Sperandio Bino",
-      "slug": "noiza-sperandio-bino",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Charles Bruno Ferreira de Morais Junior",
-      "slug": "charles-bruno-ferreira-de-morais-junior",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Lorena Teixeira de Almeida",
-      "slug": "lorena-teixeira-de-almeida",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Bianchini Moares",
-      "slug": "larissa-bianchini-moares",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Larissa Campos Vieira",
-      "slug": "larissa-campos-vieira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Pedro Henrique de Carvalho Scaramussa Luz",
-      "slug": "pedro-henrique-de-carvalho-scaramussa-luz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "João Vitor Calmon C R Porto",
-      "slug": "joao-vitor-calmon-c-r-porto",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcelo Victor Ferreira Barbosa",
-      "slug": "marcelo-victor-ferreira-barbosa",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Júlia Suzano Fraga",
-      "slug": "julia-suzano-fraga",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Shayane Teixeira da Cruz",
-      "slug": "shayane-teixeira-da-cruz",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Cecília Bastazini Kroëbel",
-      "slug": "cecilia-bastazini-kroebel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Mariana Pinto Ferraz Tassan",
-      "slug": "mariana-pinto-ferraz-tassan",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Caio Bastos Buteri",
-      "slug": "caio-bastos-buteri",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Bruno Rocha Pratti",
-      "slug": "bruno-rocha-pratti",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thiago Viguini de Carvalho",
-      "slug": "thiago-viguini-de-carvalho",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Guilherme Lopes de Oliveira",
-      "slug": "guilherme-lopes-de-oliveira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Denise Rocco de Sena",
-      "slug": "denise-rocco-de-sena",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Flávio Barcelos Braz da Silva",
-      "slug": "flavio-barcelos-braz-da-silva",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Ramyson de Araujo Nascimento",
-      "slug": "ramyson-de-araujo-nascimento",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luis Felippe Klein Faria",
-      "slug": "luis-felippe-klein-faria",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marcos Antonio da Hora Borges",
-      "slug": "marcos-antonio-da-hora-borges",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Vantuil Manoel Thebas",
-      "slug": "vantuil-manoel-thebas",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Luiz Filipe dos Santos Schelemberg",
-      "slug": "luiz-filipe-dos-santos-schelemberg",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Thais Gonçalves de Lima",
-      "slug": "thais-goncalves-de-lima",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Brenno Pelegrino Costa Guimarães",
-      "slug": "brenno-pelegrino-costa-guimaraes",
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
       "acoes_comuns": 1
     },
     {
@@ -549,6 +383,11 @@
     {
       "nome": "Anna Julia Ferreira Tamanini",
       "slug": "anna-julia-ferreira-tamanini",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Breno Ricardo Ferreira Antunes",
+      "slug": "breno-ricardo-ferreira-antunes",
       "acoes_comuns": 1
     },
     {

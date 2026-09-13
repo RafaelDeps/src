@@ -14,8 +14,121 @@
   "Data de cadastro": "04/07/2016",
   "Resumo": "A Câmara de Assessoramento em Gestão e Tecnologia constitui-se como órgão do Ifes campus Serra responsável em promover a participação de especialistas de diversas áreas do conhecimento na construção de soluções técnicas, de processos e de modelos, dentre outros, relativas à gestão administrativa e aporte tecnológico em empreendimentos associados ao Núcleo Incubador Serra e empresas demandantes. A Câmara surge com o intuito de fornecer orientações e assessorias nas áreas de gestão e de tecnologia com vistas a promover melhorias empresariais que busquem a consolidação dos empreendimentos incubados no mercado, bem como seu crescimento e sustentabilidade.",
   "Campus": "Serra",
-  "total_participacoes": 0,
+  "total_participacoes": 9,
   "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "atividades": [
+    {
+      "atividade_id": "1610",
+      "numero": "001",
+      "atividade": "Câmara de Assessoramento em Gestão e Tecnologia do Núcleo Incubador do campus Serra do Ifes",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "9029",
+      "numero": "002",
+      "atividade": "Assessoria Técnica da empresa Vilux Vitória Lux Industrial – EIRELI – EPP",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "9030",
+      "numero": "003",
+      "atividade": "Assessoria Técnica da empresa Fleximetal Brasil Indústria e Comércio Ltda – ME",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    },
+    {
+      "atividade_id": "9031",
+      "numero": "004",
+      "atividade": "Assessoria Técnica da empresa UpLevel Informática Ltda",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 2
+    },
+    {
+      "atividade_id": "9098",
+      "numero": "005",
+      "atividade": "Assessoria Técnica do projeto de Pré-Incubação denominado “Indicadores”",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    },
+    {
+      "atividade_id": "10014",
+      "numero": "006",
+      "atividade": "Assessoria Técnica do projeto de Pré-Incubação denominado “Somartech GRS: Gerenciamento de Riscos e Segurança”",
+      "publico": 0,
+      "aprovados": 0,
+      "certificados": 0,
+      "equipe": 1
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Dirceu Soares Júnior",
+      "funcoes": [
+        "ASSESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Edilson Luiz do Nascimento",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Felipe Frechiani de Oliveira",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Filipe Arthur Firmino Monhol",
+      "funcoes": [
+        "MENTOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Gilmar Luiz Vassoler",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "José Geraldo das Neves Orlandi",
+      "funcoes": [
+        "CONSULTOR(A)",
+        "MENTOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Maxwell Eduardo Monteiro",
+      "funcoes": [
+        "ASSESSOR(A)"
+      ],
+      "vinculo": "Aluno"
+    }
+  ]
 }

@@ -14,26 +14,8 @@
   "Data de cadastro": "14/07/2021",
   "Resumo": "O programa Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) cria dentro do\nIFES campus Serra um ambiente que disponibiliza a alunos, professores, servidores e parceiros\nexternos a participarem de um ou mais projetos. Nesse ambiente, os alunos se beneficiam da\nexperiência profissional de servidores e parceiros que orientam o desenvolvimento de produtos,\nprocessos e serviços, para a sociedade.\nO LEDS propicia um aprendizado vivencial para alunos e servidores por meio da cooperação\nmútua. Além disso, ele proporciona um ambiente prático e de experimentação no qual alunos,\nservidores e parceiros de instituições públicas e privadas podem interagir e, assim, gerar\nconhecimento e inovações que beneficiem a sociedade.\nO programa funciona a partir do envolvimento de três atores: Público alvo, Executores,\ncoordenadores de projetos:\n? O público alvo são clientes ou usuários dos produtos, processos e serviços do\nprograma. Dentre esses, estão a indústria, os órgãos públicos e a sociedade organizada,\nentre outros.\n? Os coordenadores de projetos são servidores responsáveis pelo suporte técnico,\nmetodológico, gerencial e empreendedor e inovativo de cada projeto no qual estão\nalocados os executores, visando atender a demanda do público alvo. Dessa forma, os\ncoordenadores de projetos serão beneficiados com um ambiente em que possam\ncolocar em prática assuntos geralmente tratados no campo teórico em disciplinas\ncurriculares.\n? Os executores são os alunos ou colaboradores das entidades parceiras. Eles são\norientados pelos coordenadores de projetos e têm a oportunidade de desenvolver\ncompetências diversas, incluindo, gestão, empreendedorismo e inovação.",
   "Campus": "Serra",
-  "total_participacoes": 1,
+  "total_participacoes": 0,
   "publico_alvo_total": 0,
-  "atividades": [
-    {
-      "atividade_id": "11938",
-      "numero": "001",
-      "atividade": "LEDS – Laboratório de Extensão em Desenvolvimento de Soluções",
-      "publico": 0,
-      "aprovados": 0,
-      "certificados": 0,
-      "equipe": 1
-    }
-  ],
-  "equipe_execucao": [
-    {
-      "nome": "Felipe Frechiani de Oliveira",
-      "funcoes": [
-        "COORDENADOR(A)"
-      ],
-      "vinculo": "Servidor"
-    }
-  ]
+  "atividades": [],
+  "equipe_execucao": []
 }

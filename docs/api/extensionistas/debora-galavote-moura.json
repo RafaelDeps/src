@@ -7,7 +7,9 @@
   ],
   "funcoes": [
     "ALUNO(A) BOLSISTA",
-    "MINISTRANTE"
+    "ALUNO(A) VOLUNTARIO",
+    "MINISTRANTE",
+    "MONITOR(A)"
   ],
   "acoes_coordenadas": [],
   "participacoes_equipe": [
@@ -21,6 +23,18 @@
       "funcoes": [
         "ALUNO(A) BOLSISTA",
         "MINISTRANTE"
+      ]
+    },
+    {
+      "acao_id": "4754",
+      "titulo": "QUÍMICA VERDE APLICADA: oficinas e workshops",
+      "tipo": "Projeto",
+      "ano": "2023",
+      "n": 159,
+      "pub": 134,
+      "funcoes": [
+        "ALUNO(A) VOLUNTARIO",
+        "MONITOR(A)"
       ]
     }
   ],
@@ -38,18 +52,51 @@
       "acao_id": "4655",
       "atividade": "SerraMaker: fomentando a cultura Maker no município da Serra",
       "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "16756",
+      "acao_id": "4754",
+      "atividade": "QUÍMICA VERDE APLICADA: oficinas e workshops",
+      "pub": 0
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "16986",
+      "acao_id": "4754",
+      "atividade": "Oficina Produtos renováveis",
+      "pub": 69
     }
   ],
   "imp_coord": 0,
-  "imp_eq": 18,
-  "impacto": 18,
+  "imp_eq": 87,
+  "impacto": 87,
   "temas": [
     {
       "tema": "Robótica e cultura maker",
       "n": 1
+    },
+    {
+      "tema": "Mulheres e inclusão",
+      "n": 1
     }
   ],
   "colaboradores": [
+    {
+      "nome": "Matheus Tiago Amorim Pereira",
+      "slug": "matheus-tiago-amorim-pereira",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Marianna Stark Gardioli Rangel",
+      "slug": "marianna-stark-gardioli-rangel",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 2
+    },
     {
       "nome": "Gabriel Tozatto Zago",
       "slug": "gabriel-tozatto-zago",
@@ -63,21 +110,6 @@
     {
       "nome": "Richard Junior Manuel Godinez Tello",
       "slug": "richard-junior-manuel-godinez-tello",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Matheus Tiago Amorim Pereira",
-      "slug": "matheus-tiago-amorim-pereira",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Marianna Stark Gardioli Rangel",
-      "slug": "marianna-stark-gardioli-rangel",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Nauvia Maria Cancelieri",
-      "slug": "nauvia-maria-cancelieri",
       "acoes_comuns": 1
     },
     {
@@ -213,6 +245,36 @@
     {
       "nome": "Julia Almeida Nascimento Lopes",
       "slug": "julia-almeida-nascimento-lopes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Julia Sagrillo Barreiros",
+      "slug": "julia-sagrillo-barreiros",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Gabriel Santos da Silva Valbuza",
+      "slug": "gabriel-santos-da-silva-valbuza",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Akilanny Silva Cruz",
+      "slug": "akilanny-silva-cruz",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Angelo dos Santos Teixeira",
+      "slug": "angelo-dos-santos-teixeira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Kauã Alexandre Bernardes",
+      "slug": "kaua-alexandre-bernardes",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Victor Ramos Dessaune",
+      "slug": "victor-ramos-dessaune",
       "acoes_comuns": 1
     }
   ]

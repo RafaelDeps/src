@@ -14,8 +14,61 @@
   "Data de cadastro": "30/08/2024",
   "Resumo": "Este projeto trata da proposta para a Semana destinada à Educação Especial Inclusiva - Setembro Verde prevista no calendário acadêmico no ano de 2024. Essa ação possibilitará a reflexão e debate sobre os desafios vividos pelas pessoas com deficiência na sociedade excludente. Setembro verde é o mês de conscientizar a população sobre a importância da inclusão social de pessoas com deficiência. Assim, o mês é marcado por campanhas em todo o país com o objetivo de colocar os direitos das pessoas com deficiência nas principais pautas. Por meio de atividades como cine debate, oficina de pintura de telas e exposição, palestras, atividade física adaptada e rodas de conversas, será uma oportunidade para o desenvolvimento de práticas inclusivas considerando a luta da pessoa com deficiência para fazer parte da sociedade. Para avaliação das atividades, será aplicado um formulário google forms com questões relacionadas ao grau de satisfação e sugestões para os próximos projetos. Espera-se, com esta semana, contribuir para a criação de contextos significativos de inclusão, motivar a comunidade acadêmica para a luta anticapacitista, e possibilitar a construção de práticas inclusivas nos cursos do campus Serra.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 222,
+  "publico_alvo_total": 216,
+  "atividades": [
+    {
+      "atividade_id": "18685",
+      "numero": "001",
+      "atividade": "Semana destinada à Educação Especial Inclusiva - Setembro Verde",
+      "publico": 216,
+      "aprovados": 216,
+      "certificados": 216,
+      "equipe": 6
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Emilene Coco dos Santos",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Juciéli Alves da Costa",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Laís Carla Simeão da Silva Santos",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Ludmila dos Santos Santana Perovano",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Odiléia Jô Figueiredo",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Convidado"
+    },
+    {
+      "nome": "Paula Mariani Taquete Rodrigues",
+      "funcoes": [
+        "ORGANIZADOR(A)"
+      ],
+      "vinculo": "Convidado"
+    }
+  ]
 }

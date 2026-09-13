@@ -3,12 +3,15 @@
   "nome": "Tatiane Policário Chagas",
   "resumo_ia": null,
   "anos": [
+    "2018",
     "2019",
+    "2022",
     "2023",
     "2025"
   ],
   "funcoes": [
     "COORDENADOR(A)",
+    "COORDENADOR(A) ADJUNTO(A)",
     "PROFESSOR(A)"
   ],
   "acoes_coordenadas": [
@@ -39,6 +42,28 @@
   ],
   "participacoes_equipe": [
     {
+      "acao_id": "2082",
+      "titulo": "Mulheres na Ciência",
+      "tipo": "Curso",
+      "ano": "2018",
+      "n": 53,
+      "pub": 25,
+      "funcoes": [
+        "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "2675",
+      "titulo": "Tutoria de Estudos Orientados: Compartilhando Saberes",
+      "tipo": "Projeto",
+      "ano": "2019",
+      "n": 19,
+      "pub": 5,
+      "funcoes": [
+        "PROFESSOR(A)"
+      ]
+    },
+    {
       "acao_id": "2773",
       "titulo": "Ambientação Pedagógica: Didática e Técnicas de Ensino.",
       "tipo": "Curso",
@@ -47,6 +72,17 @@
       "pub": 6,
       "funcoes": [
         "PROFESSOR(A)"
+      ]
+    },
+    {
+      "acao_id": "4209",
+      "titulo": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
+      "tipo": "Curso",
+      "ano": "2022",
+      "n": 26,
+      "pub": 23,
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
       ]
     },
     {
@@ -85,6 +121,20 @@
   ],
   "atividades": [
     {
+      "ano": "2018",
+      "atividade_id": "6874",
+      "acao_id": "2082",
+      "atividade": "Mulheres na Ciência",
+      "pub": 17
+    },
+    {
+      "ano": "2019",
+      "atividade_id": "9225",
+      "acao_id": "2675",
+      "atividade": "Tutoria de Estudos Orientados: Compartilhando Saberes",
+      "pub": 5
+    },
+    {
       "ano": "2019",
       "atividade_id": "9562",
       "acao_id": "2773",
@@ -92,11 +142,11 @@
       "pub": 6
     },
     {
-      "ano": "2023",
-      "atividade_id": "17244",
-      "acao_id": "4820",
-      "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
-      "pub": 42
+      "ano": "2022",
+      "atividade_id": "14474",
+      "acao_id": "4209",
+      "atividade": "ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃO",
+      "pub": 23
     },
     {
       "ano": "2023",
@@ -104,6 +154,13 @@
       "acao_id": "4820",
       "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
       "pub": 20
+    },
+    {
+      "ano": "2023",
+      "atividade_id": "17244",
+      "acao_id": "4820",
+      "atividade": "Mulheres Mil – Eletricista Instalador Predial em Baixa Tensão",
+      "pub": 42
     },
     {
       "ano": "2025",
@@ -121,15 +178,19 @@
     }
   ],
   "imp_coord": 115,
-  "imp_eq": 6,
-  "impacto": 121,
+  "imp_eq": 51,
+  "impacto": 166,
   "temas": [
     {
       "tema": "Mulheres e inclusão",
-      "n": 6
+      "n": 8
     },
     {
       "tema": "Escola e formação de professores",
+      "n": 1
+    },
+    {
+      "tema": "Empreendedorismo e incubação",
       "n": 1
     }
   ],
@@ -137,16 +198,31 @@
     {
       "nome": "Bruno Ramos Gonzaga",
       "slug": "bruno-ramos-gonzaga",
-      "acoes_comuns": 3
+      "acoes_comuns": 5
     },
     {
       "nome": "Emmanuel Marques Silva",
       "slug": "emmanuel-marques-silva",
-      "acoes_comuns": 2
+      "acoes_comuns": 3
     },
     {
       "nome": "Marcos Paulo Kohler Caldas",
       "slug": "marcos-paulo-kohler-caldas",
+      "acoes_comuns": 3
+    },
+    {
+      "nome": "Ana Rúbia Ramos Vicente",
+      "slug": "ana-rubia-ramos-vicente",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Alessandra Aguiar Vilarinho",
+      "slug": "alessandra-aguiar-vilarinho",
+      "acoes_comuns": 2
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "slug": "richard-junior-manuel-godinez-tello",
       "acoes_comuns": 2
     },
     {
@@ -175,6 +251,116 @@
       "acoes_comuns": 2
     },
     {
+      "nome": "Giordana dos Santos Sperandio",
+      "slug": "giordana-dos-santos-sperandio",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Éllen Oliveira Silva Neves",
+      "slug": "ellen-oliveira-silva-neves",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nauvia Maria Cancelieri",
+      "slug": "nauvia-maria-cancelieri",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Paula Klauck",
+      "slug": "ana-paula-klauck",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Fidelis Zanetti de Castro",
+      "slug": "fidelis-zanetti-de-castro",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ernani Leite Ribeiro Filho",
+      "slug": "ernani-leite-ribeiro-filho",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Josué Rego da Silva",
+      "slug": "josue-rego-da-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Wagner Scopel Falcão",
+      "slug": "wagner-scopel-falcao",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Maria Gabriela Siqueira Tavares",
+      "slug": "maria-gabriela-siqueira-tavares",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Sarah Silva Ferreira",
+      "slug": "sarah-silva-ferreira",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Graziela Barboza Guaitolini Ramos",
+      "slug": "graziela-barboza-guaitolini-ramos",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Adriana Padua Lovatte",
+      "slug": "adriana-padua-lovatte",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Janaina de Medeiros Freitas",
+      "slug": "janaina-de-medeiros-freitas",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Euléssia Costa Silva",
+      "slug": "eulessia-costa-silva",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Ana Paula Ferreira Pimentel Cesar",
+      "slug": "ana-paula-ferreira-pimentel-cesar",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Samara Cristina Zupeli Babilon",
+      "slug": "samara-cristina-zupeli-babilon",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Larissa Vervloet Mendonça",
+      "slug": "larissa-vervloet-mendonca",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Marcelo Victor Ferreira Barbosa",
+      "slug": "marcelo-victor-ferreira-barbosa",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Carlos Guilherme Felismino Pedroni",
+      "slug": "carlos-guilherme-felismino-pedroni",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Helen França Medeiros",
+      "slug": "helen-franca-medeiros",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Raphael Pinto de Almeida",
+      "slug": "raphael-pinto-de-almeida",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Vitória Maciel de Carvalho",
+      "slug": "vitoria-maciel-de-carvalho",
+      "acoes_comuns": 1
+    },
+    {
       "nome": "Cláudia Ribeiro de Moraes",
       "slug": "claudia-ribeiro-de-moraes",
       "acoes_comuns": 1
@@ -185,13 +371,18 @@
       "acoes_comuns": 1
     },
     {
-      "nome": "Richard Junior Manuel Godinez Tello",
-      "slug": "richard-junior-manuel-godinez-tello",
+      "nome": "Wagner Kirmse Caldas",
+      "slug": "wagner-kirmse-caldas",
       "acoes_comuns": 1
     },
     {
-      "nome": "Wagner Kirmse Caldas",
-      "slug": "wagner-kirmse-caldas",
+      "nome": "Renner Sartório Camargo",
+      "slug": "renner-sartorio-camargo",
+      "acoes_comuns": 1
+    },
+    {
+      "nome": "Nicolas Nasário Ferreira",
+      "slug": "nicolas-nasario-ferreira",
       "acoes_comuns": 1
     },
     {
@@ -222,11 +413,6 @@
     {
       "nome": "Elisa Andrade de Jesus",
       "slug": "elisa-andrade-de-jesus",
-      "acoes_comuns": 1
-    },
-    {
-      "nome": "Alessandra Aguiar Vilarinho",
-      "slug": "alessandra-aguiar-vilarinho",
       "acoes_comuns": 1
     },
     {

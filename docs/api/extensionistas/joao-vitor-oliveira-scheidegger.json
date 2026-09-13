@@ -47,17 +47,17 @@
     },
     {
       "ano": "2025",
-      "atividade_id": "20617",
-      "acao_id": "5641",
-      "atividade": "Minicurso \"Introdução ao Arduino\"",
-      "pub": 14
-    },
-    {
-      "ano": "2025",
       "atividade_id": "20613",
       "acao_id": "5641",
       "atividade": "LabMaker 4.0: capacitando professores para a cultura maker e tecnologias da Indústria 4.0",
       "pub": 0
+    },
+    {
+      "ano": "2025",
+      "atividade_id": "20617",
+      "acao_id": "5641",
+      "atividade": "Minicurso \"Introdução ao Arduino\"",
+      "pub": 14
     }
   ],
   "imp_coord": 0,

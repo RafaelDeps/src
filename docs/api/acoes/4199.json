@@ -14,8 +14,34 @@
   "Data de cadastro": "24/11/2022",
   "Resumo": "O presente curso visa proporcionar ao aluno uma formação complementar na área de eletrônica de potência, em particular os conversores básicos CC-CC chaveados, Buck, Boost e Buck- Boost, tendo como objetivo de aprendizado o modelamento e projeto destes conversores, bem como a utilização de softwares livres para simulação destas topologias.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 6,
+  "publico_alvo_total": 3,
+  "atividades": [
+    {
+      "atividade_id": "14440",
+      "numero": "001",
+      "atividade": "Modelagem e Simulação de Conversores CC-CC - Z",
+      "publico": 3,
+      "aprovados": 3,
+      "certificados": 3,
+      "equipe": 3
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Vinícius Secchin de Melo",
+      "funcoes": [
+        "COORDENADOR(A)",
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Walbermark Marques dos Santos",
+      "funcoes": [
+        "PROFESSOR(A)"
+      ],
+      "vinculo": "Convidado"
+    }
+  ]
 }

@@ -73,16 +73,16 @@
   "atividades": [
     {
       "ano": "2017",
-      "atividade_id": "3048",
+      "atividade_id": "11586",
       "acao_id": "1116",
-      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
       "ano": "2017",
-      "atividade_id": "11584",
+      "atividade_id": "3048",
       "acao_id": "1116",
-      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "atividade": "Comitê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
       "pub": 0
     },
     {
@@ -94,17 +94,10 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "11586",
+      "atividade_id": "10997",
       "acao_id": "1116",
-      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
-      "pub": 0
-    },
-    {
-      "ano": "2017",
-      "atividade_id": "11625",
-      "acao_id": "1116",
-      "atividade": "Capacitação em \"Modelagens de Novos Negócios\"",
-      "pub": 2
+      "atividade": "Capacitação em \"Modelagem de Novos Negócios\"",
+      "pub": 24
     },
     {
       "ano": "2017",
@@ -129,10 +122,17 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "10997",
+      "atividade_id": "11625",
       "acao_id": "1116",
-      "atividade": "Capacitação em \"Modelagem de Novos Negócios\"",
-      "pub": 24
+      "atividade": "Capacitação em \"Modelagens de Novos Negócios\"",
+      "pub": 2
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "11584",
+      "acao_id": "1116",
+      "atividade": "Membro do Comtê Gestor do Núcleo Incubador campus Serra do Ifes - NIS",
+      "pub": 0
     },
     {
       "ano": "2017",
@@ -150,17 +150,17 @@
     },
     {
       "ano": "2017",
-      "atividade_id": "4818",
-      "acao_id": "1261",
-      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
-      "pub": 12
-    },
-    {
-      "ano": "2017",
       "atividade_id": "4502",
       "acao_id": "1261",
       "atividade": "Seminário de Apresentação dos Empreendimentos",
       "pub": 1
+    },
+    {
+      "ano": "2017",
+      "atividade_id": "4818",
+      "acao_id": "1261",
+      "atividade": "Curso de Pré-Incubação para Empreendedores – Modalidade Competências Empreendedora",
+      "pub": 12
     },
     {
       "ano": "2020",

@@ -14,8 +14,103 @@
   "Data de cadastro": "21/07/2021",
   "Resumo": "O projeto “Lampex + empreendedor” trata-se de uma extensão (com viés empresarial) do\nLaboratório Modelo de Práticas de Extensão. O “Lampex + empreendedor” constitui-se em um\nambiente colaborativo em que alunos dos cursos superiores e técnicos, das áreas de automação\ne informática do campus Serra do Ifes, poderão cumprir atividades de formação em práticas\naderentes às disciplinas dos respectivos cursos, em resposta à demandas espontâneas dos\nparceiros do projeto, bem como da sociedade capixaba, com o intuito de contribuir positivamente\nna formação do estudante, incentivando o seu protagonismo.",
   "Campus": "Serra",
-  "total_participacoes": 0,
-  "publico_alvo_total": 0,
-  "atividades": [],
-  "equipe_execucao": []
+  "total_participacoes": 14,
+  "publico_alvo_total": 2,
+  "atividades": [
+    {
+      "atividade_id": "11978",
+      "numero": "001",
+      "atividade": "Lampex + empreendedor",
+      "publico": 2,
+      "aprovados": 2,
+      "certificados": 2,
+      "equipe": 12
+    }
+  ],
+  "equipe_execucao": [
+    {
+      "nome": "Adelson Pereira do Nascimento",
+      "funcoes": [
+        "ORIENTADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Alan Afif Helal",
+      "funcoes": [
+        "ORIENTADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Breno Ricardo Ferreira Antunes",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Bruno Cardoso Coutinho",
+      "funcoes": [
+        "COORDENADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Elen Lara",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Emmanuel Marques Silva",
+      "funcoes": [
+        "COORDENADOR(A) ADJUNTO(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Flavio Severiano Lamas de Souza",
+      "funcoes": [
+        "ORIENTADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    },
+    {
+      "nome": "Guilherme Firme Fiorot",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Juliana Ricato Musso Silva",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Matheus Teixeira de Aguiar",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Pedro Aguiar Alves",
+      "funcoes": [
+        "ALUNO(A) BOLSISTA"
+      ],
+      "vinculo": "Aluno"
+    },
+    {
+      "nome": "Richard Junior Manuel Godinez Tello",
+      "funcoes": [
+        "ORIENTADOR(A)"
+      ],
+      "vinculo": "Servidor"
+    }
+  ]
 }

@@ -40,9 +40,9 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "12814",
+      "atividade_id": "12813",
       "acao_id": "3140",
-      "atividade": "Avaliação do TCC(Trabalho de conclusão de curso) do candidato Edson Simões Boldrini",
+      "atividade": "Curso DB (Preparação do curso; Participação em aulas online e presencial e Apoio ao professor)",
       "pub": 0
     },
     {
@@ -54,16 +54,16 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "12813",
+      "atividade_id": "12881",
       "acao_id": "3140",
-      "atividade": "Curso DB (Preparação do curso; Participação em aulas online e presencial e Apoio ao professor)",
+      "atividade": "Desenvolvimento do MOOC (Modelagem de bancos de dados relacionais) nas etapas de Análise, Planejamento, Desenvolvimento e Implementação.",
       "pub": 0
     },
     {
       "ano": "2020",
-      "atividade_id": "12881",
+      "atividade_id": "12814",
       "acao_id": "3140",
-      "atividade": "Desenvolvimento do MOOC (Modelagem de bancos de dados relacionais) nas etapas de Análise, Planejamento, Desenvolvimento e Implementação.",
+      "atividade": "Avaliação do TCC(Trabalho de conclusão de curso) do candidato Edson Simões Boldrini",
       "pub": 0
     }
   ],

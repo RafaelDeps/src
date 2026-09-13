@@ -27,17 +27,17 @@
   "atividades": [
     {
       "ano": "2020",
+      "atividade_id": "21068",
+      "acao_id": "3140",
+      "atividade": "SOF - Serviço de Orientação Financeira",
+      "pub": 34
+    },
+    {
+      "ano": "2020",
       "atividade_id": "14032",
       "acao_id": "3140",
       "atividade": "Roadshow programas de inovação FINDESLAB",
       "pub": 32
-    },
-    {
-      "ano": "2020",
-      "atividade_id": "14031",
-      "acao_id": "3140",
-      "atividade": "Palestra empreendedorismo - da visão a ação",
-      "pub": 70
     },
     {
       "ano": "2020",
@@ -48,17 +48,17 @@
     },
     {
       "ano": "2020",
-      "atividade_id": "21068",
-      "acao_id": "3140",
-      "atividade": "SOF - Serviço de Orientação Financeira",
-      "pub": 34
-    },
-    {
-      "ano": "2020",
       "atividade_id": "21454",
       "acao_id": "3140",
       "atividade": "“Workshops do Seminário Capixaba de Aplicações de Inteligência Artificial (SCAI) 2025” *",
       "pub": 0
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "14031",
+      "acao_id": "3140",
+      "atividade": "Palestra empreendedorismo - da visão a ação",
+      "pub": 70
     }
   ],
   "imp_coord": 0,

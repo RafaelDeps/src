@@ -27,17 +27,17 @@
   "atividades": [
     {
       "ano": "2020",
-      "atividade_id": "18019",
-      "acao_id": "3140",
-      "atividade": "Produção de Material de Apoio Pedagógico para os Minicursos do Lampex na Edição 2023-2024",
-      "pub": 0
-    },
-    {
-      "ano": "2020",
       "atividade_id": "18017",
       "acao_id": "3140",
       "atividade": "Minicurso de Informática Básica – Módulo I",
       "pub": 9
+    },
+    {
+      "ano": "2020",
+      "atividade_id": "18019",
+      "acao_id": "3140",
+      "atividade": "Produção de Material de Apoio Pedagógico para os Minicursos do Lampex na Edição 2023-2024",
+      "pub": 0
     },
     {
       "ano": "2020",

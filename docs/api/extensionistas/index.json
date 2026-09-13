@@ -21,7 +21,6 @@
     "funcoes": [
       "ASSESSOR(A)",
       "COLABORADOR(A)",
-      "CONSULTOR(A)",
       "COORDENADOR(A)",
       "MENTOR(A)",
       "ORGANIZADOR(A)",
@@ -30,6 +29,7 @@
     "anos": [
       "2017",
       "2020",
+      "2021",
       "2022",
       "2024"
     ],
@@ -39,22 +39,6 @@
     "imp_eq": 30,
     "impacto": 40,
     "url": "api/extensionistas/adelson-pereira-do-nascimento.json"
-  },
-  {
-    "slug": "adile-lima-da-silva",
-    "nome": "Adile Lima da Silva",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/adile-lima-da-silva.json"
   },
   {
     "slug": "adriana-padua-lovatte",
@@ -67,27 +51,11 @@
       "2018"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
+    "imp_eq": 28,
+    "impacto": 28,
     "url": "api/extensionistas/adriana-padua-lovatte.json"
-  },
-  {
-    "slug": "adriano-felipe-salgado-barros",
-    "nome": "Adriano Felipe Salgado Barros",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/adriano-felipe-salgado-barros.json"
   },
   {
     "slug": "adriano-lemos-bandeira",
@@ -106,22 +74,6 @@
     "url": "api/extensionistas/adriano-lemos-bandeira.json"
   },
   {
-    "slug": "adriano-de-paula",
-    "nome": "Adriano de Paula",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/adriano-de-paula.json"
-  },
-  {
     "slug": "aguinaldo-barata",
     "nome": "Aguinaldo Barata",
     "funcoes": [
@@ -138,26 +90,10 @@
     "url": "api/extensionistas/aguinaldo-barata.json"
   },
   {
-    "slug": "ailson-ferreira-de-sousa",
-    "nome": "Ailson Ferreira de Sousa",
+    "slug": "akilanny-silva-cruz",
+    "nome": "Akilanny Silva Cruz",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/ailson-ferreira-de-sousa.json"
-  },
-  {
-    "slug": "aishila-sofia-oliveira-rosa",
-    "nome": "Aishila Sofia Oliveira Rosa",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "MONITOR(A)"
     ],
     "anos": [
       "2023"
@@ -165,63 +101,32 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/aishila-sofia-oliveira-rosa.json"
+    "imp_eq": 34,
+    "impacto": 34,
+    "url": "api/extensionistas/akilanny-silva-cruz.json"
   },
   {
     "slug": "alan-afif-helal",
     "nome": "Alan Afif Helal",
     "funcoes": [
-      "COLABORADOR(A)"
+      "ORIENTADOR(A)"
     ],
     "anos": [
-      "2016"
+      "2021"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
+    "imp_eq": 2,
+    "impacto": 2,
     "url": "api/extensionistas/alan-afif-helal.json"
-  },
-  {
-    "slug": "alan-pablo-donati-pereira",
-    "nome": "Alan Pablo Donati Pereira",
-    "funcoes": [
-      "INSTRUTOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/alan-pablo-donati-pereira.json"
-  },
-  {
-    "slug": "aleksander-silva-pereira-pessoa",
-    "nome": "Aleksander Silva Pereira Pessoa",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/aleksander-silva-pereira-pessoa.json"
   },
   {
     "slug": "alessandra-aguiar-vilarinho",
     "nome": "Alessandra Aguiar Vilarinho",
     "funcoes": [
       "COLABORADOR(A)",
+      "COORDENADOR(A) ADJUNTO(A)",
       "ORGANIZADOR(A)",
       "ORIENTADOR(A)",
       "PROFESSOR(A)"
@@ -236,8 +141,8 @@
     "coordena": 0,
     "equipe": 6,
     "imp_coord": 0,
-    "imp_eq": 85,
-    "impacto": 85,
+    "imp_eq": 101,
+    "impacto": 101,
     "url": "api/extensionistas/alessandra-aguiar-vilarinho.json"
   },
   {
@@ -250,13 +155,14 @@
     ],
     "anos": [
       "2017",
-      "2018"
+      "2018",
+      "2019"
     ],
     "coordena": 2,
-    "equipe": 4,
-    "imp_coord": 17,
-    "imp_eq": 284,
-    "impacto": 301,
+    "equipe": 6,
+    "imp_coord": 50,
+    "imp_eq": 364,
+    "impacto": 414,
     "url": "api/extensionistas/alessandro-bermudes-gomes.json"
   },
   {
@@ -292,22 +198,6 @@
     "url": "api/extensionistas/alex-rossoni-junior.json"
   },
   {
-    "slug": "alexandre-elias-de-amorim-pagung",
-    "nome": "Alexandre Elias de Amorim Pagung",
-    "funcoes": [
-      "ORGANIZADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/alexandre-elias-de-amorim-pagung.json"
-  },
-  {
     "slug": "alexandre-miguel-brunelli-costa",
     "nome": "Alexandre Miguel Brunelli Costa",
     "funcoes": [
@@ -327,16 +217,19 @@
     "slug": "alexia-coelho-barbosa",
     "nome": "Alexia Coelho Barbosa",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2017",
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 187,
+    "impacto": 187,
     "url": "api/extensionistas/alexia-coelho-barbosa.json"
   },
   {
@@ -390,22 +283,6 @@
     "url": "api/extensionistas/allister-campos-caetano.json"
   },
   {
-    "slug": "amanda-balestreiro-ferreira",
-    "nome": "Amanda Balestreiro Ferreira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/amanda-balestreiro-ferreira.json"
-  },
-  {
     "slug": "amanda-ferreira-falcao",
     "nome": "Amanda Ferreira Falcão",
     "funcoes": [
@@ -422,20 +299,37 @@
     "url": "api/extensionistas/amanda-ferreira-falcao.json"
   },
   {
-    "slug": "amanda-luiza-soares-barros",
-    "nome": "Amanda Luiza Soares Barros",
+    "slug": "amanda-ferreira-de-souza",
+    "nome": "Amanda Ferreira de Souza",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2023"
+      "2018"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/amanda-luiza-soares-barros.json"
+    "imp_eq": 37,
+    "impacto": 37,
+    "url": "api/extensionistas/amanda-ferreira-de-souza.json"
+  },
+  {
+    "slug": "amanda-frasson-nascimento-martins",
+    "nome": "Amanda Frasson Nascimento Martins",
+    "funcoes": [
+      "APOIO TÉCNICO",
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 163,
+    "impacto": 163,
+    "url": "api/extensionistas/amanda-frasson-nascimento-martins.json"
   },
   {
     "slug": "amanda-de-oliveira-ottoni",
@@ -457,39 +351,25 @@
     "slug": "amarildo-mendes-lemos",
     "nome": "Amarildo Mendes Lemos",
     "funcoes": [
-      "COORDENADOR(A)"
+      "COORDENADOR(A)",
+      "PROFESSOR(A)"
     ],
     "anos": [
+      "2017",
       "2019"
     ],
     "coordena": 1,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 86,
-    "imp_eq": 0,
-    "impacto": 86,
+    "imp_eq": 33,
+    "impacto": 119,
     "url": "api/extensionistas/amarildo-mendes-lemos.json"
   },
   {
-    "slug": "ana-beatriz-rocha-mululo",
-    "nome": "Ana Beatriz Rocha Mululo",
+    "slug": "ana-carolina-cebin-pereira",
+    "nome": "Ana Carolina Cebin Pereira",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/ana-beatriz-rocha-mululo.json"
-  },
-  {
-    "slug": "ana-carolina-dos-santos-rangel",
-    "nome": "Ana Carolina dos Santos Rangel",
-    "funcoes": [
-      "COLABORADOR(A)"
+      "AUXILIAR TÉCNICO"
     ],
     "anos": [
       "2016"
@@ -497,9 +377,9 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/ana-carolina-dos-santos-rangel.json"
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/ana-carolina-cebin-pereira.json"
   },
   {
     "slug": "ana-julia-artem-dos-santos",
@@ -534,20 +414,20 @@
     "url": "api/extensionistas/ana-julia-caetano-martins.json"
   },
   {
-    "slug": "ana-luiza-tonani-barcelos-da-silva",
-    "nome": "Ana Luiza Tonani Barcelos da Silva",
+    "slug": "ana-paula-ferreira-pimentel-cesar",
+    "nome": "Ana Paula Ferreira Pimentel Cesar",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/ana-luiza-tonani-barcelos-da-silva.json"
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/ana-paula-ferreira-pimentel-cesar.json"
   },
   {
     "slug": "ana-paula-klauck",
@@ -555,34 +435,41 @@
     "funcoes": [
       "COORDENADOR(A)",
       "ORGANIZADOR(A)",
-      "PALESTRANTE"
+      "PALESTRANTE",
+      "PROFESSOR(A)"
     ],
     "anos": [
       "2015",
       "2016",
+      "2017",
+      "2018",
       "2021"
     ],
     "coordena": 3,
-    "equipe": 3,
+    "equipe": 5,
     "imp_coord": 1,
-    "imp_eq": 0,
-    "impacto": 1,
+    "imp_eq": 50,
+    "impacto": 51,
     "url": "api/extensionistas/ana-paula-klauck.json"
   },
   {
     "slug": "ana-rubia-ramos-vicente",
     "nome": "Ana Rúbia Ramos Vicente",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "MONITOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
-      "2016"
+      "2016",
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 5,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
+    "imp_eq": 54,
+    "impacto": 54,
     "url": "api/extensionistas/ana-rubia-ramos-vicente.json"
   },
   {
@@ -602,52 +489,20 @@
     "url": "api/extensionistas/anderson-gomes.json"
   },
   {
-    "slug": "andre-luiz-oliveira",
-    "nome": "Andre Luiz Oliveira",
+    "slug": "andre-ferreira",
+    "nome": "Andre Ferreira",
     "funcoes": [
-      "EXTENSIONISTA"
+      "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
-      "2023"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/andre-luiz-oliveira.json"
-  },
-  {
-    "slug": "andre-luiz-siller-de-deus",
-    "nome": "Andre Luiz Siller de Deus",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/andre-luiz-siller-de-deus.json"
-  },
-  {
-    "slug": "andrei-santos-freitas-silva",
-    "nome": "Andrei Santos Freitas Silva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/andrei-santos-freitas-silva.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/andre-ferreira.json"
   },
   {
     "slug": "andressa-ramos-agnhesi-luppi",
@@ -666,29 +521,15 @@
     "url": "api/extensionistas/andressa-ramos-agnhesi-luppi.json"
   },
   {
-    "slug": "andreza-ferreira-da-silva",
-    "nome": "Andreza Ferreira da Silva",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/andreza-ferreira-da-silva.json"
-  },
-  {
     "slug": "andreangelo-da-paixao-patuzzo",
     "nome": "Andreângelo da Paixão Patuzzo",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "ALUNO(A) VOLUNTARIO"
+      "EXPOSITOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2018",
       "2019"
     ],
@@ -805,11 +646,43 @@
       "2016"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/andre-spadetto-leao.json"
+  },
+  {
+    "slug": "andreia-sias-rodrigues",
+    "nome": "Andréia Sias Rodrigues",
+    "funcoes": [
+      "MENTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/andreia-sias-rodrigues.json"
+  },
+  {
+    "slug": "angelo-dos-santos-teixeira",
+    "nome": "Angelo dos Santos Teixeira",
+    "funcoes": [
+      "MONITOR(A)"
+    ],
+    "anos": [
+      "2023"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 34,
+    "impacto": 34,
+    "url": "api/extensionistas/angelo-dos-santos-teixeira.json"
   },
   {
     "slug": "anna-clara-dos-santos-vieira",
@@ -849,16 +722,17 @@
     "slug": "anne-caroline-silva",
     "nome": "Anne Caroline Silva",
     "funcoes": [
-      "MINISTRANTE"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2016"
+      "2016",
+      "2018"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 12,
-    "impacto": 12,
+    "imp_eq": 37,
+    "impacto": 37,
     "url": "api/extensionistas/anne-caroline-silva.json"
   },
   {
@@ -898,17 +772,19 @@
     "nome": "Anyssa Satimi Komati Andrade",
     "funcoes": [
       "APOIO TÉCNICO",
+      "COLABORADOR(A)",
       "EXTENSIONISTA",
       "ORGANIZADOR(A)"
     ],
     "anos": [
-      "2020"
+      "2020",
+      "2024"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 112,
+    "impacto": 112,
     "url": "api/extensionistas/anyssa-satimi-komati-andrade.json"
   },
   {
@@ -942,22 +818,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/aroldo-de-sa-vargas-neto.json"
-  },
-  {
-    "slug": "arthur-candido-maria",
-    "nome": "Arthur Candido Maria",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/arthur-candido-maria.json"
   },
   {
     "slug": "arthur-chiabai-wagner",
@@ -1025,54 +885,6 @@
     "url": "api/extensionistas/arthur-dutra-recco.json"
   },
   {
-    "slug": "arthur-freitas-mariquito",
-    "nome": "Arthur Freitas Mariquito",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/arthur-freitas-mariquito.json"
-  },
-  {
-    "slug": "arthur-goncalves-de-souza",
-    "nome": "Arthur Gonçalves de Souza",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/arthur-goncalves-de-souza.json"
-  },
-  {
-    "slug": "arthur-de-almeida-macedo",
-    "nome": "Arthur de Almeida Macedo",
-    "funcoes": [
-      "PALESTRANTE"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/arthur-de-almeida-macedo.json"
-  },
-  {
     "slug": "arthur-de-moraes-andrade-correa",
     "nome": "Arthur de Moraes Andrade Corrêa",
     "funcoes": [
@@ -1087,22 +899,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/arthur-de-moraes-andrade-correa.json"
-  },
-  {
-    "slug": "arthur-de-souza-silva-mayerhofer",
-    "nome": "Arthur de Souza Silva Mayerhofer",
-    "funcoes": [
-      "MONITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 30,
-    "impacto": 30,
-    "url": "api/extensionistas/arthur-de-souza-silva-mayerhofer.json"
   },
   {
     "slug": "ary-francisco-tome",
@@ -1155,22 +951,6 @@
     "url": "api/extensionistas/aurelia-hubner-peixouto.json"
   },
   {
-    "slug": "beatriz-auer-mariano",
-    "nome": "Beatriz Auer Mariano",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/beatriz-auer-mariano.json"
-  },
-  {
     "slug": "beatriz-ramos-souza",
     "nome": "Beatriz Ramos Souza",
     "funcoes": [
@@ -1187,22 +967,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/beatriz-ramos-souza.json"
-  },
-  {
-    "slug": "bella-dos-santos-cordeiro",
-    "nome": "Bella dos Santos Cordeiro",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/bella-dos-santos-cordeiro.json"
   },
   {
     "slug": "bene-regis-figueiredo",
@@ -1257,52 +1021,37 @@
     "url": "api/extensionistas/bianca-rodrigues-tinoco.json"
   },
   {
-    "slug": "bianca-viana-hemenelgidio",
-    "nome": "Bianca Viana Hemenelgidio",
+    "slug": "brendon-mauro",
+    "nome": "Brendon Mauro",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) BOLSISTA"
     ],
     "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/bianca-viana-hemenelgidio.json"
-  },
-  {
-    "slug": "brayham-procopio-de-carvalho",
-    "nome": "Brayham Procopio de Carvalho",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/brayham-procopio-de-carvalho.json"
-  },
-  {
-    "slug": "brenno-pelegrino-costa-guimaraes",
-    "nome": "Brenno Pelegrino Costa Guimarães",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
-    "url": "api/extensionistas/brenno-pelegrino-costa-guimaraes.json"
+    "url": "api/extensionistas/brendon-mauro.json"
+  },
+  {
+    "slug": "breno-ricardo-ferreira-antunes",
+    "nome": "Breno Ricardo Ferreira Antunes",
+    "funcoes": [
+      "ALUNO(A) BOLSISTA"
+    ],
+    "anos": [
+      "2021",
+      "2022"
+    ],
+    "coordena": 0,
+    "equipe": 2,
+    "imp_coord": 0,
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/breno-ricardo-ferreira-antunes.json"
   },
   {
     "slug": "breno-rios-rodrigues",
@@ -1321,10 +1070,10 @@
     "url": "api/extensionistas/breno-rios-rodrigues.json"
   },
   {
-    "slug": "breno-siquara-azevedo",
-    "nome": "Breno Siquara Azevedo",
+    "slug": "breno-sampaio-grillo",
+    "nome": "Breno Sampaio Grillo",
     "funcoes": [
-      "COLABORADOR(A)"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2016"
@@ -1332,8 +1081,24 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/breno-sampaio-grillo.json"
+  },
+  {
+    "slug": "breno-siquara-azevedo",
+    "nome": "Breno Siquara Azevedo",
+    "funcoes": [
+      "PROFESSOR(A)"
+    ],
+    "anos": [
+      "2017"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 33,
+    "impacto": 33,
     "url": "api/extensionistas/breno-siquara-azevedo.json"
   },
   {
@@ -1366,10 +1131,10 @@
       "2021"
     ],
     "coordena": 3,
-    "equipe": 2,
-    "imp_coord": 16,
+    "equipe": 4,
+    "imp_coord": 18,
     "imp_eq": 104,
-    "impacto": 120,
+    "impacto": 122,
     "url": "api/extensionistas/bruno-cardoso-coutinho.json"
   },
   {
@@ -1405,20 +1170,20 @@
     "url": "api/extensionistas/bruno-lima-zattoni.json"
   },
   {
-    "slug": "bruno-moreira-lourenco",
-    "nome": "Bruno Moreira Lourenço",
+    "slug": "bruno-moreto-de-oliveira",
+    "nome": "Bruno Moreto de Oliveira",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2023"
+      "2018"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/bruno-moreira-lourenco.json"
+    "imp_eq": 37,
+    "impacto": 37,
+    "url": "api/extensionistas/bruno-moreto-de-oliveira.json"
   },
   {
     "slug": "bruno-ramos-gonzaga",
@@ -1436,27 +1201,11 @@
       "2025"
     ],
     "coordena": 4,
-    "equipe": 4,
-    "imp_coord": 44,
-    "imp_eq": 55,
-    "impacto": 99,
+    "equipe": 6,
+    "imp_coord": 11,
+    "imp_eq": 66,
+    "impacto": 77,
     "url": "api/extensionistas/bruno-ramos-gonzaga.json"
-  },
-  {
-    "slug": "bruno-rocha-pratti",
-    "nome": "Bruno Rocha Pratti",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/bruno-rocha-pratti.json"
   },
   {
     "slug": "bruno-da-fonseca-chevitarese",
@@ -1468,31 +1217,14 @@
       "MONITOR(A)"
     ],
     "anos": [
-      "2020",
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 42,
-    "impacto": 42,
-    "url": "api/extensionistas/bruno-da-fonseca-chevitarese.json"
-  },
-  {
-    "slug": "bryan-costa-rodrigues-de-oliveira",
-    "nome": "Bryan Costa Rodrigues de Oliveira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
+      "2020"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/bryan-costa-rodrigues-de-oliveira.json"
+    "imp_eq": 40,
+    "impacto": 40,
+    "url": "api/extensionistas/bruno-da-fonseca-chevitarese.json"
   },
   {
     "slug": "brigida-penna-rocha-moreira",
@@ -1543,22 +1275,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/caio-abelar-kinupp-monteiro.json"
-  },
-  {
-    "slug": "caio-bastos-buteri",
-    "nome": "Caio Bastos Buteri",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/caio-bastos-buteri.json"
   },
   {
     "slug": "caio-cesar-oliva-coronel",
@@ -1629,38 +1345,6 @@
     "url": "api/extensionistas/camila-zacche-de-aguiar.json"
   },
   {
-    "slug": "camille-silva-santos",
-    "nome": "Camille Silva Santos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/camille-silva-santos.json"
-  },
-  {
-    "slug": "carlos-barroca-faria",
-    "nome": "Carlos Barroca Faria",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/carlos-barroca-faria.json"
-  },
-  {
     "slug": "carlos-eduardo-da-silva-barbosa",
     "nome": "Carlos Eduardo da Silva Barbosa",
     "funcoes": [
@@ -1675,6 +1359,22 @@
     "imp_eq": 2,
     "impacto": 2,
     "url": "api/extensionistas/carlos-eduardo-da-silva-barbosa.json"
+  },
+  {
+    "slug": "carlos-guilherme-felismino-pedroni",
+    "nome": "Carlos Guilherme Felismino Pedroni",
+    "funcoes": [
+      "EXPOSITOR(A)"
+    ],
+    "anos": [
+      "2019"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/carlos-guilherme-felismino-pedroni.json"
   },
   {
     "slug": "carlos-henrique-costa-matos",
@@ -1716,6 +1416,7 @@
     "nome": "Carlos Lins Borges Azevedo",
     "funcoes": [
       "AUXILIAR TÉCNICO",
+      "COLABORADOR(A)",
       "COORDENADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)"
     ],
@@ -1748,22 +1449,6 @@
     "url": "api/extensionistas/carolinne-quintanilha-ornellas.json"
   },
   {
-    "slug": "cassiano-knsch-das-neves",
-    "nome": "Cassiano Knsch das Neves",
-    "funcoes": [
-      "MINISTRANTE"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 12,
-    "impacto": 12,
-    "url": "api/extensionistas/cassiano-knsch-das-neves.json"
-  },
-  {
     "slug": "cassius-zanetti-resende",
     "nome": "Cassius Zanetti Resende",
     "funcoes": [
@@ -1778,22 +1463,6 @@
     "imp_eq": 15,
     "impacto": 15,
     "url": "api/extensionistas/cassius-zanetti-resende.json"
-  },
-  {
-    "slug": "cecilia-bastazini-kroebel",
-    "nome": "Cecília Bastazini Kroëbel",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/cecilia-bastazini-kroebel.json"
   },
   {
     "slug": "celeste-nascimento-souza-silva",
@@ -1830,69 +1499,20 @@
     "url": "api/extensionistas/celio-proliciano-maioli.json"
   },
   {
-    "slug": "celesio-jose-de-souza",
-    "nome": "Celésio José de Souza",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/celesio-jose-de-souza.json"
-  },
-  {
-    "slug": "charles-bruno-ferreira-de-morais-junior",
-    "nome": "Charles Bruno Ferreira de Morais Junior",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/charles-bruno-ferreira-de-morais-junior.json"
-  },
-  {
-    "slug": "christhian-de-barros-barcellos",
-    "nome": "Christhian de Barros Barcellos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/christhian-de-barros-barcellos.json"
-  },
-  {
     "slug": "christian-mariani-lucas-dos-santos",
     "nome": "Christian Mariani Lucas dos Santos",
     "funcoes": [
-      "INSTRUTOR(A)",
-      "PALESTRANTE"
+      "INSTRUTOR(A)"
     ],
     "anos": [
       "2016",
       "2017"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 110,
-    "impacto": 110,
+    "imp_eq": 41,
+    "impacto": 41,
     "url": "api/extensionistas/christian-mariani-lucas-dos-santos.json"
   },
   {
@@ -1945,38 +1565,6 @@
     "url": "api/extensionistas/claudia-cappelli.json"
   },
   {
-    "slug": "cleiton-maximo-junior",
-    "nome": "Cleiton Maximo Junior",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/cleiton-maximo-junior.json"
-  },
-  {
-    "slug": "cloves-antonio-wotkovsky-junior",
-    "nome": "Cloves Antonio Wotkovsky Junior",
-    "funcoes": [
-      "PALESTRANTE"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/cloves-antonio-wotkovsky-junior.json"
-  },
-  {
     "slug": "claudia-goncalves-de-freitas",
     "nome": "Cláudia Gonçalves de Freitas",
     "funcoes": [
@@ -2012,13 +1600,14 @@
     "slug": "cristian-da-silva-anterio",
     "nome": "Cristian da Silva Anterio",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2016"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 1,
     "impacto": 1,
@@ -2094,42 +1683,10 @@
     "url": "api/extensionistas/daniel-cruz-cavalieri.json"
   },
   {
-    "slug": "daniel-pratti-dettmann",
-    "nome": "Daniel Pratti Dettmann",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/daniel-pratti-dettmann.json"
-  },
-  {
-    "slug": "daniel-ramos-dutra",
-    "nome": "Daniel Ramos Dutra",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/daniel-ramos-dutra.json"
-  },
-  {
     "slug": "daniel-ribeiro-trindade",
     "nome": "Daniel Ribeiro Trindade",
     "funcoes": [
-      "ORIENTADOR(A)"
+      "ORGANIZADOR(A)"
     ],
     "anos": [
       "2018"
@@ -2137,37 +1694,41 @@
     "coordena": 1,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 37,
+    "impacto": 37,
     "url": "api/extensionistas/daniel-ribeiro-trindade.json"
   },
   {
     "slug": "daniella-araujo-fraga-dos-santos",
     "nome": "Daniella Araújo Fraga dos Santos",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2017",
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 187,
+    "impacto": 187,
     "url": "api/extensionistas/daniella-araujo-fraga-dos-santos.json"
   },
   {
     "slug": "danilo-de-oliveira",
     "nome": "Danilo de Oliveira",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2016"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 1,
     "impacto": 1,
@@ -2191,36 +1752,22 @@
     "url": "api/extensionistas/danilo-de-paula-e-silva.json"
   },
   {
-    "slug": "davi-alvarenga-vieira",
-    "nome": "Davi Alvarenga Vieira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/davi-alvarenga-vieira.json"
-  },
-  {
     "slug": "davi-aragao-ascacibas",
     "nome": "Davi Aragão Ascacibas",
     "funcoes": [
       "ALUNO(A) VOLUNTARIO",
-      "EXPOSITOR(A)"
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2017",
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 147,
+    "impacto": 147,
     "url": "api/extensionistas/davi-aragao-ascacibas.json"
   },
   {
@@ -2257,38 +1804,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/davi-henrique-comerio.json"
-  },
-  {
-    "slug": "davi-luiz-soares-siqueira-barros",
-    "nome": "Davi Luiz Soares Siqueira Barros",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/davi-luiz-soares-siqueira-barros.json"
-  },
-  {
-    "slug": "davi-moura-araujo",
-    "nome": "Davi Moura Araujo",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/davi-moura-araujo.json"
   },
   {
     "slug": "davi-mulullo-alcantara",
@@ -2328,14 +1843,16 @@
     "nome": "David Pantaleão Vilaça",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
+      "COLABORADOR(A)",
       "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2017",
       "2019"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -2350,13 +1867,14 @@
     ],
     "anos": [
       "2020",
+      "2022",
       "2023"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 42,
-    "impacto": 42,
+    "imp_eq": 59,
+    "impacto": 59,
     "url": "api/extensionistas/david-de-assis.json"
   },
   {
@@ -2396,16 +1914,18 @@
     "nome": "Debora Galavote Moura",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "MINISTRANTE"
+      "ALUNO(A) VOLUNTARIO",
+      "MINISTRANTE",
+      "MONITOR(A)"
     ],
     "anos": [
       "2023"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 18,
-    "impacto": 18,
+    "imp_eq": 87,
+    "impacto": 87,
     "url": "api/extensionistas/debora-galavote-moura.json"
   },
   {
@@ -2425,22 +1945,6 @@
     "url": "api/extensionistas/denise-carla-goldner-coelho.json"
   },
   {
-    "slug": "denise-rocco-de-sena",
-    "nome": "Denise Rocco de Sena",
-    "funcoes": [
-      "PALESTRANTE"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 57,
-    "impacto": 57,
-    "url": "api/extensionistas/denise-rocco-de-sena.json"
-  },
-  {
     "slug": "dennia-lucia-goldner-schrock",
     "nome": "Dennia Lúcia Goldner Schrock",
     "funcoes": [
@@ -2457,26 +1961,10 @@
     "url": "api/extensionistas/dennia-lucia-goldner-schrock.json"
   },
   {
-    "slug": "diego-casoto-de-melo-zamprogno",
-    "nome": "Diego Casoto de Melo Zamprogno",
+    "slug": "diego-pasti",
+    "nome": "Diego Pasti",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/diego-casoto-de-melo-zamprogno.json"
-  },
-  {
-    "slug": "diego-pereira-de-carvalho-pires",
-    "nome": "Diego Pereira de Carvalho Pires",
-    "funcoes": [
-      "COLABORADOR(A)"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2016"
@@ -2484,9 +1972,9 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/diego-pereira-de-carvalho-pires.json"
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/diego-pasti.json"
   },
   {
     "slug": "diego-ramiro-araoz-alves",
@@ -2505,38 +1993,6 @@
     "url": "api/extensionistas/diego-ramiro-araoz-alves.json"
   },
   {
-    "slug": "diego-rodrigo-perez-pacheco",
-    "nome": "Diego Rodrigo Perez Pacheco",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 2,
-    "impacto": 2,
-    "url": "api/extensionistas/diego-rodrigo-perez-pacheco.json"
-  },
-  {
-    "slug": "diego-de-deus-bazilio",
-    "nome": "Diego de Deus Bazilio",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/diego-de-deus-bazilio.json"
-  },
-  {
     "slug": "diego-do-nascimento-rodrigues-flores",
     "nome": "Diego do Nascimento Rodrigues Flores",
     "funcoes": [
@@ -2553,49 +2009,19 @@
     "url": "api/extensionistas/diego-do-nascimento-rodrigues-flores.json"
   },
   {
-    "slug": "diogo-lucas-lima-ribeiro",
-    "nome": "Diogo Lucas Lima Ribeiro",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/diogo-lucas-lima-ribeiro.json"
-  },
-  {
-    "slug": "diogo-silva-moreira",
-    "nome": "Diogo Silva Moreira",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/diogo-silva-moreira.json"
-  },
-  {
     "slug": "dirceu-soares-junior",
     "nome": "Dirceu Soares Júnior",
     "funcoes": [
+      "ASSESSOR(A)",
       "COLABORADOR(A)",
       "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
+      "2016",
       "2017"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 1,
     "impacto": 1,
@@ -2638,14 +2064,15 @@
     "nome": "Edilson Luiz do Nascimento",
     "funcoes": [
       "AUXILIAR TÉCNICO",
-      "COLABORADOR(A)"
+      "COLABORADOR(A)",
+      "MENTOR(A)"
     ],
     "anos": [
       "2016",
       "2017"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 15,
     "impacto": 15,
@@ -2655,17 +2082,16 @@
     "slug": "edimar-antonio-da-cruz",
     "nome": "Edimar Antonio da Cruz",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) EM ATIVIDADE CURRICULAR"
     ],
     "anos": [
       "2022"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 6,
-    "impacto": 6,
+    "imp_eq": 4,
+    "impacto": 4,
     "url": "api/extensionistas/edimar-antonio-da-cruz.json"
   },
   {
@@ -2683,22 +2109,6 @@
     "imp_eq": 42,
     "impacto": 42,
     "url": "api/extensionistas/edjane-martins-da-silva.json"
-  },
-  {
-    "slug": "edmilson-batista-lima",
-    "nome": "Edmilson Batista Lima",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/edmilson-batista-lima.json"
   },
   {
     "slug": "edson-ferreira-da-silva-junior",
@@ -2735,22 +2145,6 @@
     "url": "api/extensionistas/edson-menisus-peyneau-soares.json"
   },
   {
-    "slug": "eduarda-grippa-santos",
-    "nome": "Eduarda Grippa Santos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/eduarda-grippa-santos.json"
-  },
-  {
     "slug": "eduarda-rodrigues-simoes",
     "nome": "Eduarda Rodrigues Simões",
     "funcoes": [
@@ -2780,63 +2174,15 @@
       "2022"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
+    "imp_eq": 2,
+    "impacto": 2,
     "url": "api/extensionistas/eduardo-alves-figueiredo.json"
   },
   {
     "slug": "eduardo-couto-rodrigues",
     "nome": "Eduardo Couto Rodrigues",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2019"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/eduardo-couto-rodrigues.json"
-  },
-  {
-    "slug": "eduardo-jose-miguel-lima-almeida",
-    "nome": "Eduardo José Miguel Lima Almeida",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/eduardo-jose-miguel-lima-almeida.json"
-  },
-  {
-    "slug": "eduardo-lima-pagung",
-    "nome": "Eduardo Lima Pagung",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/eduardo-lima-pagung.json"
-  },
-  {
-    "slug": "eduardo-pereira-tavares",
-    "nome": "Eduardo Pereira Tavares",
     "funcoes": [
       "COLABORADOR(A)"
     ],
@@ -2846,9 +2192,25 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/eduardo-pereira-tavares.json"
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/eduardo-couto-rodrigues.json"
+  },
+  {
+    "slug": "eduardo-peron-cardozo-babilone",
+    "nome": "Eduardo Peron Cardozo Babilone",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/eduardo-peron-cardozo-babilone.json"
   },
   {
     "slug": "eduardo-pinheiro-monteiro",
@@ -2899,38 +2261,6 @@
     "url": "api/extensionistas/eduardo-sousa-lima.json"
   },
   {
-    "slug": "eduardo-de-jesus-buquer-da-silva",
-    "nome": "Eduardo de Jesus Buquer da Silva",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/eduardo-de-jesus-buquer-da-silva.json"
-  },
-  {
-    "slug": "eduardo-de-oliveira-pereira-ferreira",
-    "nome": "Eduardo de Oliveira Pereira Ferreira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/eduardo-de-oliveira-pereira-ferreira.json"
-  },
-  {
     "slug": "eglalciane-de-lyrio-tongo",
     "nome": "Eglalciane de Lyrio Tongo",
     "funcoes": [
@@ -2966,6 +2296,22 @@
     "url": "api/extensionistas/elandia-aparecida-pereira-rodrigues.json"
   },
   {
+    "slug": "elen-lara",
+    "nome": "Elen Lara",
+    "funcoes": [
+      "ALUNO(A) BOLSISTA"
+    ],
+    "anos": [
+      "2021"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/elen-lara.json"
+  },
+  {
     "slug": "elika-capucho-delazare",
     "nome": "Elika Capucho Delazare",
     "funcoes": [
@@ -2996,6 +2342,22 @@
     "imp_eq": 24,
     "impacto": 24,
     "url": "api/extensionistas/elisa-andrade-de-jesus.json"
+  },
+  {
+    "slug": "elisa-moreira-costa",
+    "nome": "Elisa Moreira Costa",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/elisa-moreira-costa.json"
   },
   {
     "slug": "elisabete-rodrigues-de-almeida",
@@ -3050,26 +2412,26 @@
     ],
     "coordena": 3,
     "equipe": 4,
-    "imp_coord": 118,
+    "imp_coord": 113,
     "imp_eq": 187,
-    "impacto": 305,
+    "impacto": 300,
     "url": "api/extensionistas/elizangela-campos-da-rosa-broetto.json"
   },
   {
-    "slug": "elizete-tiets",
-    "nome": "Elizete Tiets",
+    "slug": "eloah-leocadio-de-moura",
+    "nome": "Eloah Leocádio de Moura",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2022"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/elizete-tiets.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/eloah-leocadio-de-moura.json"
   },
   {
     "slug": "eloa-rauta-ramos-de-lima",
@@ -3123,22 +2485,6 @@
     "url": "api/extensionistas/emanuel-hoffmann-sperandio-cott.json"
   },
   {
-    "slug": "emanuel-medeiros-claudino",
-    "nome": "Emanuel Medeiros Claudino",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2019"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/emanuel-medeiros-claudino.json"
-  },
-  {
     "slug": "emanuel-rampinelli-gloria",
     "nome": "Emanuel Rampinelli Gloria",
     "funcoes": [
@@ -3161,16 +2507,18 @@
     "slug": "emerson-atilio-birchler",
     "nome": "Emerson Atílio Birchler",
     "funcoes": [
+      "AVALIADOR(A)",
       "COLABORADOR(A)",
       "INSTRUTOR(A)",
       "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
+      "2016",
       "2017",
       "2024"
     ],
     "coordena": 1,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 27,
     "impacto": 27,
@@ -3179,17 +2527,15 @@
   {
     "slug": "emilene-coco-dos-santos",
     "nome": "Emilene Coco dos Santos",
-    "funcoes": [
-      "COORDENADOR(A)"
-    ],
+    "funcoes": [],
     "anos": [
       "2023"
     ],
     "coordena": 1,
-    "equipe": 1,
-    "imp_coord": 197,
+    "equipe": 0,
+    "imp_coord": 0,
     "imp_eq": 0,
-    "impacto": 197,
+    "impacto": 0,
     "url": "api/extensionistas/emilene-coco-dos-santos.json"
   },
   {
@@ -3213,46 +2559,15 @@
       "2018",
       "2019",
       "2020",
+      "2021",
       "2025"
     ],
-    "coordena": 5,
-    "equipe": 10,
-    "imp_coord": 981,
-    "imp_eq": 131,
-    "impacto": 1112,
+    "coordena": 6,
+    "equipe": 13,
+    "imp_coord": 984,
+    "imp_eq": 81,
+    "impacto": 1065,
     "url": "api/extensionistas/emmanuel-marques-silva.json"
-  },
-  {
-    "slug": "emmanuelly-kristini-nunes-costa",
-    "nome": "Emmanuelly Kristini Nunes Costa",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/emmanuelly-kristini-nunes-costa.json"
-  },
-  {
-    "slug": "enzo-gabriel-santanna-siqueira",
-    "nome": "Enzo Gabriel Santanna Siqueira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/enzo-gabriel-santanna-siqueira.json"
   },
   {
     "slug": "enzo-hubner",
@@ -3308,22 +2623,6 @@
     "url": "api/extensionistas/enzo-medeiros-agnez.json"
   },
   {
-    "slug": "enzo-novaes-de-rezende-costa",
-    "nome": "Enzo Novaes de Rezende Costa",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/enzo-novaes-de-rezende-costa.json"
-  },
-  {
     "slug": "erick-gama-loyola",
     "nome": "Erick Gama Loyola",
     "funcoes": [
@@ -3356,22 +2655,6 @@
     "url": "api/extensionistas/erick-kenzo-komati.json"
   },
   {
-    "slug": "erivania-oliveira-da-silva-gerhardt",
-    "nome": "Erivânia Oliveira da Silva Gerhardt",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/erivania-oliveira-da-silva-gerhardt.json"
-  },
-  {
     "slug": "erley-crevelin-valentim",
     "nome": "Erley Crevelin Valentim",
     "funcoes": [
@@ -3393,150 +2676,72 @@
     "funcoes": [
       "AVALIADOR(A)",
       "COLABORADOR(A)",
-      "ORGANIZADOR(A)"
+      "ORGANIZADOR(A)",
+      "PROFESSOR(A)"
     ],
     "anos": [
       "2015",
-      "2016"
+      "2016",
+      "2018"
     ],
     "coordena": 0,
     "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 33,
-    "impacto": 33,
+    "imp_eq": 38,
+    "impacto": 38,
     "url": "api/extensionistas/ernani-leite-ribeiro-filho.json"
-  },
-  {
-    "slug": "estevao-nolasco-fonseca",
-    "nome": "Estevão Nolasco Fonseca",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/estevao-nolasco-fonseca.json"
   },
   {
     "slug": "estacio-righette-pereira",
     "nome": "Estácio Righette Pereira",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO",
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2017",
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 17,
-    "impacto": 17,
-    "url": "api/extensionistas/estacio-righette-pereira.json"
-  },
-  {
-    "slug": "estevao-horsth-tesch-honorio",
-    "nome": "Estêvão Horsth Tesch Honório",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/estevao-horsth-tesch-honorio.json"
-  },
-  {
-    "slug": "evellin-de-souza-moreschi",
-    "nome": "Evellin de Souza Moreschi",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/evellin-de-souza-moreschi.json"
-  },
-  {
-    "slug": "everson-mauricio",
-    "nome": "Everson Mauricio",
-    "funcoes": [
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2022"
+      "2017"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/everson-mauricio.json"
+    "imp_eq": 8,
+    "impacto": 8,
+    "url": "api/extensionistas/estacio-righette-pereira.json"
   },
   {
-    "slug": "fabiane-de-souza",
-    "nome": "Fabiane de Souza",
+    "slug": "eulessia-costa-silva",
+    "nome": "Euléssia Costa Silva",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/fabiane-de-souza.json"
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/eulessia-costa-silva.json"
   },
   {
     "slug": "fabiano-borges-ruy",
     "nome": "Fabiano Borges Ruy",
     "funcoes": [
       "COORDENADOR(A)",
+      "EXPOSITOR(A)",
       "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
+      "2016",
       "2017",
       "2019"
     ],
     "coordena": 1,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/fabiano-borges-ruy.json"
-  },
-  {
-    "slug": "fabio-bretas-magnani",
-    "nome": "Fabio Bretas Magnani",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/fabio-bretas-magnani.json"
   },
   {
     "slug": "fabio-de-oliveira-lima",
@@ -3558,18 +2763,16 @@
     "slug": "faye-manski-queiroz",
     "nome": "Faye Manski Queiroz",
     "funcoes": [
-      "EXPOSITOR(A)",
-      "MONITOR(A)",
-      "PESQUISADOR(A)"
+      "EXTENSIONISTA"
     ],
     "anos": [
-      "2018"
+      "2022"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 42,
-    "impacto": 42,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/faye-manski-queiroz.json"
   },
   {
@@ -3581,7 +2784,9 @@
       "COLABORADOR(A)",
       "COORDENADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)",
-      "MEMBRO DE COMITÊ GESTOR"
+      "EXPOSITOR(A)",
+      "MEMBRO DE COMITÊ GESTOR",
+      "MENTOR(A)"
     ],
     "anos": [
       "2016",
@@ -3589,14 +2794,13 @@
       "2018",
       "2019",
       "2020",
-      "2021",
       "2022"
     ],
-    "coordena": 5,
+    "coordena": 6,
     "equipe": 11,
-    "imp_coord": 22,
-    "imp_eq": 35,
-    "impacto": 57,
+    "imp_coord": 31,
+    "imp_eq": 38,
+    "impacto": 69,
     "url": "api/extensionistas/felipe-frechiani-de-oliveira.json"
   },
   {
@@ -3616,10 +2820,10 @@
     "url": "api/extensionistas/fellipe-pesente.json"
   },
   {
-    "slug": "fernanda-aparecida-dias-de-freitas",
-    "nome": "Fernanda Aparecida Dias de Freitas",
+    "slug": "fernanda-jaimara-do-nascimento",
+    "nome": "Fernanda Jaimara do Nascimento",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) EM ATIVIDADE CURRICULAR"
     ],
     "anos": [
       "2022"
@@ -3627,25 +2831,8 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/fernanda-aparecida-dias-de-freitas.json"
-  },
-  {
-    "slug": "fernanda-jaimara-do-nascimento",
-    "nome": "Fernanda Jaimara do Nascimento",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
+    "imp_eq": 2,
+    "impacto": 2,
     "url": "api/extensionistas/fernanda-jaimara-do-nascimento.json"
   },
   {
@@ -3666,9 +2853,9 @@
     "slug": "fidelis-zanetti-de-castro",
     "nome": "Fidelis Zanetti de Castro",
     "funcoes": [
-      "COLABORADOR(A)",
       "COORDENADOR(A)",
-      "COORDENADOR(A) ADJUNTO(A)"
+      "COORDENADOR(A) ADJUNTO(A)",
+      "PROFESSOR(A)"
     ],
     "anos": [
       "2018",
@@ -3678,8 +2865,8 @@
     "coordena": 2,
     "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 75,
-    "impacto": 75,
+    "imp_eq": 92,
+    "impacto": 92,
     "url": "api/extensionistas/fidelis-zanetti-de-castro.json"
   },
   {
@@ -3699,10 +2886,10 @@
     "url": "api/extensionistas/filipe-anunciacao-batista-de-moura.json"
   },
   {
-    "slug": "filipe-nolasco-anastacio",
-    "nome": "Filipe Nolasco Anastácio",
+    "slug": "filipe-arthur-firmino-monhol",
+    "nome": "Filipe Arthur Firmino Monhol",
     "funcoes": [
-      "COLABORADOR(A)"
+      "MENTOR(A)"
     ],
     "anos": [
       "2016"
@@ -3710,9 +2897,9 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/filipe-nolasco-anastacio.json"
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/filipe-arthur-firmino-monhol.json"
   },
   {
     "slug": "flaviana-de-souza",
@@ -3733,15 +2920,19 @@
   {
     "slug": "flavio-severiano-lamas-de-souza",
     "nome": "Flavio Severiano Lamas de Souza",
-    "funcoes": [],
+    "funcoes": [
+      "COORDENADOR(A)",
+      "ORIENTADOR(A)"
+    ],
     "anos": [
-      "2018"
+      "2018",
+      "2021"
     ],
     "coordena": 1,
-    "equipe": 0,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "equipe": 2,
+    "imp_coord": 37,
+    "imp_eq": 2,
+    "impacto": 39,
     "url": "api/extensionistas/flavio-severiano-lamas-de-souza.json"
   },
   {
@@ -3751,19 +2942,17 @@
       "COLABORADOR(A)",
       "INSTRUTOR(A)",
       "MEMBRO DE COMITÊ GESTOR",
-      "ORIENTADOR(A)",
-      "PALESTRANTE"
+      "ORIENTADOR(A)"
     ],
     "anos": [
       "2016",
-      "2017",
-      "2018"
+      "2017"
     ],
     "coordena": 0,
     "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 78,
-    "impacto": 78,
+    "imp_eq": 34,
+    "impacto": 34,
     "url": "api/extensionistas/flavio-barcelos-braz-da-silva.json"
   },
   {
@@ -3788,19 +2977,36 @@
     "url": "api/extensionistas/flavio-garcia-pereira.json"
   },
   {
+    "slug": "flavio-giraldeli-bianca",
+    "nome": "Flávio Giraldeli Bianca",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/flavio-giraldeli-bianca.json"
+  },
+  {
     "slug": "flavio-lopes-da-silva",
     "nome": "Flávio Lopes da Silva",
     "funcoes": [
+      "COLABORADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)"
     ],
     "anos": [
       "2016"
     ],
     "coordena": 1,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 53,
+    "impacto": 53,
     "url": "api/extensionistas/flavio-lopes-da-silva.json"
   },
   {
@@ -3843,20 +3049,20 @@
     "url": "api/extensionistas/francisco-jose-casarim-rapchan.json"
   },
   {
-    "slug": "francisco-leal-alves",
-    "nome": "Francisco Leal Alves",
+    "slug": "francisco-petronio-alencar-de-medeiros",
+    "nome": "Francisco Petronio Alencar de Medeiros",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "INSTRUTOR(A)"
     ],
     "anos": [
-      "2023"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/francisco-leal-alves.json"
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/francisco-petronio-alencar-de-medeiros.json"
   },
   {
     "slug": "francisco-xavier-pereira-neto",
@@ -3891,22 +3097,6 @@
     "url": "api/extensionistas/francisco-de-assis-boldt.json"
   },
   {
-    "slug": "gabriel-adison-vieira-pereira",
-    "nome": "Gabriel Adison Vieira Pereira",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/gabriel-adison-vieira-pereira.json"
-  },
-  {
     "slug": "gabriel-dias-brito",
     "nome": "Gabriel Dias Brito",
     "funcoes": [
@@ -3923,70 +3113,70 @@
     "url": "api/extensionistas/gabriel-dias-brito.json"
   },
   {
-    "slug": "gabriel-lopes-ribeiro-da-costa",
-    "nome": "Gabriel Lopes Ribeiro da Costa",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/gabriel-lopes-ribeiro-da-costa.json"
-  },
-  {
-    "slug": "gabriel-oliveira-sant-ana",
-    "nome": "Gabriel Oliveira Sant'ana",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/gabriel-oliveira-sant-ana.json"
-  },
-  {
-    "slug": "gabriel-ravani-do-rosario",
-    "nome": "Gabriel Ravani do Rosario",
+    "slug": "gabriel-goncalves-da-costa",
+    "nome": "Gabriel Gonçalves da Costa",
     "funcoes": [
       "ALUNO(A) BOLSISTA"
     ],
     "anos": [
-      "2020"
+      "2018"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
     "imp_eq": 1,
     "impacto": 1,
-    "url": "api/extensionistas/gabriel-ravani-do-rosario.json"
+    "url": "api/extensionistas/gabriel-goncalves-da-costa.json"
+  },
+  {
+    "slug": "gabriel-pereira-silva",
+    "nome": "Gabriel Pereira Silva",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/gabriel-pereira-silva.json"
+  },
+  {
+    "slug": "gabriel-santos-da-silva-valbuza",
+    "nome": "Gabriel Santos da Silva Valbuza",
+    "funcoes": [
+      "MONITOR(A)"
+    ],
+    "anos": [
+      "2023"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 39,
+    "impacto": 39,
+    "url": "api/extensionistas/gabriel-santos-da-silva-valbuza.json"
   },
   {
     "slug": "gabriel-tozatto-zago",
     "nome": "Gabriel Tozatto Zago",
     "funcoes": [
       "COLABORADOR(A)",
-      "INSTRUTOR(A)"
+      "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
-      "2016",
       "2023",
+      "2024",
       "2025"
     ],
     "coordena": 2,
     "equipe": 3,
     "imp_coord": 258,
-    "imp_eq": 69,
-    "impacto": 327,
+    "imp_eq": 163,
+    "impacto": 421,
     "url": "api/extensionistas/gabriel-tozatto-zago.json"
   },
   {
@@ -4002,7 +3192,7 @@
       "2020"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 34,
     "impacto": 34,
@@ -4023,6 +3213,22 @@
     "imp_eq": 73,
     "impacto": 73,
     "url": "api/extensionistas/gabriela-maria-machado.json"
+  },
+  {
+    "slug": "gabriela-do-nascimento-marin",
+    "nome": "Gabriela do Nascimento Marin",
+    "funcoes": [
+      "PROFESSOR(A)"
+    ],
+    "anos": [
+      "2019"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 80,
+    "impacto": 80,
+    "url": "api/extensionistas/gabriela-do-nascimento-marin.json"
   },
   {
     "slug": "gabrielle-azevedo-barros-da-cunha-duda",
@@ -4051,35 +3257,22 @@
       "ALUNO(A) BOLSISTA",
       "ALUNO(A) VOLUNTARIO",
       "COLABORADOR(A)",
-      "ORGANIZADOR(A)"
+      "EXPOSITOR(A)",
+      "ORGANIZADOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2017",
       "2019",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 15,
+    "impacto": 15,
     "url": "api/extensionistas/gary-moura-da-silva.json"
-  },
-  {
-    "slug": "gelba-malta-cardoso",
-    "nome": "Gelba Malta Cardoso",
-    "funcoes": [
-      "GESTOR(A) DE PROJETO"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/gelba-malta-cardoso.json"
   },
   {
     "slug": "geovane-de-araujo-ceolin",
@@ -4115,22 +3308,6 @@
     "url": "api/extensionistas/geruza-ferreira-martins.json"
   },
   {
-    "slug": "gianlucas-de-jesus-silva",
-    "nome": "Gianlucas de Jesus Silva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/gianlucas-de-jesus-silva.json"
-  },
-  {
     "slug": "gilberto-neves-sudre-filho",
     "nome": "Gilberto Neves Sudre Filho",
     "funcoes": [
@@ -4142,10 +3319,10 @@
       "2018"
     ],
     "coordena": 1,
-    "equipe": 3,
+    "equipe": 2,
     "imp_coord": 22,
-    "imp_eq": 69,
-    "impacto": 91,
+    "imp_eq": 0,
+    "impacto": 22,
     "url": "api/extensionistas/gilberto-neves-sudre-filho.json"
   },
   {
@@ -4154,15 +3331,17 @@
     "funcoes": [
       "AVALIADOR(A)",
       "COLABORADOR(A)",
+      "COORDENADOR(A) ADJUNTO(A)",
       "MEMBRO DE COMITÊ GESTOR",
       "ORGANIZADOR(A)"
     ],
     "anos": [
+      "2016",
       "2017",
       "2018"
     ],
     "coordena": 1,
-    "equipe": 3,
+    "equipe": 4,
     "imp_coord": 366,
     "imp_eq": 15,
     "impacto": 381,
@@ -4190,18 +3369,20 @@
     "nome": "Giordana dos Santos Sperandio",
     "funcoes": [
       "COORDENADOR(A)",
+      "MINISTRANTE",
       "ORIENTADOR(A)",
       "PROFESSOR(A)"
     ],
     "anos": [
+      "2017",
       "2018",
       "2020"
     ],
     "coordena": 2,
-    "equipe": 2,
-    "imp_coord": 11,
-    "imp_eq": 20,
-    "impacto": 31,
+    "equipe": 4,
+    "imp_coord": 36,
+    "imp_eq": 53,
+    "impacto": 89,
     "url": "api/extensionistas/giordana-dos-santos-sperandio.json"
   },
   {
@@ -4210,17 +3391,18 @@
     "funcoes": [
       "AUXILIAR TÉCNICO",
       "COLABORADOR(A)",
+      "INSTRUTOR(A)",
       "ORIENTADOR(A)"
     ],
     "anos": [
       "2016",
       "2017"
     ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
+    "coordena": 1,
+    "equipe": 3,
+    "imp_coord": 25,
     "imp_eq": 30,
-    "impacto": 30,
+    "impacto": 55,
     "url": "api/extensionistas/giovani-zanetti-neto.json"
   },
   {
@@ -4242,21 +3424,55 @@
     "url": "api/extensionistas/giovani-de-oliveira-silva-jr.json"
   },
   {
-    "slug": "graziela-barboza-guaitolini-ramos",
-    "nome": "Graziela Barboza Guaitolini Ramos",
+    "slug": "glaucelena-dias-lopes-da-vitoria",
+    "nome": "Glaucelena Dias Lopes da Vitória",
     "funcoes": [
-      "ORGANIZADOR(A)",
-      "ORIENTADOR(A)"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2020"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 57,
-    "impacto": 57,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/glaucelena-dias-lopes-da-vitoria.json"
+  },
+  {
+    "slug": "graziela-barboza-guaitolini-ramos",
+    "nome": "Graziela Barboza Guaitolini Ramos",
+    "funcoes": [
+      "ORGANIZADOR(A)",
+      "ORIENTADOR(A)",
+      "PROFESSOR(A)"
+    ],
+    "anos": [
+      "2018",
+      "2020"
+    ],
+    "coordena": 0,
+    "equipe": 2,
+    "imp_coord": 0,
+    "imp_eq": 74,
+    "impacto": 74,
     "url": "api/extensionistas/graziela-barboza-guaitolini-ramos.json"
+  },
+  {
+    "slug": "guilherme-firme-fiorot",
+    "nome": "Guilherme Firme Fiorot",
+    "funcoes": [
+      "ALUNO(A) BOLSISTA"
+    ],
+    "anos": [
+      "2021"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/guilherme-firme-fiorot.json"
   },
   {
     "slug": "guilherme-gomes-de-faria-neto",
@@ -4275,38 +3491,6 @@
     "url": "api/extensionistas/guilherme-gomes-de-faria-neto.json"
   },
   {
-    "slug": "guilherme-lopes-de-oliveira",
-    "nome": "Guilherme Lopes de Oliveira",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/guilherme-lopes-de-oliveira.json"
-  },
-  {
-    "slug": "guilherme-santanna-de-freitas",
-    "nome": "Guilherme Santanna de Freitas",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/guilherme-santanna-de-freitas.json"
-  },
-  {
     "slug": "guilherme-santos-do-rosario",
     "nome": "Guilherme Santos do Rosário",
     "funcoes": [
@@ -4321,22 +3505,6 @@
     "imp_eq": 17,
     "impacto": 17,
     "url": "api/extensionistas/guilherme-santos-do-rosario.json"
-  },
-  {
-    "slug": "guilherme-silveira-mendes",
-    "nome": "Guilherme Silveira Mendes",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/guilherme-silveira-mendes.json"
   },
   {
     "slug": "gustavo-gomes-alves",
@@ -4355,36 +3523,36 @@
     "url": "api/extensionistas/gustavo-gomes-alves.json"
   },
   {
-    "slug": "gustavo-matozinho-lima",
-    "nome": "Gustavo Matozinho Lima",
+    "slug": "gustavo-gomes-brzesky",
+    "nome": "Gustavo Gomes Brzesky",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2019"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/gustavo-matozinho-lima.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/gustavo-gomes-brzesky.json"
   },
   {
-    "slug": "gustavo-olmo-santana",
-    "nome": "Gustavo Olmo Santana",
+    "slug": "gustavo-matozinho-lima",
+    "nome": "Gustavo Matozinho Lima",
     "funcoes": [
-      "EXPOSITOR(A)"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2018"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
-    "url": "api/extensionistas/gustavo-olmo-santana.json"
+    "url": "api/extensionistas/gustavo-matozinho-lima.json"
   },
   {
     "slug": "gustavo-saraiva-mariano",
@@ -4418,22 +3586,6 @@
     "imp_eq": 5,
     "impacto": 5,
     "url": "api/extensionistas/gustavo-senna-martins-de-almeida.json"
-  },
-  {
-    "slug": "gustavo-da-conceicao-da-silva",
-    "nome": "Gustavo da Conceição da Silva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/gustavo-da-conceicao-da-silva.json"
   },
   {
     "slug": "hanna-leticia-s-de-jesus",
@@ -4504,34 +3656,39 @@
     "nome": "Helen França Medeiros",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "EXPOSITOR(A)",
+      "ORGANIZADOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2018",
+      "2019",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 20,
+    "impacto": 20,
     "url": "api/extensionistas/helen-franca-medeiros.json"
   },
   {
-    "slug": "herian-louzada-ferreira-barbosa",
-    "nome": "Herian Louzada Ferreira Barbosa",
+    "slug": "heremita-brasileiro-lira",
+    "nome": "Heremita Brasileiro Lira",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "MENTOR(A)"
     ],
     "anos": [
-      "2023"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/herian-louzada-ferreira-barbosa.json"
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/heremita-brasileiro-lira.json"
   },
   {
     "slug": "herlane-de-souza-dos-santos",
@@ -4572,17 +3729,19 @@
     "nome": "Hilario Seibel Junior",
     "funcoes": [
       "APOIO TÉCNICO",
+      "COORDENADOR(A) ADJUNTO(A)",
       "ORGANIZADOR(A)",
       "ORIENTADOR(A)"
     ],
     "anos": [
+      "2018",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 17,
-    "impacto": 17,
+    "imp_eq": 54,
+    "impacto": 54,
     "url": "api/extensionistas/hilario-seibel-junior.json"
   },
   {
@@ -4653,18 +3812,36 @@
     "url": "api/extensionistas/humberto-henrique-ramos-brotto.json"
   },
   {
+    "slug": "ian-drumond-duarte",
+    "nome": "Ian Drumond Duarte",
+    "funcoes": [
+      "PROFESSOR(A)"
+    ],
+    "anos": [
+      "2017"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 33,
+    "impacto": 33,
+    "url": "api/extensionistas/ian-drumond-duarte.json"
+  },
+  {
     "slug": "icaro-duarte-gavazza-lima",
     "nome": "Icaro Duarte Gavazza Lima",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2019",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -4674,16 +3851,16 @@
     "slug": "icaro-gandine-fialho-weiler",
     "nome": "Icaro Gandine Fialho Weiler",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2019"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/icaro-gandine-fialho-weiler.json"
   },
   {
@@ -4701,38 +3878,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/ieda-zannoti.json"
-  },
-  {
-    "slug": "igor-cellia-bonomo",
-    "nome": "Igor Cellia Bonomo",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/igor-cellia-bonomo.json"
-  },
-  {
-    "slug": "igor-simer-romanhi",
-    "nome": "Igor Simer Romanhi",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/igor-simer-romanhi.json"
   },
   {
     "slug": "inae-santos-goncalves",
@@ -4787,17 +3932,16 @@
     "slug": "irisson-junio-maximo-borges",
     "nome": "Irisson Junio Máximo Borges",
     "funcoes": [
-      "ALUNO(A) BOLSISTA",
-      "MINISTRANTE"
+      "ALUNO(A) BOLSISTA"
     ],
     "anos": [
       "2016"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 12,
-    "impacto": 12,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/irisson-junio-maximo-borges.json"
   },
   {
@@ -4818,22 +3962,6 @@
     "url": "api/extensionistas/irlane-schmidt-da-silva-alves.json"
   },
   {
-    "slug": "isaac-siqueira-de-lima-will",
-    "nome": "Isaac Siqueira de Lima Will",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/isaac-siqueira-de-lima-will.json"
-  },
-  {
     "slug": "isabel-passamani-soeiro",
     "nome": "Isabel Passamani Soeiro",
     "funcoes": [
@@ -4848,22 +3976,6 @@
     "imp_eq": 11,
     "impacto": 11,
     "url": "api/extensionistas/isabel-passamani-soeiro.json"
-  },
-  {
-    "slug": "isabela-schulz-vieira",
-    "nome": "Isabela Schulz Vieira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/isabela-schulz-vieira.json"
   },
   {
     "slug": "isabella-bissoli",
@@ -4882,55 +3994,6 @@
     "imp_eq": 66,
     "impacto": 66,
     "url": "api/extensionistas/isabella-bissoli.json"
-  },
-  {
-    "slug": "isabella-sampaio-martins-dos-santos",
-    "nome": "Isabella Sampaio Martins dos Santos",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 2,
-    "impacto": 2,
-    "url": "api/extensionistas/isabella-sampaio-martins-dos-santos.json"
-  },
-  {
-    "slug": "isabelle-pereira-souza-dias",
-    "nome": "Isabelle Pereira Souza Dias",
-    "funcoes": [
-      "MONITOR(A)",
-      "PESQUISADOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 42,
-    "impacto": 42,
-    "url": "api/extensionistas/isabelle-pereira-souza-dias.json"
-  },
-  {
-    "slug": "isabelle-sofia-de-jesus-silva",
-    "nome": "Isabelle Sofia de Jesus Silva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/isabelle-sofia-de-jesus-silva.json"
   },
   {
     "slug": "isadora-lee-padilha-ferri",
@@ -4967,32 +4030,17 @@
     "url": "api/extensionistas/isaque-da-silva-santos-de-souza.json"
   },
   {
-    "slug": "israel-jose-lima-nogueira",
-    "nome": "Israel José Lima Nogueira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/israel-jose-lima-nogueira.json"
-  },
-  {
     "slug": "ivana-amorim-juliao",
     "nome": "Ivana Amorim Julião",
     "funcoes": [
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2015"
+      "2015",
+      "2016"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -5018,23 +4066,25 @@
     "slug": "izis-barbosa-coutinho",
     "nome": "Izis Barbosa Coutinho",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 154,
+    "impacto": 154,
     "url": "api/extensionistas/izis-barbosa-coutinho.json"
   },
   {
-    "slug": "jackson-willian-silva-agostinho",
-    "nome": "Jackson Willian Silva Agostinho",
+    "slug": "janaina-de-medeiros-freitas",
+    "nome": "Janaina de Medeiros Freitas",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "COLABORADOR(A)"
     ],
     "anos": [
       "2019"
@@ -5042,9 +4092,25 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/jackson-willian-silva-agostinho.json"
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/janaina-de-medeiros-freitas.json"
+  },
+  {
+    "slug": "jaqueline-carlos",
+    "nome": "Jaqueline Carlos",
+    "funcoes": [
+      "INSTRUTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/jaqueline-carlos.json"
   },
   {
     "slug": "jean-michel-pereira-de-queiroz",
@@ -5075,13 +4141,14 @@
     ],
     "anos": [
       "2016",
+      "2018",
       "2020"
     ],
     "coordena": 1,
-    "equipe": 3,
+    "equipe": 4,
     "imp_coord": 1,
-    "imp_eq": 9,
-    "impacto": 10,
+    "imp_eq": 46,
+    "impacto": 47,
     "url": "api/extensionistas/jefferson-oliveira-andrade.json"
   },
   {
@@ -5142,10 +4209,11 @@
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2015"
+      "2015",
+      "2016"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -5184,20 +4252,20 @@
     "url": "api/extensionistas/jessica-nogueira-duque.json"
   },
   {
-    "slug": "jessica-pereira-da-penha",
-    "nome": "Jessica Pereira da Penha",
+    "slug": "jessica-stinghel-abreu",
+    "nome": "Jessica Stinghel Abreu",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/jessica-pereira-da-penha.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/jessica-stinghel-abreu.json"
   },
   {
     "slug": "jheam-storch-ross",
@@ -5216,67 +4284,23 @@
     "url": "api/extensionistas/jheam-storch-ross.json"
   },
   {
-    "slug": "jhon-lennon-schuina",
-    "nome": "Jhon Lennon Schuina",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/jhon-lennon-schuina.json"
-  },
-  {
-    "slug": "jhonatan-fonseca-de-lima",
-    "nome": "Jhonatan Fonseca de Lima",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/jhonatan-fonseca-de-lima.json"
-  },
-  {
-    "slug": "joaquim-oliveira-vieira",
-    "nome": "Joaquim Oliveira Vieira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/joaquim-oliveira-vieira.json"
-  },
-  {
     "slug": "joel-will-belmiro",
     "nome": "Joel Will Belmiro",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "EXPOSITOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
+      "2018",
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 1,
+    "impacto": 1,
     "url": "api/extensionistas/joel-will-belmiro.json"
   },
   {
@@ -5299,49 +4323,35 @@
     "slug": "jonas-emanuel-dos-santos-egert",
     "nome": "Jonas Emanuel dos Santos Egert",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "EXTENSIONISTA"
     ],
     "anos": [
+      "2022",
       "2023"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/jonas-emanuel-dos-santos-egert.json"
   },
   {
-    "slug": "jordan-de-oliveira-kau-lyrio",
-    "nome": "Jordan de Oliveira Kau Lyrio",
+    "slug": "jordana-do-amaral-geolando",
+    "nome": "Jordana do Amaral Geolando",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2018"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/jordan-de-oliveira-kau-lyrio.json"
-  },
-  {
-    "slug": "jordana-ferreira-bernardino-silva",
-    "nome": "Jordana Ferreira Bernardino Silva",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/jordana-ferreira-bernardino-silva.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/jordana-do-amaral-geolando.json"
   },
   {
     "slug": "jose-augusto-costa-breciani",
@@ -5393,16 +4403,35 @@
     "url": "api/extensionistas/josue-ramos-souza.json"
   },
   {
-    "slug": "jose-geraldo-das-neves-orlandi",
-    "nome": "José Geraldo das Neves Orlandi",
+    "slug": "josue-rego-da-silva",
+    "nome": "Josué Rego da Silva",
     "funcoes": [
-      "COLABORADOR(A)"
+      "PALESTRANTE"
     ],
     "anos": [
       "2018"
     ],
     "coordena": 0,
     "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 17,
+    "impacto": 17,
+    "url": "api/extensionistas/josue-rego-da-silva.json"
+  },
+  {
+    "slug": "jose-geraldo-das-neves-orlandi",
+    "nome": "José Geraldo das Neves Orlandi",
+    "funcoes": [
+      "COLABORADOR(A)",
+      "CONSULTOR(A)",
+      "MENTOR(A)"
+    ],
+    "anos": [
+      "2016",
+      "2018"
+    ],
+    "coordena": 0,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -5441,22 +4470,6 @@
     "url": "api/extensionistas/jose-inacio-serafini.json"
   },
   {
-    "slug": "jose-martins-de-oliveira-junior",
-    "nome": "José Martins de Oliveira Junior",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/jose-martins-de-oliveira-junior.json"
-  },
-  {
     "slug": "jose-otavio-de-souza-lessa",
     "nome": "José Otávio de Souza Lessa",
     "funcoes": [
@@ -5473,10 +4486,10 @@
     "url": "api/extensionistas/jose-otavio-de-souza-lessa.json"
   },
   {
-    "slug": "joao-antonio-campos-panceri",
-    "nome": "João Antonio Campos Panceri",
+    "slug": "jose-wlamir-barreto-soares",
+    "nome": "José Wlamir Barreto Soares",
     "funcoes": [
-      "DEBATEDOR(A)"
+      "INSTRUTOR(A)"
     ],
     "anos": [
       "2016"
@@ -5484,9 +4497,25 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/joao-antonio-campos-panceri.json"
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/jose-wlamir-barreto-soares.json"
+  },
+  {
+    "slug": "jose-de-irigon-de-irigon",
+    "nome": "José de Irigon de Irigon",
+    "funcoes": [
+      "MENTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/jose-de-irigon-de-irigon.json"
   },
   {
     "slug": "joao-augusto-casagrande-da-silva",
@@ -5496,13 +4525,14 @@
       "APOIO TÉCNICO"
     ],
     "anos": [
+      "2018",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 37,
+    "impacto": 37,
     "url": "api/extensionistas/joao-augusto-casagrande-da-silva.json"
   },
   {
@@ -5522,22 +4552,6 @@
     "url": "api/extensionistas/joao-carlos-pandolfi-santana.json"
   },
   {
-    "slug": "joao-lucas-fonseca-da-silva-lima",
-    "nome": "João Lucas Fonseca da Silva Lima",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/joao-lucas-fonseca-da-silva-lima.json"
-  },
-  {
     "slug": "joao-paulo-lebarck-pizzaia",
     "nome": "João Paulo Lebarck Pizzaia",
     "funcoes": [
@@ -5552,22 +4566,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/joao-paulo-lebarck-pizzaia.json"
-  },
-  {
-    "slug": "joao-pedro-quirino-filho",
-    "nome": "João Pedro Quirino Filho",
-    "funcoes": [
-      "DEBATEDOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/joao-pedro-quirino-filho.json"
   },
   {
     "slug": "joao-pedro-ribeiro-silva",
@@ -5618,38 +4616,6 @@
     "url": "api/extensionistas/joao-victor-barbosa-alves.json"
   },
   {
-    "slug": "joao-victor-bonella-lopes",
-    "nome": "João Victor Bonella Lopes",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/joao-victor-bonella-lopes.json"
-  },
-  {
-    "slug": "joao-victor-cunha-torres",
-    "nome": "João Victor Cunha Torres",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/joao-victor-cunha-torres.json"
-  },
-  {
     "slug": "joao-victor-kiffer-oliveira",
     "nome": "João Victor Kiffer Oliveira",
     "funcoes": [
@@ -5682,52 +4648,20 @@
     "url": "api/extensionistas/joao-victor-lopes.json"
   },
   {
-    "slug": "joao-victor-magevski-calegari",
-    "nome": "João Victor Magevski Calegari",
+    "slug": "joao-victor-nascimento-ribeiro",
+    "nome": "João Victor Nascimento Ribeiro",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/joao-victor-magevski-calegari.json"
-  },
-  {
-    "slug": "joao-victor-monteiro",
-    "nome": "João Victor Monteiro",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/joao-victor-monteiro.json"
-  },
-  {
-    "slug": "joao-vitor-calmon-c-r-porto",
-    "nome": "João Vitor Calmon C R Porto",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/joao-vitor-calmon-c-r-porto.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/joao-victor-nascimento-ribeiro.json"
   },
   {
     "slug": "joao-vitor-oliveira-scheidegger",
@@ -5752,18 +4686,16 @@
     "slug": "joao-vitor-zanchetta-corres",
     "nome": "João Vitor Zanchetta Corres",
     "funcoes": [
-      "COLABORADOR(A)",
       "INTÉRPRETE"
     ],
     "anos": [
-      "2015",
-      "2016"
+      "2015"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/joao-vitor-zanchetta-corres.json"
   },
   {
@@ -5820,6 +4752,22 @@
     "url": "api/extensionistas/julia-neiva-gomes.json"
   },
   {
+    "slug": "julia-sagrillo-barreiros",
+    "nome": "Julia Sagrillo Barreiros",
+    "funcoes": [
+      "MONITOR(A)"
+    ],
+    "anos": [
+      "2023"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/julia-sagrillo-barreiros.json"
+  },
+  {
     "slug": "juliana-duarte-acerbi",
     "nome": "Juliana Duarte Acerbi",
     "funcoes": [
@@ -5838,22 +4786,6 @@
     "url": "api/extensionistas/juliana-duarte-acerbi.json"
   },
   {
-    "slug": "juliana-gobeti-calenzani",
-    "nome": "Juliana Gobeti Calenzani",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/juliana-gobeti-calenzani.json"
-  },
-  {
     "slug": "juliana-rangel-roque",
     "nome": "Juliana Rangel Roque",
     "funcoes": [
@@ -5870,6 +4802,22 @@
     "url": "api/extensionistas/juliana-rangel-roque.json"
   },
   {
+    "slug": "juliana-ricato-musso-silva",
+    "nome": "Juliana Ricato Musso Silva",
+    "funcoes": [
+      "ALUNO(A) BOLSISTA"
+    ],
+    "anos": [
+      "2021"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/juliana-ricato-musso-silva.json"
+  },
+  {
     "slug": "juliana-rohsner-vianna-toniati",
     "nome": "Juliana Rohsner Vianna Toniati",
     "funcoes": [
@@ -5880,7 +4828,7 @@
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 32,
     "impacto": 32,
@@ -5919,22 +4867,6 @@
     "url": "api/extensionistas/julio-cesar-da-silva.json"
   },
   {
-    "slug": "junior-aguilar-amorim",
-    "nome": "Junior Aguilar Amorim",
-    "funcoes": [
-      "MONITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 30,
-    "impacto": 30,
-    "url": "api/extensionistas/junior-aguilar-amorim.json"
-  },
-  {
     "slug": "jessica-nascimento-galvani",
     "nome": "Jéssica Nascimento Galvani",
     "funcoes": [
@@ -5949,22 +4881,6 @@
     "imp_eq": 2,
     "impacto": 2,
     "url": "api/extensionistas/jessica-nascimento-galvani.json"
-  },
-  {
-    "slug": "jessica-vieira-alvarenga-dos-passos",
-    "nome": "Jéssica Vieira Alvarenga dos Passos",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/jessica-vieira-alvarenga-dos-passos.json"
   },
   {
     "slug": "jessica-yamada",
@@ -5983,133 +4899,19 @@
     "url": "api/extensionistas/jessica-yamada.json"
   },
   {
-    "slug": "jessika-de-oliveira-ferreira",
-    "nome": "Jéssika de Oliveira Ferreira",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/jessika-de-oliveira-ferreira.json"
-  },
-  {
-    "slug": "julia-suzano-fraga",
-    "nome": "Júlia Suzano Fraga",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/julia-suzano-fraga.json"
-  },
-  {
-    "slug": "kadu-freitas",
-    "nome": "Kadu Freitas",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/kadu-freitas.json"
-  },
-  {
-    "slug": "kaio-henrique-da-silva-nezio",
-    "nome": "Kaio Henrique da Silva Nezio",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/kaio-henrique-da-silva-nezio.json"
-  },
-  {
-    "slug": "kaique-renan-da-silva-morais-anjos",
-    "nome": "Kaique Renan da Silva Morais Anjos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/kaique-renan-da-silva-morais-anjos.json"
-  },
-  {
-    "slug": "kalebe-pereira-da-penha",
-    "nome": "Kalebe Pereira da Penha",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/kalebe-pereira-da-penha.json"
-  },
-  {
-    "slug": "kalebe-souza-olegario",
-    "nome": "Kalebe Souza Olegario",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/kalebe-souza-olegario.json"
-  },
-  {
     "slug": "kamila-maria-vieira-pralon",
     "nome": "Kamila Maria Vieira Pralon",
     "funcoes": [
-      "INTÉRPRETE",
-      "ORGANIZADOR(A)"
+      "INTÉRPRETE"
     ],
     "anos": [
-      "2015",
-      "2016"
+      "2015"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/kamila-maria-vieira-pralon.json"
   },
   {
@@ -6148,13 +4950,14 @@
       "2016",
       "2017",
       "2020",
-      "2023"
+      "2023",
+      "2024"
     ],
     "coordena": 0,
-    "equipe": 5,
+    "equipe": 7,
     "imp_coord": 0,
-    "imp_eq": 173,
-    "impacto": 173,
+    "imp_eq": 285,
+    "impacto": 285,
     "url": "api/extensionistas/karin-satie-komati.json"
   },
   {
@@ -6190,20 +4993,23 @@
     "url": "api/extensionistas/kaua-mateus-de-barros-terra.json"
   },
   {
-    "slug": "kauan-tonani-barcelos-da-silva",
-    "nome": "Kauan Tonani Barcelos da Silva",
+    "slug": "kaua-alexandre-bernardes",
+    "nome": "Kauã Alexandre Bernardes",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)",
+      "MONITOR(A)",
+      "ORGANIZADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2023",
+      "2024"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/kauan-tonani-barcelos-da-silva.json"
+    "imp_eq": 179,
+    "impacto": 179,
+    "url": "api/extensionistas/kaua-alexandre-bernardes.json"
   },
   {
     "slug": "kelly-assis-de-souza-gazolli",
@@ -6239,22 +5045,6 @@
     "url": "api/extensionistas/ketter-zuchi-caliari-miranda.json"
   },
   {
-    "slug": "kevin-gomes-matos",
-    "nome": "Kevin Gomes Matos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/kevin-gomes-matos.json"
-  },
-  {
     "slug": "kleber-alves",
     "nome": "Kleber Alves",
     "funcoes": [
@@ -6285,22 +5075,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/kleber-andre-lirio-picoli.json"
-  },
-  {
-    "slug": "kleydson-goncalves-caetano",
-    "nome": "Kleydson Gonçalves Caetano",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/kleydson-goncalves-caetano.json"
   },
   {
     "slug": "laisa-bernabe-do-carmo",
@@ -6354,22 +5128,6 @@
     "url": "api/extensionistas/lara-aguilar-de-amorim.json"
   },
   {
-    "slug": "lara-costa-vargen",
-    "nome": "Lara Costa Vargen",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/lara-costa-vargen.json"
-  },
-  {
     "slug": "lara-rocha-andrade",
     "nome": "Lara Rocha Andrade",
     "funcoes": [
@@ -6386,6 +5144,22 @@
     "url": "api/extensionistas/lara-rocha-andrade.json"
   },
   {
+    "slug": "lara-walcher-de-andrade",
+    "nome": "Lara Walcher de Andrade",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/lara-walcher-de-andrade.json"
+  },
+  {
     "slug": "larissa-batista-rangel",
     "nome": "Larissa Batista Rangel",
     "funcoes": [
@@ -6399,59 +5173,59 @@
       "2024"
     ],
     "coordena": 0,
-    "equipe": 4,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
+    "imp_eq": 2,
+    "impacto": 2,
     "url": "api/extensionistas/larissa-batista-rangel.json"
   },
   {
-    "slug": "larissa-bianchini-moares",
-    "nome": "Larissa Bianchini Moares",
+    "slug": "larissa-maciel-santos",
+    "nome": "Larissa Maciel Santos",
     "funcoes": [
-      "EXPOSITOR(A)"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2018"
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/larissa-maciel-santos.json"
+  },
+  {
+    "slug": "larissa-vervloet-mendonca",
+    "nome": "Larissa Vervloet Mendonça",
+    "funcoes": [
+      "ALUNO(A) VOLUNTARIO"
+    ],
+    "anos": [
+      "2019"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/larissa-vervloet-mendonca.json"
+  },
+  {
+    "slug": "laissa-gasperazzo",
+    "nome": "Laíssa Gasperazzo",
+    "funcoes": [
+      "ALUNO(A) VOLUNTARIO"
+    ],
+    "anos": [
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
-    "url": "api/extensionistas/larissa-bianchini-moares.json"
-  },
-  {
-    "slug": "larissa-campos-vieira",
-    "nome": "Larissa Campos Vieira",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/larissa-campos-vieira.json"
-  },
-  {
-    "slug": "lavinia-justos-gomes-vieira",
-    "nome": "Lavínia Justos Gomes Vieira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/lavinia-justos-gomes-vieira.json"
+    "url": "api/extensionistas/laissa-gasperazzo.json"
   },
   {
     "slug": "leandra-mendes-da-silva-piffer",
@@ -6490,19 +5264,34 @@
     "slug": "leandro-melo-de-sa",
     "nome": "Leandro Melo de Sá",
     "funcoes": [
-      "COORDENADOR(A) ADJUNTO(A)",
-      "ORIENTADOR(A)"
+      "COORDENADOR(A) ADJUNTO(A)"
     ],
     "anos": [
-      "2018",
-      "2020"
+      "2020",
+      "2022"
     ],
     "coordena": 0,
     "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 30,
-    "impacto": 30,
+    "imp_eq": 3,
+    "impacto": 3,
     "url": "api/extensionistas/leandro-melo-de-sa.json"
+  },
+  {
+    "slug": "leonardo-aguiar-do-amaral",
+    "nome": "Leonardo Aguiar do Amaral",
+    "funcoes": [
+      "MEMBRO DE COMITÊ GESTOR"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/leonardo-aguiar-do-amaral.json"
   },
   {
     "slug": "leonardo-azevedo-scardua",
@@ -6517,10 +5306,10 @@
       "2017"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 16,
-    "impacto": 16,
+    "imp_eq": 19,
+    "impacto": 19,
     "url": "api/extensionistas/leonardo-azevedo-scardua.json"
   },
   {
@@ -6554,68 +5343,22 @@
     "url": "api/extensionistas/leonardo-matiazzi-correa.json"
   },
   {
-    "slug": "leonardo-nascimento-borges",
-    "nome": "Leonardo Nascimento Borges",
-    "funcoes": [
-      "EXTENSIONISTA"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/leonardo-nascimento-borges.json"
-  },
-  {
     "slug": "leonardo-rocha-gomes",
     "nome": "Leonardo Rocha Gomes",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 154,
+    "impacto": 154,
     "url": "api/extensionistas/leonardo-rocha-gomes.json"
-  },
-  {
-    "slug": "leonardo-zene-neves",
-    "nome": "Leonardo Zene Neves",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/leonardo-zene-neves.json"
-  },
-  {
-    "slug": "leticia-amaral-valentim",
-    "nome": "Leticia Amaral Valentim",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/leticia-amaral-valentim.json"
   },
   {
     "slug": "leticia-comissario-da-silva",
@@ -6652,58 +5395,10 @@
     "url": "api/extensionistas/leticia-schulthais-senna.json"
   },
   {
-    "slug": "ligia-aparecida-guedes",
-    "nome": "Ligia Aparecida Guedes",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/ligia-aparecida-guedes.json"
-  },
-  {
-    "slug": "livia-macedo-silva-dos-santos",
-    "nome": "Livia Macedo Silva dos Santos",
+    "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
+    "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
     "funcoes": [
       "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/livia-macedo-silva-dos-santos.json"
-  },
-  {
-    "slug": "lorena-teixeira-de-almeida",
-    "nome": "Lorena Teixeira de Almeida",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/lorena-teixeira-de-almeida.json"
-  },
-  {
-    "slug": "lorenzo-peixoto-almeida",
-    "nome": "Lorenzo Peixoto Almeida",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2022"
@@ -6713,40 +5408,23 @@
     "imp_coord": 0,
     "imp_eq": 2,
     "impacto": 2,
-    "url": "api/extensionistas/lorenzo-peixoto-almeida.json"
-  },
-  {
-    "slug": "lorenzzo-gabriel-ramos-doelinger-oliveira",
-    "nome": "Lorenzzo Gabriel Ramos Doelinger Oliveira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
     "url": "api/extensionistas/lorenzzo-gabriel-ramos-doelinger-oliveira.json"
   },
   {
-    "slug": "luan-bottoni-do-carmo-oliveira",
-    "nome": "Luan Bottoni do Carmo Oliveira",
+    "slug": "luana-santos-lemos",
+    "nome": "Luana Santos Lemos",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COORDENADOR(A) ADJUNTO(A)"
     ],
     "anos": [
-      "2023"
+      "2017"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/luan-bottoni-do-carmo-oliveira.json"
+    "imp_eq": 33,
+    "impacto": 33,
+    "url": "api/extensionistas/luana-santos-lemos.json"
   },
   {
     "slug": "lucas-almeida-de-oliveira",
@@ -6765,20 +5443,35 @@
     "url": "api/extensionistas/lucas-almeida-de-oliveira.json"
   },
   {
-    "slug": "lucas-eduardo-da-silva-pacheco",
-    "nome": "Lucas Eduardo da Silva Pacheco",
+    "slug": "lucas-caetano-possatti",
+    "nome": "Lucas Caetano Possatti",
     "funcoes": [
-      "ALUNO(A) BOLSISTA",
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2020"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/lucas-caetano-possatti.json"
+  },
+  {
+    "slug": "lucas-eduardo-da-silva-pacheco",
+    "nome": "Lucas Eduardo da Silva Pacheco",
+    "funcoes": [
+      "EXTENSIONISTA"
+    ],
+    "anos": [
+      "2022"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/lucas-eduardo-da-silva-pacheco.json"
   },
   {
@@ -6801,35 +5494,24 @@
     "slug": "lucas-gomes-flegler",
     "nome": "Lucas Gomes Flegler",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "COLABORADOR(A)",
+      "EXPOSITOR(A)",
+      "ORGANIZADOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2018",
       "2019",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 15,
+    "impacto": 15,
     "url": "api/extensionistas/lucas-gomes-flegler.json"
-  },
-  {
-    "slug": "lucas-leonardo-nobrega-dos-santos",
-    "nome": "Lucas Leonardo Nobrega dos Santos",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/lucas-leonardo-nobrega-dos-santos.json"
   },
   {
     "slug": "lucas-lorenzon-de-aragao",
@@ -6851,34 +5533,17 @@
     "slug": "lucas-machado-santos",
     "nome": "Lucas Machado Santos",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) EM ATIVIDADE CURRICULAR"
     ],
     "anos": [
       "2022"
     ],
     "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
-    "url": "api/extensionistas/lucas-machado-santos.json"
-  },
-  {
-    "slug": "lucas-salomao-vieira",
-    "nome": "Lucas Salomão Vieira",
-    "funcoes": [
-      "EXTENSIONISTA"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/lucas-salomao-vieira.json"
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/lucas-machado-santos.json"
   },
   {
     "slug": "lucas-silverio-gums",
@@ -6897,22 +5562,6 @@
     "imp_eq": 24,
     "impacto": 24,
     "url": "api/extensionistas/lucas-silverio-gums.json"
-  },
-  {
-    "slug": "lucas-tejada-fabres",
-    "nome": "Lucas Tejada Fabres",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/lucas-tejada-fabres.json"
   },
   {
     "slug": "lucas-velten-henker",
@@ -6947,22 +5596,6 @@
     "url": "api/extensionistas/lucas-vieira-da-silva.json"
   },
   {
-    "slug": "lucas-xavier-da-silva",
-    "nome": "Lucas Xavier da Silva",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/lucas-xavier-da-silva.json"
-  },
-  {
     "slug": "luciene-torezani-alves",
     "nome": "Luciene Torezani Alves",
     "funcoes": [
@@ -6982,35 +5615,17 @@
     "slug": "ludmila-dias",
     "nome": "Ludmila Dias",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "APOIO TÉCNICO"
     ],
     "anos": [
-      "2022"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 2,
-    "impacto": 2,
+    "imp_eq": 51,
+    "impacto": 51,
     "url": "api/extensionistas/ludmila-dias.json"
-  },
-  {
-    "slug": "luis-felippe-klein-faria",
-    "nome": "Luis Felippe Klein Faria",
-    "funcoes": [
-      "COLABORADOR(A)",
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2016",
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/luis-felippe-klein-faria.json"
   },
   {
     "slug": "luis-henrique-rosado-torres",
@@ -7020,50 +5635,36 @@
       "COLABORADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)",
       "INSTRUTOR(A)",
+      "MEMBRO DE COMITÊ GESTOR",
       "ORGANIZADOR(A)"
     ],
     "anos": [
       "2016",
-      "2017"
+      "2017",
+      "2024"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 56,
-    "impacto": 56,
+    "imp_eq": 171,
+    "impacto": 171,
     "url": "api/extensionistas/luis-henrique-rosado-torres.json"
   },
   {
-    "slug": "luiz-antonio-roque-guzzo",
-    "nome": "Luiz Antonio Roque Guzzo",
+    "slug": "luiz-carlos-vieira-berger",
+    "nome": "Luiz Carlos Vieira Berger",
     "funcoes": [
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2019"
+      "2018"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/luiz-antonio-roque-guzzo.json"
-  },
-  {
-    "slug": "luiz-augusto-bastos-correia",
-    "nome": "Luiz Augusto Bastos Correia",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/luiz-augusto-bastos-correia.json"
+    "imp_eq": 37,
+    "impacto": 37,
+    "url": "api/extensionistas/luiz-carlos-vieira-berger.json"
   },
   {
     "slug": "luiz-felipe-elizeta-dos-santos",
@@ -7084,42 +5685,10 @@
     "url": "api/extensionistas/luiz-felipe-elizeta-dos-santos.json"
   },
   {
-    "slug": "luiz-felipe-de-souza-santos",
-    "nome": "Luiz Felipe de Souza Santos",
+    "slug": "luiz-felipe-loureiro-mascarenhas",
+    "nome": "Luiz Felipe Loureiro Mascarenhas",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/luiz-felipe-de-souza-santos.json"
-  },
-  {
-    "slug": "luiz-filipe-dos-santos-schelemberg",
-    "nome": "Luiz Filipe dos Santos Schelemberg",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/luiz-filipe-dos-santos-schelemberg.json"
-  },
-  {
-    "slug": "luiz-henrique-marques",
-    "nome": "Luiz Henrique Marques",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "EXTENSIONISTA"
     ],
     "anos": [
       "2022"
@@ -7127,89 +5696,42 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/luiz-henrique-marques.json"
-  },
-  {
-    "slug": "luiz-ricardo-santos-saraiva",
-    "nome": "Luiz Ricardo Santos Saraíva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/luiz-ricardo-santos-saraiva.json"
-  },
-  {
-    "slug": "luiz-roberto-bozzi-perereira",
-    "nome": "Luiz Roberto Bozzi Perereira",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
-    "url": "api/extensionistas/luiz-roberto-bozzi-perereira.json"
+    "url": "api/extensionistas/luiz-felipe-loureiro-mascarenhas.json"
   },
   {
-    "slug": "luiza-alcantara-dos-santos",
-    "nome": "Luiza Alcantara dos Santos",
+    "slug": "lukese-rosa-menegussi",
+    "nome": "Lukese Rosa Menegussi",
     "funcoes": [
+      "INSTRUTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/lukese-rosa-menegussi.json"
+  },
+  {
+    "slug": "luma-tavares-lopes-de-souza",
+    "nome": "Luma Tavares Lopes de Souza",
+    "funcoes": [
+      "APOIO TÉCNICO",
       "COLABORADOR(A)"
     ],
     "anos": [
-      "2016"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/luiza-alcantara-dos-santos.json"
-  },
-  {
-    "slug": "luiza-broseghini-pin",
-    "nome": "Luiza Broseghini Pin",
-    "funcoes": [
-      "ORGANIZADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/luiza-broseghini-pin.json"
-  },
-  {
-    "slug": "luisa-coutinho-pimentel-dos-santos",
-    "nome": "Luísa Coutinho Pimentel dos Santos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/luisa-coutinho-pimentel-dos-santos.json"
+    "imp_eq": 163,
+    "impacto": 163,
+    "url": "api/extensionistas/luma-tavares-lopes-de-souza.json"
   },
   {
     "slug": "mafe-mattos",
@@ -7233,6 +5755,7 @@
     "funcoes": [
       "ALUNO(A) BOLSISTA",
       "ALUNO(A) VOLUNTARIO",
+      "ORGANIZADOR(A)",
       "PALESTRANTE"
     ],
     "anos": [
@@ -7241,10 +5764,10 @@
       "2018"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 15,
+    "impacto": 15,
     "url": "api/extensionistas/magno-macedo-de-oliveira.json"
   },
   {
@@ -7301,7 +5824,6 @@
     "funcoes": [
       "ALUNO(A) BOLSISTA",
       "ALUNO(A) EM ATIVIDADE CURRICULAR",
-      "ALUNO(A) VOLUNTARIO",
       "APOIO TÉCNICO"
     ],
     "anos": [
@@ -7310,10 +5832,10 @@
       "2023"
     ],
     "coordena": 0,
-    "equipe": 4,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
+    "imp_eq": 2,
+    "impacto": 2,
     "url": "api/extensionistas/marcela-starling-ferreira-lage.json"
   },
   {
@@ -7321,50 +5843,34 @@
     "nome": "Marcelo Victor Ferreira Barbosa",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "EXPOSITOR(A)"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2018",
+      "2019",
       "2020"
     ],
     "coordena": 0,
     "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 2,
-    "impacto": 2,
+    "imp_eq": 7,
+    "impacto": 7,
     "url": "api/extensionistas/marcelo-victor-ferreira-barbosa.json"
   },
   {
-    "slug": "marcio-moneque-rosa",
-    "nome": "Marcio Moneque Rosa",
+    "slug": "marcio-bender-machado",
+    "nome": "Marcio Bender Machado",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "INSTRUTOR(A)"
     ],
     "anos": [
-      "2022"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/marcio-moneque-rosa.json"
-  },
-  {
-    "slug": "marcio-de-lima-braga",
-    "nome": "Marcio de Lima Braga",
-    "funcoes": [
-      "PROFESSOR(A)"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/marcio-de-lima-braga.json"
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/marcio-bender-machado.json"
   },
   {
     "slug": "marco-antonio-de-souza-leite-cuadros",
@@ -7401,33 +5907,18 @@
     "nome": "Marcos Antonio Carneiro de Paula",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "ALUNO(A) VOLUNTARIO"
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2019"
     ],
     "coordena": 0,
     "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/marcos-antonio-carneiro-de-paula.json"
-  },
-  {
-    "slug": "marcos-antonio-da-hora-borges",
-    "nome": "Marcos Antonio da Hora Borges",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
-    "url": "api/extensionistas/marcos-antonio-da-hora-borges.json"
+    "url": "api/extensionistas/marcos-antonio-carneiro-de-paula.json"
   },
   {
     "slug": "marcos-antonio-tavares-de-souza",
@@ -7446,38 +5937,59 @@
     "url": "api/extensionistas/marcos-antonio-tavares-de-souza.json"
   },
   {
+    "slug": "marcos-aurelio-melo-dias",
+    "nome": "Marcos Aurélio Melo Dias",
+    "funcoes": [
+      "ALUNO(A) VOLUNTARIO"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/marcos-aurelio-melo-dias.json"
+  },
+  {
     "slug": "marcos-paulo-kohler-caldas",
     "nome": "Marcos Paulo Kohler Caldas",
     "funcoes": [
+      "MEMBRO DE COMITÊ GESTOR",
       "ORIENTADOR(A)",
       "PROFESSOR(A)"
     ],
     "anos": [
+      "2022",
       "2023",
+      "2024",
       "2025"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 91,
-    "impacto": 91,
+    "imp_eq": 277,
+    "impacto": 277,
     "url": "api/extensionistas/marcos-paulo-kohler-caldas.json"
   },
   {
     "slug": "marcos-simao-guimaraes",
     "nome": "Marcos Simão Guimarães",
     "funcoes": [
+      "AVALIADOR(A)",
       "COLABORADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)",
       "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
+      "2016",
       "2017",
       "2023",
       "2025"
     ],
     "coordena": 0,
-    "equipe": 4,
+    "equipe": 5,
     "imp_coord": 0,
     "imp_eq": 15,
     "impacto": 15,
@@ -7504,33 +6016,19 @@
     "slug": "marcos-vinicius-forecchi-accioly",
     "nome": "Marcos Vinícius Forecchi Accioly",
     "funcoes": [
+      "COLABORADOR(A)",
       "MENTOR(A)"
     ],
     "anos": [
-      "2015"
+      "2015",
+      "2016"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/marcos-vinicius-forecchi-accioly.json"
-  },
-  {
-    "slug": "marcus-romano-salles-bernardes-de-souza",
-    "nome": "Marcus Romano Salles Bernardes de Souza",
-    "funcoes": [
-      "COORDENADOR(A) ADJUNTO(A)"
-    ],
-    "anos": [
-      "2020"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/marcus-romano-salles-bernardes-de-souza.json"
   },
   {
     "slug": "maressa-karen-henrique-da-silva",
@@ -7544,10 +6042,10 @@
       "2024"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 5,
-    "impacto": 5,
+    "imp_eq": 3,
+    "impacto": 3,
     "url": "api/extensionistas/maressa-karen-henrique-da-silva.json"
   },
   {
@@ -7567,6 +6065,22 @@
     "url": "api/extensionistas/maria-caitana-pascoal-banhos.json"
   },
   {
+    "slug": "maria-clara-peterle-de-souza",
+    "nome": "Maria Clara Peterle de Souza",
+    "funcoes": [
+      "MONITOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 9,
+    "impacto": 9,
+    "url": "api/extensionistas/maria-clara-peterle-de-souza.json"
+  },
+  {
     "slug": "maria-eduarda-fiorio-cardoso",
     "nome": "Maria Eduarda Fiorio Cardoso",
     "funcoes": [
@@ -7583,54 +6097,52 @@
     "url": "api/extensionistas/maria-eduarda-fiorio-cardoso.json"
   },
   {
-    "slug": "maria-eduarda-franco-santana",
-    "nome": "Maria Eduarda Franco Santana",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/maria-eduarda-franco-santana.json"
-  },
-  {
     "slug": "maria-eduarda-lira-moreira",
     "nome": "Maria Eduarda Lira Moreira",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2018",
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 406,
-    "impacto": 406,
-    "url": "api/extensionistas/maria-eduarda-lira-moreira.json"
-  },
-  {
-    "slug": "maria-eduarda-souza-silva",
-    "nome": "Maria Eduarda Souza Silva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
+      "2018"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/maria-eduarda-souza-silva.json"
+    "imp_eq": 209,
+    "impacto": 209,
+    "url": "api/extensionistas/maria-eduarda-lira-moreira.json"
+  },
+  {
+    "slug": "maria-eduarda-da-cruz-ferreira",
+    "nome": "Maria Eduarda da Cruz Ferreira",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/maria-eduarda-da-cruz-ferreira.json"
+  },
+  {
+    "slug": "maria-gabriela-siqueira-tavares",
+    "nome": "Maria Gabriela Siqueira Tavares",
+    "funcoes": [
+      "ALUNO(A) VOLUNTARIO"
+    ],
+    "anos": [
+      "2018"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 17,
+    "impacto": 17,
+    "url": "api/extensionistas/maria-gabriela-siqueira-tavares.json"
   },
   {
     "slug": "maria-heloisa-neves-guimaraes",
@@ -7647,6 +6159,22 @@
     "imp_eq": 76,
     "impacto": 76,
     "url": "api/extensionistas/maria-heloisa-neves-guimaraes.json"
+  },
+  {
+    "slug": "maria-julia-leopoldo-barros",
+    "nome": "Maria Júlia Leopoldo Barros",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/maria-julia-leopoldo-barros.json"
   },
   {
     "slug": "maria-luiza-guimaraes-silva",
@@ -7667,22 +6195,6 @@
     "url": "api/extensionistas/maria-luiza-guimaraes-silva.json"
   },
   {
-    "slug": "maria-do-carmo-quaresma-de-almeida",
-    "nome": "Maria do Carmo Quaresma de Almeida",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/maria-do-carmo-quaresma-de-almeida.json"
-  },
-  {
     "slug": "mariana-marchiore-birro",
     "nome": "Mariana Marchiore Birro",
     "funcoes": [
@@ -7699,26 +6211,9 @@
     "url": "api/extensionistas/mariana-marchiore-birro.json"
   },
   {
-    "slug": "mariana-pinto-ferraz-tassan",
-    "nome": "Mariana Pinto Ferraz Tassan",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/mariana-pinto-ferraz-tassan.json"
-  },
-  {
     "slug": "marianna-stark-gardioli-rangel",
     "nome": "Marianna Stark Gardioli Rangel",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
       "MONITOR(A)"
     ],
     "anos": [
@@ -7727,41 +6222,25 @@
     "coordena": 0,
     "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 212,
-    "impacto": 212,
+    "imp_eq": 15,
+    "impacto": 15,
     "url": "api/extensionistas/marianna-stark-gardioli-rangel.json"
   },
   {
-    "slug": "mariany-do-carmo",
-    "nome": "Mariany do Carmo",
+    "slug": "marina-moraes-silva",
+    "nome": "Marina Moraes Silva",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/mariany-do-carmo.json"
-  },
-  {
-    "slug": "marina-ribeiro-jesus",
-    "nome": "Marina Ribeiro Jesus",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/marina-ribeiro-jesus.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/marina-moraes-silva.json"
   },
   {
     "slug": "marllon-christiani-dos-santos-ribeiro",
@@ -7785,7 +6264,7 @@
     "slug": "marlon-woelffel-candoti",
     "nome": "Marlon Woelffel Candoti",
     "funcoes": [
-      "MINISTRANTE"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2016"
@@ -7793,8 +6272,8 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 12,
-    "impacto": 12,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/marlon-woelffel-candoti.json"
   },
   {
@@ -7832,16 +6311,18 @@
   {
     "slug": "marta-talitha-carvalho-freire-mendes",
     "nome": "Marta Talitha Carvalho Freire Mendes",
-    "funcoes": [],
+    "funcoes": [
+      "MEMBRO DE COMITÊ GESTOR"
+    ],
     "anos": [
       "2023",
       "2024"
     ],
     "coordena": 2,
-    "equipe": 0,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 163,
+    "impacto": 163,
     "url": "api/extensionistas/marta-talitha-carvalho-freire-mendes.json"
   },
   {
@@ -7874,75 +6355,23 @@
       "2022"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 5,
-    "impacto": 5,
+    "imp_eq": 3,
+    "impacto": 3,
     "url": "api/extensionistas/mateus-lannes-cunha.json"
-  },
-  {
-    "slug": "mateus-maioli-giacomin",
-    "nome": "Mateus Maioli Giacomin",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO",
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018",
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 2,
-    "impacto": 2,
-    "url": "api/extensionistas/mateus-maioli-giacomin.json"
-  },
-  {
-    "slug": "mateus-rodrigues-santos",
-    "nome": "Mateus Rodrigues Santos",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/mateus-rodrigues-santos.json"
-  },
-  {
-    "slug": "mateus-sodre-martins",
-    "nome": "Mateus Sodré Martins",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/mateus-sodre-martins.json"
   },
   {
     "slug": "mateus-de-mattos-ferreira",
     "nome": "Mateus de Mattos Ferreira",
     "funcoes": [
-      "APOIO TÉCNICO",
-      "EXPOSITOR(A)"
+      "APOIO TÉCNICO"
     ],
     "anos": [
-      "2018",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -8002,17 +6431,37 @@
     "slug": "matheus-kleber-rodrigues-barbosa",
     "nome": "Matheus Kleber Rodrigues Barbosa",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "COLABORADOR(A)",
+      "ORGANIZADOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2019"
+    ],
+    "coordena": 0,
+    "equipe": 2,
+    "imp_coord": 0,
+    "imp_eq": 15,
+    "impacto": 15,
+    "url": "api/extensionistas/matheus-kleber-rodrigues-barbosa.json"
+  },
+  {
+    "slug": "matheus-mesquita-gomes-moura",
+    "nome": "Matheus Mesquita Gomes Moura",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/matheus-kleber-rodrigues-barbosa.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/matheus-mesquita-gomes-moura.json"
   },
   {
     "slug": "matheus-policario-amorim",
@@ -8070,13 +6519,14 @@
       "ALUNO(A) BOLSISTA"
     ],
     "anos": [
+      "2021",
       "2022"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 2,
+    "impacto": 2,
     "url": "api/extensionistas/matheus-teixeira-de-aguiar.json"
   },
   {
@@ -8089,27 +6539,11 @@
       "2023"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 15,
     "impacto": 15,
     "url": "api/extensionistas/matheus-tiago-amorim-pereira.json"
-  },
-  {
-    "slug": "matheus-veker-camatta-santana-de-brito",
-    "nome": "Matheus Veker Camatta Santana de Brito",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/matheus-veker-camatta-santana-de-brito.json"
   },
   {
     "slug": "matheus-de-souza-pereira-de-oliveira",
@@ -8128,22 +6562,6 @@
     "url": "api/extensionistas/matheus-de-souza-pereira-de-oliveira.json"
   },
   {
-    "slug": "matielo-pereira-lopes",
-    "nome": "Matielo Pereira Lopes",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/matielo-pereira-lopes.json"
-  },
-  {
     "slug": "maxine-amorim-silva-gois",
     "nome": "Maxine Amorim Silva Gois",
     "funcoes": [
@@ -8158,6 +6576,22 @@
     "imp_eq": 17,
     "impacto": 17,
     "url": "api/extensionistas/maxine-amorim-silva-gois.json"
+  },
+  {
+    "slug": "maxwell-eduardo-monteiro",
+    "nome": "Maxwell Eduardo Monteiro",
+    "funcoes": [
+      "ASSESSOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/maxwell-eduardo-monteiro.json"
   },
   {
     "slug": "maycon-pequeno-silva",
@@ -8193,22 +6627,6 @@
     "url": "api/extensionistas/mayke-willans-christo-pereira.json"
   },
   {
-    "slug": "michael-de-oliveira-coutinho",
-    "nome": "Michael de Oliveira Coutinho",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/michael-de-oliveira-coutinho.json"
-  },
-  {
     "slug": "michele-silva-da-mata-caetano",
     "nome": "Michele Silva da Mata Caetano",
     "funcoes": [
@@ -8225,52 +6643,20 @@
     "url": "api/extensionistas/michele-silva-da-mata-caetano.json"
   },
   {
-    "slug": "miguel-antonio-de-jesus-sperandio",
-    "nome": "Miguel Antonio de Jesus Sperandio",
+    "slug": "michelle-kapiche-alonso",
+    "nome": "Michelle Kapiche Alonso",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2023"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/miguel-antonio-de-jesus-sperandio.json"
-  },
-  {
-    "slug": "miguel-castro-gomes",
-    "nome": "Miguel Castro Gomes",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/miguel-castro-gomes.json"
-  },
-  {
-    "slug": "miguel-fonseca-de-lima",
-    "nome": "Miguel Fonseca de Lima",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/miguel-fonseca-de-lima.json"
+    "imp_eq": 80,
+    "impacto": 80,
+    "url": "api/extensionistas/michelle-kapiche-alonso.json"
   },
   {
     "slug": "miguel-de-menezes-ribeiro",
@@ -8292,19 +6678,33 @@
     "slug": "mirleni-de-jesus",
     "nome": "Mirleni de Jesus",
     "funcoes": [
-      "INSTRUTOR(A)",
-      "MINISTRANTE"
+      "INSTRUTOR(A)"
     ],
     "anos": [
-      "2015",
-      "2016"
+      "2015"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 32,
-    "impacto": 32,
+    "imp_eq": 20,
+    "impacto": 20,
     "url": "api/extensionistas/mirleni-de-jesus.json"
+  },
+  {
+    "slug": "mizael-fernandes-de-oliveira",
+    "nome": "Mizael Fernandes de Oliveira",
+    "funcoes": [
+      "COORDENADOR(A) ADJUNTO(A)"
+    ],
+    "anos": [
+      "2017"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 33,
+    "impacto": 33,
+    "url": "api/extensionistas/mizael-fernandes-de-oliveira.json"
   },
   {
     "slug": "moises-savedra-omena",
@@ -8327,25 +6727,28 @@
     ],
     "coordena": 10,
     "equipe": 13,
-    "imp_coord": 35,
-    "imp_eq": 3,
-    "impacto": 38,
+    "imp_coord": 23,
+    "imp_eq": 40,
+    "impacto": 63,
     "url": "api/extensionistas/moises-savedra-omena.json"
   },
   {
     "slug": "murilo-andrade-carvalho",
     "nome": "Murilo Andrade Carvalho",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2017",
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 4,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 221,
+    "impacto": 221,
     "url": "api/extensionistas/murilo-andrade-carvalho.json"
   },
   {
@@ -8381,20 +6784,20 @@
     "url": "api/extensionistas/marcia-goncalves-de-oliveira.json"
   },
   {
-    "slug": "mario-cesar-cunha-fialho",
-    "nome": "Mário Cesar Cunha Fialho",
+    "slug": "nadja-da-nobrega-rodrigues",
+    "nome": "Nadja da Nóbrega Rodrigues",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "MENTOR(A)"
     ],
     "anos": [
-      "2022"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/mario-cesar-cunha-fialho.json"
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/nadja-da-nobrega-rodrigues.json"
   },
   {
     "slug": "natan-paschoal-cypriano",
@@ -8414,19 +6817,39 @@
     "url": "api/extensionistas/natan-paschoal-cypriano.json"
   },
   {
+    "slug": "nathielly-bertollo-marques",
+    "nome": "Nathielly Bertollo Marques",
+    "funcoes": [
+      "PROFESSOR(A)"
+    ],
+    "anos": [
+      "2019"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 80,
+    "impacto": 80,
+    "url": "api/extensionistas/nathielly-bertollo-marques.json"
+  },
+  {
     "slug": "nauvia-maria-cancelieri",
     "nome": "Nauvia Maria Cancelieri",
     "funcoes": [
-      "MINISTRANTE"
+      "COORDENADOR(A)",
+      "MINISTRANTE",
+      "ORGANIZADOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2018",
       "2023"
     ],
     "coordena": 1,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 15,
-    "impacto": 15,
+    "equipe": 3,
+    "imp_coord": 134,
+    "imp_eq": 32,
+    "impacto": 166,
     "url": "api/extensionistas/nauvia-maria-cancelieri.json"
   },
   {
@@ -8465,16 +6888,18 @@
     "slug": "nicolas-nasario-ferreira",
     "nome": "Nicolas Nasário Ferreira",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "MONITOR(A)"
     ],
     "anos": [
+      "2022",
       "2023"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 23,
+    "impacto": 23,
     "url": "api/extensionistas/nicolas-nasario-ferreira.json"
   },
   {
@@ -8510,85 +6935,40 @@
     "url": "api/extensionistas/nicole-silva-loss.json"
   },
   {
-    "slug": "noiza-sperandio-bino",
-    "nome": "Noíza Sperandio Bino",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/noiza-sperandio-bino.json"
-  },
-  {
     "slug": "olavo-jose-ferreira-curatola",
     "nome": "Olavo Jose Ferreira Curatola",
     "funcoes": [
       "ALUNO(A) VOLUNTARIO",
-      "COLABORADOR(A)"
+      "COLABORADOR(A)",
+      "EXPOSITOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2016",
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/olavo-jose-ferreira-curatola.json"
   },
   {
-    "slug": "oliver-justo-gomes-vieira",
-    "nome": "Oliver Justo Gomes Vieira",
+    "slug": "paula-felipe-schlemper-de-oliveira",
+    "nome": "Paula Felipe Schlemper de Oliveira",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "INSTRUTOR(A)"
     ],
     "anos": [
-      "2023"
+      "2016"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/oliver-justo-gomes-vieira.json"
-  },
-  {
-    "slug": "paloma-ferreira-da-silva",
-    "nome": "Paloma Ferreira da Silva",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/paloma-ferreira-da-silva.json"
-  },
-  {
-    "slug": "pamela-cristina-nunes-costa",
-    "nome": "Pamela Cristina Nunes Costa",
-    "funcoes": [
-      "EXTENSIONISTA"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/pamela-cristina-nunes-costa.json"
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/paula-felipe-schlemper-de-oliveira.json"
   },
   {
     "slug": "paulo-antonio-de-souza-junior",
@@ -8620,11 +7000,27 @@
       "2023"
     ],
     "coordena": 3,
-    "equipe": 2,
-    "imp_coord": 74,
+    "equipe": 4,
+    "imp_coord": 188,
     "imp_eq": 79,
-    "impacto": 153,
+    "impacto": 267,
     "url": "api/extensionistas/paulo-cezar-camargo-guedes.json"
+  },
+  {
+    "slug": "paulo-ditarso-maciel-junior",
+    "nome": "Paulo Ditarso Maciel Junior",
+    "funcoes": [
+      "MENTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/paulo-ditarso-maciel-junior.json"
   },
   {
     "slug": "paulo-gabriel-mello-mota",
@@ -8659,52 +7055,24 @@
     "url": "api/extensionistas/paulo-henrique-freitas.json"
   },
   {
-    "slug": "paulo-jose-de-almeida-barbosa",
-    "nome": "Paulo José de Almeida Barbosa",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2016"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/paulo-jose-de-almeida-barbosa.json"
-  },
-  {
     "slug": "paulo-ricardo-viana-ferreira",
     "nome": "Paulo Ricardo Viana Ferreira",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "ALUNO(A) VOLUNTARIO",
+      "COLABORADOR(A)"
     ],
     "anos": [
+      "2016",
+      "2018",
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 37,
+    "impacto": 37,
     "url": "api/extensionistas/paulo-ricardo-viana-ferreira.json"
-  },
-  {
-    "slug": "paulo-roberto-fonseca-da-silva",
-    "nome": "Paulo Roberto Fonseca da Silva",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/paulo-roberto-fonseca-da-silva.json"
   },
   {
     "slug": "paulo-sergio-dos-santos-junior",
@@ -8723,11 +7091,11 @@
       "2019",
       "2023"
     ],
-    "coordena": 2,
-    "equipe": 7,
-    "imp_coord": 86,
+    "coordena": 3,
+    "equipe": 10,
+    "imp_coord": 139,
     "imp_eq": 16,
-    "impacto": 102,
+    "impacto": 155,
     "url": "api/extensionistas/paulo-sergio-dos-santos-junior.json"
   },
   {
@@ -8747,52 +7115,20 @@
     "url": "api/extensionistas/paulo-vitor-callegari-dalvi.json"
   },
   {
-    "slug": "pedro-henrique-siqueira-da-costa",
-    "nome": "Pedro Henrique Siqueira da Costa",
+    "slug": "pedro-aguiar-alves",
+    "nome": "Pedro Aguiar Alves",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) BOLSISTA"
     ],
     "anos": [
-      "2022"
+      "2021"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/pedro-henrique-siqueira-da-costa.json"
-  },
-  {
-    "slug": "pedro-henrique-de-carvalho-scaramussa-luz",
-    "nome": "Pedro Henrique de Carvalho Scaramussa Luz",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/pedro-henrique-de-carvalho-scaramussa-luz.json"
-  },
-  {
-    "slug": "pedro-luiz-augusto-rosa",
-    "nome": "Pedro Luiz Augusto Rosa",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/pedro-luiz-augusto-rosa.json"
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/pedro-aguiar-alves.json"
   },
   {
     "slug": "pedro-mathias-nakibar",
@@ -8812,26 +7148,10 @@
     "url": "api/extensionistas/pedro-mathias-nakibar.json"
   },
   {
-    "slug": "pedro-santana-prates",
-    "nome": "Pedro Santana Prates",
+    "slug": "phillipe-alcantara-fonseca-lopes",
+    "nome": "Phillipe Alcantara Fonseca Lopes",
     "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/pedro-santana-prates.json"
-  },
-  {
-    "slug": "pedro-wander-marques-sanches-matos",
-    "nome": "Pedro Wander Marques Sanches Matos",
-    "funcoes": [
-      "COLABORADOR(A)"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
       "2016"
@@ -8839,9 +7159,9 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/pedro-wander-marques-sanches-matos.json"
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/phillipe-alcantara-fonseca-lopes.json"
   },
   {
     "slug": "priscila-dos-santos-moreira",
@@ -8858,6 +7178,22 @@
     "imp_eq": 6,
     "impacto": 6,
     "url": "api/extensionistas/priscila-dos-santos-moreira.json"
+  },
+  {
+    "slug": "pamella-victoria-bitencourt-novais-dos-santos",
+    "nome": "Pâmella Victória Bitencourt Novais dos Santos",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/pamella-victoria-bitencourt-novais-dos-santos.json"
   },
   {
     "slug": "quezia-ferrari-da-silva",
@@ -8880,11 +7216,13 @@
     "nome": "Rafael Afonso dos Anjos",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "COLABORADOR(A)"
+      "COLABORADOR(A)",
+      "EXPOSITOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
-      "2017",
-      "2018"
+      "2016",
+      "2017"
     ],
     "coordena": 0,
     "equipe": 2,
@@ -8892,6 +7230,22 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/rafael-afonso-dos-anjos.json"
+  },
+  {
+    "slug": "rafael-almeida-deps-caldeira",
+    "nome": "Rafael Almeida Deps Caldeira",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/rafael-almeida-deps-caldeira.json"
   },
   {
     "slug": "rafael-machado-souza",
@@ -8927,22 +7281,6 @@
     "url": "api/extensionistas/rafael-marques-silva.json"
   },
   {
-    "slug": "rafael-pratti-dettmann",
-    "nome": "Rafael Pratti Dettmann",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/rafael-pratti-dettmann.json"
-  },
-  {
     "slug": "rafael-rabello-de-carvalho-guzzo",
     "nome": "Rafael Rabello de Carvalho Guzzo",
     "funcoes": [
@@ -8975,20 +7313,56 @@
     "url": "api/extensionistas/rafael-vieira-motta.json"
   },
   {
-    "slug": "rafaela-amorim-pessin",
-    "nome": "Rafaela Amorim Pessin",
+    "slug": "rafael-de-almeida-viana-gusmao",
+    "nome": "Rafael de Almeida Viana Gusmão",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
+    "imp_eq": 34,
+    "impacto": 34,
+    "url": "api/extensionistas/rafael-de-almeida-viana-gusmao.json"
+  },
+  {
+    "slug": "rafaela-amorim-pessin",
+    "nome": "Rafaela Amorim Pessin",
+    "funcoes": [
+      "ALUNO(A) BOLSISTA",
+      "ALUNO(A) VOLUNTARIO",
+      "EXPOSITOR(A)",
+      "PALESTRANTE"
+    ],
+    "anos": [
+      "2016",
+      "2018"
+    ],
+    "coordena": 0,
+    "equipe": 2,
+    "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/rafaela-amorim-pessin.json"
+  },
+  {
+    "slug": "rafaela-elisa-maurin-benedicto",
+    "nome": "Rafaela Elisa Maurin Benedicto",
+    "funcoes": [
+      "MENTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/rafaela-elisa-maurin-benedicto.json"
   },
   {
     "slug": "rafaela-guedes-de-souza",
@@ -9039,68 +7413,20 @@
     "url": "api/extensionistas/ramon-kazushi-cossual-sakurada.json"
   },
   {
-    "slug": "ramyson-de-araujo-nascimento",
-    "nome": "Ramyson de Araujo Nascimento",
+    "slug": "raphael-pinto-de-almeida",
+    "nome": "Raphael Pinto de Almeida",
     "funcoes": [
-      "EXPOSITOR(A)"
+      "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2018"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/ramyson-de-araujo-nascimento.json"
-  },
-  {
-    "slug": "raphael-brandao-dos-anjos-alvarenga",
-    "nome": "Raphael Brandão dos Anjos Alvarenga",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/raphael-brandao-dos-anjos-alvarenga.json"
-  },
-  {
-    "slug": "raphael-lima-pagung",
-    "nome": "Raphael Lima Pagung",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/raphael-lima-pagung.json"
-  },
-  {
-    "slug": "raquel-souza-castro",
-    "nome": "Raquel Souza Castro",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/raquel-souza-castro.json"
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/raphael-pinto-de-almeida.json"
   },
   {
     "slug": "rara-perozini-barroca",
@@ -9119,22 +7445,6 @@
     "url": "api/extensionistas/rara-perozini-barroca.json"
   },
   {
-    "slug": "ray-malta-neves-cardoso",
-    "nome": "Ray Malta Neves Cardoso",
-    "funcoes": [
-      "PROFESSOR(A)"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/ray-malta-neves-cardoso.json"
-  },
-  {
     "slug": "raynan-araujo-da-silva",
     "nome": "Raynan Araujo da Silva",
     "funcoes": [
@@ -9149,22 +7459,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/raynan-araujo-da-silva.json"
-  },
-  {
-    "slug": "regina-pereira-de-souza",
-    "nome": "Regina Pereira de Souza",
-    "funcoes": [
-      "GESTOR(A) DE PROJETO"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/regina-pereira-de-souza.json"
   },
   {
     "slug": "remerson-victor-silva-da-assurreicao",
@@ -9199,6 +7493,22 @@
     "url": "api/extensionistas/renan-campista.json"
   },
   {
+    "slug": "renan-costa-nascimento",
+    "nome": "Renan Costa Nascimento",
+    "funcoes": [
+      "ALUNO(A) VOLUNTARIO"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 0,
+    "impacto": 0,
+    "url": "api/extensionistas/renan-costa-nascimento.json"
+  },
+  {
     "slug": "renan-souza-do-nascimento",
     "nome": "Renan Souza do Nascimento",
     "funcoes": [
@@ -9213,22 +7523,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/renan-souza-do-nascimento.json"
-  },
-  {
-    "slug": "renan-dos-santos-siqueira",
-    "nome": "Renan dos Santos Siqueira",
-    "funcoes": [
-      "COLABORADOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 30,
-    "impacto": 30,
-    "url": "api/extensionistas/renan-dos-santos-siqueira.json"
   },
   {
     "slug": "renata-carneiro-sousa",
@@ -9275,27 +7569,11 @@
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 32,
     "impacto": 32,
     "url": "api/extensionistas/renata-imaculada-de-oliveira-teixeira.json"
-  },
-  {
-    "slug": "renato-carvalho",
-    "nome": "Renato Carvalho",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/renato-carvalho.json"
   },
   {
     "slug": "renato-eugenio-da-mota",
@@ -9333,13 +7611,15 @@
     "slug": "renato-de-sant-anna-lopes",
     "nome": "Renato de Sant'anna Lopes",
     "funcoes": [
-      "COLABORADOR(A)"
+      "COLABORADOR(A)",
+      "EXPOSITOR(A)"
     ],
     "anos": [
+      "2016",
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -9357,9 +7637,9 @@
     ],
     "coordena": 1,
     "equipe": 1,
-    "imp_coord": 0,
+    "imp_coord": 23,
     "imp_eq": 9,
-    "impacto": 9,
+    "impacto": 32,
     "url": "api/extensionistas/renner-sartorio-camargo.json"
   },
   {
@@ -9435,10 +7715,10 @@
       "2025"
     ],
     "coordena": 3,
-    "equipe": 10,
-    "imp_coord": 1,
-    "imp_eq": 256,
-    "impacto": 257,
+    "equipe": 11,
+    "imp_coord": 169,
+    "imp_eq": 135,
+    "impacto": 304,
     "url": "api/extensionistas/richard-junior-manuel-godinez-tello.json"
   },
   {
@@ -9510,15 +7790,13 @@
     "slug": "rodolfo-luiz-de-oliveira",
     "nome": "Rodolfo Luiz de Oliveira",
     "funcoes": [
-      "EXPOSITOR(A)",
       "GESTOR(A) DE PROJETO"
     ],
     "anos": [
-      "2018",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
@@ -9544,10 +7822,13 @@
     "slug": "rodrigo-fernandes-calhau",
     "nome": "Rodrigo Fernandes Calhau",
     "funcoes": [
+      "AUXILIAR TÉCNICO",
       "COLABORADOR(A)",
       "COORDENADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)",
+      "EXPOSITOR(A)",
       "INSTRUTOR(A)",
+      "MENTOR(A)",
       "ORIENTADOR(A)"
     ],
     "anos": [
@@ -9559,10 +7840,10 @@
       "2022"
     ],
     "coordena": 2,
-    "equipe": 6,
+    "equipe": 8,
     "imp_coord": 0,
-    "imp_eq": 57,
-    "impacto": 57,
+    "imp_eq": 67,
+    "impacto": 67,
     "url": "api/extensionistas/rodrigo-fernandes-calhau.json"
   },
   {
@@ -9580,22 +7861,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/rodrigo-lampier-dos-santos.json"
-  },
-  {
-    "slug": "roger-leonardo-coimbra-silva",
-    "nome": "Roger Leonardo Coimbra Silva",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/roger-leonardo-coimbra-silva.json"
   },
   {
     "slug": "romulo-alves-luciano",
@@ -9644,18 +7909,20 @@
     "funcoes": [
       "COORDENADOR(A)",
       "GESTOR(A) DE PROJETO",
+      "MEMBRO DE COMITÊ GESTOR",
       "ORGANIZADOR(A)"
     ],
     "anos": [
       "2020",
       "2023",
+      "2024",
       "2025"
     ],
     "coordena": 2,
     "equipe": 4,
-    "imp_coord": 18,
-    "imp_eq": 473,
-    "impacto": 491,
+    "imp_coord": 17,
+    "imp_eq": 585,
+    "impacto": 602,
     "url": "api/extensionistas/rosiane-ribeiro-rocha.json"
   },
   {
@@ -9664,8 +7931,7 @@
     "funcoes": [
       "COLABORADOR(A)",
       "COORDENADOR(A)",
-      "ORIENTADOR(A)",
-      "PALESTRANTE"
+      "ORIENTADOR(A)"
     ],
     "anos": [
       "2017",
@@ -9675,25 +7941,27 @@
     ],
     "coordena": 3,
     "equipe": 3,
-    "imp_coord": 235,
+    "imp_coord": 3,
     "imp_eq": 0,
-    "impacto": 235,
+    "impacto": 3,
     "url": "api/extensionistas/rosilene-de-sa-ribeiro.json"
   },
   {
     "slug": "rowenna-tonani-leao-dos-santos",
     "nome": "Rowenna Tonani Leão dos Santos",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 154,
+    "impacto": 154,
     "url": "api/extensionistas/rowenna-tonani-leao-dos-santos.json"
   },
   {
@@ -9732,34 +8000,17 @@
     "slug": "rubens-do-nascimento-correa-junior",
     "nome": "Rubens do Nascimento Corrêa Júnior",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) EM ATIVIDADE CURRICULAR"
     ],
     "anos": [
       "2022"
     ],
     "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 4,
-    "impacto": 4,
-    "url": "api/extensionistas/rubens-do-nascimento-correa-junior.json"
-  },
-  {
-    "slug": "ryan-costa-rodrigues-de-oliveira",
-    "nome": "Ryan Costa Rodrigues de Oliveira",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/ryan-costa-rodrigues-de-oliveira.json"
+    "imp_eq": 2,
+    "impacto": 2,
+    "url": "api/extensionistas/rubens-do-nascimento-correa-junior.json"
   },
   {
     "slug": "ryan-lima-pecanha",
@@ -9778,20 +8029,20 @@
     "url": "api/extensionistas/ryan-lima-pecanha.json"
   },
   {
-    "slug": "samily-souza-serafim",
-    "nome": "Samily Souza Serafim",
+    "slug": "samara-cristina-zupeli-babilon",
+    "nome": "Samara Cristina Zupeli Babilon",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2023"
+      "2019"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/samily-souza-serafim.json"
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/samara-cristina-zupeli-babilon.json"
   },
   {
     "slug": "samiya-harumi",
@@ -9862,35 +8113,23 @@
     "url": "api/extensionistas/sandro-de-freitas-nascimento.json"
   },
   {
-    "slug": "sara-carolina-napoleao-pimenta",
-    "nome": "Sara Carolina Napoleão Pimenta",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/sara-carolina-napoleao-pimenta.json"
-  },
-  {
     "slug": "sarah-silva-ferreira",
     "nome": "Sarah Silva Ferreira",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "AUXILIAR TÉCNICO",
+      "EXPOSITOR(A)"
     ],
     "anos": [
+      "2016",
+      "2018",
       "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 17,
+    "impacto": 17,
     "url": "api/extensionistas/sarah-silva-ferreira.json"
   },
   {
@@ -9914,6 +8153,7 @@
     "nome": "Sergio Nery Simões",
     "funcoes": [
       "APOIO TÉCNICO",
+      "COLABORADOR(A)",
       "COORDENADOR(A)",
       "COORDENADOR(A) ADJUNTO(A)"
     ],
@@ -9923,45 +8163,27 @@
       "2020"
     ],
     "coordena": 1,
-    "equipe": 3,
+    "equipe": 4,
     "imp_coord": 1,
     "imp_eq": 0,
     "impacto": 1,
     "url": "api/extensionistas/sergio-nery-simoes.json"
   },
   {
-    "slug": "shayane-teixeira-da-cruz",
-    "nome": "Shayane Teixeira da Cruz",
+    "slug": "sillas-ribeiro-ataide",
+    "nome": "Sillas Ribeiro Ataide",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO",
-      "EXPOSITOR(A)"
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018",
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 2,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/shayane-teixeira-da-cruz.json"
-  },
-  {
-    "slug": "simone-miranda-dos-santos",
-    "nome": "Simone Miranda dos Santos",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
+      "2017"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/simone-miranda-dos-santos.json"
+    "imp_eq": 33,
+    "impacto": 33,
+    "url": "api/extensionistas/sillas-ribeiro-ataide.json"
   },
   {
     "slug": "sofia-de-alcantara-silva",
@@ -10029,22 +8251,6 @@
     "url": "api/extensionistas/susilea-abreu-dos-santos-lima.json"
   },
   {
-    "slug": "savio-sant-anna-de-sa",
-    "nome": "Sávio Sant'anna de Sá",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/savio-sant-anna-de-sa.json"
-  },
-  {
     "slug": "samela-pedrada-cardoso",
     "nome": "Sâmela Pedrada Cardoso",
     "funcoes": [
@@ -10061,26 +8267,26 @@
     "url": "api/extensionistas/samela-pedrada-cardoso.json"
   },
   {
-    "slug": "sergio-estevam-da-costa-junior",
-    "nome": "Sérgio Estevam da Costa Junior",
+    "slug": "taina-jesus-correa-bromonschenkel",
+    "nome": "Tainá Jesus Corrêa Bromonschenkel",
     "funcoes": [
-      "INSTRUTOR(A)"
+      "COLABORADOR(A)"
     ],
     "anos": [
-      "2016"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 69,
-    "impacto": 69,
-    "url": "api/extensionistas/sergio-estevam-da-costa-junior.json"
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/taina-jesus-correa-bromonschenkel.json"
   },
   {
-    "slug": "tadeu-da-penha-moraes-junior",
-    "nome": "Tadeu da Penha Moraes Junior",
+    "slug": "taise-goncalves-de-jesus",
+    "nome": "Taise Gonçalves de Jesus",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "PROFESSOR(A)"
     ],
     "anos": [
       "2019"
@@ -10088,27 +8294,28 @@
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/tadeu-da-penha-moraes-junior.json"
+    "imp_eq": 40,
+    "impacto": 40,
+    "url": "api/extensionistas/taise-goncalves-de-jesus.json"
   },
   {
     "slug": "tarcisio-bruni-rangel",
     "nome": "Tarcisio Bruni Rangel",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "ALUNO(A) VOLUNTARIO",
-      "COLABORADOR(A)"
+      "COLABORADOR(A)",
+      "EXPOSITOR(A)"
     ],
     "anos": [
+      "2016",
       "2017",
       "2019"
     ],
     "coordena": 0,
     "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/tarcisio-bruni-rangel.json"
   },
   {
@@ -10116,35 +8323,22 @@
     "nome": "Tatiane Policário Chagas",
     "funcoes": [
       "COORDENADOR(A)",
+      "COORDENADOR(A) ADJUNTO(A)",
       "PROFESSOR(A)"
     ],
     "anos": [
+      "2018",
       "2019",
+      "2022",
       "2023",
       "2025"
     ],
     "coordena": 3,
-    "equipe": 4,
+    "equipe": 7,
     "imp_coord": 115,
-    "imp_eq": 6,
-    "impacto": 121,
+    "imp_eq": 51,
+    "impacto": 166,
     "url": "api/extensionistas/tatiane-policario-chagas.json"
-  },
-  {
-    "slug": "thais-goncalves-de-lima",
-    "nome": "Thais Gonçalves de Lima",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/thais-goncalves-de-lima.json"
   },
   {
     "slug": "thaissa-leslye-lourenco",
@@ -10227,6 +8421,22 @@
     "url": "api/extensionistas/thais-de-souza.json"
   },
   {
+    "slug": "thiago-almeida-deps-caldeira",
+    "nome": "Thiago Almeida Deps Caldeira",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/thiago-almeida-deps-caldeira.json"
+  },
+  {
     "slug": "thiago-augusto-de-carvalho",
     "nome": "Thiago Augusto de Carvalho",
     "funcoes": [
@@ -10238,10 +8448,10 @@
       "2024"
     ],
     "coordena": 0,
-    "equipe": 3,
+    "equipe": 2,
     "imp_coord": 0,
-    "imp_eq": 2,
-    "impacto": 2,
+    "imp_eq": 0,
+    "impacto": 0,
     "url": "api/extensionistas/thiago-augusto-de-carvalho.json"
   },
   {
@@ -10305,59 +8515,46 @@
       "2024"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
+    "imp_eq": 112,
+    "impacto": 112,
     "url": "api/extensionistas/thiago-henrique-ezequiel-dos-santos.json"
   },
   {
     "slug": "thiago-machado-oliveira",
     "nome": "Thiago Machado Oliveira",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "ALUNO(A) VOLUNTARIO",
+      "PROFESSOR(A)"
     ],
     "anos": [
-      "2018"
+      "2017",
+      "2018",
+      "2019"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 74,
-    "impacto": 74,
+    "imp_eq": 187,
+    "impacto": 187,
     "url": "api/extensionistas/thiago-machado-oliveira.json"
   },
   {
-    "slug": "thiago-ribeiro-da-silva",
-    "nome": "Thiago Ribeiro da Silva",
+    "slug": "thiago-meireles-paixao",
+    "nome": "Thiago Meireles Paixão",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "MEMBRO DE COMITÊ GESTOR"
     ],
     "anos": [
-      "2022"
+      "2024"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/thiago-ribeiro-da-silva.json"
-  },
-  {
-    "slug": "thiago-viguini-de-carvalho",
-    "nome": "Thiago Viguini de Carvalho",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/thiago-viguini-de-carvalho.json"
+    "imp_eq": 163,
+    "impacto": 163,
+    "url": "api/extensionistas/thiago-meireles-paixao.json"
   },
   {
     "slug": "thiago-da-costa-freitas",
@@ -10443,22 +8640,6 @@
     "url": "api/extensionistas/ursula-dart-bottrel-do-nascimento.json"
   },
   {
-    "slug": "vagner-menengussi",
-    "nome": "Vagner Menengussi",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/vagner-menengussi.json"
-  },
-  {
     "slug": "valeria-gabriel-estanislau",
     "nome": "Valéria Gabriel Estanislau",
     "funcoes": [
@@ -10477,38 +8658,6 @@
     "url": "api/extensionistas/valeria-gabriel-estanislau.json"
   },
   {
-    "slug": "vanessa-goncalves-toledo",
-    "nome": "Vanessa Gonçalves Toledo",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2022"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 11,
-    "impacto": 11,
-    "url": "api/extensionistas/vanessa-goncalves-toledo.json"
-  },
-  {
-    "slug": "vantuil-manoel-thebas",
-    "nome": "Vantuil Manoel Thebas",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/vantuil-manoel-thebas.json"
-  },
-  {
     "slug": "veronica-maia-viana-marcial",
     "nome": "Veronica Maia Viana Marcial",
     "funcoes": [
@@ -10523,22 +8672,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/veronica-maia-viana-marcial.json"
-  },
-  {
-    "slug": "victor-campelo-do-nascimento",
-    "nome": "Victor Campelo do Nascimento",
-    "funcoes": [
-      "EXTENSIONISTA"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/victor-campelo-do-nascimento.json"
   },
   {
     "slug": "victor-emerson-siqueira-de-souza",
@@ -10557,22 +8690,6 @@
     "url": "api/extensionistas/victor-emerson-siqueira-de-souza.json"
   },
   {
-    "slug": "victor-laurentino-subtil",
-    "nome": "Victor Laurentino Subtil",
-    "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2020"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/victor-laurentino-subtil.json"
-  },
-  {
     "slug": "victor-oliveira-santos",
     "nome": "Victor Oliveira Santos",
     "funcoes": [
@@ -10589,35 +8706,55 @@
     "url": "api/extensionistas/victor-oliveira-santos.json"
   },
   {
-    "slug": "victorio-albani-de-carvalho",
-    "nome": "Victorio Albani de Carvalho",
-    "funcoes": [],
-    "anos": [
-      "2021",
-      "2022"
-    ],
-    "coordena": 2,
-    "equipe": 0,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/victorio-albani-de-carvalho.json"
-  },
-  {
-    "slug": "vinicius-freitas-rocha",
-    "nome": "Vinicius Freitas Rocha",
+    "slug": "victor-ramos-dessaune",
+    "nome": "Victor Ramos Dessaune",
     "funcoes": [
-      "ALUNO(A) VOLUNTARIO"
+      "MONITOR(A)"
     ],
     "anos": [
-      "2019"
+      "2023"
     ],
     "coordena": 0,
     "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/vinicius-freitas-rocha.json"
+    "imp_eq": 34,
+    "impacto": 34,
+    "url": "api/extensionistas/victor-ramos-dessaune.json"
+  },
+  {
+    "slug": "victorio-albani-de-carvalho",
+    "nome": "Victorio Albani de Carvalho",
+    "funcoes": [
+      "COORDENADOR(A)",
+      "PROFESSOR(A)"
+    ],
+    "anos": [
+      "2016",
+      "2021",
+      "2022"
+    ],
+    "coordena": 3,
+    "equipe": 2,
+    "imp_coord": 17,
+    "imp_eq": 0,
+    "impacto": 17,
+    "url": "api/extensionistas/victorio-albani-de-carvalho.json"
+  },
+  {
+    "slug": "vinicius-kruger-da-costa",
+    "nome": "Vinicius Kruger da Costa",
+    "funcoes": [
+      "MENTOR(A)"
+    ],
+    "anos": [
+      "2016"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 53,
+    "impacto": 53,
+    "url": "api/extensionistas/vinicius-kruger-da-costa.json"
   },
   {
     "slug": "vinicius-prata-lima",
@@ -10682,23 +8819,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/vinicius-de-jesus-estevam.json"
-  },
-  {
-    "slug": "vitor-almeida-nascimento-lopes",
-    "nome": "Vitor Almeida Nascimento Lopes",
-    "funcoes": [
-      "ALUNO(A) BOLSISTA",
-      "ALUNO(A) VOLUNTARIO"
-    ],
-    "anos": [
-      "2020"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 1,
-    "impacto": 1,
-    "url": "api/extensionistas/vitor-almeida-nascimento-lopes.json"
   },
   {
     "slug": "vitor-faical-campana",
@@ -10770,19 +8890,33 @@
     "slug": "vitoria-loureiro-pimentel",
     "nome": "Vitória Loureiro Pimentel",
     "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
       "ALUNO(A) VOLUNTARIO"
     ],
     "anos": [
-      "2018",
-      "2023"
+      "2018"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 406,
-    "impacto": 406,
+    "imp_eq": 209,
+    "impacto": 209,
     "url": "api/extensionistas/vitoria-loureiro-pimentel.json"
+  },
+  {
+    "slug": "vitoria-maciel-de-carvalho",
+    "nome": "Vitória Maciel de Carvalho",
+    "funcoes": [
+      "ALUNO(A) VOLUNTARIO"
+    ],
+    "anos": [
+      "2019"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 5,
+    "impacto": 5,
+    "url": "api/extensionistas/vitoria-maciel-de-carvalho.json"
   },
   {
     "slug": "vivian-moreira-gomes-de-lacerda",
@@ -10818,41 +8952,23 @@
     "url": "api/extensionistas/viviane-azevedo-moura.json"
   },
   {
-    "slug": "viviane-fernandes-santos",
-    "nome": "Viviane Fernandes Santos",
-    "funcoes": [
-      "EXTENSIONISTA"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/viviane-fernandes-santos.json"
-  },
-  {
     "slug": "wagner-kirmse-caldas",
     "nome": "Wagner Kirmse Caldas",
     "funcoes": [
-      "COLABORADOR(A)",
       "COORDENADOR(A)",
       "ORIENTADOR(A)",
       "PROFESSOR(A)"
     ],
     "anos": [
-      "2016",
       "2018",
       "2019",
       "2020"
     ],
     "coordena": 2,
-    "equipe": 5,
+    "equipe": 4,
     "imp_coord": 885,
-    "imp_eq": 35,
-    "impacto": 920,
+    "imp_eq": 23,
+    "impacto": 908,
     "url": "api/extensionistas/wagner-kirmse-caldas.json"
   },
   {
@@ -10861,17 +8977,19 @@
     "funcoes": [
       "APOIO TÉCNICO",
       "ASSESSOR(A)",
-      "INSTRUTOR(A)"
+      "INSTRUTOR(A)",
+      "PALESTRANTE"
     ],
     "anos": [
+      "2018",
       "2019",
       "2020"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 95,
-    "impacto": 95,
+    "imp_eq": 112,
+    "impacto": 112,
     "url": "api/extensionistas/wagner-scopel-falcao.json"
   },
   {
@@ -10886,10 +9004,10 @@
       "2016"
     ],
     "coordena": 2,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 17,
-    "imp_eq": 15,
-    "impacto": 32,
+    "imp_eq": 18,
+    "impacto": 35,
     "url": "api/extensionistas/wagner-teixeira-da-costa.json"
   },
   {
@@ -10912,32 +9030,48 @@
     "slug": "walber-antonio-ramos-beltrame",
     "nome": "Walber Antonio Ramos Beltrame",
     "funcoes": [
+      "COORDENADOR(A) ADJUNTO(A)",
       "MENTOR(A)"
     ],
     "anos": [
-      "2015"
+      "2015",
+      "2016"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 2,
     "imp_coord": 0,
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/walber-antonio-ramos-beltrame.json"
   },
   {
+    "slug": "waleska-sulke-dos-santos",
+    "nome": "Waleska Sulke dos Santos",
+    "funcoes": [
+      "COLABORADOR(A)"
+    ],
+    "anos": [
+      "2024"
+    ],
+    "coordena": 0,
+    "equipe": 1,
+    "imp_coord": 0,
+    "imp_eq": 112,
+    "impacto": 112,
+    "url": "api/extensionistas/waleska-sulke-dos-santos.json"
+  },
+  {
     "slug": "wallas-gusmao-thomas",
     "nome": "Wallas Gusmão Thomas",
-    "funcoes": [
-      "COORDENADOR(A)"
-    ],
+    "funcoes": [],
     "anos": [
       "2016"
     ],
     "coordena": 1,
-    "equipe": 1,
-    "imp_coord": 124,
+    "equipe": 0,
+    "imp_coord": 0,
     "imp_eq": 0,
-    "impacto": 124,
+    "impacto": 0,
     "url": "api/extensionistas/wallas-gusmao-thomas.json"
   },
   {
@@ -10973,22 +9107,6 @@
     "url": "api/extensionistas/warleson-dos-santos-de-sales.json"
   },
   {
-    "slug": "weverton-gomes-da-silva",
-    "nome": "Weverton Gomes da Silva",
-    "funcoes": [
-      "EXPOSITOR(A)"
-    ],
-    "anos": [
-      "2018"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 0,
-    "impacto": 0,
-    "url": "api/extensionistas/weverton-gomes-da-silva.json"
-  },
-  {
     "slug": "wildemberg-de-jesus-oliveira",
     "nome": "Wildemberg de Jesus Oliveira",
     "funcoes": [
@@ -11003,22 +9121,6 @@
     "imp_eq": 0,
     "impacto": 0,
     "url": "api/extensionistas/wildemberg-de-jesus-oliveira.json"
-  },
-  {
-    "slug": "yago-medeiros-barbosa",
-    "nome": "Yago Medeiros Barbosa",
-    "funcoes": [
-      "ALUNO(A) EM ATIVIDADE CURRICULAR"
-    ],
-    "anos": [
-      "2023"
-    ],
-    "coordena": 0,
-    "equipe": 1,
-    "imp_coord": 0,
-    "imp_eq": 197,
-    "impacto": 197,
-    "url": "api/extensionistas/yago-medeiros-barbosa.json"
   },
   {
     "slug": "yago-souza-santos",
@@ -11073,34 +9175,35 @@
     "nome": "Yasmin Soares Cavatti",
     "funcoes": [
       "ALUNO(A) BOLSISTA",
-      "ALUNO(A) EM ATIVIDADE CURRICULAR",
       "MINISTRANTE"
     ],
     "anos": [
-      "2023",
       "2025"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 1,
     "imp_coord": 0,
-    "imp_eq": 213,
-    "impacto": 213,
+    "imp_eq": 16,
+    "impacto": 16,
     "url": "api/extensionistas/yasmin-soares-cavatti.json"
   },
   {
     "slug": "ellen-oliveira-silva-neves",
     "nome": "Éllen Oliveira Silva Neves",
     "funcoes": [
-      "ALUNO(A) BOLSISTA"
+      "ALUNO(A) BOLSISTA",
+      "ALUNO(A) VOLUNTARIO",
+      "MONITOR(A)"
     ],
     "anos": [
+      "2018",
       "2022"
     ],
     "coordena": 0,
-    "equipe": 1,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 7,
-    "impacto": 7,
+    "imp_eq": 35,
+    "impacto": 35,
     "url": "api/extensionistas/ellen-oliveira-silva-neves.json"
   },
   {
@@ -11109,17 +9212,19 @@
     "funcoes": [
       "ALUNO(A) BOLSISTA",
       "ALUNO(A) VOLUNTARIO",
+      "COLABORADOR(A)",
       "MINISTRANTE"
     ],
     "anos": [
       "2023",
+      "2024",
       "2025"
     ],
     "coordena": 0,
-    "equipe": 2,
+    "equipe": 3,
     "imp_coord": 0,
-    "imp_eq": 18,
-    "impacto": 18,
+    "imp_eq": 130,
+    "impacto": 130,
     "url": "api/extensionistas/icaro-lessa-secchin.json"
   }
 ]
