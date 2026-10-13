@@ -4,8 +4,9 @@ Para cada atividade da ação coleta:
   - Público-Alvo   (alunos atendidos)   -> gerenciar-publico-alvo.xhtml?atividade=<id>
   - Equipe Execução (equipe executora)  -> gerenciar-equipe-execucao.xhtml?atividade=<id>
 
-Exige login (credenciais em .env: USER / PASSWORD). O site mantém UMA sessão
-por usuário, então o fluxo é sequencial e reusa a mesma sessão.
+Exige login. As credenciais vêm de `.env` (USER/PASSWORD) ou, se ausentes, do
+Infisical em runtime — nunca persistidas. O site mantém UMA sessão por usuário,
+então o fluxo é sequencial e reusa a mesma sessão.
 
 ATENÇÃO: coleta dados pessoais (nome, CPF, e-mail). Mantenha o resultado local;
 `data/` já está no .gitignore.
@@ -14,12 +15,12 @@ ATENÇÃO: coleta dados pessoais (nome, CPF, e-mail). Mantenha o resultado local
 from __future__ import annotations
 
 import asyncio
-import os
 from pathlib import Path
 from urllib.parse import quote
 
 from playwright.async_api import Page, async_playwright
 
+from ..credentials import CredentialsError, resolve_credentials
 from .models import AcaoParticipacoes, AtividadeParticipacoes
 
 LOGIN_URL = "https://src.ifes.edu.br/src"
@@ -31,34 +32,24 @@ _TBL = "frmMain:dtblParticipacoes"
 
 # ------------------------------------------------------------------ credenciais
 def carregar_credenciais(env_path: str | Path = ".env") -> tuple[str, str]:
-    """Lê credenciais do arquivo .env (USER/PASSWORD) com fallback a SRC_USER/SRC_PASS.
+    """Obtém ``USER``/``PASSWORD`` do SRC para a coleta autenticada.
 
-    O arquivo .env tem precedência: no SO, `USER` já é uma variável de ambiente
-    (nome do usuário do sistema) e sombrearia o valor pretendido.
+    Ordem de resolução (nunca grava os valores em disco):
+
+    1. ``USER``/``PASSWORD`` do arquivo ``.env`` — com fallback a ``SRC_USER``/
+       ``SRC_PASS`` do ambiente. O arquivo tem precedência: no SO, ``USER`` já é
+       uma variável de ambiente (nome do usuário do sistema) e sombrearia o valor.
+    2. Se algum estiver ausente, busca ``src-user``/``src-password`` no Infisical
+       em runtime (Machine Identity / Universal Auth), apenas em memória.
+
+    Valores entre aspas no ``.env`` são interpretados: aspas simples são quase
+    literais (``#`` preservado); aspas duplas processam ``\\n``/``\\"``/``\\\\``.
     """
-    arquivo: dict[str, str] = {}
-    p = Path(env_path)
-    if p.exists():
-        for line in p.read_text(encoding="utf-8").splitlines():
-            line = line.strip()
-            if line and not line.startswith("#") and "=" in line:
-                k, v = line.split("=", 1)
-                arquivo[k.strip()] = v.strip()
-
-    def pega(*chaves: str) -> str | None:
-        for k in chaves:            # 1) arquivo .env (autoritativo)
-            if arquivo.get(k):
-                return arquivo[k]
-        for k in chaves:            # 2) ambiente, só chaves inequívocas SRC_*
-            if k.startswith("SRC_") and os.environ.get(k):
-                return os.environ[k]
-        return None
-
-    user = pega("USER", "SRC_USER")
-    senha = pega("PASSWORD", "SRC_PASS")
-    if not user or not senha:
-        raise RuntimeError("Credenciais ausentes: defina USER e PASSWORD no .env")
-    return user, senha
+    try:
+        credenciais = resolve_credentials(env_path)
+    except CredentialsError as exc:
+        raise RuntimeError(str(exc)) from exc
+    return credenciais.user, credenciais.password
 
 
 # ------------------------------------------------------------------ navegação
