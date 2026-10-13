@@ -51,7 +51,9 @@ def carregar_chave(env_path: str | Path = ".env") -> str:
             line = line.strip()
             if line and not line.startswith("#") and "=" in line:
                 k, v = line.split("=", 1)
-                arq[k.strip()] = v.strip()
+                k, v = k.strip(), v.strip()
+                v = v.split("#", 1)[0].strip()  # descarta comentário inline
+                arq[k] = v
     chave = (arq.get("MISTRAL_KEY") or arq.get("MISTRAL_API_KEY")
              or os.environ.get("MISTRAL_KEY") or os.environ.get("MISTRAL_API_KEY"))
     if not chave:

@@ -85,13 +85,50 @@ pip install "git+https://github.com/ifesserra-lab/src.git"
 playwright install chromium
 ```
 
-Para a etapa autenticada e o enriquecimento, crie um `.env` (nunca commitado):
+Para a etapa autenticada e o enriquecimento, crie um `.env` (nunca commitado) a partir do
+template `.env.example`:
+
+```bash
+cp .env.example .env
+```
 
 ```
 USER=seu_usuario_src
 PASSWORD=sua_senha_src
 MISTRAL_KEY=sua_chave_mistral     # opcional (enriquecimento de categorias)
 ```
+
+> Se `USER`/`PASSWORD` não estiverem no `.env`, o ETL busca as credenciais no Infisical em
+> runtime (sem gravá-las em disco) — veja [Credenciais (Infisical)](#credenciais-infisical).
+
+## Credenciais (Infisical)
+
+`USER`/`PASSWORD` são **opcionais** no `.env`. Na coleta autenticada (`src-etl-part`), a
+resolução segue esta ordem:
+
+1. `USER`/`PASSWORD` do `.env` (ou `SRC_USER`/`SRC_PASS` do ambiente) — usados **sem rede**.
+2. Se algum estiver ausente, `src-user`/`src-password` são lidos do Infisical
+   (Machine Identity / Universal Auth) **em memória**, apenas para a execução atual.
+
+Os valores vindos do Infisical **nunca** são gravados no `.env` nem em qualquer outro arquivo,
+cache ou log.
+
+Para o fallback em runtime, configure a identidade de máquina (ambiente **ou** `.env`):
+
+```bash
+export INFISICAL_CLIENT_ID=...       # obrigatória
+export INFISICAL_CLIENT_SECRET=...   # obrigatória
+export INFISICAL_PROJECT_ID=...      # obrigatória
+# opcionais:
+export INFISICAL_HOST=https://app.infisical.com
+export INFISICAL_ENV=dev
+export INFISICAL_SECRET_PATH=/
+```
+
+- Lê **somente** `src-user` → `USER` e `src-password` → `PASSWORD`; demais segredos são ignorados.
+- Saída mascarada por padrão; falhas transitórias (timeout/conexão/5xx) são repetidas com backoff
+  exponencial e erros permanentes (401/403/404, config ausente) falham na hora, com mensagem acionável.
+- Precedência das chaves de bootstrap: ambiente > `.env` > padrão.
 
 ## Passo a passo
 
